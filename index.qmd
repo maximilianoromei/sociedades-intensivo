@@ -1,0 +1,31 @@
+---
+title: "Sociedades Civiles y Comerciales"
+subtitle: "Curso de Invierno 2026 · Facultad de Derecho · UBA · Cátedra Favier Dubois"
+---
+
+::: {.hero}
+# Curso intensivo de Sociedades Civiles y Comerciales
+
+**Facultad de Derecho · Universidad de Buenos Aires**  
+**Cátedra Favier Dubois · Adjunto: Prof. Maximiliano Lucas Romei**  
+**Modalidad bimodal · 6 de julio al 7 de agosto de 2026**
+:::
+
+::: {.callout-warning}
+## Aviso importante
+
+Los días **jueves 9/7** y **viernes 10/7** son feriados. No habrá clases.  
+El cronograma fue reestructurado para conservar todos los contenidos centrales.
+:::
+
+## Acceso rápido
+
+<div class="card-grid">
+  <div class="card"><span class="badge">Inicio</span><h3>Bienvenida</h3><p>Presentación del curso y pautas de trabajo.</p><p><a href="bienvenida.html">Leer</a></p></div>
+  <div class="card"><span class="badge">Calendario</span><h3>Cronograma</h3><p>Fechas y temas reestructurados.</p><p><a href="cronograma.html">Ver cronograma</a></p></div>
+  <div class="card"><span class="badge">Semana 1</span><h3>Clases</h3><p><a href="clases/clase01.html">Clase 1</a> · <a href="clases/clase02.html">Clase 2</a> · <a href="clases/clase03.html">Clase 3</a></p></div>
+</div>
+
+## Enfoque
+
+Ley, doctrina, jurisprudencia y casos prácticos. El objetivo es preparar exámenes escritos y formar criterio jurídico societario.

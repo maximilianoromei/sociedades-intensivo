@@ -1,0 +1,23 @@
+---
+title: "Mensaje de bienvenida"
+---
+
+Estimadas y estimados estudiantes:
+
+Les doy la bienvenida al curso intensivo de **Sociedades Civiles y Comerciales** de la Facultad de Derecho de la Universidad de Buenos Aires, Cátedra Favier Dubois.
+
+La cursada será breve, exigente y acumulativa. En un mes trabajaremos los principales problemas del derecho societario argentino: concepto de sociedad, personalidad jurídica, constitución, socios, administración, contabilidad, nulidades, sociedades extranjeras, sociedades anónimas, SRL, grupos, SAS, responsabilidad penal y sociedades en insolvencia.
+
+## Cómo vamos a trabajar
+
+Cada clase combinará explicación normativa, doctrina de Vítolo y Nissen, aportes de Favier Dubois, jurisprudencia, casos prácticos y preguntas de examen.
+
+::: {.callout-important}
+## Feriados
+
+No habrá clases los días **jueves 9/7** y **viernes 10/7**. El cronograma fue reorganizado.
+:::
+
+Nos vemos en clase.
+
+**Prof. Maximiliano Lucas Romei**

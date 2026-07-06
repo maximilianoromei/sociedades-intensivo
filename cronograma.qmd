@@ -1,0 +1,61 @@
+---
+title: "Cronograma reestructurado"
+subtitle: "Curso intensivo · Sociedades Civiles y Comerciales · Invierno 2026"
+---
+
+::: {.callout-warning}
+## Reestructuración por feriados
+
+Los días **jueves 9/7** y **viernes 10/7** no hay clases.  
+Los contenidos originalmente previstos para esas fechas se integran en la clase del **miércoles 8/7** y se redistribuyen en el resto de la cursada.
+:::
+
+## Semana 1
+
+| Fecha | Modalidad | Actividad | Tema |
+|---|---:|---|---|
+| Lunes 06/07 | Virtual | Clase 1 | Las sociedades en el derecho argentino contemporáneo |
+| Martes 07/07 | Presencial | Clase 2 | Personalidad jurídica, tipicidad, clasificación y nacionalidad |
+| Miércoles 08/07 | Virtual | Clase 3 | Constitución de la sociedad, iter societatis y sociedades informales |
+| Jueves 09/07 | — | Feriado | No hay clase |
+| Viernes 10/07 | — | Feriado | No hay clase |
+
+## Semana 2
+
+| Fecha | Modalidad | Actividad | Tema |
+|---|---:|---|---|
+| Lunes 13/07 | Virtual | Clase 4 | El socio |
+| Martes 14/07 | Presencial | Clase 5 | Órganos sociales y administración |
+| Miércoles 15/07 | Virtual | Clase 6 | Contabilidad societaria |
+| Jueves 16/07 | Presencial | Clase 7 | Nulidades, disolución, liquidación y transformación |
+| Viernes 17/07 | Presencial | Clase 8 | Sociedades extranjeras y sociedades de personas |
+
+## Semana 3
+
+| Fecha | Modalidad | Actividad | Tema |
+|---|---:|---|---|
+| Lunes 20/07 | Virtual | Clase 9 | Sociedad anónima: constitución y capital |
+| Martes 21/07 | Presencial | Clase 10 | Sociedad anónima: accionista y acción |
+| Miércoles 22/07 | Presencial | Parcial 1 | Caso práctico integrador |
+| Jueves 23/07 | Presencial | Clase 11 | Sociedad anónima: asamblea de accionistas |
+| Viernes 24/07 | Presencial | Clase 12 | Sociedad anónima: directorio |
+
+## Semana 4
+
+| Fecha | Modalidad | Actividad | Tema |
+|---|---:|---|---|
+| Lunes 27/07 | Virtual | Clase 13 | Sociedad anónima: fiscalización privada y estatal |
+| Martes 28/07 | Presencial | Recuperatorio + Clase 14 | Recuperatorio parcial 1 / Sociedad de responsabilidad limitada |
+| Miércoles 29/07 | Virtual | Clase 15 | Otros tipos y formas societarias |
+| Jueves 30/07 | Presencial | Clase 16 | Grupos, reorganización societaria y contratos asociativos |
+| Viernes 31/07 | Presencial | Parcial 2 | Múltiple choice |
+
+## Semana 5
+
+| Fecha | Modalidad | Actividad | Tema |
+|---|---:|---|---|
+| Lunes 03/08 | Virtual | Clase 17 | SAS y régimen simplificado |
+| Martes 04/08 | Presencial | Clase 18 | Responsabilidad penal de las personas jurídicas |
+| Miércoles 05/08 | Virtual | Clase 19 | Sociedades en el proceso concursal |
+| Jueves 06/08 | Presencial | Clase 20 | Repaso integrador con resolución de casos |
+| Viernes 07/08 | Presencial | Examen final | Programa completo |

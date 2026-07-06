@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sociedades Civiles y Comerciales"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Bienvenida"
+        href: bienvenida.qmd
+      - text: "Cronograma"
+        href: cronograma.qmd
+      - text: "Bibliografía"
+        href: bibliografia.qmd
+      - text: "Clases"
+        menu:
+          - text: "Clase 1"
+            href: clases/clase01.qmd
+          - text: "Clase 2"
+            href: clases/clase02.qmd
+          - text: "Clase 3"
+            href: clases/clase03.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    lang: es
