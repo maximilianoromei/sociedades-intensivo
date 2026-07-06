@@ -20,6 +20,7 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 ## Acceso rápido
 
+::: {=html}
 <div class="card-grid">
 
   <div class="card">
@@ -57,8 +58,11 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
       </a>
     </p>
   </div>
+  
 
 </div>
+:::
+
 ## Enfoque
 
 Ley, doctrina, jurisprudencia y casos prácticos. El objetivo es preparar exámenes escritos y formar criterio jurídico societario.
