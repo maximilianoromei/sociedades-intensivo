@@ -1,0 +1,1716 @@
+---
+title: "Fallos fundamentales sobre personalidad jurídica"
+subtitle: "Parke Davis · Swift-Deltec · Palomeque"
+author: "Prof. Maximiliano Lucas Romei"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    scrollable: true
+    slide-level: 1
+    width: 960
+    height: 720
+    margin: 0.08
+    smaller: true
+    chalkboard: true
+---
+
+# Objetivos
+
+Al finalizar esta presentación el estudiante deberá poder:
+
+- comprender el origen jurisprudencial de la teoría de la inoponibilidad;
+- distinguir personalidad jurídica y realidad económica;
+- explicar la evolución entre Parke Davis, Swift y Palomeque;
+- interpretar el art. 54 LGS;
+- interpretar el art. 144 CCyC;
+- comprender cuándo corresponde correr el velo societario.
+
+---
+
+# Los tres grandes precedentes
+
+La evolución jurisprudencial argentina puede resumirse en tres grandes decisiones.
+
+1. **Parke Davis (1973).**
+2. **Swift-Deltec (1974).**
+3. **Palomeque (2003).**
+
+Cada una responde a una pregunta distinta.
+
+---
+
+# La evolución jurisprudencial
+
+```{mermaid}
+flowchart LR
+A["Parke Davis<br/>1973"] --> B["Swift-Deltec<br/>1974"]
+B --> C["Art. 54 LGS<br/>1983"]
+C --> D["Palomeque<br/>2003"]
+D --> E["Art. 144 CCyC<br/>2015"]
+```
+
+---
+
+# El problema común
+
+Los tres fallos parten de una misma pregunta.
+
+## ¿Puede invocarse siempre la personalidad jurídica?
+
+o
+
+## ¿Existen situaciones excepcionales en las cuales corresponde prescindir de ella?
+
+---
+
+# La personalidad jurídica
+
+Como regla:
+
+la sociedad constituye un sujeto distinto de sus socios.
+
+Consecuencias:
+
+- patrimonio propio;
+- nombre propio;
+- domicilio;
+- responsabilidad propia;
+- capacidad.
+
+---
+
+# La regla
+
+La personalidad jurídica constituye uno de los pilares del Derecho Societario.
+
+Sin personalidad diferenciada:
+
+- desaparecería la autonomía patrimonial;
+- desaparecería la limitación de responsabilidad;
+- desaparecería la organización societaria moderna.
+
+---
+
+# Entonces...
+
+¿Por qué aparecen estos tres fallos?
+
+Porque la personalidad jurídica puede ser utilizada correctamente...
+
+o abusivamente.
+
+---
+
+# El abuso
+
+La personalidad jurídica deja de cumplir su función cuando se transforma en:
+
+- un instrumento de fraude;
+- una pantalla;
+- un mecanismo para violar la ley;
+- un medio para perjudicar terceros.
+
+---
+
+# La gran discusión
+
+Dos principios aparecen en tensión.
+
+## Seguridad jurídica
+
+vs.
+
+## Justicia material
+
+Toda la evolución jurisprudencial gira alrededor de ese conflicto.
+
+---
+
+# Influencia norteamericana
+
+La doctrina argentina no nació aislada.
+
+Recibió una fuerte influencia del Derecho estadounidense.
+
+Especialmente de la teoría denominada:
+
+## Disregard of Legal Entity
+
+---
+
+# Disregard of Legal Entity
+
+Literalmente:
+
+> "Desconocimiento de la personalidad jurídica."
+
+Más correctamente:
+
+> Prescindencia del velo societario.
+
+No implica negar la existencia de la sociedad.
+
+Implica impedir que la personalidad sea utilizada abusivamente.
+
+---
+
+# Primer antecedente
+
+## Bank of the United States v. Deveaux
+
+1809
+
+La Corte norteamericana sostuvo que, en determinados casos, debía observarse quiénes eran realmente las personas que actuaban detrás de la corporación. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Segundo antecedente
+
+## Harris v. Youngstown Bridge Co.
+
+1898
+
+Surge la denominada
+
+## alter ego doctrine
+
+La sociedad controlada aparece como el "alter ego" de la controlante. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Recepción en Argentina
+
+La jurisprudencia argentina no copia literalmente la doctrina norteamericana.
+
+La adapta.
+
+Y el primer gran precedente es:
+
+# Parke Davis.
+
+---
+
+# Parke Davis
+
+## Corte Suprema de Justicia de la Nación
+
+31 de julio de 1973
+
+Uno de los fallos más influyentes de toda la historia del Derecho Societario argentino. :contentReference[oaicite:2]{index=2}
+
+---
+
+# ¿Por qué estudiar Parke Davis?
+
+Porque inaugura una manera distinta de observar la personalidad jurídica.
+
+La Corte deja de mirar únicamente las formas jurídicas.
+
+Comienza a analizar la realidad económica.
+
+---
+
+# Contexto histórico
+
+Década del 70.
+
+Expansión de las empresas multinacionales.
+
+Crecimiento de grupos societarios internacionales.
+
+Mayor utilización de subsidiarias nacionales.
+
+---
+
+# La empresa
+
+Parke Davis desarrollaba actividad farmacéutica.
+
+Su estructura societaria respondía a un típico grupo multinacional.
+
+---
+
+# La estructura del grupo
+
+```{mermaid}
+flowchart TD
+
+A["Parke Davis & Company<br>Estados Unidos"]
+
+B["99,95 % del capital"]
+
+C["Parke Davis Argentina"]
+
+A --> B
+B --> C
+```
+
+La sociedad estadounidense controlaba prácticamente la totalidad del capital social argentino. 
+
+---
+
+# El conflicto
+
+La sociedad argentina pagaba regalías a la casa matriz.
+
+Las regalías se deducían del impuesto.
+
+La DGI rechazó esa deducción.
+
+---
+
+# La operatoria
+
+Entre ambas sociedades existían contratos de licencia.
+
+La sociedad argentina abonaba regalías por:
+
+- utilización de patentes;
+- utilización de marcas;
+- transferencia de tecnología;
+- asistencia técnica.
+
+Estas regalías eran contabilizadas como gastos deducibles del impuesto a los réditos. 
+
+---
+
+# ¿Cuál era el beneficio fiscal?
+
+```{mermaid}
+flowchart TD
+
+A["Ingresos"]
+B["(-) Costos"]
+C["(-) Regalías"]
+D["Ganancia imponible"]
+E["Menor Impuesto"]
+
+A --> B
+B --> C
+C --> D
+D --> E
+```
+
+La discusión giró alrededor de la legitimidad de esa deducción.
+
+---
+
+# La posición de la DGI
+
+La Dirección General Impositiva sostuvo que:
+
+- las regalías no podían analizarse aisladamente;
+- debía observarse el funcionamiento del grupo empresario;
+- la personalidad jurídica no podía ocultar la verdadera realidad económica.
+
+---
+
+# La defensa de Parke Davis
+
+La empresa sostuvo que:
+
+- ambas sociedades tenían personalidad jurídica propia;
+- los contratos eran válidos;
+- las regalías respondían a prestaciones efectivamente realizadas;
+- las deducciones estaban autorizadas por la legislación tributaria.
+
+---
+
+# La verdadera discusión
+
+La Corte no debía decidir únicamente una cuestión tributaria.
+
+Debía resolver una cuestión mucho más profunda.
+
+## ¿Hasta dónde llega la autonomía de la personalidad jurídica?
+
+---
+
+# Pregunta central
+
+¿Puede una sociedad pagar regalías a otra sociedad cuando esta última controla prácticamente la totalidad de su capital?
+
+¿Existe verdadera independencia económica?
+
+---
+
+# El principio de realidad económica
+
+La Corte recuerda que el Derecho Tributario no puede quedar subordinado exclusivamente a las formas jurídicas.
+
+Debe atenderse al contenido económico real de la operación. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Texto del fallo
+
+> "...debe atenderse a la realidad económica de los actos, situaciones y relaciones, con prescindencia de las formas o estructuras jurídicas que puedan no corresponder a esa realidad."
+
+**CSJN – Parke Davis.** 
+
+---
+
+# Comentario
+
+Este párrafo constituye el verdadero eje del precedente.
+
+La Corte no desconoce la existencia de la personalidad jurídica.
+
+Lo que sostiene es que las formas jurídicas no pueden prevalecer cuando distorsionan la verdadera realidad económica.
+
+---
+
+# Un cambio metodológico
+
+Hasta entonces predominaba una interpretación predominantemente formal.
+
+Parke Davis inaugura una interpretación:
+
+- funcional;
+- económica;
+- material.
+
+---
+
+# El razonamiento de la Corte
+
+La sentencia observa que:
+
+- existe una sociedad controlante;
+- existe una sociedad controlada;
+- ambas integran un mismo proceso económico.
+
+Por ello la operación no puede analizarse como si involucrara sujetos completamente independientes.
+
+---
+
+# El control accionario
+
+El dato decisivo fue el porcentaje de participación.
+
+La sociedad estadounidense poseía aproximadamente el **99,95 %** del capital de la filial argentina. 
+---
+
+# ¿Por qué es importante ese dato?
+
+Porque demuestra:
+
+- dirección económica única;
+- ausencia de verdadera independencia;
+- subordinación de la filial.
+
+---
+
+# Personalidad jurídica
+
+La Corte jamás afirma que la sociedad argentina carezca de personalidad jurídica.
+
+Por el contrario,
+
+reconoce su existencia.
+
+---
+
+# Entonces...
+
+¿Qué hace realmente la Corte?
+
+No elimina la personalidad.
+
+Analiza si esa personalidad alcanza para explicar adecuadamente la realidad económica.
+
+---
+
+# Segunda cita fundamental
+
+> "...las formas jurídicas adoptadas no pueden impedir el conocimiento de la verdadera naturaleza económica de las operaciones."
+
+**CSJN – Parke Davis.** 
+
+---
+
+# Explicación
+
+Las sociedades siguen existiendo.
+
+Los contratos siguen existiendo.
+
+Pero el juez puede preguntarse:
+
+¿reflejan verdaderamente la realidad económica?
+
+---
+
+# La unidad económica
+
+La Corte entiende que existe una unidad económica.
+
+No observa dos centros independientes de decisión.
+
+Observa un único interés económico organizado mediante distintas personas jurídicas.
+
+---
+
+# ¿Corre el velo societario?
+
+Esta pregunta genera una intensa discusión doctrinaria.
+
+---
+
+# Primera postura
+
+Parke Davis constituye el primer caso argentino de desestimación de la personalidad jurídica.
+
+---
+
+# Segunda postura
+
+La Corte no corre el velo.
+
+Simplemente aplica el principio tributario de realidad económica.
+
+---
+
+
+
+**Desde el punto de vista formal**, la Corte aplica el principio tributario de la realidad económica previsto en la Ley 11.683.
+
+**Desde el punto de vista material**, el razonamiento utilizado anticipa claramente la doctrina que años más tarde inspirará la desestimación de la personalidad jurídica, desarrollada en *Swift-Deltec* y finalmente receptada en el art. 54 de la Ley General de Sociedades.
+
+Por ello, **Parke Davis no aplica todavía el art. 54 LGS (que aún no existía), pero sí constituye uno de sus antecedentes jurisprudenciales más relevantes.**
+
+---
+
+# Importancia histórica
+
+Por ello la doctrina considera a Parke Davis el gran antecedente de:
+
+- Swift-Deltec;
+- art. 54 LGS;
+- art. 144 CCyC.
+
+---
+
+# El mensaje del fallo
+
+La personalidad jurídica merece tutela.
+
+Pero no puede convertirse en una barrera infranqueable para alcanzar soluciones manifiestamente injustas.
+
+---
+
+# Esquema conceptual
+
+```{mermaid}
+flowchart LR
+
+A["Personalidad jurídica"]
+
+B["Realidad económica"]
+
+C["Control societario"]
+
+D["Decisión de la Corte"]
+
+A --> D
+B --> D
+C --> D
+```
+
+---
+
+# Primera enseñanza
+
+La personalidad jurídica es la regla.
+
+La realidad económica constituye el criterio interpretativo que permite evitar el abuso de las formas jurídicas.
+
+---
+
+# ¿Qué NO dijo la Corte?
+
+Es importante advertir aquello que el fallo no sostiene.
+
+La Corte:
+
+- no declara inexistente a la sociedad;
+- no desconoce su personalidad jurídica;
+- no anula los contratos celebrados;
+- no elimina la separación patrimonial.
+
+---
+
+# Lo que realmente sostuvo
+
+La Corte afirmó que:
+
+> la personalidad jurídica no puede impedir que el juez examine la verdadera realidad económica de una operación.
+
+Ese examen puede conducir a soluciones distintas de las que surgirían de una interpretación puramente formal.
+
+---
+
+# Realidad económica
+
+## ¿Qué significa?
+
+No significa ignorar el Derecho.
+
+Significa interpretar la norma teniendo en cuenta:
+
+- quién obtiene realmente el beneficio;
+- quién soporta verdaderamente el riesgo;
+- quién adopta las decisiones económicas.
+
+---
+
+# La subordinación económica
+
+La filial argentina desarrollaba actividad propia.
+
+Sin embargo,
+
+sus decisiones estratégicas se encontraban condicionadas por la sociedad controlante.
+
+La Corte atribuye especial importancia a esa circunstancia. 
+---
+
+# Control y dependencia
+
+No todo control societario elimina la autonomía jurídica.
+
+Pero cuanto mayor sea el control,
+
+más intensamente deberá analizarse la verdadera independencia económica.
+
+---
+
+# Dos planos distintos
+
+## Plano jurídico
+
+Existen dos personas jurídicas.
+
+## Plano económico
+
+Existe una dirección económica común.
+
+Parke Davis enseña que ambos planos no siempre coinciden.
+
+---
+
+# Primer aporte del fallo
+
+La personalidad jurídica deja de ser considerada un dogma absoluto.
+
+Pasa a concebirse como una técnica jurídica al servicio de determinados fines.
+
+---
+
+# Segundo aporte
+
+Las estructuras societarias pueden ser analizadas críticamente por los tribunales.
+
+No basta invocar una forma legalmente válida.
+
+Debe verificarse que esa forma responda a una finalidad legítima.
+
+---
+
+# Tercer aporte
+
+La Corte incorpora al análisis societario una dimensión económica.
+
+El juez deja de observar únicamente:
+
+- contratos;
+- estatutos;
+- personerías.
+
+También observa:
+
+- funcionamiento;
+- control;
+- dependencia;
+- finalidad económica.
+
+---
+
+# La doctrina posterior
+
+Gran parte de la doctrina considera que Parke Davis inaugura el tránsito desde una visión estrictamente formal hacia una concepción funcional de la personalidad jurídica.
+
+---
+
+# Influencia doctrinaria
+
+Después de Parke Davis comienza a utilizarse con mayor frecuencia la expresión:
+
+## "penetración del velo societario"
+
+aunque esa expresión no aparece literalmente en el fallo.
+
+---
+
+# ¿Qué es el velo societario?
+
+Es una metáfora.
+
+La personalidad jurídica funciona como un "velo" que separa:
+
+- sociedad;
+- socios;
+- controlantes.
+
+En situaciones excepcionales,
+
+el juez puede "correr" ese velo para conocer quién actúa realmente detrás de la persona jurídica.
+
+---
+
+# ¿Siempre puede correrse?
+
+No.
+
+Precisamente la evolución posterior de la jurisprudencia demuestra que se trata de un remedio extraordinario.
+
+---
+
+# Evolución posterior
+
+```
+Parke Davis
+        │
+        ▼
+Swift-Deltec
+        │
+        ▼
+Art. 54 LGS
+        │
+        ▼
+Palomeque
+        │
+        ▼
+Art. 144 CCyC
+```
+
+---
+
+# Del precedente a la ley
+
+Diez años después del fallo Parke Davis,
+
+la Ley 22.903 incorporó el actual tercer párrafo del artículo 54 de la Ley de Sociedades.
+
+No reprodujo literalmente el fallo,
+
+pero recogió su filosofía.
+
+---
+
+# Artículo 54 LGS
+
+La actuación de la sociedad que:
+
+- encubra fines extrasocietarios;
+- constituya un recurso para violar la ley;
+- viole el orden público;
+- viole la buena fe;
+- frustre derechos de terceros,
+
+permitirá imputar directamente las consecuencias a quienes hicieron posible ese accionar.
+
+---
+
+# Diferencia importante
+
+## Parke Davis
+
+Realidad económica.
+
+## Artículo 54
+
+Fraude societario.
+
+No son conceptos idénticos.
+
+---
+
+# ¿Por qué importa esta diferencia?
+
+Porque toda actuación económicamente unitaria
+
+NO constituye fraude.
+
+La utilización de grupos empresarios es perfectamente lícita.
+
+Lo ilícito aparece cuando la personalidad jurídica se utiliza abusivamente.
+
+---
+
+# Pregunta de examen
+
+¿Puede afirmarse que todo grupo económico autoriza la desestimación de la personalidad jurídica?
+
+## Respuesta
+
+No.
+
+El grupo económico constituye un dato relevante,
+
+pero resulta insuficiente por sí solo.
+
+Será necesario acreditar los presupuestos exigidos por la ley.
+
+---
+
+# Críticas doctrinarias
+
+Parte de la doctrina entendió que Parke Davis podía generar inseguridad jurídica.
+
+El excesivo recurso a la realidad económica podría afectar:
+
+- la autonomía patrimonial;
+- la previsibilidad;
+- la estabilidad de las sociedades.
+
+---
+
+# Defensa del precedente
+
+Otra parte de la doctrina sostuvo exactamente lo contrario.
+
+La personalidad jurídica no puede transformarse en un instrumento para obtener ventajas incompatibles con la finalidad de la ley.
+
+---
+
+# Enseñanza principal
+
+Parke Davis no destruye la personalidad jurídica.
+
+La fortalece.
+
+Porque demuestra que el ordenamiento protege a las sociedades legítimas,
+
+pero no tolera su utilización abusiva.
+
+---
+
+# Síntesis
+
+Parke Davis enseña cinco ideas fundamentales.
+
+1. La personalidad jurídica constituye la regla.
+2. Las formas jurídicas no son absolutas.
+3. Debe atenderse a la realidad económica.
+4. El control societario puede resultar jurídicamente relevante.
+5. El precedente constituye el punto de partida de toda la evolución posterior sobre la inoponibilidad.
+
+---
+
+# Fin de la primera parte
+
+## A continuación:
+
+# Swift-Deltec
+
+Del principio de realidad económica...
+
+a la verdadera doctrina argentina sobre la inoponibilidad de la personalidad jurídica.
+
+---
+
+# Segunda Parte
+
+# Swift-Deltec
+
+## CSJN — 1974
+
+El verdadero nacimiento de la doctrina argentina sobre la inoponibilidad de la personalidad jurídica.
+
+---
+
+# ¿Por qué estudiar Swift?
+
+Si Parke Davis introdujo el principio de realidad económica,
+
+Swift transformó esa idea en un verdadero instrumento de tutela de los acreedores.
+
+Es probablemente el precedente más importante del Derecho Societario argentino en materia de desestimación de la personalidad jurídica. 
+
+---
+
+# El contexto
+
+A fines de la década de 1960 la empresa
+
+## Compañía Swift de La Plata S.A.
+
+atravesaba una profunda crisis económica.
+
+Finalmente solicitó la apertura de su concurso preventivo. 
+
+---
+
+# El grupo empresario
+
+Swift Argentina no actuaba aisladamente.
+
+Integraba un grupo multinacional.
+
+La sociedad controlante era
+
+## Deltec International.
+
+---
+
+# La estructura
+
+```{mermaid}
+flowchart TD
+
+A["Deltec International"]
+
+B["Control accionario"]
+
+C["Swift de La Plata"]
+
+A --> B
+B --> C
+```
+
+---
+
+# El concurso
+
+Durante el trámite concursal ocurrió un hecho llamativo.
+
+La propia sociedad controlante
+
+se presentó como acreedora de Swift.
+
+Solicitó verificar un crédito de importante magnitud. 
+---
+
+# ¿Qué implicaba esa verificación?
+
+No era solamente una cuestión de cobro.
+
+En el concurso preventivo
+
+quien verifica un crédito
+
+puede participar en la formación de las mayorías.
+
+---
+
+# Entonces...
+
+Si Deltec verificaba su crédito,
+
+podía votar.
+
+Y si votaba,
+
+podía influir decisivamente sobre la aprobación del acuerdo preventivo.
+
+---
+
+# El problema
+
+¿Puede una sociedad controlar a otra...
+
+y al mismo tiempo presentarse como acreedora para votar en su concurso?
+
+---
+
+# La cuestión jurídica
+
+La discusión dejó de ser exclusivamente concursal.
+
+Pasó a ser una cuestión de Derecho Societario.
+
+¿Existían realmente dos sujetos independientes?
+
+¿O una única realidad económica?
+
+---
+
+# La sospecha del Tribunal
+
+Los jueces advirtieron que,
+
+si se admitía la verificación,
+
+el grupo empresario terminaría decidiendo el resultado del concurso.
+
+Ello perjudicaba directamente a los acreedores externos.
+
+---
+
+# El fraude
+
+El verdadero fraude no consistía solamente en presentar un crédito.
+
+Consistía en utilizar la estructura del grupo societario para controlar el procedimiento concursal.
+
+---
+
+# Texto del trabajo doctrinario
+
+> "...Swift era sólo una empresa subsidiaria de Deltec, quien era titular del paquete accionario mayoritario..."
+
+
+---
+
+# Comentario
+
+No bastaba observar la personalidad jurídica.
+
+Era necesario analizar
+
+quién ejercía realmente el control económico.
+
+---
+
+# Texto
+
+> "...Swift y Deltec eran la misma persona..."
+
+
+
+---
+
+# ¿Qué significa esa expresión?
+
+Naturalmente,
+
+la Corte no sostuvo que jurídicamente fueran idénticas.
+
+Lo que afirmó es que,
+
+desde el punto de vista económico,
+
+actuaban como una sola organización.
+
+---
+
+# La decisión
+
+La Justicia rechazó la verificación del crédito.
+
+Consecuentemente,
+
+Deltec no pudo integrar las mayorías concursales.
+
+---
+
+# Resultado
+
+Tampoco fue homologado el acuerdo preventivo.
+
+Finalmente,
+
+se decretó la quiebra de Swift. 
+
+---
+
+# La doctrina Swift
+
+Swift inaugura una idea fundamental.
+
+Los grupos económicos
+
+no pueden utilizar la personalidad jurídica
+
+para manipular los procedimientos concursales.
+
+---
+
+# Texto doctrinario
+
+> "...la totalidad del conjunto económico tiene que responder por las deudas de cada uno de sus segmentos..."
+
+
+
+---
+
+# Explicación
+
+No significa que
+
+todo grupo económico responda automáticamente.
+
+Significa que,
+
+cuando la personalidad jurídica es utilizada fraudulentamente,
+
+la separación patrimonial deja de ser oponible.
+
+---
+
+# La metáfora utilizada por Lozada
+
+El juez Salvador María Lozada explicó la situación mediante un ejemplo.
+
+---
+
+# Texto
+
+> "...es como si una persona dijera que no pagará sus deudas porque su brazo o su cabeza son acreedores de ella misma..."
+
+
+
+---
+
+# Comentario
+
+Es probablemente la explicación más conocida del fallo.
+
+Resume perfectamente la idea de unidad económica.
+
+---
+
+# Diferencia con Parke Davis
+
+## Parke Davis
+
+Realidad económica.
+
+## Swift
+
+Fraude mediante utilización de la personalidad jurídica.
+
+---
+
+# Un paso más
+
+Swift ya no se limita a interpretar económicamente.
+
+Comienza a construir
+
+la verdadera doctrina argentina del levantamiento del velo societario.
+
+---
+
+# Influencia legislativa
+
+La enorme repercusión del caso motivó que,
+
+años después,
+
+el legislador incorporara expresamente
+
+el tercer párrafo del artículo 54 de la Ley 19.550.
+
+---
+
+# Artículo 54 LGS
+
+La actuación de la sociedad que:
+
+- encubra fines extrasocietarios;
+- constituya un recurso para violar la ley;
+- viole el orden público;
+- viole la buena fe;
+- frustre derechos de terceros,
+
+habilita la imputación directa a socios y controlantes.
+
+---
+
+# ¿Qué tomó el legislador de Swift?
+
+Principalmente esta idea.
+
+La personalidad jurídica
+
+no puede convertirse
+
+en un instrumento para defraudar acreedores.
+
+---
+
+# Enseñanza central
+
+Swift no elimina la personalidad jurídica.
+
+Sanciona
+
+el uso abusivo de esa personalidad.
+
+---
+
+# Comparación
+
+| Parke Davis | Swift |
+|-------------|-------|
+| Realidad económica | Fraude |
+| Tributario | Concursal |
+| Interpretación | Inoponibilidad |
+| Antecedente | Desarrollo |
+
+---
+
+# Transición
+
+Sin embargo,
+
+la evolución jurisprudencial no terminó allí.
+
+Décadas después,
+
+la Corte Suprema fijó un límite muy importante.
+
+Ese precedente fue
+
+# Palomeque.
+
+---
+
+# Tercera Parte
+
+# Palomeque
+
+## CSJN
+
+El límite de la doctrina de la inoponibilidad.
+
+---
+
+# ¿Por qué es tan importante Palomeque?
+
+Después de Parke Davis y Swift comenzó a extenderse una idea.
+
+> Siempre que una sociedad incumple una obligación, corresponde correr el velo societario.
+
+La Corte Suprema respondió:
+
+## No.
+
+---
+
+# El contexto
+
+La causa se originó en un conflicto laboral.
+
+El trabajador pretendía que la condena no alcanzara únicamente a la sociedad empleadora.
+
+Solicitó también la responsabilidad personal de quienes integraban la sociedad.
+
+
+---
+
+# La pretensión
+
+El actor sostuvo que correspondía aplicar:
+
+- el artículo 54 LGS;
+- la doctrina del levantamiento del velo.
+
+De ese modo buscaba ejecutar el patrimonio personal de los socios.
+
+---
+
+# La pregunta jurídica
+
+¿Todo incumplimiento laboral permite prescindir de la personalidad jurídica?
+
+---
+
+# La respuesta de la Corte
+
+## No.
+
+La personalidad jurídica continúa siendo la regla.
+
+La desestimación constituye una excepción.
+
+---
+
+# Primer fundamento
+
+La Corte recuerda que
+
+la sociedad constituye un sujeto de derecho diferente de sus socios.
+
+No pueden confundirse ambos patrimonios.
+
+
+
+---
+
+# Texto del precedente
+
+> "...no debe confundirse la personalidad de los socios y administradores con la de la sociedad..."
+
+
+
+---
+
+# Comentario
+
+Este párrafo recupera uno de los principios fundamentales del Derecho Societario.
+
+La existencia de una deuda social
+
+no transforma automáticamente esa deuda
+
+en una obligación personal de los socios.
+
+---
+
+# Segunda idea
+
+La responsabilidad personal
+
+no nace por el simple hecho de integrar una sociedad.
+
+Debe acreditarse algo más.
+
+---
+
+# ¿Qué exige la Corte?
+
+La utilización abusiva de la personalidad jurídica.
+
+No basta:
+
+- insolvencia;
+- incumplimiento;
+- falta de pago.
+
+---
+
+# Texto
+
+> "...la figura societaria ha sido utilizada como mero instrumento para la consecución de finalidades extrasocietarias..."
+
+
+
+---
+
+# Continúa el fallo
+
+> "...o como mero recurso para violar la ley o el orden público o frustrar derechos de terceros."
+
+
+
+---
+
+# Los requisitos
+
+La Corte exige acreditar:
+
+- utilización instrumental de la sociedad;
+- finalidad extrasocietaria;
+- fraude;
+- violación de la ley;
+- frustración de derechos.
+
+No basta el simple incumplimiento contractual.
+
+---
+
+# El verdadero mensaje
+
+Palomeque no restringe el artículo 54.
+
+Lo interpreta.
+
+Recuerda que se trata de un remedio
+
+absolutamente excepcional.
+
+---
+
+# Error frecuente
+
+Muchos operadores jurídicos sostenían:
+
+```
+Hay deuda
+↓
+
+Corre el velo
+```
+
+Palomeque rechaza ese razonamiento.
+
+---
+
+# El esquema correcto
+
+```
+Hay deuda
+↓
+
+¿Existe fraude?
+
+↓
+
+SI
+↓
+
+Art. 54
+
+↓
+
+NO
+
+↓
+
+Se mantiene la personalidad jurídica.
+```
+
+---
+
+# El fraude
+
+La Corte exige algo cualitativamente distinto.
+
+Debe demostrarse que la sociedad fue utilizada:
+
+- como pantalla;
+- como instrumento;
+- como recurso fraudulento.
+
+---
+
+# Protección del tráfico
+
+¿Por qué tanta prudencia?
+
+Porque la personalidad jurídica protege:
+
+- inversiones;
+- crédito;
+- seguridad jurídica;
+- previsibilidad.
+
+---
+
+# El riesgo contrario
+
+Si cualquier incumplimiento permitiera demandar a los socios,
+
+desaparecería prácticamente la autonomía patrimonial.
+
+---
+
+# La función del artículo 54
+
+No fue pensado para sancionar todo incumplimiento.
+
+Fue pensado para sancionar
+
+el abuso de la personalidad jurídica.
+
+---
+
+# Comparación
+
+## Swift
+
+Existe fraude.
+
+↓
+
+Se corre el velo.
+
+---
+
+## Palomeque
+
+No se acredita fraude.
+
+↓
+
+La personalidad permanece incólume.
+
+---
+
+# El equilibrio
+
+Parke Davis enseña
+
+que las formas jurídicas no son absolutas.
+
+Swift enseña
+
+que el fraude no merece protección.
+
+Palomeque enseña
+
+que tampoco puede destruirse la personalidad jurídica sin prueba suficiente.
+
+---
+
+# La evolución completa
+
+```{mermaid}
+flowchart LR
+
+A["Parke Davis<br/>Realidad económica"]
+
+B["Swift<br/>Fraude"]
+
+C["Art.54 LGS"]
+
+D["Palomeque<br/>Aplicación restrictiva"]
+
+E["Art.144 CCyC"]
+
+A --> B --> C --> D --> E
+```
+
+---
+
+# Artículo 144 CCyC
+
+El Código Civil y Comercial generalizó la solución.
+
+Ya no se aplica únicamente a sociedades.
+
+Comprende a todas las personas jurídicas privadas.
+
+---
+
+# Requisitos del artículo 144
+
+La actuación debe:
+
+- perseguir fines ajenos;
+- violar la ley;
+- violar el orden público;
+- violar la buena fe;
+- frustrar derechos.
+
+La consecuencia será la imputación directa a quienes hicieron posible ese accionar.
+
+---
+
+# ¿Qué cambia respecto del artículo 54?
+
+El fundamento permanece.
+
+Lo que cambia
+
+es el ámbito de aplicación.
+
+El artículo 144 alcanza a todas las personas jurídicas privadas.
+
+---
+
+# Cuadro comparativo
+
+| Parke Davis | Swift | Palomeque |
+|--------------|--------|-----------|
+| Tributario | Concursal | Laboral |
+| Realidad económica | Fraude societario | Excepcionalidad |
+| Grupo empresario | Grupo empresario | Responsabilidad de socios |
+| Antecedente | Desarrollo | Límite |
+
+---
+
+# La construcción jurisprudencial
+
+No son fallos contradictorios.
+
+Son etapas de una misma evolución.
+
+Cada uno responde una pregunta distinta.
+
+---
+
+# Cinco ideas para recordar
+
+1. La personalidad jurídica constituye la regla.
+2. La realidad económica importa.
+3. El fraude no merece tutela.
+4. La inoponibilidad es excepcional.
+5. El artículo 144 CCyC amplía el instituto a todas las personas jurídicas.
+
+---
+
+# Pregunta de examen
+
+## ¿Qué aporte realiza cada fallo?
+
+**Parke Davis**
+
+Introduce el principio de realidad económica.
+
+**Swift**
+
+Construye la doctrina argentina de la inoponibilidad.
+
+**Palomeque**
+
+Fija los límites de aplicación del artículo 54.
+
+---
+
+# Conclusión final
+
+La evolución jurisprudencial argentina demuestra que la personalidad jurídica constituye uno de los pilares del Derecho Privado.
+
+Sin embargo,
+
+cuando esa personalidad es utilizada como un instrumento para violar la ley, defraudar acreedores o frustrar derechos,
+
+el ordenamiento permite prescindir excepcionalmente de ella.
+
+Ese recorrido comienza con **Parke Davis**, se consolida con **Swift** y encuentra su límite en **Palomeque**.
+
+---
+
+# Jurisprudencia
+
+# Boskoop S.A. s/ quiebra s/ incidente de apelación
+
+**CNCom., Sala A, 18 de abril de 2006**
+
+---
+
+# Tema
+
+- Sociedades constituidas en el extranjero.
+- Artículos 118 y 124 de la Ley General de Sociedades.
+- Fraude a la ley.
+- Competencia concursal.
+
+---
+
+# Contexto
+
+Boskoop S.A. era una sociedad constituida en la República Oriental del Uruguay.
+
+Frente a un pedido de quiebra promovido en la República Argentina, la sociedad opuso excepción de incompetencia y sostuvo que, por haber sido constituida en Uruguay, debía intervenir la jurisdicción de ese país.
+
+---
+
+# Planteo de la sociedad
+
+Boskoop sostuvo que:
+
+- había sido válidamente constituida en Uruguay;
+- tenía domicilio en ese país;
+- no correspondía la competencia de los tribunales argentinos;
+- su actuación en Argentina no justificaba la aplicación del derecho societario argentino.
+
+---
+
+# La controversia
+
+El tribunal debía determinar si Boskoop era:
+
+- una verdadera sociedad constituida en el extranjero comprendida en el artículo 118 LGS;
+
+o bien,
+
+- una sociedad alcanzada por el supuesto excepcional previsto en el artículo 124 LGS.
+
+---
+
+# Hechos relevantes
+
+La Cámara verificó que:
+
+- Boskoop no acreditó desarrollar actividad económica efectiva en Uruguay;
+- su principal activo era un inmueble ubicado en la Ciudad Autónoma de Buenos Aires;
+- dicho inmueble era explotado comercialmente en Argentina como playa de estacionamiento y garaje.
+
+---
+
+# La cuestión jurídica
+
+¿Basta el lugar de constitución para considerar extranjera a una sociedad?
+
+La Cámara respondió que no.
+
+Además del lugar de constitución debía analizarse la realidad de su funcionamiento.
+
+---
+
+# Fundamentos
+
+El tribunal sostuvo que debía atenderse especialmente a:
+
+- la sede efectiva de la sociedad;
+- el lugar donde desarrollaba su actividad principal;
+- la finalidad perseguida por la constitución en el extranjero.
+
+La realidad económica prevalecía sobre el mero dato formal de la constitución.
+
+---
+
+# Aplicación del artículo 124 LGS
+
+La Cámara entendió que Boskoop encuadraba en el supuesto previsto por el artículo 124 de la Ley General de Sociedades.
+
+En consecuencia,
+
+debía ser considerada **sociedad local a los efectos del cumplimiento de las formalidades de constitución, de su reforma y del contralor de funcionamiento**, conforme al régimen previsto por la Ley General de Sociedades.
+
+---
+
+# Consecuencia
+
+El tribunal concluyó que el caso no quedaba comprendido en el régimen general del artículo 118 LGS.
+
+Al resultar aplicable el artículo 124, la sociedad debía someterse al régimen previsto para las sociedades locales.
+
+En consecuencia,
+
+la quiebra debía tramitar ante la jurisdicción argentina.
+
+---
+
+# Doctrina del fallo
+
+La doctrina considera que el artículo 124 constituye un mecanismo destinado a evitar el fraude a la ley mediante la utilización instrumental de sociedades constituidas en el extranjero.
+
+No basta la constitución formal fuera del país.
+
+Debe analizarse dónde funciona realmente la sociedad.
+
+---
+
+# Artículo 118 vs. Artículo 124
+
+| Artículo 118 LGS | Artículo 124 LGS |
+|------------------|------------------|
+| Sociedad verdaderamente constituida y organizada en el extranjero | Sociedad constituida en el extranjero cuya sede o principal objeto se encuentra en la República |
+| Reconoce su actuación en Argentina | Somete a la sociedad al régimen previsto para las sociedades locales |
+| Regla general | Excepción |
+
+---
+
+# Enseñanza del precedente
+
+Boskoop demuestra que la constitución en el extranjero no resulta suficiente para excluir la aplicación del derecho societario argentino.
+
+Cuando la sede efectiva o el principal objeto de la sociedad se encuentran en la República,
+
+resulta aplicable el artículo 124 de la Ley General de Sociedades.
+
+---
+
+# Importancia
+
+Boskoop constituye uno de los principales precedentes sobre la aplicación práctica del artículo 124 LGS.
+
+El fallo reafirma que la realidad económica prevalece sobre la mera apariencia formal cuando se pretende utilizar una sociedad extranjera para desarrollar exclusivamente actividad en Argentina.
+
+---
+
+# Idea central
+
+> **El artículo 118 facilita la actuación en Argentina de las verdaderas sociedades extranjeras.**
+
+> **El artículo 124 impide que la constitución formal en el extranjero sea utilizada para eludir la aplicación del derecho societario argentino cuando la sociedad desarrolla en la República su sede efectiva o su principal objeto.**

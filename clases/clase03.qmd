@@ -22,6 +22,7 @@ lang: es
 
 # Clase 3 — Constitución, iter societatis y sociedades informales
 
+<!--
 ## Ejes
 
 - contrato
@@ -3127,3 +3128,4 @@ No responder con definiciones aisladas. Construir una respuesta argumental.
 ## Próxima clase
 
 Continuaremos con el siguiente bloque del programa.
+-->

@@ -22,6 +22,7 @@ lang: es
 
 # Clase 2 — Personalidad jurídica, tipicidad, clasificación y nacionalidad
 
+<!--
 ## Ejes
 
 - personalidad jurídica
@@ -3048,3 +3049,4 @@ No responder con definiciones aisladas. Construir una respuesta argumental.
 ## Próxima clase
 
 Continuaremos con el siguiente bloque del programa.
+-->

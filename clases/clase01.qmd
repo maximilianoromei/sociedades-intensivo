@@ -907,6 +907,15 @@ La tipicidad permite conocer anticipadamente:
 La reforma flexibilizó parcialmente el principio de tipicidad.
 
 No obstante, éste continúa siendo un eje del sistema.
+        La reforma no eliminó el principio de tipicidad.
+
+Los tipos sociales previstos por la LGS continúan siendo de número cerrado.
+
+Sin embargo,
+
+la Ley 26.994 modificó profundamente las consecuencias derivadas de la falta de adecuación a un tipo legal.
+
+La creación del régimen de la Sección IV sustituyó el antiguo sistema sancionatorio por un régimen más flexible para las sociedades no constituidas conforme a los tipos previstos por la ley.
 
 ---
 
@@ -935,15 +944,6 @@ Se distinguen:
 - sociedades de personas;
 - sociedades de capital;
 - sociedades mixtas.
-
----
-
-# Según la estructura
-
-Pueden diferenciarse:
-
-- tipos simples;
-- tipos complejos.
 
 ---
 
@@ -1055,6 +1055,171 @@ Las principales posiciones son:
 - teoría del acto colectivo;
 - teoría del acto complejo;
 - teoría institucional.
+
+---
+
+# Teoría contractual
+
+Es la concepción clásica.
+
+Considera que la sociedad nace de un contrato celebrado entre dos o más personas.
+
+Su fundamento radica en la existencia del consentimiento de los socios.
+
+---
+
+# Fundamentos
+
+Según esta teoría:
+
+- existe acuerdo de voluntades;
+- cada socio asume obligaciones;
+- el contrato genera derechos recíprocos;
+- la sociedad nace por el consentimiento.
+
+---
+
+# Críticas
+
+La teoría contractual explica adecuadamente el nacimiento de las sociedades primitivas.
+
+Sin embargo,
+
+presenta dificultades para justificar:
+
+- la continuidad de la sociedad pese al cambio de socios;
+- la existencia de órganos sociales;
+- la subordinación de la voluntad individual al interés social.
+
+---
+
+# Teoría del acto colectivo
+
+Esta teoría sostiene que la sociedad surge de una declaración colectiva de voluntad.
+
+No existen intereses contrapuestos entre los socios.
+
+Todos persiguen un mismo fin común.
+
+---
+
+# Características
+
+A diferencia del contrato tradicional,
+
+las voluntades no se enfrentan.
+
+Se unen para alcanzar un objetivo común:
+
+el desarrollo de la empresa social.
+
+---
+
+# Críticas
+
+Aunque supera algunos inconvenientes de la teoría contractual,
+
+continúa explicando solamente el momento constitutivo.
+
+No alcanza para justificar plenamente el funcionamiento posterior de la sociedad.
+
+---
+
+# Teoría del acto complejo
+
+Sostiene que el nacimiento de la sociedad resulta de una pluralidad de actos jurídicos coordinados.
+
+No basta únicamente el consentimiento de los socios.
+
+También intervienen:
+
+- la inscripción;
+- el control estatal;
+- otros actos jurídicos necesarios para la constitución.
+
+---
+
+# Características
+
+La sociedad nace como consecuencia de un procedimiento complejo.
+
+Cada acto integra una secuencia jurídica destinada a producir un único resultado:
+
+el nacimiento de la persona jurídica.
+
+---
+
+# Teoría institucional
+
+Representa una evolución respecto de las teorías anteriores.
+
+La sociedad deja de ser vista únicamente como un contrato.
+
+Pasa a concebirse como una institución organizada para la consecución de un fin permanente.
+
+---
+
+# Características
+
+En la sociedad existen intereses que trascienden a los socios individuales.
+
+La organización adquiere autonomía respecto de quienes la integran.
+
+Cobran especial importancia:
+
+- el interés social;
+- los órganos;
+- la continuidad de la empresa.
+
+---
+
+# Ventajas
+
+La teoría institucional explica adecuadamente:
+
+- la permanencia de la sociedad;
+- la sustitución de socios;
+- el funcionamiento de los órganos;
+- la existencia de un interés propio de la persona jurídica.
+
+---
+
+# Situación actual
+
+Ninguna teoría explica por sí sola todos los aspectos del fenómeno societario.
+
+La doctrina contemporánea reconoce que la sociedad presenta elementos:
+
+- contractuales;
+- organizativos;
+- institucionales.
+
+---
+
+# Derecho argentino
+
+El artículo 1 de la Ley General de Sociedades mantiene una base contractual.
+
+Sin embargo,
+
+la regulación de la organización social, de los órganos y de la personalidad jurídica incorpora claros elementos institucionales.
+
+---
+
+# Conclusión
+
+La evolución doctrinaria muestra el siguiente recorrido:
+
+```{mermaid}
+flowchart LR
+
+A["Teoría contractual"]
+-->B["Acto colectivo"]
+-->C["Acto complejo"]
+-->D["Teoría institucional"]
+```
+
+Cada teoría fue ampliando la explicación del fenómeno societario, desde el mero consentimiento de los socios hasta la comprensión de la sociedad como una organización dotada de personalidad jurídica propia.
 
 ---
 

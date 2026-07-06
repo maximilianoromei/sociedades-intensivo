@@ -21,11 +21,44 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 ## Acceso rápido
 
 <div class="card-grid">
-  <div class="card"><span class="badge">Inicio</span><h3>Bienvenida</h3><p>Presentación del curso y pautas de trabajo.</p><p><a href="bienvenida.html">Leer</a></p></div>
-  <div class="card"><span class="badge">Calendario</span><h3>Cronograma</h3><p>Fechas y temas reestructurados.</p><p><a href="cronograma.html">Ver cronograma</a></p></div>
-  <div class="card"><span class="badge">Semana 1</span><h3>Clases</h3><p><a href="clases/clase01.html">Clase 1</a> · <a href="clases/clase02.html">Clase 2</a> · <a href="clases/clase03.html">Clase 3</a></p></div>
-</div>
 
+  <div class="card">
+    <span class="badge">Información</span>
+    <h3>Bienvenida</h3>
+    <p>Presentación del curso y pautas de trabajo.</p>
+    <p><a href="bienvenida.html">Leer</a></p>
+  </div>
+
+  <div class="card">
+    <span class="badge">Calendario</span>
+    <h3>Cronograma</h3>
+    <p>Fechas y temas reestructurados.</p>
+    <p><a href="cronograma.html">Ver cronograma</a></p>
+  </div>
+
+  <div class="card">
+    <span class="badge">Clase 1</span>
+    <h3>Presentación</h3>
+    <p>Las sociedades en el derecho argentino contemporáneo.</p>
+    <p>
+      <a href="clases/clase01.html" target="_blank" rel="noopener">
+        Abrir presentación
+      </a>
+    </p>
+  </div>
+
+  <div class="card">
+    <span class="badge">Clase 1</span>
+    <h3>Presentación de Jurisprudencia</h3>
+    <p>Fallos analizados durante la primera clase.</p>
+    <p>
+      <a href="clases/jurisprudencia.html" target="_blank" rel="noopener">
+        Abrir presentación
+      </a>
+    </p>
+  </div>
+
+</div>
 ## Enfoque
 
 Ley, doctrina, jurisprudencia y casos prácticos. El objetivo es preparar exámenes escritos y formar criterio jurídico societario.
