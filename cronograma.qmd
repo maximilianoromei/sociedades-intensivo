@@ -35,8 +35,8 @@ Los contenidos originalmente previstos para esas fechas se integran en la clase 
 | Fecha | Modalidad | Actividad | Tema |
 |---|---:|---|---|
 | Lunes 20/07 | Virtual | Clase 9 | Sociedad anónima: constitución y capital |
-| Martes 21/07 | Presencial | Clase 10 | Sociedad anónima: accionista y acción |
-| Miércoles 22/07 | Presencial | Parcial 1 | Caso práctico integrador |
+| Martes 21/07 | Presencial | Parcial 1 | Escrito |
+| Miércoles 22/07 | Virtual | Clase 10 | Sociedad anónima: accionista y acción |
 | Jueves 23/07 | Presencial | Clase 11 | Sociedad anónima: asamblea de accionistas |
 | Viernes 24/07 | Presencial | Clase 12 | Sociedad anónima: directorio |
 
