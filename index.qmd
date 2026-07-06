@@ -21,7 +21,7 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 - 📖 **[Bienvenida](bienvenida.html)**
 - 📅 **[Cronograma](cronograma.html)**
 - 🎓 **<a href="clases/clase01.html" target="_blank">Presentación – Clase 1</a>**
-- ⚖️ **<a href="clases/jurisprudencia.html" target="_blank">Presentación de Jurisprudencia – Clase 1</a>**
+- ⚖️ **<a href="clases/fallos.html" target="_blank">Presentación de Jurisprudencia – Clase 1</a>**
 
 ## Enfoque
 
