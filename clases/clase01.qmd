@@ -10,6 +10,7 @@ format:
     transition: slide
     incremental: false
     scrollable: true
+    slide-level: 1
     width: 960
     height: 720
     margin: 0.08
@@ -17,3054 +18,2079 @@ format:
 lang: es
 ---
 
+# Derecho Societario
+
+## Clase 1
+
+**Introducción al régimen general de las sociedades**
+
+- Programa
+- Metodología
+- Evaluación
+- Conceptos fundamentales
 
 ---
 
-# Clase 1 — Las sociedades en el derecho argentino contemporáneo
+# Objetivos del curso
 
-## Ejes
+Al finalizar el curso el estudiante deberá poder:
 
-- sociedad
-- empresa
-- empresario
-- sucursal
-- agencia
-- filial
-- LGS
-- art. 1 LGS
+- Comprender la estructura de la Ley General de Sociedades.
+- Interpretar sus principios.
+- Identificar cada tipo societario.
+- Resolver problemas jurídicos aplicando doctrina y jurisprudencia.
+- Integrar la LGS con el Código Civil y Comercial.
 
 ---
 
-# Objetivos de aprendizaje
+# Bibliografía obligatoria
 
-- Comprender sociedad.
-- Comprender empresa.
-- Comprender empresario.
-- Comprender sucursal.
-- Comprender agencia.
-- Comprender filial.
+## Manuales
 
----
+- Ricardo Augusto Nissen.
+- Daniel Roque Vítolo.
 
-# Mapa conceptual
-
-```mermaid
-graph TD
-A[Problema jurídico] --> B[Norma]
-B --> C[Doctrina]
-C --> D[Jurisprudencia]
-D --> E[Caso]
-E --> F[Respuesta de examen]
-```
+Toda la clase se desarrolla siguiendo exclusivamente estas dos obras.
 
 ---
 
-# Presentación y método
+# Bibliografía legal
 
-## Bloque
+## Normativa principal
 
-Presentación y método
-
-## Método
-
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
-
----
-
-# La cursada intensiva
-
-## Concepto
-
-La materia se desarrollará en modalidad intensiva. Cada encuentro exige trabajo previo y repaso posterior.
-
-## Norma / eje jurídico
-
-Programa del curso y régimen de evaluación.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Organizar el estudio por bloques: ley, doctrina, jurisprudencia y casos.
-
-## Pregunta de examen
-
-¿Cómo debe estudiarse una materia codificada pero fuertemente práctica?
+- Ley General de Sociedades 19.550.
+- Código Civil y Comercial.
+- Ley 26.994.
+- Reformas posteriores.
 
 ---
 
-# Objeto de la materia
+# Metodología
 
-## Concepto
+La materia tendrá una orientación:
 
-El derecho societario estudia organizaciones jurídicas destinadas a canalizar actividad económica, distribuir poder y regular responsabilidad.
+- normativa;
+- doctrinaria;
+- jurisprudencial.
 
-## Norma / eje jurídico
+No se memoriza.
 
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Se interpreta.
 
 ---
 
-# Error frecuente: Objeto de la materia
+# Forma de trabajo
 
-## Confusión habitual
+Cada clase tendrá:
 
-Creer que la materia es solo una lista de tipos sociales.
-
-## Corrección
-
-Identificar primero la naturaleza jurídica y recién después aplicar el régimen normativo.
+- explicación teórica;
+- análisis doctrinario;
+- cuadros comparativos;
+- interpretación normativa.
 
 ---
 
-# Sociedad, empresa, empresario y establecimiento
+# Evaluación
 
-## Bloque
+La evaluación comprenderá:
 
-Sociedad, empresa, empresario y establecimiento
+- parciales;
+- recuperatorios;
+- participación;
+- parcialitos de concepto.
 
-## Método
+---
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+# Parcialitos
+
+Los parcialitos tienen por finalidad:
+
+- verificar lectura;
+- fijar conceptos;
+- detectar errores tempranos.
+
+No sustituyen el estudio.
+
+---
+
+# Organización del curso
+
+El curso sigue el orden lógico de la Ley General de Sociedades.
+
+Primero:
+
+- teoría general.
+
+Luego:
+
+- tipos societarios.
+
+Finalmente:
+
+- reorganización,
+- disolución,
+- liquidación.
+
+---
+
+# ¿Qué estudia el Derecho Societario?
+
+Es la rama del Derecho Privado que regula:
+
+- constitución;
+- funcionamiento;
+- organización;
+- extinción de las sociedades.
+
+---
+
+# ¿Por qué existen las sociedades?
+
+Porque una persona sola muchas veces no puede:
+
+- reunir capital;
+- asumir riesgos;
+- organizar grandes emprendimientos.
+
+La sociedad permite superar esas limitaciones.
+
+---
+
+# Sociedad y actividad económica
+
+Las sociedades son instrumentos jurídicos.
+
+No constituyen un fin.
+
+Constituyen un medio para desarrollar actividades económicas.
+
+---
+
+# Importancia económica
+
+Las sociedades permiten:
+
+- concentración de capital;
+- especialización;
+- continuidad de la empresa;
+- limitación del riesgo.
+
+---
+
+# Evolución histórica
+
+La sociedad moderna es resultado de una evolución que comienza:
+
+- Derecho romano.
+- Edad Media.
+- Revolución Industrial.
+- Capitalismo contemporáneo.
+
+---
+
+# Derecho romano
+
+Las formas asociativas romanas carecían de autonomía semejante a la actual.
+
+Predominaba la relación personal entre los integrantes.
+
+---
+
+# Edad Media
+
+Durante la Edad Media aparecen:
+
+- compañías familiares;
+- sociedades marítimas;
+- commenda;
+- corporaciones.
+
+Estas figuras anticipan el derecho societario moderno.
+
+---
+
+# Revolución Industrial
+
+La Revolución Industrial produjo:
+
+- enormes inversiones;
+- necesidad de grandes capitales;
+- separación entre propiedad y administración.
+
+---
+
+# Sociedad moderna
+
+Actualmente la sociedad constituye:
+
+- una organización;
+- con patrimonio propio;
+- destinada a desarrollar actividad económica.
+
+---
+
+# Derecho Comercial y sociedades
+
+El Derecho Societario integra el Derecho Comercial.
+
+Regula uno de los instrumentos fundamentales de la actividad empresaria.
 
 ---
 
 # Empresa
 
-## Concepto
+La empresa es:
 
-La empresa es una organización económica de factores de producción destinada a producir o intercambiar bienes o servicios.
+Una organización de factores productivos destinada a producir bienes o servicios.
 
-## Norma / eje jurídico
-
-Art. 1 LGS como punto de conexión con producción o intercambio de bienes o servicios.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-La empresa no es persona jurídica; actúa jurídicamente a través del empresario o de una sociedad.
-
-## Pregunta de examen
-
-Diferencie empresa y sociedad.
-
----
-
-# Error frecuente: Empresa
-
-## Confusión habitual
-
-Afirmar que la empresa tiene personalidad jurídica.
-
-## Corrección
-
-Identificar primero la naturaleza jurídica y recién después aplicar el régimen normativo.
-
----
-
-# Empresario
-
-## Concepto
-
-El empresario es quien asume jurídicamente la titularidad de la actividad económica organizada.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Puede ser persona humana o jurídica.
-
-## Pregunta de examen
-
-¿Puede existir empresa sin sociedad?
+No constituye una persona jurídica.
 
 ---
 
 # Sociedad
 
-## Concepto
+La sociedad es:
 
-La sociedad es una estructura jurídica que permite organizar aportes, actividad, órganos, responsabilidad y participación en resultados.
-
-## Norma / eje jurídico
-
-Art. 1 LGS.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite separar patrimonios, ordenar la administración y facilitar inversiones.
-
-## Pregunta de examen
-
-¿La sociedad es un contrato, una organización o ambas cosas?
+Una persona jurídica creada conforme a la ley para organizar una empresa o desarrollar una actividad económica.
 
 ---
 
-# Establecimiento
+# Empresa y sociedad
 
-## Concepto
+No son sinónimos.
 
-Unidad técnica o material donde se desarrolla actividad empresaria.
+Empresa:
 
-## Norma / eje jurídico
+fenómeno económico.
 
-LGS, CCyC y normativa especial cuando corresponda.
+Sociedad:
 
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-No equivale a sociedad ni a empresa.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+instrumento jurídico.
 
 ---
 
-# Error frecuente: Establecimiento
+# Sociedad y empresario
 
-## Confusión habitual
+Es posible que exista:
 
-Confundir domicilio, sede, establecimiento y sociedad.
+- empresa sin sociedad;
+- sociedad sin empresa (supuestos excepcionales);
+- empresario individual;
+- empresario social.
 
-## Corrección
-
-Identificar primero la naturaleza jurídica y recién después aplicar el régimen normativo.
-
----
-
-# Fondo de comercio
-
-## Concepto
-
-Conjunto de bienes materiales e inmateriales afectados a una explotación económica.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Su transmisión no implica necesariamente transmisión de la sociedad.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+No existe identidad conceptual.
 
 ---
 
-# Descentralización: sucursal, agencia y filial
+# Empresa y establecimiento
 
-## Bloque
+La empresa tampoco se identifica con el establecimiento.
 
-Descentralización: sucursal, agencia y filial
+Empresa:
 
-## Método
+actividad organizada.
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+Establecimiento:
+
+conjunto de bienes afectados a esa actividad.
+
+---
+
+# Empresa y patrimonio
+
+El patrimonio pertenece al sujeto.
+
+La empresa no es sujeto.
+
+La sociedad sí.
+
+---
+
+# Relación entre empresa y sociedad
+
+La sociedad constituye el vehículo jurídico que normalmente organiza la empresa.
+
+La empresa constituye la actividad.
+
+La sociedad constituye el sujeto de derecho.
+
+---
+
+# Descentralización empresaria
+
+El crecimiento empresario exige mecanismos de descentralización.
+
+Entre ellos:
+
+- sucursal;
+- agencia;
+- filial.
+
+---
+
+# Descentralización
+
+Permite:
+
+- expansión territorial;
+- especialización;
+- disminución de costos;
+- organización eficiente.
 
 ---
 
 # Sucursal
 
-## Concepto
+La sucursal:
 
-Extensión de la misma persona jurídica en otro lugar o ámbito de actuación.
+- carece de personalidad jurídica propia;
+- integra el patrimonio de la casa matriz;
+- desarrolla actividades permanentes.
 
-## Norma / eje jurídico
+---
 
-LGS, CCyC y normativa especial cuando corresponda.
+# Características de la sucursal
 
-## Lectura doctrinaria
+Presenta:
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-No crea nuevo sujeto. La responsabilidad sigue en cabeza de la sociedad principal.
-
-## Pregunta de examen
-
-Distinga sucursal y filial.
+- cierta autonomía funcional;
+- administración propia;
+- dependencia jurídica respecto de la sociedad principal.
 
 ---
 
 # Agencia
 
-## Concepto
+La agencia constituye un centro de negocios de menor autonomía.
 
-Estructura de promoción, representación o intermediación, con alcance variable según la relación jurídica.
+Normalmente:
 
-## Norma / eje jurídico
+- promociona;
+- intermedia;
+- representa.
 
-LGS, CCyC y normativa especial cuando corresponda.
+No constituye un sujeto distinto.
 
-## Lectura doctrinaria
+---
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+# Diferencias entre sucursal y agencia
 
-## Consecuencia práctica
+## Sucursal
 
-Debe analizarse si hay representación, mandato, dependencia o mera intermediación.
+- actividad permanente;
+- mayor autonomía;
+- organización estable.
 
-## Pregunta de examen
+## Agencia
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+- funciones limitadas;
+- menor autonomía;
+- actuación representativa.
 
 ---
 
 # Filial
 
-## Concepto
+La filial sí constituye una sociedad distinta.
 
-Sociedad jurídicamente distinta, aunque vinculada o controlada por otra.
+Posee:
 
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Tiene personalidad y patrimonio propios.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+- personalidad propia;
+- patrimonio propio;
+- órganos propios.
 
 ---
 
-# Holding
+# Filial
 
-## Concepto
+Aunque exista control económico, la filial conserva personalidad jurídica independiente.
 
-Sociedad que concentra participaciones en otras sociedades y permite organizar control.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Prepara el análisis de grupos y control societario.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+No existe confusión automática de patrimonios.
 
 ---
 
-# Sucursal vs filial
+# Grupo empresario
 
-## Concepto
+Un grupo empresario supone:
 
-La sucursal es la misma persona jurídica; la filial es otra sociedad.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+- pluralidad de sociedades;
+- dirección económica común;
+- autonomía jurídica de cada integrante.
 
 ---
 
-# Caso: Sucursal vs filial
+# Independencia jurídica
 
-## Supuesto
+Cada sociedad responde:
 
-Una sociedad extranjera abre una oficina en Buenos Aires y además constituye una SA local controlada al 99%. ¿Qué diferencias hay entre ambas estructuras?
+- por su patrimonio;
+- por sus obligaciones;
+- por sus órganos.
 
-## Consignas
-
-1. Identifique norma aplicable.
-2. Determine hechos relevantes.
-3. Proponga solución fundada.
-4. Redacte respuesta de examen.
+La existencia del grupo no elimina esa autonomía.
 
 ---
 
-# Régimen legal
+# Introducción al régimen legal
 
-## Bloque
+La regulación principal surge de:
 
-Régimen legal
+- Ley General de Sociedades;
+- Código Civil y Comercial.
 
-## Método
+---
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+# Evolución legislativa
+
+Principales hitos:
+
+- Código de Comercio.
+- Ley 19.550.
+- Ley 22.903.
+- Ley 26.994.
+- Reformas posteriores.
 
 ---
 
 # Ley 19.550
 
-## Concepto
+La Ley General de Sociedades constituye el eje del Derecho Societario argentino.
 
-La LGS regula reglas generales y tipos sociales, combinando autonomía privada con tutela de terceros.
+Su estructura permanece vigente con numerosas reformas.
 
-## Norma / eje jurídico
+---
 
-Ley General de Sociedades 19.550.
+# Finalidad de la LGS
 
-## Lectura doctrinaria
+La ley procura:
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+- seguridad jurídica;
+- organización;
+- protección de terceros;
+- funcionamiento eficiente de las sociedades.
 
 ---
 
 # Principios orientadores
 
-## Concepto
+Entre ellos:
 
-Personalidad, tipicidad, organización, capital, publicidad, responsabilidad, fiscalización y conservación de la empresa.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Enumere principios estructurales de la LGS.
+- personalidad jurídica;
+- tipicidad;
+- publicidad;
+- registración;
+- especialidad.
 
 ---
 
-# Ley 26.994
+# Estructura de la ley
 
-## Concepto
+La ley regula:
 
-La reforma vinculada al CCyC introdujo cambios decisivos: unipersonalidad, Sección IV, capacidad, personas jurídicas y contratos asociativos.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Obliga a leer la LGS junto con el CCyC.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+- teoría general;
+- funcionamiento;
+- administración;
+- reorganización;
+- disolución;
+- liquidación;
+- tipos sociales.
 
 ---
 
-# Aplicación supletoria del CCyC
+# Reforma de la Ley 26.994
 
-## Concepto
+La unificación del Derecho Privado produjo profundas modificaciones.
 
-El CCyC aporta reglas generales sobre personas jurídicas, contratos, actos jurídicos, abuso, responsabilidad y contabilidad.
+Especialmente respecto de:
 
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-¿Por qué la LGS no puede estudiarse aislada del CCyC?
+- personalidad jurídica;
+- sociedades no constituidas regularmente;
+- unipersonalidad.
 
 ---
 
-# Art. 1 LGS y SAU
+# Influencia del Código Civil y Comercial
 
-## Bloque
+Desde 2015 la LGS debe interpretarse conjuntamente con el CCyC.
 
-Art. 1 LGS y SAU
-
-## Método
-
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+No existen compartimentos estancos.
 
 ---
 
-# Art. 1 LGS
+# Aplicación supletoria
 
-## Concepto
+Cuando la LGS no regula una cuestión determinada:
 
-Habrá sociedad si una o más personas, en forma organizada conforme a uno de los tipos previstos, se obligan a realizar aportes para aplicarlos a producción o intercambio de bienes o servicios, participando en beneficios y pérdidas.
+corresponde acudir al Código Civil y Comercial.
 
-## Norma / eje jurídico
-
-Art. 1 LGS.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Desarrolle los elementos del art. 1 LGS.
+Siempre que no exista incompatibilidad.
 
 ---
 
-# Una o más personas
+# Personas jurídicas
 
-## Concepto
+El Código Civil y Comercial incorpora una teoría general de las personas jurídicas.
 
-La fórmula permite incorporar la sociedad unipersonal dentro del concepto legal.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Rompe la identificación clásica entre sociedad y pluralidad inicial absoluta.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Las sociedades integran esa categoría.
 
 ---
 
-# Forma organizada
+# Artículo 2 LGS
 
-## Concepto
+La sociedad es sujeto de derecho.
 
-La sociedad supone organización jurídica: reglas, aportes, administración, representación y finalidad.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Esta disposición constituye uno de los pilares del régimen societario argentino.
 
 ---
 
-# Error frecuente: Forma organizada
+# Alcance del artículo 2
 
-## Confusión habitual
+El reconocimiento de personalidad implica:
 
-Reducir la sociedad a un acuerdo informal de colaboración.
+- patrimonio propio;
+- capacidad;
+- responsabilidad propia;
+- individualidad jurídica.
 
-## Corrección
+---
 
-Identificar primero la naturaleza jurídica y recién después aplicar el régimen normativo.
+# Consecuencia práctica
+
+Los bienes sociales pertenecen a la sociedad.
+
+No pertenecen a los socios individualmente considerados.
+
+---
+
+# Patrimonio separado
+
+Existe separación entre:
+
+- patrimonio social;
+- patrimonio de cada socio.
+
+Este principio resulta esencial para comprender el régimen societario.
+
+---
+
+# Capacidad
+
+La sociedad puede:
+
+- contratar;
+- adquirir bienes;
+- comparecer en juicio;
+- asumir obligaciones.
+
+Siempre dentro de su objeto y del régimen legal aplicable.
+
+---
+
+# Nombre
+
+La sociedad posee un nombre propio.
+
+Puede consistir en:
+
+- razón social;
+- denominación social.
+
+Según el tipo elegido.
+
+---
+
+# Domicilio
+
+Toda sociedad posee domicilio.
+
+El domicilio determina múltiples consecuencias jurídicas.
+
+Entre ellas:
+
+- competencia;
+- registración;
+- publicidad.
+
+---
+
+# Nacionalidad
+
+La personalidad jurídica no debe confundirse con la cuestión de la nacionalidad.
+
+Se trata de problemas diferentes.
+
+---
+
+# Personalidad jurídica
+
+La personalidad constituye una técnica jurídica.
+
+No describe una realidad física.
+
+Es un reconocimiento normativo.
+
+---
+
+# Función de la personalidad
+
+Permite:
+
+- imputar derechos;
+- imputar obligaciones;
+- organizar patrimonios;
+- facilitar la actividad económica.
+
+---
+
+# Autonomía patrimonial
+
+Sin personalidad jurídica no existiría patrimonio separado.
+
+La autonomía patrimonial constituye una consecuencia directa del reconocimiento legal.
+
+---
+
+# Responsabilidad
+
+Como principio:
+
+la sociedad responde con su patrimonio.
+
+Los socios responderán únicamente en los casos previstos por la ley.
+
+---
+
+# Importancia práctica
+
+La personalidad jurídica explica:
+
+- la responsabilidad;
+- la representación;
+- la actuación procesal;
+- la continuidad del ente.
+
+---
+
+# Doctrina
+
+Nissen y Vítolo coinciden en destacar que la personalidad jurídica constituye uno de los ejes estructurales del sistema societario argentino, aunque desarrollan distintos enfoques respecto de algunos de sus alcances frente al abuso de la forma societaria.
+
+---
+
+# Presupuestos de la personalidad jurídica
+
+La personalidad jurídica requiere:
+
+- constitución conforme a la ley;
+- organización;
+- reconocimiento normativo.
+
+No depende de la voluntad de terceros.
+
+---
+
+# Nacimiento de la personalidad
+
+Como regla general, la personalidad surge con la constitución de la sociedad conforme al régimen legal.
+
+La inscripción produce importantes efectos frente a terceros.
+
+---
+
+# Persona jurídica y socios
+
+La sociedad no constituye una suma de socios.
+
+Es un sujeto distinto.
+
+Por ello:
+
+- posee patrimonio propio;
+- posee intereses propios;
+- posee responsabilidad propia.
+
+---
+
+# Permanencia de la personalidad
+
+El ingreso o retiro de socios no modifica la identidad de la persona jurídica.
+
+La sociedad continúa siendo el mismo sujeto.
+
+---
+
+# Extinción de la personalidad
+
+La personalidad no desaparece inmediatamente con la disolución.
+
+Subsiste durante la etapa de liquidación para concluir los negocios pendientes.
+
+---
+
+# Personalidad y órganos
+
+La sociedad actúa mediante órganos.
+
+No actúa mediante representación convencional.
+
+La actuación orgánica constituye actuación de la propia persona jurídica.
+
+---
+
+# Introducción a la desestimación
+
+La personalidad jurídica no constituye un principio absoluto.
+
+Puede ser dejada de lado en supuestos excepcionales.
+
+---
+
+# Prescindencia de la personalidad
+
+También denominada:
+
+- desestimación;
+- inoponibilidad;
+- levantamiento del velo societario.
+
+---
+
+# Fundamento
+
+La personalidad jurídica no puede utilizarse:
+
+- para defraudar;
+- para eludir la ley;
+- para perjudicar terceros;
+- para frustrar derechos.
+
+---
+
+# Artículo 54 LGS
+
+La Ley General de Sociedades contempla expresamente la posibilidad de declarar inoponible la personalidad jurídica cuando sea utilizada con fines extrasocietarios o para violar la ley, el orden público o la buena fe.
+
+---
+
+# Artículo 144 CCyC
+
+El Código Civil y Comercial también regula la inoponibilidad de la personalidad jurídica.
+
+Ambas normas deben interpretarse armónicamente.
+
+---
+
+# Carácter excepcional
+
+La desestimación constituye un remedio excepcional.
+
+No puede aplicarse por mera conveniencia.
+
+---
+
+# Regla general
+
+La regla continúa siendo:
+
+respeto de la personalidad jurídica.
+
+La excepción exige circunstancias calificadas.
+
+---
+
+# Abuso de la personalidad
+
+Existe abuso cuando la sociedad deja de ser utilizada para los fines propios del instituto y se transforma en un instrumento para alcanzar resultados ilícitos o abusivos.
+
+---
+
+# Finalidad del instituto
+
+No procura eliminar la personalidad jurídica.
+
+Procura impedir su utilización abusiva.
+
+---
+
+# Consecuencias
+
+Declarada la inoponibilidad:
+
+los efectos de determinados actos pueden extenderse a quienes utilizaron abusivamente la sociedad.
+
+---
+
+# Alcance
+
+La desestimación:
+
+- no disuelve la sociedad;
+- no elimina su personalidad;
+- no modifica su existencia.
+
+Simplemente impide invocarla en el caso concreto.
+
+---
+
+# Interpretación restrictiva
+
+La doctrina sostiene que debe aplicarse con extrema prudencia.
+
+La personalidad jurídica constituye uno de los pilares del sistema societario.
+
+---
+
+# Tipicidad
+
+Otro principio estructural de la LGS es la tipicidad.
+
+---
+
+# Concepto
+
+Tipicidad significa que la sociedad debe adoptar uno de los tipos previstos por el legislador.
+
+---
+
+# Finalidad de la tipicidad
+
+La tipicidad procura:
+
+- seguridad jurídica;
+- previsibilidad;
+- protección de terceros.
+
+---
+
+# Tipo y contrato
+
+No deben confundirse.
+
+El contrato social expresa la voluntad de los socios.
+
+El tipo constituye el modelo legal elegido.
+
+---
+
+# Tipos previstos
+
+La LGS regula diversos tipos societarios.
+
+Cada uno posee:
+
+- estructura;
+- responsabilidad;
+- órganos;
+- funcionamiento propios.
+
+---
+
+# Rasgos tipificantes
+
+Cada tipo posee elementos esenciales cuya ausencia puede impedir su configuración.
+
+---
+
+# Función práctica
+
+La tipicidad permite conocer anticipadamente:
+
+- régimen de responsabilidad;
+- forma de administración;
+- régimen de gobierno;
+- fiscalización.
+
+---
+
+# Reforma de la Ley 26.994
+
+La reforma flexibilizó parcialmente el principio de tipicidad.
+
+No obstante, éste continúa siendo un eje del sistema.
+
+---
+
+# Clasificación de las sociedades
+
+Las sociedades pueden clasificarse conforme a diversos criterios.
+
+No existe una única clasificación.
+
+---
+
+# Según la responsabilidad
+
+Pueden distinguirse:
+
+- responsabilidad limitada;
+- responsabilidad ilimitada;
+- responsabilidad mixta.
+
+---
+
+# Según la participación del capital
+
+Se distinguen:
+
+- sociedades de personas;
+- sociedades de capital;
+- sociedades mixtas.
+
+---
+
+# Según la estructura
+
+Pueden diferenciarse:
+
+- tipos simples;
+- tipos complejos.
+
+---
+
+# Según la organización
+
+Algunos tipos presentan una organización predominantemente personal.
+
+Otros privilegian la organización del capital.
+
+---
+
+# Importancia de las clasificaciones
+
+Las clasificaciones permiten comprender:
+
+- la lógica del sistema;
+- la función económica de cada tipo;
+- las diferencias de régimen.
+
+---
+
+# Nacionalidad de las sociedades
+
+La cuestión de la nacionalidad ha dado lugar a importantes debates doctrinarios.
+
+---
+
+# Problema jurídico
+
+La pregunta consiste en determinar:
+
+¿de qué Estado es una sociedad?
+
+---
+
+# Principales doctrinas
+
+Se desarrollaron, entre otras:
+
+- teoría de la constitución;
+- teoría del domicilio;
+- teoría del control.
+
+---
+
+# Teoría de la constitución
+
+La nacionalidad depende del Estado conforme a cuya legislación fue constituida la sociedad.
+
+---
+
+# Teoría del domicilio
+
+La nacionalidad deriva del domicilio social efectivo.
+
+---
+
+# Teoría del control
+
+La nacionalidad depende de quién ejerce el control económico de la sociedad.
+
+---
+
+# Derecho argentino
+
+El régimen argentino adopta soluciones propias respecto de las sociedades constituidas en el extranjero y de la ley aplicable.
+
+---
+
+# Artículo 1 LGS
+
+La Ley General de Sociedades comienza definiendo el contrato de sociedad.
+
+Esta disposición constituye el punto de partida de toda la materia.
+
+---
+
+# Elementos del artículo 1
+
+De su lectura surgen:
+
+- pluralidad (con las excepciones legales);
+- aportes;
+- organización;
+- participación en resultados;
+- actividad económica.
+
+---
+
+# Naturaleza jurídica
+
+La doctrina ha debatido extensamente la naturaleza del acto constitutivo.
+
+Las posiciones principales lo consideran:
+
+- contrato;
+- contrato plurilateral de organización;
+- acto complejo de organización.
+
+---
+
+# Naturaleza del acto constitutivo
+
+La doctrina ha intentado explicar jurídicamente el nacimiento de la sociedad.
+
+Las principales posiciones son:
+
+- teoría contractual;
+- teoría del acto colectivo;
+- teoría del acto complejo;
+- teoría institucional.
+
+---
+
+# Evolución doctrinaria
+
+Originalmente predominó la concepción contractual.
+
+Posteriormente la doctrina advirtió que dicha explicación resultaba insuficiente para comprender el funcionamiento permanente de la sociedad.
+
+---
+
+# Contratos de cambio
+
+En los contratos de cambio:
+
+- las prestaciones se enfrentan;
+- los intereses son contrapuestos;
+- cada parte procura satisfacer un interés individual.
+
+---
+
+# Contratos de organización
+
+En los contratos de organización:
+
+- las prestaciones convergen;
+- existe finalidad común;
+- la organización subsiste luego de celebrado el contrato.
+
+---
+
+# Importancia de la distinción
+
+La sociedad no se agota con el consentimiento inicial.
+
+Después del nacimiento:
+
+- continúa funcionando;
+- produce decisiones;
+- incorpora socios;
+- modifica su organización.
+
+---
+
+# Organización permanente
+
+La organización constituye uno de los elementos característicos de la sociedad moderna.
+
+No existe únicamente un contrato.
+
+Existe un ente organizado.
+
+---
+
+# Finalidad común
+
+Los socios orientan sus aportes hacia un objetivo compartido.
+
+La finalidad común constituye un elemento diferenciador respecto de otros contratos patrimoniales.
 
 ---
 
 # Aportes
 
-## Concepto
+Todo socio debe efectuar un aporte.
 
-Los aportes forman el sustrato patrimonial inicial y determinan derechos y obligaciones de los socios.
+Los aportes integran el capital inicial y permiten el desarrollo de la actividad social.
 
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-¿Qué función cumplen los aportes?
-
----
-
-# Beneficios y pérdidas
-
-## Concepto
-
-La participación en resultados diferencia sociedad de otras figuras asociativas o de colaboración.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Distinga utilidad, beneficio y dividendo.
-
----
-
-# SAU
-
-## Concepto
-
-La sociedad anónima unipersonal permite sociedad con un solo socio inicial, pero bajo forma de SA y reglas especiales.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Plantea tensión entre el concepto clásico de sociedad y la organización patrimonial moderna.
-
-## Pregunta de examen
-
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
-
----
-
-# Comparación con otras figuras
-
-## Bloque
-
-Comparación con otras figuras
-
-## Método
-
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
-
----
-
-# Asociación civil
-
-## Concepto
-
-Persona jurídica orientada a finalidad común no necesariamente lucrativa.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Diferencie asociación civil y sociedad.
-
----
-
-# Fundación
-
-## Concepto
-
-Patrimonio afectado a un fin de bien común, sin socios.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-¿Por qué la fundación no es sociedad?
-
----
-
-# Fideicomiso
-
-## Concepto
-
-Negocio jurídico de transmisión fiduciaria de bienes para un fin determinado.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Compare fideicomiso y sociedad.
-
----
-
-# Contratos asociativos
-
-## Concepto
-
-Figuras de colaboración sin personalidad jurídica societaria.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Distinga sociedad y contrato asociativo.
-
----
-
-# Cooperativa
-
-## Concepto
-
-Entidad de economía social con régimen especial y principios propios.
-
-## Norma / eje jurídico
-
-LGS, CCyC y normativa especial cuando corresponda.
-
-## Lectura doctrinaria
-
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
-
-## Consecuencia práctica
-
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
-
-## Pregunta de examen
-
-Compare cooperativa y sociedad comercial.
-
----
-
-# Pregunta de examen 1: sociedad
-
-## Consigna
-
-Desarrolle **sociedad**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 2: empresa
-
-## Consigna
-
-Desarrolle **empresa**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 3: empresario
-
-## Consigna
-
-Desarrolle **empresario**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 4: sucursal
-
-## Consigna
-
-Desarrolle **sucursal**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 5: agencia
-
-## Consigna
-
-Desarrolle **agencia**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 6: filial
-
-## Consigna
-
-Desarrolle **filial**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 7: LGS
-
-## Consigna
-
-Desarrolle **LGS**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 8: art. 1 LGS
-
-## Consigna
-
-Desarrolle **art. 1 LGS**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 9: SAU
-
-## Consigna
-
-Desarrolle **SAU**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 10: comparación con otras figuras
-
-## Consigna
-
-Desarrolle **comparación con otras figuras**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 11: sociedad
-
-## Consigna
-
-Desarrolle **sociedad**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 12: empresa
-
-## Consigna
-
-Desarrolle **empresa**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 13: empresario
-
-## Consigna
-
-Desarrolle **empresario**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 14: sucursal
-
-## Consigna
-
-Desarrolle **sucursal**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 15: agencia
-
-## Consigna
-
-Desarrolle **agencia**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 16: filial
-
-## Consigna
-
-Desarrolle **filial**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 17: LGS
-
-## Consigna
-
-Desarrolle **LGS**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 18: art. 1 LGS
-
-## Consigna
-
-Desarrolle **art. 1 LGS**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 19: SAU
-
-## Consigna
-
-Desarrolle **SAU**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 20: comparación con otras figuras
-
-## Consigna
-
-Desarrolle **comparación con otras figuras**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 21: sociedad
-
-## Consigna
-
-Desarrolle **sociedad**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 22: empresa
-
-## Consigna
-
-Desarrolle **empresa**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 23: empresario
-
-## Consigna
-
-Desarrolle **empresario**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 24: sucursal
-
-## Consigna
-
-Desarrolle **sucursal**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 25: agencia
-
-## Consigna
-
-Desarrolle **agencia**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
-
-# Pregunta de examen 26: filial
-
-## Consigna
-
-Desarrolle **filial**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
 
-# Pregunta de examen 27: LGS
+# Actividad económica
 
-## Consigna
+La actividad debe ser:
 
-Desarrolle **LGS**.
+- organizada;
+- permanente;
+- lícita.
 
-## Pauta mínima
+No cualquier actividad justifica la constitución de una sociedad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 28: art. 1 LGS
 
-## Consigna
+# Participación en resultados
 
-Desarrolle **art. 1 LGS**.
+Los socios participan:
 
-## Pauta mínima
+- en las utilidades;
+- en las pérdidas.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Este principio caracteriza al vínculo societario.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 29: SAU
-
-## Consigna
 
-Desarrolle **SAU**.
+# Affectio societatis
 
-## Pauta mínima
+La doctrina clásica utiliza la expresión *affectio societatis* para describir la voluntad de colaborar en un plano de igualdad para alcanzar el fin común.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 30: comparación con otras figuras
 
-## Consigna
+# Alcance del affectio societatis
 
-Desarrolle **comparación con otras figuras**.
+No implica amistad.
 
-## Pauta mínima
+No implica afinidad personal.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Implica voluntad de integrar una organización común.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 31: sociedad
-
-## Consigna
 
-Desarrolle **sociedad**.
+# Debate doctrinario
 
-## Pauta mínima
+La doctrina discute:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- si constituye un elemento esencial;
+- si simplemente describe una consecuencia del contrato social.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 32: empresa
-
-## Consigna
 
-Desarrolle **empresa**.
+# La reforma de 2015
 
-## Pauta mínima
+La Ley 26.994 introdujo importantes modificaciones.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Entre ellas:
 
-## Advertencia
+- cambio de denominación;
+- incorporación de la SAU;
+- reforma de la Sección IV.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 33: empresario
-
-## Consigna
-
-Desarrolle **empresario**.
 
-## Pauta mínima
+# Cambio de denominación
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La antigua Ley de Sociedades Comerciales pasó a denominarse:
 
-## Advertencia
+**Ley General de Sociedades.**
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 34: sucursal
-
-## Consigna
-
-Desarrolle **sucursal**.
 
-## Pauta mínima
+# Razón del cambio
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sociedad dejó de vincularse exclusivamente con actividades tradicionalmente comerciales.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 35: agencia
-
-## Consigna
 
-Desarrolle **agencia**.
+# Unificación
 
-## Pauta mínima
+La unificación del Derecho Privado eliminó la distinción entre:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- sociedades civiles;
+- sociedades comerciales.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 36: filial
-
-## Consigna
 
-Desarrolle **filial**.
+# Consecuencia
 
-## Pauta mínima
+Actualmente todas las sociedades quedan comprendidas dentro del régimen general.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 37: LGS
 
-## Consigna
+# Sociedades civiles
 
-Desarrolle **LGS**.
+Las sociedades civiles desaparecieron como categoría autónoma.
 
-## Pauta mínima
+Su regulación quedó absorbida por la LGS y el Código Civil y Comercial.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 38: art. 1 LGS
 
-## Consigna
+# Aplicación conjunta
 
-Desarrolle **art. 1 LGS**.
+Desde 2015:
 
-## Pauta mínima
+LGS + CCyC
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+constituyen un sistema integrado.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 39: SAU
-
-## Consigna
 
-Desarrolle **SAU**.
+# Interpretación armónica
 
-## Pauta mínima
+La LGS conserva autonomía.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Sin embargo, debe interpretarse junto con las normas generales del Código.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 40: comparación con otras figuras
-
-## Consigna
 
-Desarrolle **comparación con otras figuras**.
+# Principio de especialidad
 
-## Pauta mínima
+Cuando existe regulación específica en la LGS:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+prevalece la norma especial.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 41: sociedad
-
-## Consigna
 
-Desarrolle **sociedad**.
+# Aplicación supletoria
 
-## Pauta mínima
+El Código Civil y Comercial actúa:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- integrando;
+- completando;
+- interpretando.
 
-## Advertencia
+Nunca desplazando injustificadamente la LGS.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 42: empresa
-
-## Consigna
-
-Desarrolle **empresa**.
 
-## Pauta mínima
+# Persona jurídica privada
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El Código Civil y Comercial reconoce expresamente a las sociedades como personas jurídicas privadas.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 43: empresario
-
-## Consigna
 
-Desarrolle **empresario**.
+# Consecuencias
 
-## Pauta mínima
+Ello determina:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- capacidad;
+- patrimonio;
+- domicilio;
+- nombre;
+- responsabilidad.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 44: sucursal
-
-## Consigna
 
-Desarrolle **sucursal**.
+# Capacidad jurídica
 
-## Pauta mínima
+La sociedad posee capacidad para adquirir derechos y contraer obligaciones conforme a su objeto y al régimen legal.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 45: agencia
 
-## Consigna
+# Patrimonio
 
-Desarrolle **agencia**.
+El patrimonio social constituye:
 
-## Pauta mínima
+- una universalidad jurídica;
+- separada del patrimonio de los socios.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 46: filial
 
-## Consigna
+# Individualidad
 
-Desarrolle **filial**.
+La sociedad mantiene identidad propia aun cuando cambien:
 
-## Pauta mínima
+- los socios;
+- las participaciones;
+- los administradores.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 47: LGS
 
-## Consigna
+# Continuidad
 
-Desarrolle **LGS**.
+La permanencia del ente explica la continuidad de las relaciones jurídicas.
 
-## Pauta mínima
+La sociedad sobrevive a las modificaciones subjetivas.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 48: art. 1 LGS
 
-## Consigna
+# Interés social
 
-Desarrolle **art. 1 LGS**.
+La doctrina distingue:
 
-## Pauta mínima
+- interés de cada socio;
+- interés social.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No siempre coinciden.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 49: SAU
-
-## Consigna
 
-Desarrolle **SAU**.
+# Autonomía del interés social
 
-## Pauta mínima
+Las decisiones deben orientarse hacia el interés de la sociedad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No únicamente hacia intereses particulares.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 50: comparación con otras figuras
-
-## Consigna
 
-Desarrolle **comparación con otras figuras**.
+# Órganos
 
-## Pauta mínima
+La sociedad actúa mediante órganos.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Los órganos expresan la voluntad del ente.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 51: sociedad
-
-## Consigna
 
-Desarrolle **sociedad**.
+# Doctrina del órgano
 
-## Pauta mínima
+El administrador no sustituye la voluntad social.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La voluntad del órgano es la voluntad de la sociedad.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 52: empresa
-
-## Consigna
 
-Desarrolle **empresa**.
+# Representación orgánica
 
-## Pauta mínima
+Debe distinguirse de la representación convencional.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La actuación orgánica integra directamente la actividad de la persona jurídica.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 53: empresario
-
-## Consigna
 
-Desarrolle **empresario**.
+# Patrimonio y responsabilidad
 
-## Pauta mínima
+La existencia de patrimonio propio explica:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- responsabilidad propia;
+- ejecución propia;
+- autonomía patrimonial.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 54: sucursal
-
-## Consigna
 
-Desarrolle **sucursal**.
+# Separación patrimonial
 
-## Pauta mínima
+Como regla:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+las deudas sociales no constituyen deudas personales de los socios.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 55: agencia
-
-## Consigna
 
-Desarrolle **agencia**.
+# Excepciones
 
-## Pauta mínima
+La ley contempla supuestos específicos donde la responsabilidad puede extenderse.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Ello no elimina el principio general.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 56: filial
-
-## Consigna
 
-Desarrolle **filial**.
+# Fraude
 
-## Pauta mínima
+La utilización abusiva de la personalidad jurídica puede justificar la aplicación del artículo 54 LGS.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 57: LGS
 
-## Consigna
+# Buena fe
 
-Desarrolle **LGS**.
+Toda actuación societaria debe desarrollarse conforme al principio general de buena fe.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 58: art. 1 LGS
-
-## Consigna
-
-Desarrolle **art. 1 LGS**.
-
-## Pauta mínima
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Orden público
 
-## Advertencia
+Las normas societarias de orden público limitan la autonomía de la voluntad de los socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 59: SAU
-
-## Consigna
-
-Desarrolle **SAU**.
 
-## Pauta mínima
+# Seguridad jurídica
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La tipicidad y la personalidad jurídica cumplen una función esencial:
 
-## Advertencia
+proteger el tráfico jurídico.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 60: comparación con otras figuras
-
-## Consigna
-
-Desarrolle **comparación con otras figuras**.
 
-## Pauta mínima
+# Protección de terceros
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La organización societaria no sólo protege a los socios.
 
-## Advertencia
+También tutela a:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- acreedores;
+- contratantes;
+- mercado.
 
 ---
 
-# Pregunta de examen 61: sociedad
+# Publicidad
 
-## Consigna
+La publicidad registral permite que terceros conozcan:
 
-Desarrolle **sociedad**.
+- existencia;
+- tipo;
+- administración;
+- representación.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 62: empresa
-
-## Consigna
-
-Desarrolle **empresa**.
-
-## Pauta mínima
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Registro Público
 
-## Advertencia
+La inscripción constituye uno de los mecanismos centrales del sistema de publicidad societaria.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 63: empresario
-
-## Consigna
-
-Desarrolle **empresario**.
 
-## Pauta mínima
+# Publicidad societaria
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La publicidad constituye uno de los principios estructurales del régimen societario.
 
-## Advertencia
+Su finalidad consiste en brindar seguridad al tráfico jurídico.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 64: sucursal
-
-## Consigna
-
-Desarrolle **sucursal**.
 
-## Pauta mínima
+# Función de la publicidad
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La publicidad permite que los terceros conozcan:
 
-## Advertencia
+- existencia de la sociedad;
+- tipo social;
+- administradores;
+- representación;
+- modificaciones relevantes.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 65: agencia
-
-## Consigna
-
-Desarrolle **agencia**.
 
-## Pauta mínima
+# Seguridad del tráfico
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La organización económica moderna exige que los terceros puedan confiar en la información registral.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 66: filial
-
-## Consigna
 
-Desarrolle **filial**.
+# Registro Público
 
-## Pauta mínima
+La inscripción cumple funciones de:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- publicidad;
+- oponibilidad;
+- seguridad jurídica.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 67: LGS
-
-## Consigna
 
-Desarrolle **LGS**.
+# Oponibilidad
 
-## Pauta mínima
+Los actos sujetos a inscripción producen efectos frente a terceros conforme al régimen previsto por la ley.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 68: art. 1 LGS
 
-## Consigna
+# Autonomía patrimonial
 
-Desarrolle **art. 1 LGS**.
+La separación patrimonial constituye una consecuencia inmediata del reconocimiento de personalidad jurídica.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 69: SAU
-
-## Consigna
-
-Desarrolle **SAU**.
-
-## Pauta mínima
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Patrimonio social
 
-## Advertencia
+El patrimonio social responde:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- por las obligaciones sociales;
+- frente a los acreedores de la sociedad.
 
 ---
 
-# Pregunta de examen 70: comparación con otras figuras
+# Acreedores sociales
 
-## Consigna
+Como principio:
 
-Desarrolle **comparación con otras figuras**.
+los acreedores sociales deben perseguir el patrimonio social.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 71: sociedad
-
-## Consigna
-
-Desarrolle **sociedad**.
-
-## Pauta mínima
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Acreedores particulares
 
-## Advertencia
+Los acreedores personales de un socio no son acreedores de la sociedad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
 
-# Pregunta de examen 72: empresa
+# Independencia patrimonial
 
-## Consigna
+Debe distinguirse:
 
-Desarrolle **empresa**.
+- patrimonio del socio;
+- patrimonio de la sociedad.
 
-## Pauta mínima
+La confusión entre ambos contradice el sistema legal.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Organización
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La organización constituye uno de los elementos característicos del fenómeno societario.
 
 ---
 
-# Pregunta de examen 73: empresario
+# Órganos sociales
 
-## Consigna
+Toda sociedad funciona mediante órganos.
 
-Desarrolle **empresario**.
+Ellos permiten formar y exteriorizar la voluntad social.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Principales órganos
 
-## Advertencia
+Según el tipo social pueden existir:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- órgano de gobierno;
+- órgano de administración;
+- órgano de fiscalización.
 
 ---
-
-# Pregunta de examen 74: sucursal
 
-## Consigna
+# Gobierno
 
-Desarrolle **sucursal**.
+El órgano de gobierno expresa la voluntad de los socios.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Administración
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La administración ejecuta las decisiones sociales.
 
 ---
 
-# Pregunta de examen 75: agencia
+# Fiscalización
 
-## Consigna
+Cuando corresponde:
 
-Desarrolle **agencia**.
+controla la actuación de los administradores.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# División funcional
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La distribución de funciones evita la concentración absoluta del poder dentro de la sociedad.
 
 ---
 
-# Pregunta de examen 76: filial
+# Principio de legalidad
 
-## Consigna
+Los órganos sólo pueden actuar dentro de las competencias que la ley y el contrato les atribuyen.
 
-Desarrolle **filial**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Interés social
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Toda decisión debe perseguir el interés de la sociedad.
 
 ---
 
-# Pregunta de examen 77: LGS
+# Interés del socio
 
-## Consigna
+No siempre coincide con el interés social.
 
-Desarrolle **LGS**.
+La doctrina insiste en distinguir ambos conceptos.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Permanencia
 
-## Advertencia
+La sociedad mantiene continuidad pese al reemplazo de:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- administradores;
+- socios;
+- representantes.
 
 ---
 
-# Pregunta de examen 78: art. 1 LGS
+# Empresa familiar
 
-## Consigna
+Muchas sociedades nacen como empresas familiares.
 
-Desarrolle **art. 1 LGS**.
+Con el crecimiento económico suelen profesionalizar su organización.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Profesionalización
 
-## Advertencia
+La complejidad empresaria exige:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- órganos especializados;
+- administración profesional;
+- control interno.
 
 ---
-
-# Pregunta de examen 79: SAU
 
-## Consigna
+# Evolución económica
 
-Desarrolle **SAU**.
+La evolución del capitalismo incrementó la importancia del Derecho Societario.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Concentración económica
 
-## Advertencia
+Las sociedades permiten:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- reunir capital;
+- distribuir riesgos;
+- facilitar inversiones.
 
 ---
-
-# Pregunta de examen 80: comparación con otras figuras
 
-## Consigna
+# Mercado
 
-Desarrolle **comparación con otras figuras**.
+La organización societaria constituye uno de los instrumentos fundamentales del mercado moderno.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Inversión
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La limitación del riesgo incentiva la inversión privada.
 
 ---
 
-# Pregunta de examen 81: sociedad
+# Riesgo empresario
 
-## Consigna
+El régimen societario procura equilibrar:
 
-Desarrolle **sociedad**.
+- incentivo económico;
+- protección de terceros.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Responsabilidad limitada
 
-## Advertencia
+La responsabilidad limitada no constituye un privilegio absoluto.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Se encuentra condicionada por el cumplimiento del régimen legal.
 
 ---
-
-# Pregunta de examen 82: empresa
 
-## Consigna
+# Responsabilidad ilimitada
 
-Desarrolle **empresa**.
+Algunos tipos sociales mantienen responsabilidad personal de los socios.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Razón de la diversidad
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Cada tipo responde a distintas necesidades económicas.
 
 ---
 
-# Pregunta de examen 83: empresario
+# Libertad de elección
 
-## Consigna
+Los particulares pueden elegir el tipo social que mejor se adapte a sus necesidades.
 
-Desarrolle **empresario**.
+Siempre dentro de los previstos por la ley.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Límites
 
-## Advertencia
+La autonomía privada encuentra límites en:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- la ley;
+- el orden público;
+- la buena fe.
 
 ---
 
-# Pregunta de examen 84: sucursal
+# Orden público societario
 
-## Consigna
+Numerosas disposiciones de la LGS poseen carácter imperativo.
 
-Desarrolle **sucursal**.
+No pueden ser dejadas sin efecto por convenio.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Buena fe
 
-## Advertencia
+La buena fe constituye un principio transversal de todo el Derecho Privado.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+También rige el Derecho Societario.
 
 ---
 
-# Pregunta de examen 85: agencia
+# Abuso del derecho
 
-## Consigna
+El ejercicio abusivo de los derechos societarios no recibe tutela jurídica.
 
-Desarrolle **agencia**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Función económica
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La sociedad constituye un instrumento destinado a organizar actividad económica.
 
 ---
-
-# Pregunta de examen 86: filial
 
-## Consigna
+# Función jurídica
 
-Desarrolle **filial**.
+Al mismo tiempo:
 
-## Pauta mínima
+es una persona jurídica distinta de quienes la integran.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Técnica jurídica
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La personalidad constituye una técnica de imputación de derechos y obligaciones.
 
 ---
 
-# Pregunta de examen 87: LGS
+# Importancia práctica
 
-## Consigna
+Comprender la personalidad jurídica permite interpretar:
 
-Desarrolle **LGS**.
+- responsabilidad;
+- administración;
+- representación;
+- patrimonio.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Sociedad y asociación
 
-## Advertencia
+No deben confundirse.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La asociación posee finalidad distinta del fenómeno societario.
 
 ---
 
-# Pregunta de examen 88: art. 1 LGS
+# Sociedad y fundación
 
-## Consigna
+La fundación carece de socios.
 
-Desarrolle **art. 1 LGS**.
+La sociedad presupone participación societaria.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Sociedad y contrato asociativo
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Los contratos asociativos regulados por el Código Civil y Comercial no generan una persona jurídica.
 
 ---
 
-# Pregunta de examen 89: SAU
+# Diferencia esencial
 
-## Consigna
+La personalidad jurídica constituye el principal criterio diferenciador.
 
-Desarrolle **SAU**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Empresa individual
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+El empresario individual desarrolla actividad económica sin crear una persona jurídica distinta.
 
 ---
 
-# Pregunta de examen 90: comparación con otras figuras
+# Sociedad unipersonal
 
-## Consigna
+La SAU constituye una verdadera sociedad.
 
-Desarrolle **comparación con otras figuras**.
+Posee personalidad jurídica independiente de su único socio.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Sociedad Anónima Unipersonal
 
-## Advertencia
+La Ley 26.994 incorporó expresamente la Sociedad Anónima Unipersonal (SAU) al ordenamiento argentino.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Su incorporación respondió a una demanda doctrinaria de larga data.
 
 ---
 
-# Pregunta de examen 91: sociedad
+# Finalidad de la SAU
 
-## Consigna
+La SAU permite:
 
-Desarrolle **sociedad**.
+- separar patrimonios;
+- limitar riesgos;
+- facilitar inversiones;
+- eliminar socios ficticios.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Unipersonalidad
 
-## Advertencia
+La unipersonalidad constituye una excepción al principio tradicional de pluralidad de socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Debe surgir desde el nacimiento de la sociedad.
 
 ---
 
-# Pregunta de examen 92: empresa
+# Unipersonalidad sobreviniente
 
-## Consigna
+La LGS contempla además supuestos donde la sociedad puede devenir unipersonal durante su existencia.
 
-Desarrolle **empresa**.
+Ello no implica necesariamente su disolución.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# ¿Puede cualquier sociedad ser unipersonal?
 
-## Advertencia
+No.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La LGS admite la unipersonalidad únicamente en los supuestos previstos por la ley.
 
 ---
-
-# Pregunta de examen 93: empresario
-
-## Consigna
 
-Desarrolle **empresario**.
+# Restricciones
 
-## Pauta mínima
+La SAU presenta un régimen más riguroso que la SA tradicional.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Ello procura proteger:
 
-## Advertencia
+- acreedores;
+- tráfico jurídico;
+- seguridad patrimonial.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 94: sucursal
 
-## Consigna
+# Fundamento
 
-Desarrolle **sucursal**.
+La existencia de un único socio incrementa el riesgo de confusión patrimonial.
 
-## Pauta mínima
+Por ello el legislador establece mayores controles.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Capital
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La existencia de un solo socio no elimina la necesidad de un capital social suficiente.
 
 ---
 
-# Pregunta de examen 95: agencia
+# Patrimonio
 
-## Consigna
+Debe mantenerse estrictamente separado:
 
-Desarrolle **agencia**.
+- patrimonio social;
+- patrimonio del socio único.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Administración
 
-## Advertencia
+La administración continúa siendo un órgano de la sociedad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No actúa como mandatario del socio único.
 
 ---
 
-# Pregunta de examen 96: filial
+# Sociedad y condominio
 
-## Consigna
+No deben confundirse.
 
-Desarrolle **filial**.
+En el condominio existe cotitularidad sobre bienes.
 
-## Pauta mínima
+En la sociedad existe una persona jurídica distinta.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
 
-# Pregunta de examen 97: LGS
+# Sociedad y comunidad hereditaria
 
-## Consigna
+La comunidad hereditaria tampoco constituye una sociedad.
 
-Desarrolle **LGS**.
+Carece de finalidad organizativa propia del contrato social.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Sociedad y asociación
 
-## Advertencia
+La asociación persigue un fin ideal.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La sociedad procura desarrollar actividad económica organizada.
 
 ---
 
-# Pregunta de examen 98: art. 1 LGS
+# Sociedad y fundación
 
-## Consigna
+La fundación nace de un patrimonio afectado a un fin determinado.
 
-Desarrolle **art. 1 LGS**.
+No posee socios.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Sociedad y fideicomiso
 
-## Advertencia
+El fideicomiso constituye un patrimonio de afectación.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No genera una persona jurídica independiente.
 
 ---
-
-# Pregunta de examen 99: SAU
 
-## Consigna
+# Sociedad y contratos asociativos
 
-Desarrolle **SAU**.
+Los contratos asociativos regulados por el Código Civil y Comercial:
 
-## Pauta mínima
+- no generan personalidad jurídica;
+- mantienen autonomía patrimonial de cada participante.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Diferencias esenciales
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+| Sociedad | Contrato asociativo |
+|-----------|---------------------|
+| Persona jurídica | No |
+| Patrimonio propio | No |
+| Organización permanente | Limitada |
+| Sujeto de derecho | No |
 
 ---
-
-# Pregunta de examen 100: comparación con otras figuras
 
-## Consigna
+# Sociedad y empresa
 
-Desarrolle **comparación con otras figuras**.
+## Empresa
 
-## Pauta mínima
+Fenómeno económico.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+## Sociedad
 
-## Advertencia
+Instrumento jurídico.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 101: sociedad
 
-## Consigna
+# Sociedad y establecimiento
 
-Desarrolle **sociedad**.
+## Establecimiento
 
-## Pauta mínima
+Conjunto organizado de bienes.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+## Sociedad
 
-## Advertencia
+Persona jurídica titular de derechos.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 102: empresa
 
-## Consigna
+# Sociedad y empresario
 
-Desarrolle **empresa**.
+El empresario puede actuar:
 
-## Pauta mínima
+- individualmente;
+- mediante una sociedad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La empresa no exige necesariamente una sociedad.
 
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
 
-# Pregunta de examen 103: empresario
+# Sociedad como técnica jurídica
 
-## Consigna
+La sociedad constituye una construcción jurídica destinada a facilitar la organización económica.
 
-Desarrolle **empresario**.
-
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Función económica
 
-## Advertencia
+Permite:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- reunir capital;
+- distribuir riesgos;
+- profesionalizar la gestión.
 
 ---
 
-# Pregunta de examen 104: sucursal
+# Función jurídica
 
-## Consigna
+Permite:
 
-Desarrolle **sucursal**.
+- imputar derechos;
+- imputar obligaciones;
+- actuar en el tráfico jurídico.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Evolución contemporánea
 
-## Advertencia
+El Derecho Societario continúa evolucionando frente a:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- globalización;
+- digitalización;
+- inteligencia artificial;
+- nuevas formas empresarias.
 
 ---
-
-# Pregunta de examen 105: agencia
-
-## Consigna
-
-Desarrolle **agencia**.
 
-## Pauta mínima
+# Influencia del CCyC
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El Código Civil y Comercial modificó profundamente la interpretación del Derecho Societario.
 
-## Advertencia
+No sustituyó la LGS.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La complementó.
 
 ---
 
-# Pregunta de examen 106: filial
+# Método de estudio
 
-## Consigna
+Durante el curso trabajaremos siempre en cuatro niveles:
 
-Desarrolle **filial**.
+1. Ley.
+2. Doctrina.
+3. Jurisprudencia.
+4. Aplicación práctica.
 
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
-
-## Advertencia
-
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
 
-# Pregunta de examen 107: LGS
+# Esquema conceptual de la materia
 
-## Consigna
+```
+Actividad económica
+        │
+        ▼
+Empresa
+        │
+        ▼
+Sociedad
+        │
+        ▼
+Persona jurídica
+        │
+        ▼
+Organización
+        │
+        ▼
+Tipos societarios
+```
 
-Desarrolle **LGS**.
-
-## Pauta mínima
-
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Ideas centrales de la clase
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- Sociedad y empresa no son sinónimos.
+- La sociedad es una persona jurídica.
+- Existe separación patrimonial.
+- La personalidad admite límites excepcionales.
+- La LGS debe interpretarse junto con el CCyC.
 
 ---
 
-# Pregunta de examen 108: art. 1 LGS
+# Conceptos que deben dominarse
 
-## Consigna
+Al finalizar esta unidad el estudiante debe poder explicar:
 
-Desarrolle **art. 1 LGS**.
+- sociedad;
+- empresa;
+- personalidad jurídica;
+- tipicidad;
+- desestimación;
+- clasificación;
+- nacionalidad;
+- SAU.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Lectura recomendada
 
-## Advertencia
+Para la próxima clase:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- Nissen, capítulos I a V.
+- Vítolo, Introducción y Capítulo I.
 
 ---
-
-# Cierre
 
-## Ideas centrales
+# Próxima clase
 
-- La ley se estudia a partir de problemas jurídicos.
-- La doctrina permite argumentar.
-- La jurisprudencia muestra el funcionamiento real del sistema.
-- Los casos deben resolverse por etapas.
+## Constitución de sociedades
 
-## Próxima clase
+- Requisitos.
+- Forma.
+- Instrumento constitutivo.
+- Publicidad.
+- Inscripción registral.
+- Nulidades.
 
-Continuaremos con el siguiente bloque del programa.
