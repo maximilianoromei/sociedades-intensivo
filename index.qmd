@@ -41,6 +41,19 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/fallos-clase-01.pdf" target="_blank">Descargar presentación en PDF</a>
 
+### Clase 2
+
+- 🎓 <a href="clases/clase02.html" target="_blank">Presentación de la Clase 2</a>
+
+- 📄 <a href="clases/clase02.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 2 Distinción Empresa y Sociedad
+
+- 🎓 <a href="clases/distincion-empresa-sociedad.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/distincion-empresa-sociedad.pdf" target="_blank">Descargar presentación en PDF</a>
+
+
 ## Enfoque
 
 Ley, doctrina, jurisprudencia y casos prácticos.

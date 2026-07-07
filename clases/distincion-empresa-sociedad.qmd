@@ -1,0 +1,190 @@
+---
+title: "Sociedades Civiles y Comerciales"
+subtitle: "Clase 2"
+author: "Prof. Maximiliano Lucas Romei"
+
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+## ¿Puede existir una empresa sin una sociedad?
+
+La respuesta es **sí**. En el derecho societario argentino es indispensable distinguir **empresa** y **sociedad**, ya que no son conceptos equivalentes.
+
+- **La empresa** constituye una organización económica destinada a la producción o intercambio de bienes o servicios.
+- **La sociedad** es el sujeto de derecho que puede servir como instrumento jurídico para desarrollar esa empresa.
+
+En otras palabras, **la empresa es la realidad económica**, mientras que **la sociedad es la estructura jurídica** que eventualmente la organiza.
+
+> **Idea central:** no toda empresa requiere una sociedad, y no toda sociedad cumple efectivamente la función económica que justifica su existencia.
+
+---
+
+## 1. El empresario individual
+
+El supuesto más claro de empresa sin sociedad es el del **empresario individual**.
+
+Históricamente, el derecho comercial nació regulando la actividad del comerciante individual. Una persona humana puede organizar una empresa, contratar empleados, adquirir bienes, celebrar contratos y desarrollar una actividad económica sin constituir una sociedad.
+
+En este supuesto:
+
+- existe una empresa como organización de factores productivos;
+- el sujeto de derecho continúa siendo la persona humana;
+- no existe separación patrimonial entre la empresa y su titular.
+
+Como consecuencia, el empresario responde con **todo su patrimonio personal** por las obligaciones derivadas de la actividad empresarial, conforme al principio de la **universalidad del patrimonio**, según el cual el patrimonio del deudor constituye la garantía común de sus acreedores.
+
+---
+
+## 2. Los contratos asociativos
+
+El Código Civil y Comercial regula diversos contratos destinados a facilitar el desarrollo conjunto de actividades empresariales:
+
+- Unión Transitoria (UT).
+- Agrupación de Colaboración.
+- Consorcio de Cooperación.
+
+Estas figuras permiten que varias personas organicen una actividad económica común.
+
+Sin embargo:
+
+- **no constituyen sociedades**;
+- **no poseen personalidad jurídica propia**;
+- los derechos y obligaciones permanecen en cabeza de sus integrantes.
+
+Existe, por lo tanto, una empresa organizada sin que nazca un nuevo sujeto de derecho.
+
+---
+
+## 3. Empresa y sociedad: contenido y continente
+
+Desde la doctrina se explica esta diferencia afirmando que:
+
+- la **empresa** constituye el contenido económico;
+- la **sociedad** representa el continente o la estructura jurídica.
+
+La sociedad es solamente una de las posibles formas mediante las cuales puede explotarse una empresa.
+
+### Empresa sin sociedad
+
+Se verifica, entre otros casos, cuando:
+
+- una persona humana desarrolla individualmente una actividad económica;
+- la actividad se organiza mediante contratos asociativos sin personalidad jurídica.
+
+### Sociedad sin empresa
+
+La reforma introducida por la Ley 26.994 reforzó la idea de que la sociedad debe tener un **objeto empresario**, es decir, dedicarse a la producción o intercambio de bienes o servicios.
+
+Por ello, buena parte de la doctrina sostiene que no resulta compatible con el sistema vigente la constitución de sociedades cuya única finalidad sea:
+
+- ser titulares pasivos de inmuebles;
+- mantener bienes registrables sin explotación;
+- constituirse "en cartera" para ser vendidas posteriormente;
+- actuar como simples vehículos patrimoniales sin actividad económica.
+
+La jurisprudencia comercial también ha rechazado estas denominadas **sociedades de cómodo** o **sociedades en cartera**, por entender que desnaturalizan la función económica de la sociedad.
+
+---
+
+## 4. La visión de Nissen
+
+Nissen explica que históricamente la sociedad fue concebida como un mecanismo destinado a **concentrar capitales** para emprender actividades económicas de gran magnitud.
+
+Sin embargo, la práctica comercial demostró una evolución diferente.
+
+Desde comienzos del siglo XX, muchos comerciantes comenzaron a utilizar las sociedades principalmente para **limitar su responsabilidad patrimonial**, evitando que todo su patrimonio personal quedara comprometido por las deudas del negocio.
+
+En consecuencia, la técnica societaria pasó de ser únicamente un instrumento de concentración de capitales a convertirse también en un mecanismo de **limitación del riesgo empresarial**.
+
+Esta explicación permite comprender por qué la sociedad se convirtió en la forma predominante para organizar empresas, aun cuando la empresa podría existir perfectamente sin ella.
+
+---
+
+## 5. La SAU y la SAS
+
+La aparición de las **Sociedades Anónimas Unipersonales (SAU)** y posteriormente de las **Sociedades por Acciones Simplificadas (SAS)** redujo considerablemente la importancia práctica del empresario individual.
+
+Hoy una sola persona puede constituir una sociedad con patrimonio separado.
+
+Esto produce una consecuencia importante:
+
+- económicamente continúa existiendo una empresa explotada por una sola persona;
+- jurídicamente existe una sociedad distinta del empresario, con patrimonio propio.
+
+La separación patrimonial constituye precisamente una de las principales ventajas buscadas por quienes adoptan estas formas societarias.
+
+---
+
+## 6. Nuevas manifestaciones de la empresa
+
+### Empresa social
+
+En otros ordenamientos se ha desarrollado la denominada **empresa social**, destinada a combinar la actividad económica con finalidades de interés social.
+
+En Argentina todavía no existe una regulación específica.
+
+La doctrina destaca que estas experiencias aparecen principalmente como una evolución de la filantropía y del emprendimiento social, aunque carecen todavía de un régimen jurídico propio.
+
+### Empresa familiar
+
+También adquiere creciente importancia la **empresa familiar**.
+
+Según destaca Favier Dubois, estas organizaciones presentan características particulares:
+
+- trasladan los valores familiares al ámbito empresarial;
+- privilegian proyectos de largo plazo;
+- soportan mejor los períodos de crisis;
+- mantienen una relación más estable con trabajadores, proveedores y demás grupos vinculados a la empresa (*stakeholders*).
+
+Estas particularidades han impulsado en diversos países la sanción de normas destinadas a facilitar su continuidad generacional.
+
+---
+
+## 7. La sociedad debe desarrollar una actividad empresaria
+
+La Ley General de Sociedades exige actualmente que la sociedad tenga por finalidad el desarrollo de una actividad empresaria consistente en la producción o intercambio de bienes o servicios.
+
+Esta exigencia excluye, en principio, las sociedades constituidas exclusivamente para:
+
+- ser titulares de inmuebles sin explotación;
+- mantener bienes registrables sin actividad económica;
+- funcionar como sociedades "en cartera";
+- ser comercializadas como sociedades previamente constituidas.
+
+La doctrina entiende que estos supuestos desvirtúan la función económica que justifica el reconocimiento de la personalidad jurídica.
+
+---
+
+## Conclusión
+
+La empresa y la sociedad son conceptos distintos que no deben confundirse.
+
+La **empresa** constituye una organización económica destinada a desarrollar una actividad productiva.
+
+La **sociedad** es una técnica jurídica que permite organizar esa empresa, dotándola de personalidad jurídica y, en la mayoría de los casos, de un patrimonio separado.
+
+Por ello:
+
+- **puede existir empresa sin sociedad**, como ocurre con el empresario individual o mediante contratos asociativos;
+- **no toda sociedad cumple adecuadamente la función empresaria exigida por la ley**, razón por la cual la doctrina y la jurisprudencia cuestionan las sociedades constituidas únicamente para la tenencia pasiva de bienes o para su comercialización como meros vehículos jurídicos.

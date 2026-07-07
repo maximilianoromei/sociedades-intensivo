@@ -1,3052 +1,4601 @@
 ---
-title: "Clase 2 — Personalidad jurídica, tipicidad, clasificación y nacionalidad"
-subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+title: "Sociedades Civiles y Comerciales"
+subtitle: "Clase 2"
 author: "Prof. Maximiliano Lucas Romei"
+
 format:
   revealjs:
     theme: simple
-    slide-number: true
-    chalkboard: true
-    transition: slide
-    incremental: false
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
     scrollable: true
-    width: 960
-    height: 720
-    margin: 0.08
-    smaller: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
 lang: es
+
+execute:
+  echo: false
 ---
 
+# PARTE I
 
----
+# Régimen legal de las sociedades
 
-# Clase 2 — Personalidad jurídica, tipicidad, clasificación y nacionalidad
-
-<!--
-## Ejes
-
-- personalidad jurídica
-- art. 2 LGS
-- CCyC
-- art. 54 LGS
-- art. 144 CCyC
-- tipicidad
-- clasificación
-- nacionalidad
+## La Ley General de Sociedades y su inserción en el ordenamiento jurídico argentino
 
 ---
 
-# Objetivos de aprendizaje
+# ¿Por qué comenzar estudiando el régimen legal?
 
-- Comprender personalidad jurídica.
-- Comprender art. 2 lgs.
-- Comprender ccyc.
-- Comprender art. 54 lgs.
-- Comprender art. 144 ccyc.
-- Comprender tipicidad.
+Antes de analizar qué es una sociedad, es indispensable responder una pregunta previa:
+
+> **¿Qué conjunto de normas regula la vida jurídica de las sociedades?**
+
+Toda cuestión societaria —constitución, funcionamiento, administración, responsabilidad, reorganización o disolución— debe resolverse identificando correctamente la norma aplicable.
+
+La interpretación aislada de un artículo suele conducir a errores.
+
+El Derecho Societario constituye un **sistema normativo**, integrado por normas especiales, normas generales, principios y jurisprudencia.
+
+::: {.callout-important}
+El buen abogado no memoriza artículos: **aprende a determinar cuál es la fuente normativa aplicable a cada conflicto.**
+:::
 
 ---
 
-# Mapa conceptual
+# El Derecho Societario como sistema
 
-```mermaid
+```{mermaid}
 graph TD
-A[Problema jurídico] --> B[Norma]
-B --> C[Doctrina]
-C --> D[Jurisprudencia]
-D --> E[Caso]
-E --> F[Respuesta de examen]
+
+A[Ley General de Sociedades]
+
+B[Código Civil y Comercial]
+
+C[Leyes especiales]
+
+D[Normativa administrativa]
+
+E[Jurisprudencia]
+
+F[Doctrina]
+
+A --> G[Derecho Societario]
+
+B --> G
+
+C --> G
+
+D --> G
+
+E --> G
+
+F --> G
+```
+
+### Idea central
+
+La LGS constituye el eje del sistema, pero **no agota** toda la regulación societaria.
+
+---
+
+# La Ley General de Sociedades
+
+::: {.callout-important}
+
+**Ley N.º 19.550**
+
+Sancionada el **3 de abril de 1972**.
+
+Vigente desde el **25 de abril de 1972**.
+
+Denominación actual:
+
+**Ley General de Sociedades.**
+
+:::
+
+Es la ley especial que regula:
+
+- constitución de sociedades;
+- funcionamiento interno;
+- relaciones entre socios;
+- representación;
+- administración;
+- fiscalización;
+- reorganización;
+- disolución y liquidación.
+
+Continúa siendo el núcleo del Derecho Societario argentino.
+
+---
+
+# ¿Por qué dejó de llamarse "Ley de Sociedades Comerciales"?
+
+---
+
+Hasta el Código Civil y Comercial, la ley llevaba por nombre:
+
+> **Ley de Sociedades Comerciales**
+
+Ello respondía a la tradicional distinción entre:
+
+- sociedades civiles;
+- sociedades comerciales.
+
+La Ley **26.994** eliminó esa diferenciación.
+
+Desde entonces la ley pasó a denominarse:
+
+> **Ley General de Sociedades**
+
+### Consecuencia
+
+Hoy todas las sociedades privadas quedan sometidas al mismo régimen general, cualquiera sea la naturaleza de su actividad.
+
+---
+
+# La reforma de la Ley 26.994
+
+La reforma introducida por la Ley 26.994 no consistió únicamente en cambiar el nombre de la ley.
+
+Representó una profunda modificación del Derecho Privado argentino.
+
+Entre otros aspectos:
+
+- unificó el Derecho Civil y Comercial;
+- eliminó la distinción entre sociedades civiles y comerciales;
+- incorporó la sociedad anónima unipersonal;
+- modificó profundamente el régimen de las sociedades de la Sección IV;
+- fortaleció el principio de conservación de la empresa;
+- amplió la integración con el Código Civil y Comercial.
+
+Muchos autores consideran que fue la reforma más importante desde 1972.
+
+---
+
+# Evolución legislativa
+
+| Año | Norma | Contenido |
+|------|--------|-----------|
+| 1972 | Ley 19.550 | Régimen originario |
+| 1983 | Ley 22.903 | Reforma integral |
+| 2014 | Ley 26.994 | Código Civil y Comercial |
+| 2016 | Ley 27.290 | Reforma de la SAU |
+| 2017 | Ley 27.349 | Sociedades por Acciones Simplificadas |
+| 2018 | Ley 27.444 | Digitalización y simplificación |
+
+::: {.callout-note}
+Ninguna reforma alteró la estructura básica diseñada en 1972, aunque sí modificaron profundamente algunos institutos.
+:::
+
+---
+
+# La Ley General de Sociedades es una ley especial
+
+Uno de los errores más frecuentes consiste en creer que el Código Civil y Comercial desplazó a la Ley General de Sociedades.
+
+Ello es incorrecto.
+
+La LGS mantiene plenamente su vigencia como **ley especial**.
+
+En consecuencia:
+
+1. Primero debe consultarse la Ley General de Sociedades.
+2. Solo cuando exista silencio, insuficiencia o remisión corresponde acudir al Código Civil y Comercial.
+
+Este criterio responde al principio:
+
+> **Lex specialis derogat legi generali.**
+
+---
+
+# Integración con el Código Civil y Comercial
+
+La relación entre ambos cuerpos normativos no es de sustitución sino de integración.
+
+El Código Civil y Comercial resulta especialmente relevante para resolver cuestiones relativas a:
+
+- capacidad;
+- persona jurídica;
+- representación;
+- nulidades;
+- interpretación de los actos jurídicos;
+- prescripción;
+- responsabilidad civil;
+- fraude;
+- buena fe.
+
+En consecuencia, el operador jurídico debe dominar ambos regímenes.
+
+---
+
+# Esquema de aplicación normativa
+
+```{mermaid}
+flowchart TD
+
+A[Conflicto societario]
+
+A --> B{¿Existe solución expresa en la LGS?}
+
+B -->|Sí| C[Aplicación directa]
+
+B -->|No| D[Código Civil y Comercial]
+
+D --> E[Principios generales]
+
+E --> F[Jurisprudencia]
+
+F --> G[Doctrina]
 ```
 
 ---
 
-# Personalidad jurídica
+# ¿Qué leyes especiales complementan la LGS?
 
-## Bloque
+La actividad societaria suele intersectarse con otros microsistemas jurídicos.
 
-Personalidad jurídica
+Entre ellos:
 
-## Método
+- Ley de Mercado de Capitales.
+- Ley de Concursos y Quiebras.
+- Ley de Cooperativas.
+- Ley de Entidades Financieras.
+- Ley de Seguros.
+- Ley de Defensa de la Competencia.
+- Ley de Prevención del Lavado de Activos.
+- Normativa de la Comisión Nacional de Valores.
+- Normativa de la Inspección General de Justicia.
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+El régimen societario moderno exige una visión interdisciplinaria.
 
 ---
 
-# Función de la personalidad
+# Doctrina
 
-## Concepto
+::: {.callout-tip}
 
-La personalidad jurídica permite imputar derechos, obligaciones y patrimonio a la sociedad como sujeto distinto de sus integrantes.
+**Nissen**
 
-## Norma / eje jurídico
+La Ley General de Sociedades continúa siendo el régimen central del Derecho Societario argentino y el Código Civil y Comercial no alteró su naturaleza de legislación especial, aunque introdujo modificaciones que, a su juicio, flexibilizaron excesivamente algunos principios clásicos del sistema.
 
-Art. 2 LGS y reglas del CCyC sobre personas jurídicas.
+:::
 
-## Lectura doctrinaria
+::: {.callout-tip}
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+**Vítolo**
 
-## Consecuencia práctica
+La reforma debe interpretarse dentro de un proceso de modernización del Derecho Privado, procurando armonizar la autonomía de la voluntad con la protección del tráfico jurídico y de los terceros.
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+:::
 
-## Pregunta de examen
-
-¿Qué significa que la sociedad sea sujeto de derecho?
-
 ---
 
-# Autonomía patrimonial
+# Para el parcial
 
-## Concepto
+El estudiante debería poder responder:
 
-La sociedad tiene patrimonio diferenciado del patrimonio de los socios.
+1. ¿Por qué la Ley 19.550 pasó a denominarse Ley General de Sociedades?
 
-## Norma / eje jurídico
+2. ¿Qué modificó sustancialmente la Ley 26.994?
 
-LGS, CCyC y normativa especial cuando corresponda.
+3. ¿Cuál es la relación entre la LGS y el Código Civil y Comercial?
 
-## Lectura doctrinaria
+4. ¿Qué significa afirmar que la LGS constituye una ley especial?
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+5. ¿Cuándo corresponde aplicar supletoriamente el Código Civil y Comercial?
 
-## Consecuencia práctica
+---
 
-Permite separar riesgo, crédito, deudas y responsabilidad.
+# PARTE II
 
-## Pregunta de examen
+# El concepto legal de sociedad
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+## Artículo 1 de la Ley General de Sociedades
 
 ---
+
+# El artículo más importante de la materia
 
-# Atributos
+¿Por qué comenzamos por el artículo 1?
 
-## Concepto
+Porque allí el legislador responde la pregunta fundamental del Derecho Societario:
 
-Nombre, domicilio, patrimonio, capacidad, órganos y representación hacen operativa la personalidad.
+> **¿Cuándo existe una sociedad jurídicamente reconocida?**
 
-## Norma / eje jurídico
+Toda la construcción posterior de la Ley General de Sociedades parte de esta definición.
+
+En pocas líneas el legislador concentra los elementos esenciales que distinguen a la sociedad de cualquier otra organización jurídica.
+
+::: {.callout-important}
+Comprender correctamente el artículo 1 permite interpretar buena parte de toda la Ley General de Sociedades.
+:::
+
+---
 
-LGS, CCyC y normativa especial cuando corresponda.
+# Texto del artículo 1 LGS
 
-## Lectura doctrinaria
+::: {.callout-important appearance="simple"}
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+## Artículo 1
 
-## Consecuencia práctica
+> **Habrá sociedad si una o más personas, en forma organizada conforme a uno de los tipos previstos en esta ley, se obligan a realizar aportes para aplicarlos a la producción o intercambio de bienes o servicios, participando de los beneficios y soportando las pérdidas.**
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+:::
 
-## Pregunta de examen
+No existe una sola palabra innecesaria.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Cada expresión incorpora un requisito legal cuya ausencia puede impedir la existencia de una sociedad.
 
 ---
 
-# Alcances
+# Anatomía del artículo 1
 
-## Concepto
+```{mermaid}
+graph LR
 
-La personalidad tiene alcance legal: no es absoluta ni puede invocarse abusivamente.
+A[Una o más personas]
 
-## Norma / eje jurídico
+-->B[Organización]
 
-LGS, CCyC y normativa especial cuando corresponda.
+-->C[Tipo legal]
 
-## Lectura doctrinaria
+-->D[Aportes]
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+-->E[Actividad económica]
 
-## Consecuencia práctica
+-->F[Beneficios]
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+-->G[Pérdidas]
+```
 
-## Pregunta de examen
+Cada uno de estos elementos posee contenido jurídico propio.
 
-Explique la relatividad de la personalidad jurídica.
+Durante las próximas diapositivas analizaremos cada uno por separado.
 
 ---
 
-# Desestimación e inoponibilidad
+# Una definición legal compleja
 
-## Bloque
+La definición contenida en el artículo 1 combina tres dimensiones diferentes.
 
-Desestimación e inoponibilidad
+## Dimensión subjetiva
 
-## Método
+¿Quiénes pueden constituir una sociedad?
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+## Dimensión estructural
 
----
+¿Cómo debe organizarse?
+
+## Dimensión funcional
 
-# Art. 54 LGS
+¿Para qué existe la sociedad?
 
-## Concepto
+No basta con la presencia de uno solo de estos elementos.
 
-La personalidad puede ser inoponible cuando la actuación encubre fines extrasocietarios, viola la ley, el orden público, la buena fe o frustra derechos de terceros.
+Todos deben coexistir.
+
+---
 
-## Norma / eje jurídico
+# ¿Qué cambió con la reforma de 2015?
 
-Art. 54, tercer párrafo, LGS.
+Hasta la entrada en vigencia de la Ley 26.994 el artículo comenzaba diciendo:
 
-## Lectura doctrinaria
+> **Dos o más personas...**
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Actualmente dispone:
 
-## Consecuencia práctica
+> **Una o más personas...**
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+Este pequeño cambio produjo una enorme transformación del sistema.
 
-## Pregunta de examen
+Por primera vez el Derecho argentino admitió expresamente la existencia de sociedades constituidas por un único socio.
 
-¿Cuándo procede la inoponibilidad?
+Nació así la **Sociedad Anónima Unipersonal (SAU).**
 
 ---
 
-# Art. 144 CCyC
+# Comparación entre ambos textos legales
 
-## Concepto
+| Régimen anterior | Régimen vigente |
+|-----------------|-----------------|
+| Dos o más personas | Una o más personas |
+| Contrato necesariamente plurilateral | Puede existir un único fundador |
+| No existía SAU | Se incorpora la SAU |
+| Pluralidad obligatoria | Excepcionalmente se admite unipersonalidad |
 
-El CCyC prevé la inoponibilidad frente al uso abusivo de la persona jurídica.
+::: {.callout-note}
+La reforma no convirtió a todas las sociedades en unipersonales.
 
-## Norma / eje jurídico
+La unipersonalidad continúa siendo excepcional.
+:::
 
-Art. 144 CCyC.
+---
+
+# ¿Puede cualquier tipo social ser unipersonal?
 
-## Lectura doctrinaria
+La respuesta es **no**.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+La Ley General de Sociedades solamente admite originariamente la unipersonalidad para:
 
-## Consecuencia práctica
+# Sociedad Anónima
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+No pueden constituirse originariamente con un único socio:
 
-## Pregunta de examen
+- Sociedad de Responsabilidad Limitada.
+- Sociedad Colectiva.
+- Sociedad en Comandita.
+- Sociedad de Capital e Industria.
+- Sociedad en Comandita por Acciones.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+La razón responde al principio de tipicidad, que estudiaremos más adelante.
 
 ---
+
+# ¿Por qué el legislador incorporó la SAU?
+
+La doctrina había reclamado durante décadas la incorporación de sociedades unipersonales.
 
-# No es nulidad
+Las principales razones fueron:
 
-## Concepto
+- evitar socios ficticios;
+- facilitar el desarrollo empresario individual;
+- limitar el riesgo patrimonial;
+- adecuar el derecho argentino a las tendencias comparadas;
+- favorecer la inversión.
 
-La inoponibilidad no elimina necesariamente la sociedad; impide oponer la personalidad en un caso concreto.
+La reforma respondió a una realidad económica ya existente.
 
-## Norma / eje jurídico
+---
 
-LGS, CCyC y normativa especial cuando corresponda.
+# ¿Desapareció el contrato de sociedad?
 
-## Lectura doctrinaria
+La incorporación de la SAU generó inmediatamente un debate doctrinario.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Si una sola persona constituye una sociedad...
 
-## Consecuencia práctica
+## ¿Sigue existiendo un contrato?
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+¿O estamos frente a un acto jurídico unilateral?
 
-## Pregunta de examen
+La respuesta depende de la teoría que se adopte acerca de la naturaleza jurídica del acto constitutivo.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Ese debate ocupa un lugar central en la doctrina societaria.
 
 ---
+
+# Pregunta para discutir en clase
 
-# No basta la insolvencia
+Una persona constituye una SAU.
 
-## Concepto
+## ¿Dónde está el acuerdo de voluntades?
 
-La insolvencia puede ser indicio, pero no reemplaza la prueba del abuso o desvío.
+- ¿Existe realmente un contrato?
 
-## Norma / eje jurídico
+- ¿Puede hablarse de contrato cuando interviene una sola voluntad?
 
-LGS, CCyC y normativa especial cuando corresponda.
+- ¿Cambió la naturaleza jurídica de la sociedad?
 
-## Lectura doctrinaria
+Estas preguntas dieron origen a una intensa discusión doctrinaria que analizaremos inmediatamente.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+---
 
-## Consecuencia práctica
+# Naturaleza jurídica del acto constitutivo
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+## ¿Qué estamos preguntando realmente?
 
-## Pregunta de examen
+Antes de estudiar las distintas teorías debemos formular correctamente el problema jurídico.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Cuando varias personas constituyen una sociedad...
 
----
+## ¿Qué acto jurídico están celebrando?
 
-# Error frecuente: No basta la insolvencia
+- ¿Un contrato?
+- ¿Un acto colectivo?
+- ¿Un acto complejo?
+- ¿Una institución?
 
-## Confusión habitual
+La respuesta no es meramente académica.
 
-Creer que toda sociedad insolvente habilita correr el velo.
+De ella dependen cuestiones tan relevantes como:
 
-## Corrección
+- interpretación del estatuto;
+- régimen de nulidades;
+- incorporación de nuevos socios;
+- modificación del contrato;
+- responsabilidad de los fundadores.
 
-Identificar primero la naturaleza jurídica y recién después aplicar el régimen normativo.
+::: {.callout-important}
+La naturaleza jurídica del acto constitutivo condiciona toda la teoría general de las sociedades.
+:::
 
 ---
 
-# Sociedades pantalla
+# Naturaleza jurídica del acto constitutivo
 
-## Concepto
+## El punto de partida correcto
 
-La estructura societaria puede ser legítima o abusiva según su función real y los efectos producidos.
+La sociedad nace normalmente de un **contrato**.
 
-## Norma / eje jurídico
+Pero no de cualquier contrato.
+
+No es un contrato de cambio, como la compraventa o la locación.
+
+Es un **contrato plurilateral de organización**, en el cual las partes no intercambian prestaciones contrapuestas, sino que coordinan aportes y voluntades para crear una estructura común.
+
+---
 
-LGS, CCyC y normativa especial cuando corresponda.
+# Por qué no es un contrato de cambio
 
-## Lectura doctrinaria
+En los contratos de cambio, las partes se ubican en posiciones contrapuestas.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+```{mermaid}
+flowchart LR
+    A[Parte A] -->|entrega una cosa| B[Parte B]
+    B -->|paga un precio| A
+```
 
-## Consecuencia práctica
+Ejemplo típico:
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+- compraventa;
+- permuta;
+- locación;
+- mutuo.
 
-## Pregunta de examen
+Cada parte busca una prestación de la otra.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+El contrato se estructura sobre el intercambio.
 
 ---
 
-# Jurisprudencia
+# Contrato de sociedad
 
-## Bloque
+En la sociedad, la lógica es distinta.
 
-Jurisprudencia
+Los socios no se obligan para intercambiar prestaciones entre sí.
 
-## Método
+Se obligan a realizar aportes para construir una organización común.
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+```{mermaid}
+flowchart TD
+    A[Socio A] --> D[Sociedad]
+    B[Socio B] --> D[Sociedad]
+    C[Socio C] --> D[Sociedad]
+    D --> E[Actividad organizada]
+    E --> F[Beneficios y pérdidas]
+```
 
+La prestación de cada socio no se dirige contra otro socio.
+
+Se dirige a la formación y funcionamiento de la organización social.
+
 ---
+
+# Contrato plurilateral
+
+La sociedad clásica es un contrato plurilateral porque puede reunir más de dos partes.
 
-# Parke Davis
+Pero lo importante no es solamente el número de partes.
 
-## Concepto
+Lo decisivo es que todas ellas se vinculan a una finalidad común.
 
-Caso clásico para analizar personalidad, realidad económica y grupo empresario.
+```{mermaid}
+flowchart TD
+    A[Socios] --> B[Aportes]
+    B --> C[Organización]
+    C --> D[Producción o intercambio]
+    D --> E[Beneficios]
+    D --> F[Pérdidas]
+```
 
-## Norma / eje jurídico
+Por eso el contrato de sociedad no puede explicarse con el esquema bilateral clásico.
 
-LGS, CCyC y normativa especial cuando corresponda.
+---
 
-## Lectura doctrinaria
+# Contrato de organización
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+La sociedad no se agota en el consentimiento inicial.
 
-## Consecuencia práctica
+El acto constitutivo crea una estructura destinada a funcionar en el tiempo.
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+Esa estructura comprende:
 
-## Pregunta de examen
+- patrimonio;
+- órganos;
+- reglas de administración;
+- reglas de representación;
+- régimen de mayorías;
+- derechos y obligaciones de los socios;
+- reglas de responsabilidad.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Por eso la doctrina habla de **contrato de organización**.
 
 ---
+
+# Contrato de colaboración
 
-# Caso: Parke Davis
+También puede hablarse de contrato de colaboración.
 
-## Supuesto
+La idea central es que los socios no se enfrentan como comprador y vendedor.
 
-Reconstruir estructura de control, hechos, pretensión fiscal o patrimonial, problema jurídico y regla del fallo.
+Colaboran en una organización común.
 
-## Consignas
+```{mermaid}
+flowchart LR
+    A[Socio A] --> D[Fin común]
+    B[Socio B] --> D[Fin común]
+    C[Socio C] --> D[Fin común]
+```
 
-1. Identifique norma aplicable.
-2. Determine hechos relevantes.
-3. Proponga solución fundada.
-4. Redacte respuesta de examen.
+La sociedad se funda en la convergencia de prestaciones hacia un mismo resultado económico.
 
 ---
+
+# Posición de Vítolo
+
+Vítolo parte de la complejidad del fenómeno societario.
 
-# Swift-Deltec
+El acto constitutivo:
 
-## Concepto
+1. genera derechos y obligaciones entre quienes lo celebran;
+2. da lugar al nacimiento de un nuevo sujeto de derecho;
+3. crea una persona jurídica distinta de los socios;
+4. permite imputar derechos y obligaciones a la sociedad.
 
-Precedente relevante sobre grupos, unidad económica y límites de la personalidad formal.
+Por eso explica que la doctrina haya ensayado distintas categorías: acto colectivo, acto complejo, institución y contrato.
 
-## Norma / eje jurídico
+Pero la explicación central sigue siendo contractual, entendida como contrato de organización o colaboración.
 
-LGS, CCyC y normativa especial cuando corresponda.
+---
 
-## Lectura doctrinaria
+# Posición de Nissen
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Nissen también ubica el tema dentro del contrato de sociedad.
 
-## Consecuencia práctica
+Su desarrollo distingue:
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+- naturaleza jurídica del acto constitutivo;
+- caracteres del contrato de sociedad;
+- diferencia entre contratos de organización y contratos de cambio;
+- elementos del contrato de sociedad.
 
-## Pregunta de examen
+La clave es que la sociedad no es un contrato de intercambio.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Es un contrato que crea una organización permanente.
 
 ---
 
-# Caso: Swift-Deltec
+# Error a evitar
 
-## Supuesto
+No debe enseñarse que la teoría del acto complejo reemplaza al contractualismo.
 
-Dibujar grupo, controlante, sociedades operativas y terceros afectados.
+Esa formulación es equívoca.
 
-## Consignas
+La explicación más precisa es otra:
 
-1. Identifique norma aplicable.
-2. Determine hechos relevantes.
-3. Proponga solución fundada.
-4. Redacte respuesta de examen.
+> La sociedad mantiene naturaleza contractual, pero no como contrato de cambio, sino como contrato plurilateral de organización o colaboración.
 
----
+Las teorías del acto colectivo, acto complejo e institucional son construcciones doctrinarias relevantes, pero no desplazan la calificación contractual en la lectura principal de los manuales utilizados.
 
-# Palomeque
+---
 
-## Concepto
+# Teorías doctrinarias
 
-Fallo útil para marcar límites a la desestimación: no todo incumplimiento autoriza art. 54.
+La doctrina discutió distintas categorías para explicar el acto constitutivo.
 
-## Norma / eje jurídico
+| Teoría | Idea central | Alcance |
+|---|---|---|
+| Contractual | La sociedad nace de un contrato. | Es la explicación principal, reformulada como contrato de organización. |
+| Acto colectivo | Voluntades paralelas orientadas a un mismo fin. | Explica la convergencia de voluntades. |
+| Acto complejo | Voluntades que se integran en un acto unitario. | Explica la formación del acto, pero no desplaza necesariamente el contrato. |
+| Institucional | La sociedad como organización con interés propio. | Ayuda a explicar efectos posteriores, interés social y tutela de terceros. |
 
-LGS, CCyC y normativa especial cuando corresponda.
+---
 
-## Lectura doctrinaria
+# Contrato e institución
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+La sociedad puede ser contractual en su origen y presentar rasgos institucionales en su funcionamiento.
 
-## Consecuencia práctica
+No hay contradicción.
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+```{mermaid}
+flowchart TD
+    A[Acto constitutivo] --> B[Contrato plurilateral de organización]
+    B --> C[Nace la sociedad]
+    C --> D[Persona jurídica]
+    D --> E[Órganos]
+    D --> F[Patrimonio propio]
+    D --> G[Interés social]
+    D --> H[Terceros]
+```
 
-## Pregunta de examen
+La voluntad de los socios explica el nacimiento.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+La organización explica el funcionamiento posterior.
 
 ---
 
-# Caso: Palomeque
+# Sociedad unipersonal
 
-## Supuesto
+La SAU obliga a ajustar el lenguaje.
 
-Analizar por qué el tribunal no admite una extensión automática.
+Si hay un solo constituyente, no hay contrato plurilateral en sentido estricto.
 
-## Consignas
+En ese caso, el acto fundacional debe explicarse como una **declaración unilateral de voluntad con finalidad organizativa**.
 
-1. Identifique norma aplicable.
-2. Determine hechos relevantes.
-3. Proponga solución fundada.
-4. Redacte respuesta de examen.
+```{mermaid}
+flowchart TD
+    A[Único socio] --> B[Declaración unilateral]
+    B --> C[Constitución de SAU]
+    C --> D[Persona jurídica distinta]
+```
 
+Esto no elimina la naturaleza contractual de la sociedad pluripersonal.
+
+Simplemente obliga a distinguir los supuestos.
+
 ---
 
-# Carballo
+# Comparación necesaria
 
-## Concepto
+| Supuesto | Fuente del acto constitutivo | Explicación técnica |
+|---|---|---|
+| Sociedad pluripersonal | Contrato | Contrato plurilateral de organización o colaboración. |
+| SAU | Declaración unilateral | Acto unilateral organizativo con vocación societaria. |
+| Sociedad devenida unipersonal | Nació por contrato, luego perdió pluralidad | Problema posterior de régimen aplicable, no de nacimiento. |
 
-Caso para discutir responsabilidad, control societario y aplicación concreta de la inoponibilidad.
+---
 
-## Norma / eje jurídico
+# Ejemplo correcto: SRL pluripersonal
 
-LGS, CCyC y normativa especial cuando corresponda.
+Dos personas constituyen una SRL.
 
-## Lectura doctrinaria
+Ambas realizan aportes.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Ambas participan en beneficios y pérdidas.
 
-## Consecuencia práctica
+Ambas crean una organización destinada a producir o intercambiar bienes o servicios.
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+No hay intercambio entre ellas como en una compraventa.
 
-## Pregunta de examen
+Hay creación de una estructura común.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+```{mermaid}
+flowchart TD
+    A[Socio A] --> C[Contrato de SRL]
+    B[Socio B] --> C
+    C --> D[Persona jurídica]
+    D --> E[Patrimonio social]
+    D --> F[Administración]
+    D --> G[Actividad económica]
+```
 
 ---
+
+# Ejemplo correcto: SAU
 
-# Tipicidad
+Una persona constituye una Sociedad Anónima Unipersonal.
 
-## Bloque
+No hay dos partes contratantes.
 
-Tipicidad
+Por eso no corresponde hablar de contrato plurilateral.
 
-## Método
+Hay una declaración unilateral admitida por la ley para crear una persona jurídica societaria.
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+```{mermaid}
+flowchart TD
+    A[Constituyente único] --> B[Acto unilateral]
+    B --> C[SAU]
+    C --> D[Personalidad jurídica]
+    C --> E[Patrimonio separado]
+    C --> F[Órganos y controles]
+```
 
 ---
 
-# Concepto de tipicidad
+# Ejemplo correcto: sociedad devenida unipersonal
 
-## Concepto
+Una SRL nace con dos socios.
 
-La tipicidad ordena los modelos societarios admitidos y permite anticipar régimen de responsabilidad, órganos, capital y fiscalización.
+Luego uno adquiere la totalidad de las cuotas.
 
-## Norma / eje jurídico
+```{mermaid}
+flowchart TD
+    A[Contrato originario] --> B[SRL pluripersonal]
+    B --> C[Un socio adquiere todas las cuotas]
+    C --> D[SRL devenida unipersonal]
+```
 
-LGS, CCyC y normativa especial cuando corresponda.
+El problema no es la naturaleza del acto constitutivo originario.
 
-## Lectura doctrinaria
+El problema es el régimen aplicable después de la pérdida de pluralidad.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Por eso este tema se estudia dentro de la unipersonalidad sobreviniente.
 
-## Consecuencia práctica
+---
+
+# Síntesis doctrinaria
+
+::: {.callout-important}
+
+La sociedad pluripersonal nace de un contrato.
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+Pero no de un contrato de cambio.
 
-## Pregunta de examen
+Nace de un contrato plurilateral de organización o colaboración.
 
-¿Para qué sirve la tipicidad?
+Ese contrato crea una persona jurídica distinta de los socios, con patrimonio, órganos, reglas internas y actuación frente a terceros.
 
+En la SAU, en cambio, el acto fundacional no es contractual sino unilateral.
+
+:::
+
 ---
 
-# Rasgos tipificantes
+# Para el parcial
 
-## Concepto
+Una respuesta sólida debería decir:
 
-Responsabilidad, capital, participaciones, órganos, administración, representación y fiscalización.
+1. La sociedad pluripersonal tiene naturaleza contractual.
+2. No es un contrato de cambio.
+3. Es un contrato plurilateral de organización o colaboración.
+4. El acto constitutivo crea una estructura jurídica permanente.
+5. La SAU exige distinguir el supuesto de constitución unilateral.
+6. Las teorías del acto colectivo, acto complejo e institucional sirven para explicar aspectos del fenómeno, pero no reemplazan la calificación contractual principal.
 
-## Norma / eje jurídico
+---
 
-LGS, CCyC y normativa especial cuando corresponda.
+# Error frecuente
 
-## Lectura doctrinaria
+::: {.callout-warning}
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+No afirmar:
 
-## Consecuencia práctica
+> “La sociedad no es contrato porque tiene personalidad jurídica.”
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+La personalidad jurídica no elimina el origen contractual de la sociedad pluripersonal.
 
-## Pregunta de examen
+Lo correcto es afirmar que el contrato societario tiene efectos organizativos: crea una persona jurídica distinta de los socios.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+:::
 
 ---
-
-# Nuevo alcance
 
-## Concepto
+# Anatomía del artículo 1
 
-La reforma flexibilizó los efectos de la atipicidad, pero no eliminó la función ordenadora de los tipos.
+## El concepto legal de sociedad
 
-## Norma / eje jurídico
+```{mermaid}
+mindmap
+  root((Sociedad))
 
-LGS, CCyC y normativa especial cuando corresponda.
+    Personas
 
-## Lectura doctrinaria
+    Organización
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+    Tipo legal
 
-## Consecuencia práctica
+    Aportes
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+    Actividad económica
 
-## Pregunta de examen
+    Beneficios
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+    Pérdidas
+```
 
 ---
 
-# Clasificación y nacionalidad
+# Una o más personas
 
-## Bloque
+## El elemento subjetivo de la sociedad
 
-Clasificación y nacionalidad
+El artículo 1 de la Ley General de Sociedades comienza afirmando:
 
-## Método
+> **"Habrá sociedad si una o más personas..."**
 
-Norma aplicable, doctrina, consecuencias prácticas y preguntas de examen.
+Aunque pueda parecer una expresión sencilla, esta primera frase modificó uno de los pilares históricos del Derecho Societario argentino.
 
----
+Hasta la entrada en vigencia de la Ley 26.994 la ley exigía necesariamente la pluralidad de socios.
 
-# Clasificación por responsabilidad
+Desde el año 2015, el legislador admite, en determinados supuestos, la constitución de sociedades por una sola persona.
 
-## Concepto
+La modificación no fue meramente terminológica.
 
-Permite distinguir sociedades de responsabilidad limitada, ilimitada o mixta.
+Importó un cambio conceptual de enorme trascendencia.
 
-## Norma / eje jurídico
+---
 
-LGS, CCyC y normativa especial cuando corresponda.
+# Evolución legislativa
 
-## Lectura doctrinaria
+## Antes y después de la Ley 26.994
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+| Texto anterior | Texto vigente |
+|----------------|---------------|
+| Dos o más personas | Una o más personas |
+| Pluralidad obligatoria | Admite excepcionalmente la unipersonalidad |
+| No existía SAU | Se incorpora la Sociedad Anónima Unipersonal |
+| La sociedad era necesariamente plurilateral | Puede originarse por un único fundador |
 
-## Consecuencia práctica
+::: {.callout-important}
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+La reforma no eliminó el principio de pluralidad.
 
-## Pregunta de examen
+Lo flexibilizó únicamente para los supuestos expresamente admitidos por la ley.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+:::
 
 ---
+
+# ¿Quién puede ser socio?
+
+La Ley General de Sociedades utiliza deliberadamente la palabra **persona**.
 
-# Clasificación por capital
+No distingue entre personas humanas y personas jurídicas.
 
-## Concepto
+En consecuencia pueden ser socios:
 
-Partes de interés, cuotas y acciones.
+- personas humanas;
+- sociedades;
+- asociaciones civiles;
+- fundaciones;
+- cooperativas (cuando su régimen especial lo permita);
+- otras personas jurídicas autorizadas por el ordenamiento.
 
-## Norma / eje jurídico
+La capacidad para adquirir la calidad de socio se rige, en principio, por las normas generales del Código Civil y Comercial.
 
-LGS, CCyC y normativa especial cuando corresponda.
+---
 
-## Lectura doctrinaria
+# La capacidad para constituir sociedades
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Como regla general, puede constituir una sociedad quien tenga capacidad para realizar actos jurídicos.
 
-## Consecuencia práctica
+Sin embargo, existen numerosos supuestos especiales.
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+Por ejemplo:
 
-## Pregunta de examen
+- menores de edad;
+- personas con capacidad restringida;
+- cónyuges;
+- sociedades extranjeras;
+- sociedades sometidas a legislación especial;
+- personas sujetas a incompatibilidades legales.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+Cada uno de estos supuestos presenta particularidades que serán analizadas al estudiar los requisitos de constitución.
 
 ---
+
+# ¿Por qué se incorporó la SAU?
 
-# Clasificación por organización
+Durante muchos años la práctica reveló una situación paradójica.
 
-## Concepto
+Quien deseaba desarrollar una actividad empresarial con responsabilidad limitada debía buscar un segundo socio.
 
-Personalistas, mixtas y capitalistas.
+En numerosas oportunidades ese segundo socio era puramente formal.
 
-## Norma / eje jurídico
+Aparecían entonces los llamados:
 
-LGS, CCyC y normativa especial cuando corresponda.
+- socios nominales;
+- socios aparentes;
+- "socios del uno por ciento";
+- prestanombres.
 
-## Lectura doctrinaria
+La reforma procuró eliminar esta práctica admitiendo la constitución de una sociedad integrada por un único accionista.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+---
 
-## Consecuencia práctica
+# Un ejemplo práctico
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+Pedro desea explotar una empresa de desarrollo de software.
 
-## Pregunta de examen
+Antes de 2015 tenía dos alternativas.
 
-Explique el instituto y fundamente con norma, doctrina y consecuencia práctica.
+### Primera
 
----
+Constituir una sociedad incorporando un segundo socio meramente formal.
 
-# Nacionalidad de sociedades
+### Segunda
 
-## Concepto
+Actuar como empresario individual, respondiendo con todo su patrimonio.
 
-Problema referido a ley aplicable, domicilio, sede real, control y actuación en el extranjero.
+Ambas soluciones resultaban insatisfactorias.
 
-## Norma / eje jurídico
+La SAU aparece precisamente para superar ese problema.
 
-LGS, CCyC y normativa especial cuando corresponda.
+---
+
+# La unipersonalidad continúa siendo excepcional
 
-## Lectura doctrinaria
+Uno de los errores más frecuentes consiste en afirmar que cualquier sociedad puede constituirse con un solo socio.
 
-- **Vítolo:** analizar la función económica y organizativa de la institución.
-- **Nissen:** ubicar la institución dentro del sistema legal, la personalidad, la tipicidad y la tutela de terceros.
-- **Favier Dubois:** conectar la institución con empresa, gobierno corporativo, realidad económica y paradigmas societarios cuando corresponda.
+Ello es incorrecto.
 
-## Consecuencia práctica
+La Ley General de Sociedades solamente admite la unipersonalidad originaria en la:
 
-Permite resolver correctamente el encuadre del caso y evitar respuestas puramente memorísticas.
+# Sociedad Anónima Unipersonal
 
-## Pregunta de examen
+Los restantes tipos sociales continúan exigiendo pluralidad de socios para su constitución.
 
-Explique criterios de nacionalidad societaria.
+Este aspecto constituye una manifestación concreta del principio de tipicidad.
 
 ---
+
+# ¿Puede una SRL transformarse en unipersonal?
+
+Supongamos que una SRL tiene dos socios.
 
-# Pregunta de examen 1: personalidad jurídica
+Uno de ellos vende la totalidad de sus cuotas al otro.
 
-## Consigna
+La sociedad queda integrada por una sola persona.
 
-Desarrolle **personalidad jurídica**.
+## Pregunta
 
-## Pauta mínima
+¿Puede continuar funcionando?
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La respuesta exige distinguir entre:
 
-## Advertencia
+- unipersonalidad originaria;
+- unipersonalidad sobreviniente.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta cuestión será retomada al estudiar las causales de disolución y las reformas introducidas por la Ley 26.994.
 
 ---
 
-# Pregunta de examen 2: art. 2 LGS
+# Doctrina
 
-## Consigna
+::: {.callout-note}
 
-Desarrolle **art. 2 LGS**.
+La incorporación de la sociedad unipersonal constituye una de las innovaciones más relevantes de la Ley 26.994.
 
-## Pauta mínima
+Sin embargo, el legislador optó por una solución prudente.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No consagró un principio general de unipersonalidad.
 
-## Advertencia
+La admitió únicamente para un tipo social específico —la sociedad anónima— y bajo un régimen sujeto a mayores exigencias de control y publicidad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
 ---
 
-# Pregunta de examen 3: CCyC
+# Caso práctico
 
-## Consigna
+María constituye una Sociedad Anónima Unipersonal.
 
-Desarrolle **CCyC**.
+Un año después incorpora un nuevo accionista.
 
-## Pauta mínima
+## Preguntas
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+1. ¿Debe transformarse la sociedad?
 
-## Advertencia
+2. ¿Continúa siendo una SAU?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+3. ¿Qué consecuencias produce el ingreso del segundo socio?
 
----
+4. ¿Existe alguna modificación en la personalidad jurídica?
 
-# Pregunta de examen 4: art. 54 LGS
+---
 
-## Consigna
+# Solución
 
-Desarrolle **art. 54 LGS**.
+La incorporación de un nuevo accionista no extingue la persona jurídica.
 
-## Pauta mínima
+La sociedad continúa siendo la misma.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Lo que cambia es la composición subjetiva del capital.
 
-## Advertencia
+No existe una nueva constitución.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Existe únicamente una modificación de la estructura societaria.
 
 ---
+
+# Error frecuente
+
+::: {.callout-warning}
 
-# Pregunta de examen 5: art. 144 CCyC
+No debe confundirse:
 
-## Consigna
+- **Sociedad unipersonal**, con
+- **empresa unipersonal**.
 
-Desarrolle **art. 144 CCyC**.
+La primera constituye una persona jurídica distinta de su socio.
 
-## Pauta mínima
+La segunda supone simplemente el ejercicio individual de una actividad económica por una persona humana, sin creación de una nueva personalidad jurídica.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La diferencia patrimonial entre ambas figuras resulta esencial.
 
-## Advertencia
+:::
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+---
+
+# Para el parcial
+
+El alumno debería poder responder:
+
+- ¿Qué modificó la Ley 26.994 respecto del elemento subjetivo de la sociedad?
+- ¿Puede cualquier tipo social constituirse con un único socio?
+- ¿Cuál fue el fundamento económico de la incorporación de la SAU?
+- ¿Qué diferencias existen entre una sociedad unipersonal y un empresario individual?
 
 ---
 
-# Pregunta de examen 6: tipicidad
+# En forma organizada
 
-## Consigna
+## El elemento organizativo de la sociedad
 
-Desarrolle **tipicidad**.
+El artículo 1 no exige únicamente la existencia de una o más personas.
 
-## Pauta mínima
+Agrega inmediatamente un segundo requisito:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+> **"...en forma organizada..."**
 
-## Advertencia
+Esta expresión constituye uno de los mayores aportes de la reforma introducida por la Ley 26.994.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La sociedad deja de concebirse exclusivamente como un contrato.
 
----
+Pasa a ser entendida como una **organización jurídicamente estructurada**, destinada al desarrollo de una actividad económica.
 
-# Pregunta de examen 7: clasificación
+La organización constituye el puente entre el contrato y la persona jurídica.
 
-## Consigna
+---
 
-Desarrolle **clasificación**.
+# ¿Qué significa organizar?
 
-## Pauta mínima
+Organizar implica ordenar personas, recursos y competencias para alcanzar un objetivo común.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+En una sociedad ello supone, entre otras cuestiones:
 
-## Advertencia
+- distribución de funciones;
+- asignación de competencias;
+- establecimiento de órganos;
+- reglas para adoptar decisiones;
+- mecanismos de representación;
+- procedimientos de control.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La organización transforma un simple acuerdo de voluntades en una estructura permanente.
 
 ---
 
-# Pregunta de examen 8: nacionalidad
+# Organización no significa empresa
 
-## Consigna
+Uno de los errores más frecuentes consiste en identificar sociedad con empresa.
 
-Desarrolle **nacionalidad**.
+No son conceptos equivalentes.
 
-## Pauta mínima
+La **empresa** constituye una organización económica destinada a la producción o intercambio de bienes o servicios.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La **sociedad** constituye una organización jurídica.
 
-## Advertencia
+Puede existir:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- empresa sin sociedad;
+- sociedad sin empresa en funcionamiento.
 
+Esta distinción será desarrollada con mayor profundidad en una clase posterior.
+
 ---
 
-# Pregunta de examen 9: Parke Davis
+# La organización como requisito jurídico
 
-## Consigna
+La organización no constituye un dato meramente económico.
 
-Desarrolle **Parke Davis**.
+Es un verdadero requisito legal.
 
-## Pauta mínima
+No basta que varias personas aporten bienes.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Es necesario que exista una estructura jurídica capaz de:
 
-## Advertencia
+- expresar una voluntad social;
+- administrar el patrimonio;
+- actuar frente a terceros;
+- adoptar decisiones;
+- cumplir el objeto social.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Sin organización no existe sociedad en sentido técnico.
 
 ---
+
+# ¿Dónde se refleja la organización?
 
-# Pregunta de examen 10: Swift
+La organización aparece en numerosos institutos de la Ley General de Sociedades.
 
-## Consigna
+Por ejemplo:
 
-Desarrolle **Swift**.
+- el contrato constitutivo;
+- el estatuto;
+- los órganos sociales;
+- las mayorías;
+- la representación;
+- la fiscalización;
+- la contabilidad;
+- la documentación social.
 
-## Pauta mínima
+Toda la ley gira alrededor del fenómeno organizativo.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
+
+# Organización y personalidad jurídica
+
+La organización constituye uno de los fundamentos del reconocimiento de la personalidad jurídica.
+
+¿Por qué el ordenamiento reconoce a la sociedad como sujeto de derecho?
 
-## Advertencia
+Porque existe una organización diferenciada de las personas que la integran.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No se protege simplemente un patrimonio.
 
+Se reconoce una estructura permanente con capacidad para actuar en el tráfico jurídico.
+
 ---
 
-# Pregunta de examen 11: Palomeque
+# La importancia práctica de la organización
 
-## Consigna
+La organización permite que la sociedad continúe funcionando aunque cambien sus integrantes.
 
-Desarrolle **Palomeque**.
+Por ejemplo:
 
-## Pauta mínima
+- fallece un socio;
+- ingresa un nuevo accionista;
+- renuncia el directorio;
+- se modifica el capital.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La organización permanece.
 
-## Advertencia
+Las personas cambian.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta continuidad constituye una de las principales ventajas de la persona jurídica.
 
 ---
+
+# Organización y órganos sociales
 
-# Pregunta de examen 12: Carballo
+La organización se manifiesta principalmente mediante la existencia de órganos.
 
-## Consigna
+```{mermaid}
+graph TD
 
-Desarrolle **Carballo**.
+A[Sociedad]
 
-## Pauta mínima
+A --> B[Órgano de Gobierno]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+A --> C[Órgano de Administración]
 
-## Advertencia
+A --> D[Órgano de Fiscalización]
+```
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Cada órgano posee competencias propias.
 
+La actuación coordinada de todos permite el funcionamiento de la sociedad.
+
 ---
+
 
-# Pregunta de examen 13: personalidad jurídica
 
-## Consigna
+# Doctrina
 
-Desarrolle **personalidad jurídica**.
+::: {.callout-note}
 
-## Pauta mínima
+La incorporación expresa de la exigencia de organización refleja una evolución del Derecho Societario contemporáneo.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sociedad ya no es comprendida únicamente como un contrato de colaboración.
 
-## Advertencia
+Es una organización destinada a desarrollar una actividad económica mediante una estructura estable y jurídicamente disciplinada.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta idea explica la creciente importancia de los órganos sociales, del gobierno corporativo y de la responsabilidad de los administradores.
 
+:::
+
+
 ---
 
-# Pregunta de examen 14: art. 2 LGS
+# Conforme a uno de los tipos previstos en esta ley
 
-## Consigna
+## El principio de tipicidad
 
-Desarrolle **art. 2 LGS**.
+Luego de exigir una organización, el artículo 1 agrega un nuevo requisito:
 
-## Pauta mínima
+> **"...conforme a uno de los tipos previstos en esta ley..."**
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Esta frase consagra uno de los principios tradicionales del Derecho Societario argentino:
 
-## Advertencia
+# El principio de tipicidad
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No existe libertad absoluta para diseñar cualquier clase de sociedad.
 
----
+Los particulares solamente pueden adoptar los tipos expresamente autorizados por el legislador.
 
-# Pregunta de examen 15: CCyC
+---
 
-## Consigna
+# ¿Qué significa "tipo"?
 
-Desarrolle **CCyC**.
+En Derecho Societario, un **tipo** es un modelo jurídico previamente diseñado por la ley.
 
-## Pauta mínima
+Cada tipo posee una estructura propia que comprende, entre otros aspectos:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- régimen de responsabilidad;
+- forma de administración;
+- reglas de representación;
+- organización interna;
+- régimen de mayorías;
+- forma de transmisión de las participaciones;
+- órganos obligatorios;
+- sistema de fiscalización.
 
-## Advertencia
+Al constituir una sociedad, los particulares **eligen** uno de esos modelos legales.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No pueden crear uno nuevo.
 
 ---
 
-# Pregunta de examen 16: art. 54 LGS
+# Tipo social y autonomía de la voluntad
 
-## Consigna
+La autonomía privada permite decidir:
 
-Desarrolle **art. 54 LGS**.
+- si constituir o no una sociedad;
+- cuál será su objeto;
+- quiénes serán los socios;
+- cuál será el capital;
+- cómo distribuir las utilidades.
 
-## Pauta mínima
+Sin embargo, esa autonomía encuentra un límite.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+::: {.callout-important}
 
-## Advertencia
+Los particulares **no pueden crear un nuevo tipo societario**.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La estructura básica del tipo es materia reservada al legislador.
 
----
-
-# Pregunta de examen 17: art. 144 CCyC
+:::
 
-## Consigna
+---
 
-Desarrolle **art. 144 CCyC**.
+# Tipos previstos por la Ley General de Sociedades
 
-## Pauta mínima
+La LGS regula, entre otros, los siguientes tipos:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- Sociedad Colectiva.
+- Sociedad en Comandita Simple.
+- Sociedad de Capital e Industria.
+- Sociedad de Responsabilidad Limitada.
+- Sociedad Anónima.
+- Sociedad Anónima Unipersonal.
+- Sociedad en Comandita por Acciones.
 
-## Advertencia
+Cada uno responde a necesidades económicas diferentes.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La elección del tipo nunca es indiferente.
 
 ---
 
-# Pregunta de examen 18: tipicidad
+# ¿Por qué existe la tipicidad?
 
-## Consigna
+La respuesta debe buscarse en la función económica de la sociedad.
 
-Desarrolle **tipicidad**.
+Las sociedades no producen efectos únicamente entre los socios.
 
-## Pauta mínima
+También generan consecuencias respecto de:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- acreedores;
+- trabajadores;
+- consumidores;
+- organismos públicos;
+- inversores;
+- mercado.
 
-## Advertencia
+Los terceros necesitan conocer de antemano cuál es el régimen jurídico aplicable.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La tipicidad brinda previsibilidad y seguridad jurídica.
 
 ---
+
+# Funciones del principio de tipicidad
 
-# Pregunta de examen 19: clasificación
+La doctrina suele señalar cuatro funciones principales.
 
-## Consigna
+## Seguridad jurídica
 
-Desarrolle **clasificación**.
+Los terceros conocen el régimen legal aplicable.
 
-## Pauta mínima
+## Protección del tráfico
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Facilita la contratación con la sociedad.
 
-## Advertencia
+## Publicidad
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Permite identificar la estructura organizativa.
 
+## Uniformidad
+
+Evita la proliferación de figuras híbridas de difícil interpretación.
+
 ---
 
-# Pregunta de examen 20: nacionalidad
+# Un ejemplo
 
-## Consigna
+Dos personas desean constituir una sociedad.
 
-Desarrolle **nacionalidad**.
+Pactan que:
 
-## Pauta mínima
+- uno responderá ilimitadamente;
+- el otro responderá sólo por el 30 % de las deudas;
+- la administración corresponderá siempre a un tercero;
+- las decisiones se adoptarán por sorteo.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+## Pregunta
 
-## Advertencia
+¿Puede inscribirse esa sociedad?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La respuesta exige verificar si ese estatuto respeta alguno de los tipos previstos por la ley.
 
 ---
 
-# Pregunta de examen 21: Parke Davis
+# Solución
 
-## Consigna
+La voluntad de los socios no basta.
 
-Desarrolle **Parke Davis**.
+El Registro Público deberá controlar si la estructura elegida coincide con alguno de los tipos regulados por la Ley General de Sociedades.
 
-## Pauta mínima
+Si ello no ocurre:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- no podrá inscribirse como sociedad típica;
+- corresponderá analizar la aplicación del régimen de la Sección IV.
 
-## Advertencia
+La tipicidad constituye un verdadero requisito de legalidad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
-
-# Pregunta de examen 22: Swift
 
-## Consigna
+# Tipicidad y control de legalidad
 
-Desarrolle **Swift**.
+El principio de tipicidad explica una de las funciones esenciales del Registro Público.
 
-## Pauta mínima
+Antes de ordenar la inscripción, el registrador debe verificar:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- que el contrato respete la ley;
+- que adopte un tipo reconocido;
+- que no contradiga normas imperativas;
+- que se cumplan los requisitos esenciales.
 
-## Advertencia
+La inscripción no constituye un mero trámite administrativo.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Supone un verdadero control jurídico.
 
 ---
 
-# Pregunta de examen 23: Palomeque
+# ¿La Ley 26.994 debilitó la tipicidad?
 
-## Consigna
+Esta pregunta generó uno de los debates doctrinarios más intensos de los últimos años.
 
-Desarrolle **Palomeque**.
+Antes de la reforma:
 
-## Pauta mínima
+- el incumplimiento de la tipicidad producía consecuencias extremadamente severas.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Después de la reforma:
 
-## Advertencia
+- desaparecieron las antiguas sociedades irregulares y de hecho;
+- surgió el régimen de la Sección IV;
+- se fortaleció el principio de conservación de la empresa.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Muchos autores sostienen que ello implicó una flexibilización del principio de tipicidad.
 
+Otros consideran que la tipicidad continúa plenamente vigente.
+
+Este debate merece un análisis específico.
+
 ---
 
-# Pregunta de examen 24: Carballo
+# Doctrina
 
-## Consigna
+::: {.callout-note}
 
-Desarrolle **Carballo**.
+La reforma introducida por la Ley 26.994 **no eliminó el principio de tipicidad**.
 
-## Pauta mínima
+Lo que modificó fueron las consecuencias derivadas de su incumplimiento.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Antes predominaba una lógica sancionatoria.
 
-## Advertencia
+Actualmente el sistema privilegia la conservación de la organización y la protección del tráfico jurídico.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Por ello suele afirmarse que la reforma **flexibilizó** la tipicidad, pero no la derogó.
 
+:::
+
 ---
+
+# Error frecuente
 
-# Pregunta de examen 25: personalidad jurídica
+::: {.callout-warning}
 
-## Consigna
+No debe afirmarse que después de la Ley 26.994 desapareció la tipicidad.
 
-Desarrolle **personalidad jurídica**.
+La afirmación correcta es otra.
 
-## Pauta mínima
+La tipicidad sigue siendo un requisito para constituir una sociedad típica.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Lo que cambió fue el tratamiento de aquellas organizaciones que no cumplen plenamente con ese requisito.
 
-## Advertencia
+Precisamente para esos supuestos la ley creó el régimen de la Sección IV.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
 ---
 
-# Pregunta de examen 26: art. 2 LGS
+# Para el parcial
 
-## Consigna
+## Preguntas posibles
 
-Desarrolle **art. 2 LGS**.
+1. ¿Qué se entiende por tipo societario?
 
-## Pauta mínima
+2. ¿Cuál es el fundamento del principio de tipicidad?
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+3. ¿Puede la autonomía de la voluntad crear nuevos tipos sociales?
 
-## Advertencia
+4. ¿Qué función cumple el Registro Público respecto de la tipicidad?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+5. ¿Qué modificó la Ley 26.994 en relación con este principio?
 
 ---
 
-# Pregunta de examen 27: CCyC
+# El contexto histórico de la Ley 19.550
 
-## Consigna
+La Ley 19.550 fue sancionada en 1972.
 
-Desarrolle **CCyC**.
+Su filosofía respondía a una idea muy clara.
 
-## Pauta mínima
+> La sociedad debía constituirse conforme a modelos legales previamente definidos.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La inscripción registral y la tipicidad no eran simples formalidades.
 
-## Advertencia
+Constituían mecanismos destinados a proteger:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- el tráfico mercantil;
+- los acreedores;
+- los futuros socios;
+- el Estado.
 
----
+La sanción frente al incumplimiento debía ser severa.
 
-# Pregunta de examen 28: art. 54 LGS
+---
 
-## Consigna
+# El sistema de 1972
 
-Desarrolle **art. 54 LGS**.
+```{mermaid}
+graph TD
 
-## Pauta mínima
+A[Contrato]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+-->B[Tipo legal]
 
-## Advertencia
+-->C[Inscripción]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+-->D[Sociedad regularmente constituida]
+```
 
 ---
 
-# Pregunta de examen 29: art. 144 CCyC
+# El régimen originario de la Ley 19.550
 
-## Consigna
+## El contexto histórico de la tipicidad
 
-Desarrolle **art. 144 CCyC**.
+Para comprender la reforma introducida por la Ley 26.994 no alcanza con estudiar el texto vigente.
 
-## Pauta mínima
+Es necesario comprender cuál era la lógica del sistema diseñado por el legislador de 1972.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La Ley 19.550 nació dentro de un modelo de **tipicidad rígida**.
 
-## Advertencia
+La idea central era sencilla:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+> Sólo las sociedades que respetaran íntegramente el régimen legal debían acceder a los beneficios de la personalidad jurídica organizada.
 
+Todo apartamiento del modelo legal era considerado una anomalía que debía recibir una respuesta sancionatoria.
+
 ---
+
+# ¿Qué pretendía evitar el legislador de 1972?
 
-# Pregunta de examen 30: tipicidad
+La preocupación principal era proteger el tráfico mercantil.
 
-## Consigna
+El legislador buscó evitar:
 
-Desarrolle **tipicidad**.
+- sociedades ocultas;
+- estructuras informales;
+- incertidumbre respecto de la responsabilidad de los socios;
+- fraude a acreedores;
+- organizaciones difíciles de controlar.
 
-## Pauta mínima
+Para ello diseñó un sistema basado sobre tres pilares.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+```mermaid
+graph LR
 
-## Advertencia
+A[Tipo legal]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+-->B[Inscripción registral]
 
+-->C[Publicidad]
+
+-->D[Seguridad jurídica]
+```
+
 ---
 
-# Pregunta de examen 31: clasificación
+# El modelo original
 
-## Consigna
+La Ley 19.550 respondía a una secuencia lógica.
 
-Desarrolle **clasificación**.
+```{mermaid}
+flowchart LR
 
-## Pauta mínima
+A[Contrato]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+-->B[Adopción de un tipo]
 
-## Advertencia
+-->C[Inscripción]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+-->D[Sociedad regularmente constituida]
+```
 
----
+Cuando alguno de esos pasos faltaba, la sociedad dejaba de integrar el régimen general y pasaba a recibir un tratamiento excepcional.
 
-# Pregunta de examen 32: nacionalidad
+---
 
-## Consigna
+# ¿Qué ocurría cuando el sistema fallaba?
 
-Desarrolle **nacionalidad**.
+El régimen anterior distinguía básicamente dos grandes categorías.
 
-## Pauta mínima
+## Sociedades irregulares
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Existía contrato constitutivo.
 
-## Advertencia
+Existía un tipo legal.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Pero la sociedad no había cumplido adecuadamente con la inscripción registral.
 
 ---
 
-# Pregunta de examen 33: Parke Davis
+## Sociedades de hecho
 
-## Consigna
+No existía contrato constitutivo formal.
 
-Desarrolle **Parke Davis**.
+Generalmente tampoco podía identificarse con precisión un tipo legal.
 
-## Pauta mínima
+La existencia de la sociedad debía acreditarse mediante otros medios probatorios.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
+
+# Comparación
 
-## Advertencia
+| Sociedad irregular | Sociedad de hecho |
+|-------------------|-------------------|
+| Existía contrato | No existía contrato escrito |
+| Existía tipo legal | No podía identificarse claramente un tipo |
+| Faltaba inscripción | Organización puramente fáctica |
+| Podía regularizarse | Presentaba mayores dificultades probatorias |
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+A pesar de estas diferencias, ambas recibían un tratamiento jurídico muy similar.
 
 ---
 
-# Pregunta de examen 34: Swift
+# ¿Por qué el legislador las sancionaba?
 
-## Consigna
+La respuesta no era casual.
 
-Desarrolle **Swift**.
+El sistema perseguía un objetivo de política legislativa.
 
-## Pauta mínima
+::: {.callout-important}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El incumplimiento de la tipicidad y de la inscripción no debía resultar conveniente.
 
-## Advertencia
+Quien decidía actuar al margen del régimen legal no podía obtener los mismos beneficios que quien respetaba íntegramente la ley.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
----
+La severidad del régimen buscaba desalentar la informalidad societaria.
 
-# Pregunta de examen 35: Palomeque
+---
 
-## Consigna
+# La filosofía sancionatoria
 
-Desarrolle **Palomeque**.
+El régimen anterior respondía a una lógica muy clara.
 
-## Pauta mínima
+```{mermaid}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+flowchart TD
+    A["No respetó<br/>la ley"] --> B["No accede a<br/>los beneficios"]
+    B --> C["Responde con<br/>mayor rigor"]
+```
 
-## Advertencia
+La sanción no constituía un accidente del sistema.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Era precisamente el mecanismo elegido por el legislador para proteger el tráfico mercantil.
 
 ---
 
-# Pregunta de examen 36: Carballo
+# Principales consecuencias
 
-## Consigna
+Las sociedades irregulares y de hecho quedaban sometidas a un régimen especialmente riguroso.
 
-Desarrolle **Carballo**.
+Entre otras consecuencias:
 
-## Pauta mínima
+- responsabilidad solidaria e ilimitada de los socios;
+- mayor inestabilidad de la organización;
+- limitaciones para invocar el contrato social;
+- dificultades para oponer determinadas cláusulas frente a terceros;
+- posibilidad de disolución por voluntad de cualquier socio.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El mensaje del legislador era claro:
 
-## Advertencia
+> Constitúyase regularmente o asuma las consecuencias.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
+
+# ¿Funcionó el sistema?
 
-# Pregunta de examen 37: personalidad jurídica
+Aquí comienza el verdadero debate doctrinario.
 
-## Consigna
+Durante más de cuarenta años el régimen coexistió con una realidad económica muy diferente.
 
-Desarrolle **personalidad jurídica**.
+Miles de sociedades desarrollaban normalmente su actividad sin encontrarse regularmente constituidas.
 
-## Pauta mínima
+La sanción legal no logró eliminar el fenómeno.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Por el contrario, convivieron durante décadas:
 
-## Advertencia
+- empresas económicamente viables;
+- organizaciones jurídicamente irregulares.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Ello llevó a cuestionar la eficacia del sistema.
 
 ---
+
+# Las críticas doctrinarias
+
+Diversos autores comenzaron a formular una objeción central.
 
-# Pregunta de examen 38: art. 2 LGS
+> ¿Resulta razonable destruir una empresa económicamente útil por el incumplimiento de un requisito formal?
 
-## Consigna
+La respuesta empezó a dividir a la doctrina.
 
-Desarrolle **art. 2 LGS**.
+Dos grandes modelos comenzaron a enfrentarse.
 
-## Pauta mínima
+---
+
+# Dos modelos de Derecho Societario
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+| Modelo clásico | Modelo contemporáneo |
+|----------------|----------------------|
+| Tipicidad rígida | Tipicidad flexible |
+| Régimen sancionatorio | Régimen conservatorio |
+| Predominio de la forma | Predominio de la realidad económica |
+| Disolución | Subsanación |
+| Protección de la legalidad formal | Protección de la empresa y del tráfico |
 
-## Advertencia
+La discusión ya no giraba únicamente alrededor de la inscripción.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Se discutía el modelo mismo de Derecho Societario.
 
 ---
 
-# Pregunta de examen 39: CCyC
+# El cambio de paradigma
 
-## Consigna
+La Comisión Reformadora partió de una pregunta diferente.
 
-Desarrolle **CCyC**.
+No se preguntó:
 
-## Pauta mínima
+> ¿Cómo sancionar mejor a las sociedades irregulares?
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Se preguntó:
 
-## Advertencia
+> ¿Cómo preservar organizaciones económicamente útiles sin sacrificar la seguridad jurídica?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Ese cambio de enfoque explica buena parte de las reformas introducidas por la Ley 26.994.
 
 ---
 
-# Pregunta de examen 40: art. 54 LGS
+# Transición hacia la reforma
 
-## Consigna
+La Ley 26.994 no eliminó el principio de tipicidad.
 
-Desarrolle **art. 54 LGS**.
+Lo que modificó profundamente fue la respuesta jurídica frente a su incumplimiento.
 
-## Pauta mínima
+La lógica dejó de ser exclusivamente sancionatoria.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Comenzó a predominar un criterio de:
 
-## Advertencia
+- conservación de la organización;
+- protección de la empresa;
+- tutela de terceros;
+- subsanación de los defectos.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Sobre estas bases nació el nuevo régimen de la **Sección IV**, cuyo estudio realizaremos a continuación.
 
 ---
 
-# Pregunta de examen 41: art. 144 CCyC
+# ¿Desaparecieron las sociedades irregulares?
 
-## Consigna
+Una de las afirmaciones más repetidas luego de la reforma de la Ley 26.994 es:
 
-Desarrolle **art. 144 CCyC**.
+> "Las sociedades irregulares desaparecieron."
 
-## Pauta mínima
+Desde la perspectiva de Daniel Vítolo, esa afirmación es incorrecta.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La irregularidad continúa existiendo.
 
-## Advertencia
+¿Por qué?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Porque el artículo 7 de la Ley General de Sociedades mantiene inalterado un principio básico:
 
----
+> **La sociedad sólo se considera regularmente constituida con su inscripción en el Registro Público.**
+
+En consecuencia:
 
-# Pregunta de examen 42: tipicidad
+- la sociedad inscripta es regular;
+- la sociedad no inscripta continúa siendo una sociedad no regular o irregular.
 
-## Consigna
+Lo que cambió no fue la irregularidad.
 
-Desarrolle **tipicidad**.
+Cambió el régimen jurídico aplicable a ella.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# El verdadero cambio de la Ley 26.994
 
-## Advertencia
+La reforma no eliminó la irregularidad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Eliminó el régimen sancionatorio que históricamente la acompañaba.
 
----
+Bajo el régimen originario:
 
-# Pregunta de examen 43: clasificación
+- responsabilidad solidaria e ilimitada;
+- inoponibilidad interna del contrato;
+- libre disolución;
+- severas restricciones de funcionamiento.
 
-## Consigna
+La Ley 26.994 sustituyó esa lógica por un régimen orientado a:
 
-Desarrolle **clasificación**.
+- conservar la organización;
+- proteger la empresa;
+- favorecer la subsanación;
+- graduar los efectos frente a terceros.
 
-## Pauta mínima
+::: {.callout-important}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La reforma cambia la respuesta del Derecho.
 
-## Advertencia
+No cambia el concepto de irregularidad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
 ---
+
+# ¿Por qué el régimen anterior era tan severo?
+
+Según explica Daniel Vítolo, el legislador de 1972 procuró desalentar por todos los medios la constitución de sociedades no registradas.
 
-# Pregunta de examen 44: nacionalidad
+Para ello diseñó un régimen especialmente gravoso.
 
-## Consigna
+No sólo:
 
-Desarrolle **nacionalidad**.
+- agravó la responsabilidad;
 
-## Pauta mínima
+También:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- impidió oponer el contrato social entre los propios socios;
+- permitió la disolución prácticamente ad nutum;
+- negó eficacia a muchas cláusulas estatutarias.
 
-## Advertencia
+La doctrina terminó considerando que varias de esas soluciones resultaban excesivamente rigurosas e incluso llegaron a formularse objeciones de constitucionalidad respecto de la inoponibilidad interna del contrato.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+::: {.callout-note}
+La crítica doctrinaria no se dirigía contra la tipicidad.
 
+Se dirigía contra la intensidad de la sanción.
+:::
+
 ---
+
+# Artículo 7
 
-# Pregunta de examen 45: Parke Davis
+::: {.callout-important}
 
-## Consigna
+**La sociedad sólo se considera regularmente constituida con su inscripción en el Registro Público.**
 
-Desarrolle **Parke Davis**.
+:::
 
-## Pauta mínima
+El artículo 7 constituye la piedra angular del sistema.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No define la sociedad.
 
-## Advertencia
+Define cuándo una sociedad es **regularmente constituida**.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+De él surge una consecuencia lógica.
 
+Toda sociedad no inscripta continúa siendo una sociedad **no regular**.
+
 ---
+
+# PARTE III
 
-# Pregunta de examen 46: Swift
+# Del régimen de las sociedades irregulares al régimen de la Sección IV
 
-## Consigna
+## La evolución del sistema de regularidad societaria
 
-Desarrolle **Swift**.
+---
+
+# ¿Por qué estudiar este tema?
 
-## Pauta mínima
+La reforma introducida por la Ley 26.994 suele explicarse como un simple reemplazo del régimen de las sociedades irregulares y de hecho por el de las sociedades de la Sección IV.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Esa explicación resulta insuficiente.
 
-## Advertencia
+Para comprender el alcance de la reforma es necesario responder tres preguntas:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+1. ¿Qué sistema había diseñado la Ley 19.550 en 1972?
+2. ¿Por qué ese sistema fue objeto de fuertes críticas doctrinarias?
+3. ¿Qué objetivos persiguió el legislador al modificarlo?
 
+Sólo después será posible comprender el sentido de la actual Sección IV.
+
 ---
+
+# El sistema originario de la Ley 19.550
 
-# Pregunta de examen 47: Palomeque
+La Ley 19.550 estructuró un verdadero **sistema de regularidad societaria**.
 
-## Consigna
+Su lógica era sencilla.
 
-Desarrolle **Palomeque**.
+```{mermaid}
+flowchart LR
 
-## Pauta mínima
+A[Contrato Social]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+-->B[Adopción de un </br> tipo legal]
 
-## Advertencia
+-->C[Inscripción en el </br> Registro Público]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+-->D[Sociedad regularmente </br> constituida]
 
+    style A width:220px
+    style B width:220px
+    style C width:220px
+    style D width:220px
+
+```
+
+El cumplimiento de estas etapas permitía acceder al régimen jurídico previsto para las sociedades regularmente constituidas.
+
 ---
+
+# La piedra angular del sistema
 
-# Pregunta de examen 48: Carballo
+## Artículo 7 LGS
 
-## Consigna
+::: {.callout-important}
 
-Desarrolle **Carballo**.
+**La sociedad sólo se considera regularmente constituida con su inscripción en el Registro Público.**
 
-## Pauta mínima
+:::
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El artículo 7 no define qué es una sociedad.
 
-## Advertencia
+Define cuándo una sociedad puede considerarse **regularmente constituida**.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como explica Daniel Vítolo, el mantenimiento de esta disposición luego de la reforma demuestra que la categoría de sociedad "regular" continúa plenamente vigente. :contentReference[oaicite:0]{index=0}
 
 ---
 
-# Pregunta de examen 49: personalidad jurídica
+# La consecuencia lógica del artículo 7
 
-## Consigna
+Si la inscripción determina la regularidad,
 
-Desarrolle **personalidad jurídica**.
+entonces toda sociedad que no cumpla ese requisito continúa siendo una sociedad **no regularmente constituida**.
 
-## Pauta mínima
+::: {.callout-note}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Daniel Vítolo sostiene que la reforma de la Ley 26.994 **no hizo desaparecer las sociedades irregulares**.
 
-## Advertencia
+Lo que desapareció fue el régimen sancionatorio específico que históricamente las regulaba.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La irregularidad sigue existiendo como categoría jurídica porque el artículo 7 permanece inalterado. :contentReference[oaicite:1]{index=1}
 
+:::
+
 ---
 
-# Pregunta de examen 50: art. 2 LGS
+# Clasificación del sistema originario
 
-## Consigna
+```{mermaid}
+graph TD
 
-Desarrolle **art. 2 LGS**.
+A[Sociedades]
 
-## Pauta mínima
+A --> B[Regularmente </br> constituidas]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+A --> C[No regularmente </br> constituidas]
 
-## Advertencia
+C --> D[Sociedades </br> irregulares]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+C --> E[Sociedades de hecho]
 
----
+    style A width:180px
+    style B width:180px
+    style C width:180px
+    style D width:180px
+    style E width:180px
+```
 
-# Pregunta de examen 51: CCyC
+La distinción era relevante porque el legislador atribuía consecuencias jurídicas muy diferentes a cada categoría.
 
-## Consigna
+---
 
-Desarrolle **CCyC**.
+# Sociedades irregulares
 
-## Pauta mínima
+Se entendía por sociedad irregular aquella que:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- había celebrado un contrato constitutivo;
+- había adoptado uno de los tipos previstos por la ley;
+- pero no había obtenido su inscripción registral.
 
-## Advertencia
+La irregularidad no derivaba de la inexistencia del contrato.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Derivaba del incumplimiento del requisito de registración previsto por el artículo 7.
 
 ---
+
+# Sociedades de hecho
 
-# Pregunta de examen 52: art. 54 LGS
+Las sociedades de hecho presentaban una situación diferente.
 
-## Consigna
+Generalmente:
 
-Desarrolle **art. 54 LGS**.
+- no existía contrato escrito;
+- no podía identificarse claramente un tipo legal;
+- la sociedad debía probarse mediante otros medios.
 
-## Pauta mínima
+A pesar de sus diferencias estructurales, la ley sometía a ambas figuras a un régimen sustancialmente similar.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
+
+# ¿Por qué el legislador diseñó un régimen tan severo?
+
+La respuesta no se encuentra en los artículos 21 a 26.
+
+Debe buscarse en la finalidad del sistema.
 
-## Advertencia
+El legislador de 1972 procuró desalentar la constitución de sociedades al margen del régimen legal.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como explica Vítolo, el objetivo era impedir que resultara indiferente cumplir o incumplir las exigencias de la ley. :contentReference[oaicite:2]{index=2}
 
+La severidad del régimen constituía una herramienta de política legislativa.
+
 ---
 
-# Pregunta de examen 53: art. 144 CCyC
+# Filosofía del régimen originario
 
-## Consigna
+```text
+Respeta la ley
+        ↓
+Obtiene los beneficios del régimen societario
 
-Desarrolle **art. 144 CCyC**.
+────────────────────────────────────
 
-## Pauta mínima
+No respeta la ley
+        ↓
+Se somete a un régimen excepcionalmente gravoso
+```
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sanción era deliberada.
 
-## Advertencia
+No constituía un defecto del sistema.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Constituía el instrumento elegido para proteger el tráfico mercantil.
 
 ---
+
+# Transición
 
-# Pregunta de examen 54: tipicidad
+Una vez comprendido el fundamento del régimen originario, corresponde analizar cuáles eran esas consecuencias sancionatorias y por qué la doctrina comenzó a cuestionarlas durante las décadas siguientes.
+
+---
 
-## Consigna
+# Las consecuencias del régimen anterior
 
-Desarrolle **tipicidad**.
+## Un sistema deliberadamente sancionatorio
 
-## Pauta mínima
+El régimen originario de los artículos 21 a 26 de la Ley 19.550 no era casual.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No respondía a un vacío legislativo ni a un descuido del legislador.
 
-## Advertencia
+Por el contrario, constituía un sistema cuidadosamente diseñado para desalentar la constitución de sociedades al margen del régimen legal.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como señala Daniel Vítolo, la ley intentó "por todos los medios desalentar la constitución de sociedades irregulares o de hecho con objeto comercial", estableciendo un régimen de responsabilidad especialmente gravoso y restringiendo la eficacia del contrato social. :contentReference[oaicite:0]{index=0}
 
 ---
 
-# Pregunta de examen 55: clasificación
+# Primera consecuencia
 
-## Consigna
+# Responsabilidad solidaria e ilimitada
 
-Desarrolle **clasificación**.
+La consecuencia más severa del régimen anterior era la responsabilidad personal de los socios.
 
-## Pauta mínima
+Todos los socios respondían:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- solidariamente;
+- ilimitadamente;
+- por todas las obligaciones sociales.
 
-## Advertencia
+Además, quienes actuaban en nombre de la sociedad también quedaban personalmente obligados.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La sociedad no constituía una verdadera barrera de protección patrimonial.
 
 ---
 
-# Pregunta de examen 56: nacionalidad
+# ¿Por qué una responsabilidad tan severa?
 
-## Consigna
+No se trataba simplemente de proteger a los acreedores.
 
-Desarrolle **nacionalidad**.
+La finalidad era otra.
 
-## Pauta mínima
+::: {.callout-important}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El legislador pretendía que resultara claramente más conveniente constituir una sociedad regular que actuar al margen del sistema.
 
-## Advertencia
+La responsabilidad agravada constituía un mecanismo de presión para inducir la registración de la sociedad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
----
-
-# Pregunta de examen 57: Parke Davis
+La sanción buscaba modificar la conducta de los particulares.
 
-## Consigna
+---
 
-Desarrolle **Parke Davis**.
+# El beneficio de excusión
 
-## Pauta mínima
+En las sociedades regularmente constituidas, los acreedores debían, en determinados supuestos, perseguir primero el patrimonio social antes de dirigirse contra los socios.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+En el régimen de las sociedades irregulares esa protección desaparecía.
 
-## Advertencia
+Los acreedores podían dirigirse directamente contra el patrimonio personal de los socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como destaca Vítolo, la inaplicabilidad del beneficio de excusión reforzaba el carácter sancionatorio del sistema. :contentReference[oaicite:1]{index=1}
 
 ---
 
-# Pregunta de examen 58: Swift
+# Ejemplo práctico
 
-## Consigna
+Tres personas constituyen una sociedad colectiva.
 
-Desarrolle **Swift**.
+Celebran el contrato, comienzan la actividad, pero nunca inscriben la sociedad.
 
-## Pauta mínima
+Contraen una deuda por $50.000.000.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sociedad resulta insolvente.
 
-## Advertencia
+## Consecuencia bajo el régimen anterior
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+El acreedor podía reclamar la totalidad del crédito directamente a cualquiera de los socios, sin necesidad de excutir previamente el patrimonio social.
 
 ---
+
+# Segunda consecuencia
 
-# Pregunta de examen 59: Palomeque
+# La inoponibilidad del contrato social
 
-## Consigna
+Quizás la solución más discutida del régimen originario era la prevista por el antiguo artículo 23.
 
-Desarrolle **Palomeque**.
+Las cláusulas del contrato social:
 
-## Pauta mínima
+- no podían oponerse frente a terceros;
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+pero además,
 
-## Advertencia
+- tampoco podían invocarse entre los propios socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta solución excedía ampliamente la finalidad de proteger a los terceros.
 
 ---
+
+# ¿Por qué era tan discutida?
+
+La inoponibilidad frente a terceros encontraba una explicación razonable.
+
+Al no existir publicidad registral, los terceros no tenían por qué conocer el contenido del contrato.
+
+Sin embargo,
 
-# Pregunta de examen 60: Carballo
+la prohibición de invocar el contrato **entre quienes lo habían celebrado** generó fuertes críticas doctrinarias.
 
-## Consigna
+¿Por qué negar eficacia a un acuerdo libremente celebrado entre las propias partes?
 
-Desarrolle **Carballo**.
+---
 
-## Pauta mínima
+# La crítica de Vítolo
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Daniel Vítolo sostiene que esta solución resultaba **excesivamente rigurosa**.
 
-## Advertencia
+Explica que, si las cláusulas del contrato no eran ilícitas ni contrarias al orden público o a la moral, no existía fundamento suficiente para privarlas de eficacia en las relaciones internas.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Agrega que una parte importante de la doctrina llegó incluso a cuestionar la constitucionalidad de este régimen por apartarse injustificadamente del principio según el cual los contratos obligan a las partes como la ley misma. :contentReference[oaicite:2]{index=2}
 
 ---
+
+# Ejemplo
 
-# Pregunta de examen 61: personalidad jurídica
+Dos socios pactan por escrito que:
 
-## Consigna
+- Juan administrará la sociedad.
+- Pedro no podrá obligarla frente a terceros.
 
-Desarrolle **personalidad jurídica**.
+Nunca inscriben el contrato.
 
-## Pauta mínima
+Pedro celebra un contrato importante.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Juan pretende invocar la cláusula limitativa.
 
-## Advertencia
+## Régimen anterior
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La cláusula no podía hacerse valer ni siquiera entre los propios socios.
 
+La sanción alcanzaba también a las relaciones internas.
+
 ---
+
+# Tercera consecuencia
+
+# Disolución ad nutum
+
+Otra manifestación del carácter sancionatorio del sistema era la posibilidad de que cualquier socio provocara la disolución de la sociedad.
+
+No era necesario:
+
+- invocar incumplimientos;
+- acreditar una justa causa;
+- demostrar perjuicios.
 
-# Pregunta de examen 62: art. 2 LGS
+Bastaba la voluntad de uno de los socios comunicada en la forma prevista por la ley.
 
-## Consigna
+---
 
-Desarrolle **art. 2 LGS**.
+# ¿Cuál era el fundamento?
 
-## Pauta mínima
+La ley no pretendía favorecer la permanencia de organizaciones irregulares.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Por el contrario,
 
-## Advertencia
+consideraba inconveniente mantener en funcionamiento una sociedad que no había respetado el régimen de regularidad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La facilidad para obtener la disolución constituía un incentivo adicional para regularizar la situación.
 
 ---
 
-# Pregunta de examen 63: CCyC
+# Cuarta consecuencia
 
-## Consigna
+# Un régimen profundamente inestable
 
-Desarrolle **CCyC**.
+La combinación de todas estas soluciones producía un efecto evidente.
 
-## Pauta mínima
+Las sociedades no regularmente constituidas carecían de estabilidad jurídica.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Sus principales características eran:
 
-## Advertencia
+- responsabilidad agravada;
+- debilidad del contrato social;
+- facilidad para la disolución;
+- inseguridad para los socios;
+- incertidumbre para los terceros.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Con el paso de los años, la doctrina comenzó a preguntarse si semejante rigor seguía siendo compatible con la realidad económica.
 
 ---
-
-# Pregunta de examen 64: art. 54 LGS
 
-## Consigna
+# Síntesis del régimen originario
 
-Desarrolle **art. 54 LGS**.
+| Consecuencia | Finalidad perseguida |
+|--------------|----------------------|
+| Responsabilidad solidaria e ilimitada | Desalentar la informalidad |
+| Inoponibilidad del contrato | Sancionar la falta de publicidad |
+| Disolución por voluntad de cualquier socio | Evitar la permanencia de sociedades irregulares |
+| Debilitamiento de la organización | Incentivar la regularización |
 
-## Pauta mínima
+::: {.callout-important}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El régimen anterior no pretendía conservar la empresa.
 
-## Advertencia
+Pretendía inducir el cumplimiento de la ley mediante un sistema de sanciones.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
 ---
 
-# Pregunta de examen 65: art. 144 CCyC
+# Pregunta para debatir
 
-## Consigna
+Supongamos una empresa familiar con:
 
-Desarrolle **art. 144 CCyC**.
+- veinte trabajadores;
+- diez años de funcionamiento;
+- actividad económica plenamente lícita.
 
-## Pauta mínima
+El único defecto consiste en que nunca inscribió el contrato social.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+## Pregunta
 
-## Advertencia
+¿Resulta razonable aplicar todas las consecuencias del régimen sancionatorio?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+¿Debe prevalecer la protección de la legalidad formal o la conservación de una organización económicamente útil?
 
----
+Estas preguntas explican el nacimiento de la reforma introducida por la Ley 26.994.
 
-# Pregunta de examen 66: tipicidad
+---
 
-## Consigna
+# La reforma de la Ley 26.994
 
-Desarrolle **tipicidad**.
+## ¿Qué cambió respecto de la tipicidad?
 
-## Pauta mínima
+La reforma introducida por la Ley 26.994 no eliminó el principio de tipicidad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Las sociedades continúan debiendo constituirse conforme a uno de los tipos previstos por la Ley General de Sociedades.
 
-## Advertencia
+Lo que cambió fue el tratamiento jurídico de aquellas organizaciones que no cumplen íntegramente con ese modelo.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como señala Daniel Vítolo, la irregularidad no desaparece, porque el artículo 7 continúa distinguiendo entre sociedades regularmente constituidas y no regularmente constituidas. Lo que desaparece es el antiguo régimen sancionatorio previsto para las sociedades irregulares y de hecho. :contentReference[oaicite:0]{index=0}
 
 ---
 
-# Pregunta de examen 67: clasificación
+# Antes y después de la reforma
 
-## Consigna
+| Régimen anterior | Régimen vigente |
+|------------------|-----------------|
+| Tipicidad rígida | Tipicidad mantenida |
+| Régimen sancionatorio | Régimen conservatorio |
+| Sociedades irregulares y de hecho | Sociedades de la Sección IV |
+| La irregularidad generaba severas sanciones | La ley procura preservar la organización y proteger a los terceros |
 
-Desarrolle **clasificación**.
+::: {.callout-important}
+La reforma no suprimió la exigencia de tipicidad.
 
-## Pauta mínima
+Modificó las consecuencias derivadas de su incumplimiento.
+:::
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Idea central
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La evolución legislativa puede resumirse en una sola frase.
 
----
+> **El Derecho argentino pasó de un sistema centrado en sancionar la irregularidad a otro orientado a conservar organizaciones económicamente útiles, sin abandonar el principio de tipicidad.**
 
-# Pregunta de examen 68: nacionalidad
+Esta idea permite comprender el sentido de la reforma y servirá de base para estudiar, en una clase posterior, el régimen de la Sección IV.
+
+---
 
-## Consigna
+# ¿Por qué la Ley 19.550 sancionaba a las sociedades no regulares?
 
-Desarrolle **nacionalidad**.
+Una vez comprendido que el sistema societario argentino descansaba sobre la regularidad registral (art. 7 LGS), corresponde formular una pregunta.
 
-## Pauta mínima
+## ¿Por qué el legislador sometía a las sociedades no regularmente constituidas a un régimen tan severo?
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La respuesta no debe buscarse únicamente en los artículos 21 a 26 de la ley.
 
-## Advertencia
+Debe buscarse en la finalidad del sistema.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como explica Daniel Vítolo, el legislador de 1972 procuró **desalentar por todos los medios la constitución de sociedades irregulares o de hecho**, para evitar que los particulares encontraran ventajas en actuar al margen del régimen legal. La severidad del sistema respondía, por lo tanto, a una decisión de política legislativa y no a un mero rigor formal. 
 
 ---
 
-# Pregunta de examen 69: Parke Davis
+# Primera consecuencia
 
-## Consigna
+# Responsabilidad solidaria e ilimitada
 
-Desarrolle **Parke Davis**.
+Si la ley pretendía desalentar la informalidad, debía privar a los socios del principal beneficio que brinda el Derecho Societario.
 
-## Pauta mínima
+¿Cuál es ese beneficio?
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La separación patrimonial entre la sociedad y sus integrantes.
 
-## Advertencia
+Por ello, el régimen originario establecía que los socios —y también quienes actuaban en nombre de la sociedad— respondían **solidaria e ilimitadamente** por las obligaciones sociales.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No era una consecuencia casual.
 
+Era la forma elegida por el legislador para que la falta de registración tuviera un costo jurídico evidente. :contentReference[oaicite:1]{index=1}
+
 ---
 
-# Pregunta de examen 70: Swift
+# Segunda consecuencia
 
-## Consigna
+# Inoponibilidad del contrato social
 
-Desarrolle **Swift**.
+La segunda sanción recaía sobre el propio contrato constitutivo.
 
-## Pauta mínima
+En principio, resulta razonable que un contrato no inscripto no pueda hacerse valer frente a terceros que lo desconocen.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Sin embargo, el régimen originario iba mucho más allá.
 
-## Advertencia
+También impedía que los propios socios invocaran entre sí las cláusulas del contrato social.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como destaca Vítolo, esta solución fue una de las más criticadas por la doctrina, porque privaba de eficacia a convenciones válidamente celebradas entre las partes, aun cuando no fueran ilícitas ni contrarias al orden público. Esta severidad llevó incluso a cuestionar la constitucionalidad del sistema. :contentReference[oaicite:2]{index=2}
 
 ---
 
-# Pregunta de examen 71: Palomeque
+# Tercera consecuencia
 
-## Consigna
+# Disolución por voluntad de cualquier socio
 
-Desarrolle **Palomeque**.
+El legislador tampoco pretendía favorecer la permanencia de sociedades no regularmente constituidas.
 
-## Pauta mínima
+Por ello, permitía que cualquiera de los socios provocara la disolución del ente sin necesidad de invocar justa causa.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La lógica era coherente con el sistema.
 
-## Advertencia
+Si la sociedad no había respetado las exigencias legales para su constitución, tampoco merecía la estabilidad que la ley otorgaba a las sociedades regularmente constituidas.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La facilidad para disolverla actuaba como un incentivo para regularizar la situación o, en su defecto, abandonar una organización considerada irregular.
 
 ---
-
-# Pregunta de examen 72: Carballo
 
-## Consigna
+# Cuarta consecuencia
 
-Desarrolle **Carballo**.
+# Debilitamiento de la organización societaria
 
-## Pauta mínima
+La combinación de estas reglas producía un efecto general.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sociedad quedaba sometida a un régimen de permanente inestabilidad.
 
-## Advertencia
+- Los socios asumían una responsabilidad agravada.
+- El contrato perdía eficacia.
+- La continuidad del ente quedaba comprometida.
+- La organización carecía de la estabilidad propia de una sociedad regularmente constituida.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+En palabras de Vítolo, el sistema estaba concebido para **desalentar** la existencia de sociedades no regulares, no para facilitar su funcionamiento. :contentReference[oaicite:3]{index=3}
 
 ---
 
-# Pregunta de examen 73: personalidad jurídica
+# Síntesis
 
-## Consigna
+Cada una de las consecuencias del régimen anterior respondía a un mismo objetivo.
 
-Desarrolle **personalidad jurídica**.
+| Consecuencia | ¿Por qué existía? |
+|--------------|-------------------|
+| Responsabilidad ilimitada | Para privar a los socios del beneficio de la limitación patrimonial. |
+| Inoponibilidad del contrato | Para sancionar la falta de publicidad registral. |
+| Disolución ad nutum | Para impedir la permanencia de organizaciones irregulares. |
+| Inestabilidad del ente | Para incentivar la regularización societaria. |
 
-## Pauta mínima
+::: {.callout-important}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No se trataba de sanciones independientes.
 
-## Advertencia
+Todas respondían a una misma filosofía legislativa:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+**hacer más conveniente cumplir la ley que actuar al margen de ella.**
 
+:::
+
 ---
 
-# Pregunta de examen 74: art. 2 LGS
+# Realizar aportes
 
-## Consigna
+## El aporte como elemento esencial de la sociedad
 
-Desarrolle **art. 2 LGS**.
+El artículo 1 dispone que los socios:
 
-## Pauta mínima
+> **"...se obligan a realizar aportes..."**
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El aporte constituye uno de los elementos esenciales del contrato de sociedad.
 
-## Advertencia
+Sin aportes no existe sociedad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Ello se debe a que la sociedad necesita contar con un patrimonio inicial que le permita desarrollar la actividad prevista en el objeto social.
 
----
+Los aportes representan, por lo tanto, el compromiso patrimonial asumido por cada socio para contribuir al fin común.
 
-# Pregunta de examen 75: CCyC
+---
 
-## Consigna
+# ¿Qué es un aporte?
 
-Desarrolle **CCyC**.
+El aporte es la prestación que cada socio se obliga a realizar en favor de la sociedad.
 
-## Pauta mínima
+Su finalidad consiste en integrar el patrimonio social.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+A través de los aportes:
 
-## Advertencia
+- se constituye el capital inicial;
+- se dota a la sociedad de recursos para operar;
+- se distribuye el riesgo empresario entre los socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Como explica Vítolo, el aporte constituye una obligación esencial del socio y una condición necesaria para la existencia misma del vínculo societario. :contentReference[oaicite:0]{index=0}
 
 ---
+
+# El aporte no es un préstamo
+
+Es frecuente confundir ambas figuras.
+
+Sin embargo presentan diferencias sustanciales.
 
-# Pregunta de examen 76: art. 54 LGS
+| Aporte | Préstamo |
+|---------|----------|
+| Integra el patrimonio social | Genera un crédito contra la sociedad |
+| El socio asume el riesgo empresario | El acreedor conserva su derecho al cobro |
+| Puede participar en las pérdidas | No participa en las pérdidas |
+| Constituye una obligación societaria | Constituye un contrato de mutuo |
 
-## Consigna
+El aporte incorpora al socio al riesgo propio de la actividad empresarial.
 
-Desarrolle **art. 54 LGS**.
+---
+
+# ¿Qué puede aportarse?
 
-## Pauta mínima
+La Ley General de Sociedades admite distintos tipos de aportes.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Entre ellos:
 
-## Advertencia
+- dinero;
+- bienes muebles;
+- bienes inmuebles;
+- créditos;
+- derechos;
+- uso o goce de determinados bienes;
+- industria o trabajo personal, cuando el tipo societario lo permita.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La naturaleza del aporte dependerá del tipo social adoptado.
 
 ---
+
+# Función económica del aporte
+
+El aporte cumple diversas funciones.
 
-# Pregunta de examen 77: art. 144 CCyC
+## Financiera
 
-## Consigna
+Permite iniciar la actividad.
 
-Desarrolle **art. 144 CCyC**.
+## Organizativa
 
-## Pauta mínima
+Determina la participación de cada socio.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+## Garantía
 
-## Advertencia
+Contribuye a la formación del patrimonio social que constituye la garantía común de los acreedores.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+## Empresarial
 
+Distribuye entre los socios el riesgo de la actividad.
+
 ---
+
+# El aporte y el capital social
 
-# Pregunta de examen 78: tipicidad
+No debe confundirse:
 
-## Consigna
+## Aporte
 
-Desarrolle **tipicidad**.
+Es la obligación asumida por cada socio.
 
-## Pauta mínima
+## Capital social
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Es la cifra jurídica que representa la suma de los aportes comprometidos.
 
-## Advertencia
+## Patrimonio
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Es el conjunto dinámico de bienes, derechos y obligaciones de la sociedad.
 
+Los tres conceptos se encuentran íntimamente relacionados, pero no son equivalentes.
+
 ---
+
+# Caso práctico
 
-# Pregunta de examen 79: clasificación
+Dos personas constituyen una sociedad.
 
-## Consigna
+Uno aporta $20.000.000.
 
-Desarrolle **clasificación**.
+El otro promete colaborar con la administración, pero no asume obligación patrimonial alguna ni realiza un aporte de industria admitido por la ley.
 
-## Pauta mínima
+## Preguntas
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- ¿Existe realmente un aporte?
+- ¿Puede adquirir la calidad de socio?
+- ¿Qué diferencia existe entre administrar y aportar?
 
-## Advertencia
+---
+
+# Idea central
+
+::: {.callout-important}
+
+No existe sociedad sin aportes.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+El aporte constituye el medio por el cual el socio participa en la empresa y asume el riesgo propio de la actividad económica.
 
+:::
+
 ---
 
-# Pregunta de examen 80: nacionalidad
+# Producción o intercambio de bienes o servicios
 
-## Consigna
+## La actividad económica de la sociedad
 
-Desarrolle **nacionalidad**.
+El artículo 1 dispone que los aportes deben destinarse:
 
-## Pauta mínima
+> **"...a la producción o intercambio de bienes o servicios..."**
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Esta expresión identifica la finalidad económica de la sociedad.
 
-## Advertencia
+No basta con reunir un patrimonio.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Ese patrimonio debe aplicarse al desarrollo de una actividad organizada.
 
 ---
 
-# Pregunta de examen 81: Parke Davis
+# ¿Por qué la ley exige una actividad económica?
 
-## Consigna
+La sociedad no constituye un patrimonio inmóvil.
 
-Desarrolle **Parke Davis**.
+Es una organización destinada a desarrollar una actividad.
 
-## Pauta mínima
+Esa actividad puede consistir en:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- producir bienes;
+- comercializar bienes;
+- prestar servicios;
+- desarrollar actividades industriales;
+- realizar actividades agropecuarias;
+- ejercer actividades profesionales cuando el tipo legal lo permita.
 
-## Advertencia
+Lo relevante no es la naturaleza de la actividad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Lo relevante es que exista una organización económica.
 
 ---
 
-# Pregunta de examen 82: Swift
+# Sociedad y empresa
 
-## Consigna
+Esta disposición permite comprender una diferencia fundamental.
 
-Desarrolle **Swift**.
+## Empresa
 
-## Pauta mínima
+Actividad económica organizada.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+## Sociedad
 
-## Advertencia
+Persona jurídica que puede servir como instrumento para desarrollar una empresa.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Por ello:
 
----
+- puede existir empresa sin sociedad;
+- puede existir sociedad sin una empresa actualmente en funcionamiento.
 
-# Pregunta de examen 83: Palomeque
+No son conceptos equivalentes.
 
-## Consigna
+---
 
-Desarrolle **Palomeque**.
+# El objeto social
 
-## Pauta mínima
+La producción o intercambio de bienes o servicios se concreta mediante el objeto social.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El objeto determina:
 
-## Advertencia
+- qué actividad desarrollará la sociedad;
+- cuáles son los límites de actuación de los administradores;
+- qué riesgos asumen los socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Por ello constituye una de las cláusulas esenciales del contrato constitutivo.
 
 ---
-
-# Pregunta de examen 84: Carballo
 
-## Consigna
+# Idea central
 
-Desarrolle **Carballo**.
+::: {.callout-important}
 
-## Pauta mínima
+La sociedad no se constituye para conservar un patrimonio.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Se constituye para desarrollar una actividad económica organizada.
 
-## Advertencia
+Ésta es la razón por la cual el artículo 1 vincula los aportes con la producción o intercambio de bienes o servicios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
 ---
 
-# Pregunta de examen 85: personalidad jurídica
+# Participación en los beneficios
 
-## Consigna
+## La finalidad lucrativa
 
-Desarrolle **personalidad jurídica**.
+El artículo 1 concluye afirmando que los socios participan:
 
-## Pauta mínima
+> **"...de los beneficios..."**
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sociedad persigue la obtención de un resultado económico favorable.
 
-## Advertencia
+Ello no significa que necesariamente obtenga ganancias.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Significa que su actividad se desarrolla con esa finalidad.
 
+La expectativa de obtener beneficios constituye una de las causas que justifican la constitución de la sociedad.
+
 ---
+
+# ¿Qué son los beneficios?
 
-# Pregunta de examen 86: art. 2 LGS
+Los beneficios representan las utilidades obtenidas por la actividad social una vez cumplidos los requisitos legales para su distribución.
 
-## Consigna
+No toda ganancia contable puede distribuirse.
 
-Desarrolle **art. 2 LGS**.
+La distribución exige el cumplimiento de las normas legales y estatutarias.
 
-## Pauta mínima
+Este aspecto será desarrollado al estudiar los estados contables y las utilidades.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# La prohibición del pacto leonino
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La participación en los beneficios encuentra un límite tradicional.
 
----
+La ley prohíbe las cláusulas que:
 
-# Pregunta de examen 87: CCyC
+- excluyan totalmente a un socio de las ganancias;
+- lo eximan completamente de soportar las pérdidas.
 
-## Consigna
+Estas cláusulas son conocidas como **pactos leoninos**.
 
-Desarrolle **CCyC**.
+Su fundamento radica en preservar la esencia misma del contrato de sociedad.
 
-## Pauta mínima
+---
+
+# Idea central
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+::: {.callout-important}
 
-## Advertencia
+Quien participa de una sociedad lo hace con la expectativa legítima de obtener beneficios derivados de la actividad común.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La exclusión absoluta de un socio de las ganancias resulta incompatible con el concepto legal de sociedad.
 
+:::
+
 ---
 
-# Pregunta de examen 88: art. 54 LGS
+# Soportar las pérdidas
 
-## Consigna
+## El riesgo empresario
 
-Desarrolle **art. 54 LGS**.
+El último elemento mencionado por el artículo 1 establece que los socios deben:
 
-## Pauta mínima
+> **"...soportar las pérdidas."**
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La participación en las pérdidas constituye la contracara necesaria de la participación en los beneficios.
 
-## Advertencia
+No existe actividad económica sin riesgo.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Quien pretende obtener utilidades debe aceptar también la posibilidad de sufrir pérdidas.
 
 ---
 
-# Pregunta de examen 89: art. 144 CCyC
+# Beneficios y pérdidas
 
-## Consigna
+```{mermaid}
+graph LR
 
-Desarrolle **art. 144 CCyC**.
+A[Aportes]
 
-## Pauta mínima
+-->B[Actividad económica]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+-->C{Resultado}
 
-## Advertencia
+C --> D[Beneficios]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+C --> E[Pérdidas]
+```
 
----
+El riesgo empresario forma parte de la esencia del fenómeno societario.
 
-# Pregunta de examen 90: tipicidad
+---
 
-## Consigna
+# ¿Qué significa soportar las pérdidas?
 
-Desarrolle **tipicidad**.
+No implica necesariamente realizar nuevos aportes.
 
-## Pauta mínima
+Significa asumir las consecuencias económicas derivadas del fracaso de la actividad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Por ejemplo:
 
-## Advertencia
+- disminución del valor de la participación social;
+- pérdida del aporte realizado;
+- ausencia de distribución de utilidades.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+El alcance concreto dependerá del tipo societario y del régimen de responsabilidad correspondiente.
 
 ---
 
-# Pregunta de examen 91: clasificación
+# La relación con el pacto leonino
 
-## Consigna
+Así como ningún socio puede ser excluido totalmente de las ganancias,
 
-Desarrolle **clasificación**.
+tampoco puede ser liberado absolutamente de soportar las pérdidas.
 
-## Pauta mínima
+La participación en ambos resultados constituye un elemento estructural del contrato de sociedad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# Síntesis del artículo 1
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+```{mermaid}
+mindmap
+  root((Artículo 1))
 
----
+    Personas
 
-# Pregunta de examen 92: nacionalidad
+    Organización
 
-## Consigna
+    Tipicidad
 
-Desarrolle **nacionalidad**.
+    Aportes
 
-## Pauta mínima
+    Actividad económica
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+    Beneficios
 
-## Advertencia
+    Pérdidas
+```
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+::: {.callout-important}
 
----
+El artículo 1 no contiene una simple definición.
 
-# Pregunta de examen 93: Parke Davis
+Describe los elementos estructurales cuya concurrencia permite afirmar la existencia de una sociedad en sentido jurídico.
 
-## Consigna
+Su comprensión resulta indispensable para interpretar todo el régimen de la Ley General de Sociedades.
 
-Desarrolle **Parke Davis**.
+:::
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# PARTE IV
 
-## Advertencia
+# Personalidad jurídica de la sociedad
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+## Los efectos jurídicos de la constitución
 
 ---
+
+# Una pregunta fundamental
 
-# Pregunta de examen 94: Swift
+Hasta este momento hemos estudiado:
 
-## Consigna
+- quiénes pueden constituir una sociedad;
+- cómo debe organizarse;
+- cuáles son sus elementos esenciales.
 
-Desarrolle **Swift**.
+Corresponde ahora formular una nueva pregunta.
 
-## Pauta mínima
+## ¿Qué ocurre una vez constituida válidamente la sociedad?
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La respuesta constituye uno de los pilares del Derecho Societario.
 
-## Advertencia
+La constitución de una sociedad no crea simplemente un contrato.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Da nacimiento a un **nuevo sujeto de derecho**.
 
 ---
 
-# Pregunta de examen 95: Palomeque
+# La sociedad como persona jurídica
 
-## Consigna
+La Ley General de Sociedades debe interpretarse conjuntamente con el Código Civil y Comercial.
 
-Desarrolle **Palomeque**.
+El artículo 141 del CCyC dispone:
 
-## Pauta mínima
+::: {.callout-important}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+> **Son personas jurídicas todos los entes a los cuales el ordenamiento jurídico les confiere aptitud para adquirir derechos y contraer obligaciones para el cumplimiento de su objeto y los fines de su creación.**
 
-## Advertencia
+:::
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La sociedad constituye, por lo tanto, una persona distinta de los socios que la integran.
 
 ---
 
-# Pregunta de examen 96: Carballo
+# La personalidad diferenciada
 
-## Consigna
+Uno de los principios fundamentales del Derecho Societario consiste en distinguir dos patrimonios.
 
-Desarrolle **Carballo**.
+```{mermaid}
+graph TD
 
-## Pauta mínima
+A[Sociedad]
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+B[Socio A]
 
-## Advertencia
+C[Socio B]
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
----
+D[Socio C]
 
-# Pregunta de examen 97: personalidad jurídica
+A --> P[Patrimonio social]
 
-## Consigna
+B --> P1[Patrimonio personal]
 
-Desarrolle **personalidad jurídica**.
+C --> P2[Patrimonio personal]
 
-## Pauta mínima
+D --> P3[Patrimonio personal]
+```
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La sociedad posee un patrimonio propio.
 
-## Advertencia
+Los socios conservan patrimonios independientes.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta separación constituye uno de los principales efectos de la personalidad jurídica.
 
 ---
 
-# Pregunta de examen 98: art. 2 LGS
+# ¿Por qué el Derecho reconoce personalidad a las sociedades?
 
-## Consigna
+La respuesta no es meramente técnica.
 
-Desarrolle **art. 2 LGS**.
+Como explica Vítolo, el reconocimiento de personalidad jurídica permite atribuir derechos, obligaciones y responsabilidad a una organización distinta de las personas que la integran.
 
-## Pauta mínima
+Ello facilita:
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+- la continuidad de la empresa;
+- la seguridad del tráfico jurídico;
+- la organización patrimonial;
+- la actuación mediante órganos.
 
-## Advertencia
+La personalidad jurídica constituye un instrumento para organizar la actividad económica.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
-
 ---
+
+# Consecuencias de la personalidad jurídica
 
-# Pregunta de examen 99: CCyC
+El reconocimiento de personalidad produce importantes efectos.
 
-## Consigna
+La sociedad puede:
 
-Desarrolle **CCyC**.
+- ser titular de bienes;
+- celebrar contratos;
+- comparecer en juicio;
+- adquirir derechos;
+- asumir obligaciones;
+- responder con su patrimonio.
 
-## Pauta mínima
+Los socios, por el contrario, no son titulares directos del patrimonio social.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# ¿La personalidad es absoluta?
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La respuesta es negativa.
 
----
+La personalidad jurídica constituye una regla general.
 
-# Pregunta de examen 100: art. 54 LGS
+Sin embargo, el propio ordenamiento prevé supuestos excepcionales en los cuales esa separación patrimonial puede dejar de producir efectos.
 
-## Consigna
+El ejemplo más importante es el previsto por el artículo 54 de la Ley General de Sociedades.
 
-Desarrolle **art. 54 LGS**.
+Ese instituto será desarrollado al estudiar la inoponibilidad de la personalidad jurídica.
 
-## Pauta mínima
+::: {.callout-warning}
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No debe confundirse la personalidad jurídica con la irresponsabilidad de los socios.
 
-## Advertencia
+Son conceptos diferentes.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+:::
 
 ---
+
+# Doctrina
+
+::: {.callout-note}
+
+Daniel Vítolo destaca que la personalidad jurídica constituye uno de los instrumentos técnicos más importantes del Derecho Privado moderno.
+
+Su finalidad consiste en permitir que una organización actúe como un verdadero sujeto de derecho, separado de las personas que la integran.
 
-# Pregunta de examen 101: art. 144 CCyC
+No representa un privilegio de los socios.
 
-## Consigna
+Representa una técnica jurídica destinada a facilitar la organización de la actividad económica.
 
-Desarrolle **art. 144 CCyC**.
+:::
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# Para el parcial
 
-## Advertencia
+## Preguntas posibles
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+- ¿Por qué la sociedad constituye una persona jurídica?
+- ¿Qué efectos produce el reconocimiento de personalidad?
+- ¿Qué diferencia existe entre patrimonio social y patrimonio de los socios?
+- ¿La personalidad jurídica es absoluta?
 
 ---
+
+# Los atributos de la personalidad jurídica
 
-# Pregunta de examen 102: tipicidad
+## ¿Qué son los atributos?
 
-## Consigna
+Una vez reconocida la personalidad jurídica de la sociedad, el ordenamiento le atribuye determinados elementos que permiten individualizarla y posibilitan su actuación en el tráfico jurídico.
 
-Desarrolle **tipicidad**.
+Estos atributos cumplen una doble función.
 
-## Pauta mínima
+- Individualizan a la sociedad frente a terceros.
+- Hacen posible el ejercicio de los derechos y obligaciones derivados de su personalidad jurídica.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Los principales atributos son:
 
-## Advertencia
+- nombre;
+- domicilio;
+- patrimonio;
+- capacidad.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Estos atributos presentan características propias que los diferencian de los correspondientes a las personas humanas.
 
 ---
 
-# Pregunta de examen 103: clasificación
+# El nombre social
 
-## Consigna
+## Función jurídica
 
-Desarrolle **clasificación**.
+Como toda persona jurídica, la sociedad debe poder ser identificada.
 
-## Pauta mínima
+El nombre cumple precisamente esa función.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Permite:
 
-## Advertencia
+- individualizar a la sociedad;
+- distinguirla de las restantes personas jurídicas;
+- identificar al sujeto que actúa en el tráfico jurídico.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+No constituye una cuestión meramente formal.
 
+Su adecuada identificación protege tanto a los socios como a los terceros.
+
 ---
 
-# Pregunta de examen 104: nacionalidad
+# Razón social y denominación social
 
-## Consigna
+La Ley General de Sociedades utiliza dos sistemas de identificación.
 
-Desarrolle **nacionalidad**.
+## Razón social
 
-## Pauta mínima
+Se integra con el nombre de uno o más socios.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Es característica de las sociedades personalistas.
 
-## Advertencia
+Ejemplo:
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+> **Pérez, Gómez y Cía. Sociedad Colectiva**
 
 ---
-
-# Pregunta de examen 105: Parke Davis
 
-## Consigna
+## Denominación social
 
-Desarrolle **Parke Davis**.
+No necesita contener el nombre de los socios.
 
-## Pauta mínima
+Puede consistir en una expresión de fantasía.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Ejemplo:
 
-## Advertencia
+> **Tecnologías Argentinas S.A.**
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Predomina en las sociedades de capital.
 
 ---
 
-# Pregunta de examen 106: Swift
+# ¿Por qué existen ambos sistemas?
 
-## Consigna
+La diferencia responde a la naturaleza de cada tipo social.
 
-Desarrolle **Swift**.
+En las sociedades personalistas:
 
-## Pauta mínima
+- interesa conocer quiénes son los socios;
+- la confianza personal ocupa un lugar central.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+En las sociedades de capital:
 
-## Advertencia
+- lo relevante es la organización;
+- la identidad de los socios resulta secundaria.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Por ello basta una denominación que individualice a la persona jurídica.
 
 ---
 
-# Pregunta de examen 107: Palomeque
+# El domicilio social
 
-## Consigna
+Otro atributo esencial es el domicilio.
 
-Desarrolle **Palomeque**.
+El domicilio determina:
 
-## Pauta mínima
+- la competencia territorial;
+- el lugar de funcionamiento de los órganos;
+- el sitio donde deben practicarse determinadas notificaciones;
+- la ley aplicable en diversos supuestos.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+No debe confundirse con la sede social.
 
-## Advertencia
+---
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+# Domicilio y sede
 
----
+Aunque frecuentemente se utilizan como sinónimos, representan conceptos distintos.
 
-# Pregunta de examen 108: Carballo
+| Domicilio | Sede |
+|-----------|------|
+| Ciudad indicada en el estatuto | Dirección concreta donde funciona la administración |
+| Requiere reforma estatutaria para modificarse | Puede modificarse sin reformar el estatuto cuando la ley lo permite |
+| Identifica jurídicamente a la sociedad | Individualiza físicamente su funcionamiento |
 
-## Consigna
+Esta distinción posee importantes consecuencias prácticas.
+
+---
 
-Desarrolle **Carballo**.
+# El patrimonio social
 
-## Pauta mínima
+La personalidad jurídica implica la existencia de un patrimonio propio.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Ese patrimonio:
 
-## Advertencia
+- pertenece exclusivamente a la sociedad;
+- constituye la garantía común de los acreedores;
+- permanece separado del patrimonio de los socios.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta separación patrimonial constituye uno de los principales efectos del reconocimiento de personalidad jurídica.
 
 ---
 
-# Pregunta de examen 109: personalidad jurídica
+# Capital y patrimonio
 
-## Consigna
+Uno de los errores más frecuentes consiste en identificar ambos conceptos.
 
-Desarrolle **personalidad jurídica**.
+| Capital | Patrimonio |
+|----------|------------|
+| Cifra jurídica | Realidad económica |
+| Surge del contrato | Varía constantemente |
+| Generalmente permanece estable | Aumenta o disminuye según la actividad social |
+| Cumple función de organización | Constituye la garantía efectiva de los acreedores |
 
-## Pauta mínima
+Como señala Vítolo, el capital representa un dato jurídico, mientras que el patrimonio refleja la situación económica real de la sociedad.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
 
-## Advertencia
+# La capacidad
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Toda persona jurídica posee capacidad para adquirir derechos y contraer obligaciones.
 
----
+Sin embargo, la capacidad de la sociedad no es ilimitada.
 
-# Pregunta de examen 110: art. 2 LGS
+Se encuentra determinada por:
 
-## Consigna
+- la ley;
+- el estatuto;
+- especialmente por el objeto social.
 
-Desarrolle **art. 2 LGS**.
+El objeto funciona como parámetro de actuación de la persona jurídica.
 
-## Pauta mínima
+---
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+# El objeto como límite
 
-## Advertencia
+La sociedad existe para desarrollar la actividad prevista en su objeto.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Los administradores deben actuar dentro de esos límites.
 
----
+Por ello el objeto social:
 
-# Pregunta de examen 111: CCyC
+- delimita la capacidad funcional de la sociedad;
+- orienta la actuación de los órganos;
+- protege a socios y terceros.
 
-## Consigna
+Más adelante estudiaremos con detalle las consecuencias de los actos que exceden el objeto social.
 
-Desarrolle **CCyC**.
+---
 
-## Pauta mínima
+# Síntesis
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+```{mermaid}
+mindmap
+  root((Atributos))
 
-## Advertencia
+    Nombre
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+      Razón social
 
----
+      Denominación
 
-# Pregunta de examen 112: art. 54 LGS
+    Domicilio
 
-## Consigna
+      Domicilio
 
-Desarrolle **art. 54 LGS**.
+      Sede
 
-## Pauta mínima
+    Patrimonio
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+      Capital
 
-## Advertencia
+      Garantía
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+    Capacidad
 
+      Objeto social
+```
+
 ---
+
+# Para el parcial
 
-# Pregunta de examen 113: art. 144 CCyC
+El alumno debería poder explicar:
 
-## Consigna
+- ¿Cuál es la función del nombre social?
+- ¿Qué diferencias existen entre razón social y denominación social?
+- ¿Por qué no deben confundirse domicilio y sede?
+- ¿Cuál es la diferencia entre capital y patrimonio?
+- ¿Por qué el objeto social limita la capacidad de la sociedad?
 
-Desarrolle **art. 144 CCyC**.
+::: {.callout-important}
 
-## Pauta mínima
+Los atributos de la personalidad jurídica no constituyen simples datos identificatorios.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+Son los instrumentos que permiten a la sociedad actuar como un verdadero sujeto de derecho en el tráfico jurídico.
 
-## Advertencia
+:::
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+---
+
+# Integración con contenidos ya estudiados
+
+Los atributos de la personalidad jurídica permiten comprender diversos temas desarrollados anteriormente.
+
+| Atributo | Aplicación práctica |
+|-----------|---------------------|
+| Nombre | Individualización de la sociedad |
+| Domicilio | Competencia y ley aplicable |
+| Patrimonio | Responsabilidad y garantía de acreedores |
+| Capacidad | Objeto social y actuación de los administradores |
 
+Durante la clase dedicada a las sociedades constituidas en el extranjero analizamos cómo el domicilio y el lugar de constitución permiten determinar la ley aplicable y los alcances de los artículos 118 a 124 de la Ley General de Sociedades.
+
+El fallo **Boskoop S.A.** constituye una aplicación paradigmática de estos principios al interpretar el artículo 124 LGS frente a una sociedad constituida formalmente en el extranjero pero cuya actividad principal se desarrollaba en la República Argentina.
+
 ---
 
-# Pregunta de examen 114: tipicidad
+# La unipersonalidad sobreviniente
 
-## Consigna
+## Un problema clásico del Derecho Societario
 
-Desarrolle **tipicidad**.
+La incorporación de la Sociedad Anónima Unipersonal mediante la Ley 26.994 suele llevar a pensar que toda situación de unipersonalidad quedó definitivamente resuelta.
 
-## Pauta mínima
+Sin embargo, el problema más frecuente en la práctica no consiste en la constitución originaria de una sociedad con un solo socio.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+El verdadero interrogante es otro.
 
-## Advertencia
+> **¿Qué ocurre cuando una sociedad que nació con pluralidad de socios queda posteriormente integrada por uno solo?**
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+Esta situación recibe el nombre de **unipersonalidad sobreviniente**.
 
 ---
+
+# ¿Cómo puede producirse?
+
+La unipersonalidad sobreviniente puede tener múltiples causas.
 
-# Pregunta de examen 115: clasificación
+Por ejemplo:
 
-## Consigna
+- adquisición de todas las acciones o cuotas por un único socio;
+- fallecimiento de uno de los socios;
+- exclusión de un socio;
+- ejercicio de un derecho de preferencia;
+- reorganizaciones societarias;
+- fusiones o escisiones.
 
-Desarrolle **clasificación**.
+No constituye un supuesto excepcional.
 
-## Pauta mínima
+Es una situación frecuente en la práctica empresarial.
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+---
+
+# El régimen anterior a la Ley 26.994
+
+Bajo el texto originario de la Ley 19.550 regía el antiguo artículo 94 inciso 8.
+
+La reducción a uno del número de socios constituía una causal de disolución.
 
-## Advertencia
+La razón era sencilla.
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+La sociedad era concebida como un contrato necesariamente plurilateral.
 
+Desaparecida la pluralidad, desaparecía uno de los elementos esenciales del contrato.
+
 ---
+
+# El fundamento del régimen anterior
+
+La solución era coherente con la concepción clásica del Derecho Societario.
+
+```text
+Pluralidad de socios
 
-# Pregunta de examen 116: nacionalidad
+↓
 
-## Consigna
+Elemento esencial del contrato
 
-Desarrolle **nacionalidad**.
+↓
 
-## Pauta mínima
+Desaparece la pluralidad
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+↓
 
-## Advertencia
+Desaparece el presupuesto del contrato
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+↓
 
+Disolución
+```
+
+La unipersonalidad era incompatible con la propia idea de sociedad.
+
 ---
+
+# Las críticas doctrinarias
+
+Con el tiempo esta solución comenzó a ser cuestionada.
 
-# Pregunta de examen 117: Parke Davis
+¿Por qué disolver automáticamente una empresa económicamente viable sólo porque todas las participaciones quedaron concentradas en una persona?
 
-## Consigna
+La doctrina comenzó a advertir que la solución privilegiaba la forma por sobre la realidad económica.
 
-Desarrolle **Parke Davis**.
+Como explica Vítolo, la disolución automática resultaba desproporcionada frente a un fenómeno que muchas veces respondía simplemente a la evolución normal de la vida societaria.
 
-## Pauta mínima
+---
+
+# La reforma de la Ley 26.994
 
-- Norma aplicable.
-- Concepto.
-- Posición doctrinaria.
-- Consecuencia práctica.
-- Ejemplo o caso.
+La incorporación de la SAU obligó al legislador a revisar este régimen.
 
-## Advertencia
+Si el ordenamiento admitía que una sociedad pudiera nacer válidamente con un solo socio,
 
-No responder con definiciones aisladas. Construir una respuesta argumental.
+carecía de sentido mantener como causal de disolución la concentración posterior del capital en una sola persona.
 
+Por ello se modificó el artículo 94.
+
 ---
+
+# El nuevo artículo 94 bis
+
+La reforma incorporó el artículo 94 bis.
+
+Su finalidad consiste en evitar la disolución automática de determinadas sociedades cuando sobreviene la unipersonalidad.
+
+La solución legal procura preservar la continuidad de la empresa.
+
+---
+
+# ¿Todas las sociedades pueden continuar siendo unipersonales?
+
+La respuesta es negativa.
+
+Aquí aparece una de las cuestiones más discutidas por la doctrina.
+
+La ley no convirtió a todos los tipos sociales en sociedades unipersonales.
+
+La unipersonalidad sobreviniente debe analizarse según el tipo social involucrado.
+
+Este aspecto dio lugar a importantes debates doctrinarios que estudiaremos al analizar el artículo 94 bis.
+
+---
+
+# La idea central
+
+::: {.callout-important}
+
+La reforma abandonó la idea según la cual toda reducción a un solo socio debía conducir necesariamente a la disolución.
+
+Sin embargo,
+
+tampoco consagró un principio general de libre unipersonalidad para todos los tipos sociales.
+
+La solución adoptada por la ley es mucho más matizada.
+
+:::
+
+---
+
+# La unipersonalidad sobreviniente
+
+## Un problema que la ley no resolvió completamente
+
+La reforma introducida por la Ley 26.994 eliminó la reducción a uno del número de socios como causal de disolución e incorporó el artículo 94 bis LGS.
+
+Sin embargo, el nuevo régimen no resolvió expresamente qué ocurre con todos los tipos sociales cuando sobreviene la unipersonalidad.
+
+Como consecuencia, surgieron diversas interpretaciones doctrinarias que aún hoy coexisten.
+
+---
+
+# La unipersonalidad sobreviniente
+
+## Una de las cuestiones más debatidas de la reforma de la Ley 26.994
+
+> "La verdadera discusión no consiste en la sociedad que nace con un solo socio, sino en aquella que, habiendo nacido pluripersonal, pasa luego a quedar integrada por una única persona."
+
+Este problema, aparentemente sencillo, dio lugar a uno de los debates doctrinarios más importantes del Derecho Societario argentino contemporáneo.
+
+---
+
+# Un caso muy frecuente
+
+Una SRL es constituida por dos socios.
+
+```{mermaid}
+flowchart LR
+
+A[Juan 50%]
+
+--> C[SRL]
+
+B[Pedro 50%]
+
+--> C
+
+C --> D[La sociedad funciona normalmente]
+```
+
+Tiempo después...
+
+---
+
+# El hecho sobreviniente
+
+Juan adquiere la totalidad de las cuotas de Pedro.
+
+```{mermaid}
+flowchart LR
+
+A[Juan 100%]
+
+--> C[SRL]
+
+C --> D[Un único socio]
+```
+
+La sociedad continúa desarrollando normalmente su actividad.
+
+No existen acreedores perjudicados.
+
+No existen conflictos societarios.
+
+La única diferencia es que ahora existe un solo socio.
+
+---
+
+# El interrogante jurídico
+
+## ¿Qué ocurre ahora?
+
+La respuesta no es evidente.
+
+¿Debe disolverse?
+
+¿Debe transformarse?
+
+¿Debe recomponer la pluralidad?
+
+¿Continúa funcionando normalmente?
+
+La respuesta ha cambiado profundamente con la evolución legislativa.
+
+---
+
+# El régimen originario de la Ley 19.550
+
+Antes de la Ley 26.994 la cuestión parecía sencilla.
+
+El antiguo artículo 94 inciso 8 establecía que:
+
+> **La reducción a uno del número de socios constituía causal de disolución.**
+
+La explicación era coherente con la concepción tradicional de la sociedad.
+
+---
+
+# ¿Por qué existía esa solución?
+
+La sociedad era concebida como un contrato necesariamente plurilateral.
+
+```{mermaid}
+flowchart TD
+
+A[Pluralidad de socios]
+
+--> B[Contrato de sociedad]
+
+--> C[Desaparece la pluralidad]
+
+--> D[Desaparece un elemento esencial]
+
+--> E[Disolución]
+```
+
+Si desaparecía la pluralidad, desaparecía uno de los presupuestos del contrato.
+
+---
+
+# Un sistema coherente
+
+Obsérvese que el antiguo artículo 94 era plenamente compatible con el concepto legal de sociedad vigente hasta 2015.
+
+```text
+Artículo 1
+
+Dos o más personas
+
+↓
+
+Artículo 94
+
+Si queda una sola
+
+↓
+
+Disolución
+```
+
+El sistema presentaba coherencia interna.
+
+---
+
+# La reforma de la Ley 26.994
+
+La incorporación de la Sociedad Anónima Unipersonal modificó profundamente este panorama.
+
+El nuevo artículo 1 dispone:
+
+> **"Habrá sociedad si una o más personas..."**
+
+La pluralidad dejó de ser un requisito absoluto.
+
+Ello obligó necesariamente a revisar el régimen de la unipersonalidad sobreviniente.
+
+---
+
+# El nuevo problema
+
+La reforma generó una aparente contradicción.
+
+```{mermaid}
+flowchart TD
+
+A["Artículo 1<br/>Una o más personas"]
+
+--> B["Artículo 94 bis"]
+
+--> C["¿Qué ocurre con una SRL que queda con un solo socio?"]
+```
+
+La ley eliminó la causal tradicional de disolución.
+
+Pero no respondió expresamente cuál debía ser el régimen aplicable.
+
+Allí comienza el debate doctrinario.
+
+---
+
+# Primera posición
+
+# La tesis de Nissen
+
+Para Ricardo Nissen la pluralidad continúa siendo un elemento estructural de aquellos tipos sociales que la ley diseñó como pluripersonales.
+
+La reforma no convirtió automáticamente a todas las sociedades en unipersonales.
+
+En consecuencia, la sociedad devenida unipersonal debe:
+
+- recomponer la pluralidad;
+- transformarse en Sociedad Anónima Unipersonal cuando ello resulte posible;
+- o ingresar en causal de disolución.
+
+---
+
+# Fundamentos de Nissen
+
+Nissen sostiene, en esencia:
+
+- la SAU constituye una excepción expresamente prevista por la ley;
+- las SRL y las sociedades personalistas continúan siendo tipos concebidos para una pluralidad de socios;
+- admitir su continuidad implicaría alterar la tipicidad diseñada por el legislador.
+
+Desde esta perspectiva, la unipersonalidad no puede convertirse en una regla general.
+
+---
+
+# Segunda posición
+
+# La posición de Daniel Vítolo
+
+Daniel Vítolo comparte que la reforma eliminó la antigua solución automática de la disolución.
+
+Sin embargo,
+
+considera que ello no implica que la sociedad continúe normalmente bajo el mismo régimen típico.
+
+En sus desarrollos posteriores a la reforma sostiene que la sociedad devenida unipersonal continúa existiendo,
+
+pero queda comprendida dentro del régimen de la **Sección IV** de la Ley General de Sociedades.
+
+---
+
+# Evolución del pensamiento de Vítolo
+
+Resulta interesante observar que la posición de Vítolo evolucionó con el desarrollo doctrinario posterior a la reforma.
+
+```{mermaid}
+timeline
+    title Evolución doctrinaria de Vítolo
+
+    2015 : Primeras observaciones sobre la reforma
+    2016 : Crítica al régimen de la SAU
+    Posteriormente : La sociedad devenida unipersonal continúa, pero bajo la Sección IV
+```
+
+Ello demuestra que la propia doctrina fue reelaborando sus conclusiones a medida que el nuevo régimen comenzó a aplicarse.
+
+---
+
+# ¿Por qué la Sección IV?
+
+Según Vítolo,
+
+la desaparición de la pluralidad provoca que la sociedad deje de adecuarse plenamente al tipo legal elegido.
+
+No corresponde disolverla.
+
+Pero tampoco puede afirmarse que continúe siendo una sociedad típica.
+
+La Sección IV constituye, entonces, el régimen jurídico destinado a permitir su continuidad.
+
+---
+
+# Tercera posición
+
+# La tesis de Raspall
+
+Carlos Raspall propone una solución diferente.
+
+La sociedad:
+
+- no debe disolverse;
+- no debe transformarse;
+- tampoco debe quedar sometida a la Sección IV.
+
+Simplemente continúa funcionando bajo el mismo tipo social.
+
+Una SRL continúa siendo SRL.
+
+Una sociedad colectiva continúa siendo sociedad colectiva.
+
+---
+
+# Fundamentos de Raspall
+
+Raspall considera que:
+
+- el nuevo artículo 1 admite expresamente la existencia de sociedades integradas por una sola persona;
+- la ley ya no establece una sanción frente a la unipersonalidad;
+- el principio de conservación de la empresa debe prevalecer.
+
+Por ello entiende que no existe razón suficiente para modificar el régimen jurídico del ente.
+
+---
+
+# Comparación doctrinaria
+
+| Autor | Solución |
+|--------|----------|
+| Nissen | Recomponer pluralidad, transformarse o disolverse. |
+| Vítolo | Continúa, pero queda sometida a la Sección IV. |
+| Raspall | Continúa normalmente bajo el mismo tipo social. |
+
+La ausencia de una solución legislativa expresa explica la diversidad de posiciones.
+
+---
+
+# ¿Qué valores protege cada postura?
+
+```{mermaid}
+graph TD
+
+A[Problema]
+
+A --> B[Nissen]
+
+A --> C[Vítolo]
+
+A --> D[Raspall]
+
+B --> E[Tipicidad]
+
+C --> F[Conservación con adecuación normativa]
+
+D --> G[Conservación de la empresa]
+```
+
+Cada solución privilegia un valor distinto.
+
+---
+
+# El verdadero debate
+
+La discusión ya no consiste en determinar si puede existir una sociedad integrada por una sola persona.
+
+Ese debate fue resuelto por la reforma del artículo 1.
+
+La verdadera discusión consiste en determinar:
+
+> **¿Qué régimen jurídico corresponde aplicar cuando la unipersonalidad sobreviene en un tipo social concebido originalmente para una pluralidad de socios?**
+
+---
+
+# Caso para analizar
+
+Una SRL integrada por dos socios funciona regularmente desde hace diez años.
+
+Uno adquiere la totalidad de las cuotas sociales.
+
+Durante los dos años siguientes:
+
+- la sociedad continúa operando normalmente;
+- no se transforma;
+- no incorpora nuevos socios;
+- no cesa su actividad.
+
+## Preguntas
+
+1. ¿Existe actualmente una causal de disolución?
+
+2. ¿Qué solución propondría Nissen?
+
+3. ¿Cuál es la posición de Vítolo?
+
+4. ¿Qué sostiene Raspall?
+
+5. ¿Cuál considera más convincente? Fundamente su respuesta.
+
+---
+
+# Ideas para recordar
+
+::: {.callout-important}
+
+- La unipersonalidad originaria y la sobreviniente son fenómenos jurídicos diferentes.
+
+- La reforma eliminó la antigua causal automática de disolución.
+
+- El artículo 94 bis no resolvió expresamente todas las consecuencias de la unipersonalidad sobreviniente.
+
+- La doctrina continúa dividida.
+
+Precisamente por ello, este constituye uno de los debates más interesantes del Derecho Societario argentino contemporáneo.
+
+:::
+
+---
+
+# Evolución legislativa
+
+## Del sistema clásico al régimen vigente
+
+```{mermaid}
+timeline
+
+    title Evolución de la unipersonalidad en el Derecho argentino
+
+    1972 : Ley 19.550
+         : Pluralidad obligatoria
+         : La reducción a un socio era causal de disolución (art. 94 inc. 8)
+
+    2015 : Ley 26.994
+         : Se incorpora la SAU
+         : Nuevo art. 1 ("una o más personas")
+         : Se incorpora el art. 94 bis
+
+    2017 : Ley 27.290
+         : Flexibilización del régimen de la SAU
+```
+
+---
+
+# ¿Por qué apareció el artículo 94 bis?
+
+La incorporación de la Sociedad Anónima Unipersonal produjo una evidente tensión normativa.
+
+Hasta entonces la ley decía:
+
+> La sociedad necesita pluralidad.
+
+Después de la reforma:
+
+> Una sociedad puede constituirse con una sola persona.
+
+La consecuencia era inevitable.
+
+Si una sociedad puede **nacer** con un único socio,
+
+¿por qué otra debería **disolverse** cuando llega a esa misma situación?
+
+El artículo 94 bis constituye la respuesta legislativa a esa contradicción.
+
+---
+
+# Unipersonalidad originaria y sobreviniente
+
+| Originaria | Sobreviniente |
+|------------|---------------|
+| Existe desde el nacimiento de la sociedad | Aparece durante la vida social |
+| El socio único constituye la sociedad | La pluralidad desaparece posteriormente |
+| Supuesto expresamente previsto por la ley | Supuesto que genera debate doctrinario |
+| SAU | Cualquier tipo que quede con un solo socio |
+
+Aunque ambas conducen a la existencia de un único socio,
+
+su fundamento jurídico es completamente diferente.
+
+---
+
+# ¿Son realmente situaciones equivalentes?
+
+```{mermaid}
+flowchart LR
+
+A[SAU]
+
+--> B[Nace con un solo socio]
+
+C[SRL]
+
+--> D[Nace con dos socios]
+
+D --> E[Uno adquiere todas las cuotas]
+
+B --> F[Un único socio]
+
+E --> F
+
+F --> G["¿Debe aplicarse el mismo régimen?"]
+```
+
+Éste constituye precisamente el interrogante que divide a la doctrina.
+
+---
+
+# El silencio del legislador
+
+Una de las mayores dificultades interpretativas proviene de la propia ley.
+
+La Ley General de Sociedades:
+
+- admite la unipersonalidad originaria;
+- elimina la antigua causal de disolución;
+- incorpora el artículo 94 bis.
+
+Sin embargo,
+
+no establece expresamente qué ocurre con todos los tipos sociales cuando sobreviene la unipersonalidad.
+
+Este silencio explica la aparición de diversas construcciones doctrinarias.
+
+---
+
+# ¿Qué interpretación resulta más compatible con la reforma?
+
+```{mermaid}
+graph TD
+
+A[Reforma]
+
+A --> B[Favorecer la tipicidad]
+
+A --> C[Favorecer la conservación]
+
+B --> D[Nissen]
+
+C --> E[Vítolo]
+
+C --> F[Raspall]
+```
+
+Cada autor parte de un principio diferente.
+
+Por ello llegan a soluciones distintas.
+
+---
+
+# La cuestión en perspectiva
+
+La discusión sobre la unipersonalidad sobreviniente demuestra cómo ha evolucionado el Derecho Societario argentino.
+
+## Antes
+
+La prioridad era preservar la estructura legal del tipo.
+
+## Hoy
+
+La discusión gira alrededor de un nuevo interrogante.
+
+> ¿Debe privilegiarse la tipicidad o la conservación de una organización económicamente útil?
+
+No existe actualmente una respuesta pacífica.
+
+Precisamente por ello la unipersonalidad sobreviniente constituye uno de los debates más ricos de la doctrina societaria contemporánea.
+
+:::{.callout-important}
+En un examen universitario no alcanza con citar el artículo 94 bis.
+
+Es necesario identificar el problema jurídico, exponer las principales posiciones doctrinarias y fundamentar la solución adoptada.
+:::
+
+---
+
+# La SAU no resuelve todos los problemas
+
+La incorporación de la Sociedad Anónima Unipersonal permitió admitir, por primera vez en el Derecho argentino, la existencia de una sociedad constituida por una única persona.
+
+Sin embargo,
+
+la creación de la SAU no resolvió automáticamente el problema de la unipersonalidad sobreviniente.
+
+Una cuestión es:
+
+> constituir una sociedad desde su origen con un único socio.
+
+Otra muy distinta es:
+
+> determinar qué ocurre cuando una sociedad regularmente constituida pierde la pluralidad durante su funcionamiento.
+
+La doctrina continúa discutiendo esta última cuestión.
+
+---
+
+# La respuesta del legislador
+
+La Ley 26.994 incorporó por primera vez en el Derecho argentino la **Sociedad Anónima Unipersonal (SAU)**.
+
+El objetivo era permitir que una persona desarrollara una actividad empresarial mediante una persona jurídica con limitación de responsabilidad, sin necesidad de recurrir a socios meramente nominales.
+
+La incorporación de la SAU respondió a una realidad ampliamente conocida por la práctica societaria.
+
+En numerosos casos, el segundo socio existía únicamente para cumplir formalmente con la exigencia legal de pluralidad.
+
+---
+
+# El problema práctico
+
+Antes de la reforma era frecuente encontrar sociedades donde:
+
+- un socio poseía el 99,99 % del capital;
+- el restante socio tenía una participación puramente simbólica.
+
+```{mermaid}
+pie title Sociedad antes de la Ley 26.994
+
+"Socio real" : 99.99
+
+"Socio nominal" : 0.01
+```
+
+La pluralidad existía solamente desde el punto de vista formal.
+
+La SAU intentó eliminar esta ficción jurídica.
+
+---
+
+# Balance
+
+La SAU representó una innovación trascendente.
+
+Permitió abandonar el principio absoluto de pluralidad originaria.
+
+Sin embargo,
+
+su diseño original fue objeto de numerosas críticas doctrinarias debido al exceso de requisitos impuestos para su funcionamiento.
+
+La posterior reforma introducida por la Ley 27.290 procuró superar parte de esas dificultades.
+
+La existencia de la SAU no resolvió, sin embargo, el problema de la **unipersonalidad sobreviniente**, que continúa siendo uno de los debates abiertos del Derecho Societario argentino.
+
+---
+
+# La Sociedad Anónima Unipersonal
+
+## La respuesta legislativa a un problema práctico
+
+La incorporación de la **Sociedad Anónima Unipersonal (SAU)** constituye una de las principales innovaciones introducidas por la Ley 26.994.
+
+No respondió a una construcción teórica.
+
+Respondió a una necesidad de la práctica.
+
+Durante décadas fue habitual que muchas sociedades incorporaran un segundo socio únicamente para satisfacer el requisito legal de pluralidad.
+
+La reforma procuró eliminar esa ficción.
+
+---
+
+# El problema que intentó resolver
+
+Antes de la reforma era frecuente encontrar sociedades donde un solo sujeto concentraba prácticamente la totalidad del capital.
+
+```{mermaid}
+pie
+    title Composición típica antes de la Ley 26.994
+
+    "Socio real" : 99.99
+    "Socio meramente formal" : 0.01
+```
+
+La pluralidad existía solamente desde un punto de vista formal.
+
+Desde el punto de vista económico existía un único verdadero empresario.
+
+---
+
+# La solución legislativa
+
+La Ley 26.994 incorporó la Sociedad Anónima Unipersonal.
+
+Su finalidad consistió en permitir que una persona pudiera desarrollar una actividad empresarial mediante una persona jurídica sin necesidad de recurrir a socios meramente nominales.
+
+De este modo, el legislador procuró adecuar la ley a una realidad ampliamente instalada en la práctica societaria.
+
+---
+
+# ¿Por qué solamente una Sociedad Anónima?
+
+El legislador no admitió la unipersonalidad para todos los tipos sociales.
+
+Optó exclusivamente por la **Sociedad Anónima**.
+
+Ello obedeció a que se trata del tipo societario con mayor desarrollo organizacional y con un régimen legal especialmente estructurado para proteger a terceros.
+
+La decisión, sin embargo, fue objeto de importantes críticas doctrinarias.
+
+---
+
+# El diseño original de la SAU
+
+La incorporación de la SAU no implicó una liberalización absoluta.
+
+Por el contrario, la ley impuso un régimen especialmente riguroso.
+
+Entre otros requisitos, exigía:
+
+- integración total del capital desde la constitución;
+- directorio;
+- órgano de fiscalización;
+- sometimiento a fiscalización estatal permanente.
+
+El legislador entendió que la desaparición de la pluralidad debía compensarse mediante mayores controles.
+
+---
+
+# El fundamento del régimen
+
+```{mermaid}
+flowchart LR
+
+A[Desaparece la pluralidad]
+
+--> B[Disminuye el control interno]
+
+--> C[La ley incrementa el control externo]
+
+--> D[Protección de terceros]
+```
+
+La lógica del sistema era clara.
+
+Si ya no existían varios socios capaces de controlarse mutuamente,
+
+debía fortalecerse el control institucional.
+
+---
+
+# Las críticas doctrinarias
+
+Diversos autores señalaron que el régimen original resultaba excesivamente rígido.
+
+Daniel Vítolo observa que la cantidad de exigencias impuestas a la SAU terminaba convirtiéndola en una figura poco atractiva para los pequeños y medianos empresarios.
+
+Paradójicamente,
+
+quien pretendía desarrollar individualmente una empresa encontraba mayores exigencias que quienes constituían una sociedad pluripersonal.
+
+Ello desalentó la utilización práctica de la figura.
+
+---
+
+# La Ley 27.290
+
+La escasa utilización de la SAU llevó rápidamente al legislador a revisar el sistema.
+
+La Ley 27.290 flexibilizó diversos aspectos del régimen original.
+
+Su finalidad consistió en tornar más operativa una figura que, pese a su importancia conceptual, había tenido una recepción muy limitada en la práctica.
+
+---
+
+# ¿La SAU resolvió todos los problemas?
+
+La respuesta es negativa.
+
+La SAU solucionó únicamente un supuesto.
+
+```{mermaid}
+flowchart TD
+
+A[Persona]
+
+--> B[Constituye una SAU]
+
+B --> C[Sociedad unipersonal originaria]
+```
+
+Pero dejó abierta otra cuestión completamente distinta.
+
+¿Qué ocurre cuando una sociedad constituida originalmente con pluralidad de socios queda posteriormente integrada por uno solo?
+
+Ese es el problema de la **unipersonalidad sobreviniente**.
+
+---
+
+# Una cuestión distinta
+
+No deben confundirse dos fenómenos jurídicos diferentes.
+
+| SAU | Unipersonalidad sobreviniente |
+|------|-------------------------------|
+| La sociedad nace con un solo socio. | La sociedad nació con varios socios y luego quedó integrada por uno solo. |
+| Supuesto expresamente regulado por la ley. | Supuesto que continúa generando debate doctrinario. |
+| Régimen legal específico. | Diversas interpretaciones doctrinarias. |
+
+Aunque ambos supuestos presentan un único socio,
+
+su tratamiento jurídico no es necesariamente el mismo.
+
+---
+
+# Conclusiones
+
+::: {.callout-important}
+
+La Sociedad Anónima Unipersonal constituye una de las principales innovaciones de la Ley 26.994.
+
+Su incorporación permitió abandonar el principio absoluto de pluralidad originaria.
+
+Sin embargo,
+
+su diseño original fue considerado excesivamente rígido por buena parte de la doctrina, lo que motivó una rápida reforma mediante la Ley 27.290.
+
+La creación de la SAU no resolvió definitivamente el problema de la unipersonalidad sobreviniente, que continúa siendo uno de los temas más debatidos del Derecho Societario argentino.
+
+:::
+
+---
+
+# El problema central de la SAU
+
+## La incorporación al artículo 299 LGS
+
+El diseño original de la SAU tuvo un problema práctico fundamental.
+
+La Ley 26.994 incorporó a la Sociedad Anónima Unipersonal dentro del artículo 299 LGS.
+
+Esto significó someterla a **fiscalización estatal permanente**.
+
+La consecuencia fue paradójica:
+
+> una figura pensada para facilitar la actividad empresaria individual quedó sometida a un régimen de control especialmente exigente.
+
+---
+
+# Artículo 299 LGS
+
+::: {.callout-important}
+
+La Sociedad Anónima Unipersonal quedó incluida entre las sociedades sujetas a fiscalización estatal permanente.
+
+:::
+
+Esto implicaba que la SAU debía cumplir exigencias más severas que muchas sociedades pluripersonales.
+
+El legislador intentó compensar la ausencia de pluralidad con mayor control externo.
+
+Pero en la práctica generó un régimen costoso y burocrático.
+
+---
+
+# Consecuencias de estar en el artículo 299
+
+La inclusión de la SAU en el artículo 299 generaba, entre otras consecuencias:
+
+- fiscalización estatal permanente;
+- directorio plural;
+- sindicatura obligatoria;
+- mayores costos de funcionamiento;
+- mayor carga administrativa;
+- menor atractivo para pequeños emprendimientos.
+
+La SAU nacía como una herramienta para simplificar.
+
+Pero su régimen inicial la volvía difícil de utilizar.
+
+---
+
+# El problema práctico
+
+```{mermaid}
+flowchart TD
+
+A[Objetivo de la SAU]
+
+--> B[Facilitar la empresa individual]
+
+B --> C[Limitación de responsabilidad]
+
+C --> D[Sin socio ficticio]
+
+D --> E[Pero...]
+
+E --> F[Inclusión en art. 299 LGS]
+
+F --> G[Fiscalización estatal permanente]
+
+G --> H[Mayores costos y complejidad]
+
+H --> I[Escasa utilización práctica]
+```
+
+---
+
+# La crítica doctrinaria
+
+Daniel Vítolo destaca que el régimen inicial de la SAU presentaba una fuerte contradicción.
+
+Por un lado, se pretendía ofrecer una herramienta moderna para el empresario individual.
+
+Por otro, se la sometía a un régimen propio de sociedades de mayor relevancia económica o institucional.
+
+El resultado fue una figura jurídicamente innovadora, pero prácticamente poco atractiva para el pequeño y mediano empresario.
+
+---
+
+# La paradoja de la SAU
+
+| Finalidad perseguida | Resultado inicial |
+|----------------------|-------------------|
+| Facilitar la actividad individual | Régimen más complejo |
+| Evitar socios ficticios | Exigencias burocráticas elevadas |
+| Limitar responsabilidad | Fiscalización permanente |
+| Modernizar el sistema | Escasa utilización práctica |
+
+::: {.callout-warning}
+
+La SAU fue una innovación importante, pero su diseño original dificultó su uso efectivo.
+
+:::
+
+---
+
+# La Ley 27.290
+
+La Ley 27.290 procuró corregir parte de esos problemas.
+
+La reforma flexibilizó el régimen de la SAU y eliminó algunas exigencias que la hacían poco funcional.
+
+La modificación legislativa confirmó que el diseño original había resultado excesivamente rígido.
+
+---
+
+# Antes y después
+
+| Ley 26.994 | Ley 27.290 |
+|------------|------------|
+| SAU incluida en art. 299 | Se flexibiliza su régimen |
+| Fiscalización permanente | Menor carga estructural |
+| Directorio plural | Se reduce la exigencia orgánica |
+| Sindicatura obligatoria plural | Se simplifica el funcionamiento |
+| Figura poco atractiva para PyMEs | Mayor posibilidad de utilización práctica |
+
+---
+
+# Idea central
+
+::: {.callout-important}
+
+El problema de la SAU no fue su incorporación al Derecho argentino.
+
+El problema fue su diseño original.
+
+La inclusión en el artículo 299 LGS convirtió una herramienta pensada para facilitar la actividad empresaria individual en una figura inicialmente costosa, compleja y poco utilizada.
+
+:::
+
+---
+
+# ¿Por qué clasificamos las sociedades?
+
+Las clasificaciones no constituyen un ejercicio meramente académico.
+
+Permiten comprender por qué cada tipo social posee un régimen jurídico diferente.
+
+La responsabilidad de los socios, la organización interna, la transmisibilidad de las participaciones y el sistema de administración dependen, en gran medida, de la categoría a la cual pertenece cada sociedad.
+
+---
+
+# Clasificación de las sociedades
+
+## ¿Por qué clasificarlas?
+
+Las sociedades pueden clasificarse utilizando distintos criterios.
+
+Cada clasificación pone de relieve una característica particular del fenómeno societario y permite comprender por qué la ley atribuye consecuencias jurídicas diferentes a cada tipo social.
+
+Las clasificaciones no constituyen un ejercicio meramente académico.
+
+Permiten interpretar correctamente el régimen legal aplicable.
+
+Como señala Daniel Vítolo, ningún criterio clasificatorio agota por sí solo la complejidad del fenómeno societario.
+
+Cada uno resalta un aspecto diferente de la organización social.
+
+---
+
+---
+
+# Una misma sociedad puede integrar varias clasificaciones
+
+La clasificación depende del criterio utilizado.
+
+Por ejemplo, una Sociedad de Responsabilidad Limitada puede ser:
+
+- una sociedad de personas desde cierto punto de vista;
+- una sociedad de responsabilidad limitada;
+- una sociedad por cuotas;
+- una sociedad típicamente comercial;
+- una sociedad nacional.
+
+No existe una única clasificación.
+
+Existen diversos criterios de análisis.
+
+```{mermaid}
+mindmap
+root((Sociedad))
+
+Personalista
+
+Capitalista
+
+Responsabilidad
+
+Capital
+
+Nacionalidad
+
+Organización
+
+Finalidad
+```
+
+---
+
+# Según la importancia del elemento personal
+
+Esta es probablemente la clasificación más difundida en la doctrina.
+
+Permite distinguir el grado de relevancia que adquiere la persona del socio dentro de la estructura societaria.
+
+De acuerdo con este criterio las sociedades pueden clasificarse en:
+
+- personalistas;
+- intermedias;
+- capitalistas.
+
+---
+
+# Sociedades personalistas
+
+En las sociedades personalistas el elemento decisivo es la persona del socio.
+
+La confianza recíproca constituye el fundamento mismo de la organización.
+
+Ello explica que:
+
+- la transmisión de la participación sea restringida;
+- la muerte de un socio pueda producir importantes consecuencias;
+- la responsabilidad de los socios sea generalmente más intensa.
+
+Ejemplos:
+
+- Sociedad Colectiva.
+- Sociedad en Comandita Simple.
+- Sociedad de Capital e Industria.
+
+---
+
+# Sociedades capitalistas
+
+En las sociedades capitalistas el centro del sistema deja de ser la persona del socio.
+
+Lo relevante pasa a ser el capital aportado.
+
+La organización continúa funcionando aunque cambien los accionistas.
+
+Características:
+
+- libre circulación de las acciones;
+- menor relevancia de las condiciones personales;
+- estructura organizativa más compleja;
+- mayor autonomía patrimonial.
+
+Ejemplo típico:
+
+- Sociedad Anónima.
+
+---
+
+# Las sociedades intermedias
+
+La Sociedad de Responsabilidad Limitada presenta características de ambos modelos.
+
+```{mermaid
+graph LR}
+
+A[Personalistas]
+
+--> B[SRL]
+
+--> C[Capitalistas]
+```
+
+Conserva cierta importancia del elemento personal.
+
+Pero también incorpora rasgos propios de las sociedades de capital.
+
+Por ello suele calificarse como una figura intermedia.
+
+---
+
+# Según la responsabilidad de los socios
+
+Otro criterio relevante consiste en atender al alcance de la responsabilidad asumida por los socios frente a las obligaciones sociales.
+
+Desde esta perspectiva pueden distinguirse:
+
+- sociedades de responsabilidad ilimitada;
+- sociedades de responsabilidad limitada;
+- sociedades mixtas.
+
+---
+
+# Responsabilidad ilimitada
+
+Los socios responden con todo su patrimonio por las obligaciones sociales.
+
+La responsabilidad suele ser:
+
+- solidaria;
+- subsidiaria;
+- ilimitada.
+
+Ejemplo:
+
+- Sociedad Colectiva.
+
+---
+
+# Responsabilidad limitada
+
+Los socios soportan el riesgo hasta el monto comprometido mediante sus aportes.
+
+El patrimonio personal queda, como regla, separado del patrimonio social.
+
+Ejemplos:
+
+- Sociedad de Responsabilidad Limitada.
+- Sociedad Anónima.
+- Sociedad Anónima Unipersonal.
+
+---
+
+# Responsabilidad mixta
+
+Algunos tipos sociales combinan ambas soluciones.
+
+Conviven socios con responsabilidad limitada y socios con responsabilidad ilimitada.
+
+Ejemplos:
+
+- Sociedad en Comandita Simple.
+- Sociedad en Comandita por Acciones.
+
+---
+
+# Según la representación del capital
+
+Las participaciones sociales no siempre adoptan la misma forma jurídica.
+
+La ley distingue tres grandes sistemas.
+
+| Tipo | Participación |
+|-------|---------------|
+| Sociedad Colectiva | Partes de interés |
+| SRL | Cuotas sociales |
+| SA | Acciones |
+
+Cada sistema responde a una lógica diferente de circulación, administración y protección de terceros.
+
+---
+
+# Según la complejidad organizativa
+
+La organización interna también permite clasificar las sociedades.
+
+```{mermaid}
+graph LR
+
+A[Organización simple]
+
+--> B[Sociedades personalistas]
+
+C[Organización compleja]
+
+--> D[Sociedades por acciones]
+```
+
+A mayor complejidad organizativa,
+
+mayor especialización de órganos y mecanismos de control.
+
+---
+
+# Clasificación general de los tipos sociales
+
+| Tipo | Personalista | Capitalista | Responsabilidad | Capital |
+|------|:------------:|:-----------:|-----------------|----------|
+| Sociedad Colectiva | ✔ | | Ilimitada | Partes de interés |
+| Comandita Simple | ✔ | | Mixta | Partes de interés |
+| Capital e Industria | ✔ | | Mixta | Partes de interés |
+| SRL | ◐ | ◐ | Limitada | Cuotas |
+| SA | | ✔ | Limitada | Acciones |
+| SAU | | ✔ | Limitada | Acciones |
+| Comandita por Acciones | | ✔ | Mixta | Acciones |
+
+---
+
+---
+
+# Ideas fundamentales
+
+::: {.callout-important}
+
+Las clasificaciones no constituyen una enumeración de tipos sociales.
 
-# Cierre
+Permiten comprender:
 
-## Ideas centrales
+- por qué cada sociedad posee un régimen jurídico diferente;
+- cómo se organiza internamente;
+- cuál es el alcance de la responsabilidad de sus socios;
+- cómo circulan las participaciones sociales;
+- qué importancia adquiere la persona del socio.
 
-- La ley se estudia a partir de problemas jurídicos.
-- La doctrina permite argumentar.
-- La jurisprudencia muestra el funcionamiento real del sistema.
-- Los casos deben resolverse por etapas.
+En consecuencia,
 
-## Próxima clase
+clasificar una sociedad significa identificar el régimen jurídico que le resulta aplicable.
 
-Continuaremos con el siguiente bloque del programa.
--->
+:::
