@@ -4,25 +4,45 @@ subtitle: "Curso de Invierno 2026 · Facultad de Derecho · UBA · Cátedra Favi
 ---
 
 ::: {.hero}
+
 # Curso intensivo de Sociedades Civiles y Comerciales
 
 **Facultad de Derecho · Universidad de Buenos Aires**  
 **Cátedra Favier Dubois · Adjunto: Prof. Maximiliano Lucas Romei**  
 **Modalidad bimodal · 6 de julio al 7 de agosto de 2026**
+
 :::
 
 ::: {.callout-warning}
+
 ## Aviso importante
 
-Los días **jueves 9/7** y **viernes 10/7** son feriados. No habrá clases.  
+Los días **jueves 9/7** y **viernes 10/7** son feriados. No habrá clases.
+
 El cronograma fue reestructurado para conservar todos los contenidos centrales.
+
+:::
+
 ## Acceso rápido
 
 - 📖 **[Bienvenida](bienvenida.html)**
+
 - 📅 **[Cronograma](cronograma.html)**
-- 🎓 **<a href="clases/clase01.html" target="_blank">Presentación – Clase 1</a>**
-- ⚖️ **<a href="clases/fallos.html" target="_blank">Presentación de Jurisprudencia – Clase 1</a>**
+
+### Clase 1
+
+- 🎓 <a href="clases/clase01.html" target="_blank">Presentación de la Clase 1</a>
+
+- 📄 <a href="clases/clase01.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Jurisprudencia – Clase 1
+
+- ⚖️ <a href="clases/fallos.html" target="_blank">Presentación de Jurisprudencia</a>
+
+- 📄 <a href="clases/fallos-clase-01.pdf" target="_blank">Descargar presentación en PDF</a>
 
 ## Enfoque
 
-Ley, doctrina, jurisprudencia y casos prácticos. El objetivo es preparar exámenes escritos y formar criterio jurídico societario.
+Ley, doctrina, jurisprudencia y casos prácticos.
+
+El objetivo es preparar exámenes escritos, desarrollar criterio jurídico y vincular permanentemente la Ley General de Sociedades con la doctrina y la jurisprudencia.

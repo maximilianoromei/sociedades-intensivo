@@ -1,0 +1,3220 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  spanish,
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic,shorthands=off]{babel}
+\else
+\usepackage[bidi=default,shorthands=off]{babel}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig} % disable illegal ligatures
+\fi
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Tabla de contenidos}
+\else
+  \newcommand\contentsname{Tabla de contenidos}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Listado de Figuras}
+\else
+  \newcommand\listfigurename{Listado de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Listado de Tablas}
+\else
+  \newcommand\listtablename{Listado de Tablas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabla}
+\else
+  \newcommand\tablename{Tabla}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Listado de Listados}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Clase 1 --- Las sociedades en el derecho argentino contemporáneo},
+  pdfauthor={Prof.~Maximiliano Lucas Romei},
+  pdflang={es},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Clase 1 --- Las sociedades en el derecho argentino contemporáneo}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026}
+\author{Prof.~Maximiliano Lucas Romei}
+\date{}
+\begin{document}
+\maketitle
+
+
+\section{Derecho Societario}\label{derecho-societario}
+
+\subsection{Clase 1}\label{clase-1}
+
+\textbf{Introducción al régimen general de las sociedades}
+
+\begin{itemize}
+\tightlist
+\item
+  Programa
+\item
+  Metodología
+\item
+  Evaluación
+\item
+  Conceptos fundamentales
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Objetivos del curso}\label{objetivos-del-curso}
+
+Al finalizar el curso el estudiante deberá poder:
+
+\begin{itemize}
+\tightlist
+\item
+  Comprender la estructura de la Ley General de Sociedades.
+\item
+  Interpretar sus principios.
+\item
+  Identificar cada tipo societario.
+\item
+  Resolver problemas jurídicos aplicando doctrina y jurisprudencia.
+\item
+  Integrar la LGS con el Código Civil y Comercial.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Bibliografía obligatoria}\label{bibliografuxeda-obligatoria}
+
+\subsection{Manuales}\label{manuales}
+
+\begin{itemize}
+\tightlist
+\item
+  Ricardo Augusto Nissen.
+\item
+  Daniel Roque Vítolo.
+\end{itemize}
+
+Toda la clase se desarrolla siguiendo exclusivamente estas dos obras.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Bibliografía legal}\label{bibliografuxeda-legal}
+
+\subsection{Normativa principal}\label{normativa-principal}
+
+\begin{itemize}
+\tightlist
+\item
+  Ley General de Sociedades 19.550.
+\item
+  Código Civil y Comercial.
+\item
+  Ley 26.994.
+\item
+  Reformas posteriores.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Metodología}\label{metodologuxeda}
+
+La materia tendrá una orientación:
+
+\begin{itemize}
+\tightlist
+\item
+  normativa;
+\item
+  doctrinaria;
+\item
+  jurisprudencial.
+\end{itemize}
+
+No se memoriza.
+
+Se interpreta.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Forma de trabajo}\label{forma-de-trabajo}
+
+Cada clase tendrá:
+
+\begin{itemize}
+\tightlist
+\item
+  explicación teórica;
+\item
+  análisis doctrinario;
+\item
+  cuadros comparativos;
+\item
+  interpretación normativa.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Evaluación}\label{evaluaciuxf3n}
+
+La evaluación comprenderá:
+
+\begin{itemize}
+\tightlist
+\item
+  parciales;
+\item
+  recuperatorios;
+\item
+  participación;
+\item
+  parcialitos de concepto.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Parcialitos}\label{parcialitos}
+
+Los parcialitos tienen por finalidad:
+
+\begin{itemize}
+\tightlist
+\item
+  verificar lectura;
+\item
+  fijar conceptos;
+\item
+  detectar errores tempranos.
+\end{itemize}
+
+No sustituyen el estudio.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Organización del curso}\label{organizaciuxf3n-del-curso}
+
+El curso sigue el orden lógico de la Ley General de Sociedades.
+
+Primero:
+
+\begin{itemize}
+\tightlist
+\item
+  teoría general.
+\end{itemize}
+
+Luego:
+
+\begin{itemize}
+\tightlist
+\item
+  tipos societarios.
+\end{itemize}
+
+Finalmente:
+
+\begin{itemize}
+\tightlist
+\item
+  reorganización,
+\item
+  disolución,
+\item
+  liquidación.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{¿Qué estudia el Derecho
+Societario?}\label{quuxe9-estudia-el-derecho-societario}
+
+Es la rama del Derecho Privado que regula:
+
+\begin{itemize}
+\tightlist
+\item
+  constitución;
+\item
+  funcionamiento;
+\item
+  organización;
+\item
+  extinción de las sociedades.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{¿Por qué existen las
+sociedades?}\label{por-quuxe9-existen-las-sociedades}
+
+Porque una persona sola muchas veces no puede:
+
+\begin{itemize}
+\tightlist
+\item
+  reunir capital;
+\item
+  asumir riesgos;
+\item
+  organizar grandes emprendimientos.
+\end{itemize}
+
+La sociedad permite superar esas limitaciones.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y actividad
+económica}\label{sociedad-y-actividad-econuxf3mica}
+
+Las sociedades son instrumentos jurídicos.
+
+No constituyen un fin.
+
+Constituyen un medio para desarrollar actividades económicas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Importancia económica}\label{importancia-econuxf3mica}
+
+Las sociedades permiten:
+
+\begin{itemize}
+\tightlist
+\item
+  concentración de capital;
+\item
+  especialización;
+\item
+  continuidad de la empresa;
+\item
+  limitación del riesgo.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Evolución histórica}\label{evoluciuxf3n-histuxf3rica}
+
+La sociedad moderna es resultado de una evolución que comienza:
+
+\begin{itemize}
+\tightlist
+\item
+  Derecho romano.
+\item
+  Edad Media.
+\item
+  Revolución Industrial.
+\item
+  Capitalismo contemporáneo.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Derecho romano}\label{derecho-romano}
+
+Las formas asociativas romanas carecían de autonomía semejante a la
+actual.
+
+Predominaba la relación personal entre los integrantes.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Edad Media}\label{edad-media}
+
+Durante la Edad Media aparecen:
+
+\begin{itemize}
+\tightlist
+\item
+  compañías familiares;
+\item
+  sociedades marítimas;
+\item
+  commenda;
+\item
+  corporaciones.
+\end{itemize}
+
+Estas figuras anticipan el derecho societario moderno.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Revolución Industrial}\label{revoluciuxf3n-industrial}
+
+La Revolución Industrial produjo:
+
+\begin{itemize}
+\tightlist
+\item
+  enormes inversiones;
+\item
+  necesidad de grandes capitales;
+\item
+  separación entre propiedad y administración.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad moderna}\label{sociedad-moderna}
+
+Actualmente la sociedad constituye:
+
+\begin{itemize}
+\tightlist
+\item
+  una organización;
+\item
+  con patrimonio propio;
+\item
+  destinada a desarrollar actividad económica.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Derecho Comercial y
+sociedades}\label{derecho-comercial-y-sociedades}
+
+El Derecho Societario integra el Derecho Comercial.
+
+Regula uno de los instrumentos fundamentales de la actividad empresaria.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Empresa}\label{empresa}
+
+La empresa es:
+
+Una organización de factores productivos destinada a producir bienes o
+servicios.
+
+No constituye una persona jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad}\label{sociedad}
+
+La sociedad es:
+
+Una persona jurídica creada conforme a la ley para organizar una empresa
+o desarrollar una actividad económica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Empresa y sociedad}\label{empresa-y-sociedad}
+
+No son sinónimos.
+
+Empresa:
+
+fenómeno económico.
+
+Sociedad:
+
+instrumento jurídico.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y empresario}\label{sociedad-y-empresario}
+
+Es posible que exista:
+
+\begin{itemize}
+\tightlist
+\item
+  empresa sin sociedad;
+\item
+  sociedad sin empresa (supuestos excepcionales);
+\item
+  empresario individual;
+\item
+  empresario social.
+\end{itemize}
+
+No existe identidad conceptual.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Empresa y establecimiento}\label{empresa-y-establecimiento}
+
+La empresa tampoco se identifica con el establecimiento.
+
+Empresa:
+
+actividad organizada.
+
+Establecimiento:
+
+conjunto de bienes afectados a esa actividad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Empresa y patrimonio}\label{empresa-y-patrimonio}
+
+El patrimonio pertenece al sujeto.
+
+La empresa no es sujeto.
+
+La sociedad sí.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Relación entre empresa y
+sociedad}\label{relaciuxf3n-entre-empresa-y-sociedad}
+
+La sociedad constituye el vehículo jurídico que normalmente organiza la
+empresa.
+
+La empresa constituye la actividad.
+
+La sociedad constituye el sujeto de derecho.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Descentralización
+empresaria}\label{descentralizaciuxf3n-empresaria}
+
+El crecimiento empresario exige mecanismos de descentralización.
+
+Entre ellos:
+
+\begin{itemize}
+\tightlist
+\item
+  sucursal;
+\item
+  agencia;
+\item
+  filial.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Descentralización}\label{descentralizaciuxf3n}
+
+Permite:
+
+\begin{itemize}
+\tightlist
+\item
+  expansión territorial;
+\item
+  especialización;
+\item
+  disminución de costos;
+\item
+  organización eficiente.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sucursal}\label{sucursal}
+
+La sucursal:
+
+\begin{itemize}
+\tightlist
+\item
+  carece de personalidad jurídica propia;
+\item
+  integra el patrimonio de la casa matriz;
+\item
+  desarrolla actividades permanentes.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Características de la
+sucursal}\label{caracteruxedsticas-de-la-sucursal}
+
+Presenta:
+
+\begin{itemize}
+\tightlist
+\item
+  cierta autonomía funcional;
+\item
+  administración propia;
+\item
+  dependencia jurídica respecto de la sociedad principal.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Agencia}\label{agencia}
+
+La agencia constituye un centro de negocios de menor autonomía.
+
+Normalmente:
+
+\begin{itemize}
+\tightlist
+\item
+  promociona;
+\item
+  intermedia;
+\item
+  representa.
+\end{itemize}
+
+No constituye un sujeto distinto.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Diferencias entre sucursal y
+agencia}\label{diferencias-entre-sucursal-y-agencia}
+
+\subsection{Sucursal}\label{sucursal-1}
+
+\begin{itemize}
+\tightlist
+\item
+  actividad permanente;
+\item
+  mayor autonomía;
+\item
+  organización estable.
+\end{itemize}
+
+\subsection{Agencia}\label{agencia-1}
+
+\begin{itemize}
+\tightlist
+\item
+  funciones limitadas;
+\item
+  menor autonomía;
+\item
+  actuación representativa.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Filial}\label{filial}
+
+La filial sí constituye una sociedad distinta.
+
+Posee:
+
+\begin{itemize}
+\tightlist
+\item
+  personalidad propia;
+\item
+  patrimonio propio;
+\item
+  órganos propios.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Filial}\label{filial-1}
+
+Aunque exista control económico, la filial conserva personalidad
+jurídica independiente.
+
+No existe confusión automática de patrimonios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Grupo empresario}\label{grupo-empresario}
+
+Un grupo empresario supone:
+
+\begin{itemize}
+\tightlist
+\item
+  pluralidad de sociedades;
+\item
+  dirección económica común;
+\item
+  autonomía jurídica de cada integrante.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Independencia jurídica}\label{independencia-juruxeddica}
+
+Cada sociedad responde:
+
+\begin{itemize}
+\tightlist
+\item
+  por su patrimonio;
+\item
+  por sus obligaciones;
+\item
+  por sus órganos.
+\end{itemize}
+
+La existencia del grupo no elimina esa autonomía.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Introducción al régimen
+legal}\label{introducciuxf3n-al-ruxe9gimen-legal}
+
+La regulación principal surge de:
+
+\begin{itemize}
+\tightlist
+\item
+  Ley General de Sociedades;
+\item
+  Código Civil y Comercial.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Evolución legislativa}\label{evoluciuxf3n-legislativa}
+
+Principales hitos:
+
+\begin{itemize}
+\tightlist
+\item
+  Código de Comercio.
+\item
+  Ley 19.550.
+\item
+  Ley 22.903.
+\item
+  Ley 26.994.
+\item
+  Reformas posteriores.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Ley 19.550}\label{ley-19.550}
+
+La Ley General de Sociedades constituye el eje del Derecho Societario
+argentino.
+
+Su estructura permanece vigente con numerosas reformas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Finalidad de la LGS}\label{finalidad-de-la-lgs}
+
+La ley procura:
+
+\begin{itemize}
+\tightlist
+\item
+  seguridad jurídica;
+\item
+  organización;
+\item
+  protección de terceros;
+\item
+  funcionamiento eficiente de las sociedades.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Principios orientadores}\label{principios-orientadores}
+
+Entre ellos:
+
+\begin{itemize}
+\tightlist
+\item
+  personalidad jurídica;
+\item
+  tipicidad;
+\item
+  publicidad;
+\item
+  registración;
+\item
+  especialidad.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Estructura de la ley}\label{estructura-de-la-ley}
+
+La ley regula:
+
+\begin{itemize}
+\tightlist
+\item
+  teoría general;
+\item
+  funcionamiento;
+\item
+  administración;
+\item
+  reorganización;
+\item
+  disolución;
+\item
+  liquidación;
+\item
+  tipos sociales.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Reforma de la Ley 26.994}\label{reforma-de-la-ley-26.994}
+
+La unificación del Derecho Privado produjo profundas modificaciones.
+
+Especialmente respecto de:
+
+\begin{itemize}
+\tightlist
+\item
+  personalidad jurídica;
+\item
+  sociedades no constituidas regularmente;
+\item
+  unipersonalidad.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Influencia del Código Civil y
+Comercial}\label{influencia-del-cuxf3digo-civil-y-comercial}
+
+Desde 2015 la LGS debe interpretarse conjuntamente con el CCyC.
+
+No existen compartimentos estancos.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Aplicación supletoria}\label{aplicaciuxf3n-supletoria}
+
+Cuando la LGS no regula una cuestión determinada:
+
+corresponde acudir al Código Civil y Comercial.
+
+Siempre que no exista incompatibilidad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Personas jurídicas}\label{personas-juruxeddicas}
+
+El Código Civil y Comercial incorpora una teoría general de las personas
+jurídicas.
+
+Las sociedades integran esa categoría.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Artículo 2 LGS}\label{artuxedculo-2-lgs}
+
+La sociedad es sujeto de derecho.
+
+Esta disposición constituye uno de los pilares del régimen societario
+argentino.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Alcance del artículo 2}\label{alcance-del-artuxedculo-2}
+
+El reconocimiento de personalidad implica:
+
+\begin{itemize}
+\tightlist
+\item
+  patrimonio propio;
+\item
+  capacidad;
+\item
+  responsabilidad propia;
+\item
+  individualidad jurídica.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Consecuencia práctica}\label{consecuencia-pruxe1ctica}
+
+Los bienes sociales pertenecen a la sociedad.
+
+No pertenecen a los socios individualmente considerados.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Patrimonio separado}\label{patrimonio-separado}
+
+Existe separación entre:
+
+\begin{itemize}
+\tightlist
+\item
+  patrimonio social;
+\item
+  patrimonio de cada socio.
+\end{itemize}
+
+Este principio resulta esencial para comprender el régimen societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Capacidad}\label{capacidad}
+
+La sociedad puede:
+
+\begin{itemize}
+\tightlist
+\item
+  contratar;
+\item
+  adquirir bienes;
+\item
+  comparecer en juicio;
+\item
+  asumir obligaciones.
+\end{itemize}
+
+Siempre dentro de su objeto y del régimen legal aplicable.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Nombre}\label{nombre}
+
+La sociedad posee un nombre propio.
+
+Puede consistir en:
+
+\begin{itemize}
+\tightlist
+\item
+  razón social;
+\item
+  denominación social.
+\end{itemize}
+
+Según el tipo elegido.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Domicilio}\label{domicilio}
+
+Toda sociedad posee domicilio.
+
+El domicilio determina múltiples consecuencias jurídicas.
+
+Entre ellas:
+
+\begin{itemize}
+\tightlist
+\item
+  competencia;
+\item
+  registración;
+\item
+  publicidad.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Nacionalidad}\label{nacionalidad}
+
+La personalidad jurídica no debe confundirse con la cuestión de la
+nacionalidad.
+
+Se trata de problemas diferentes.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Personalidad jurídica}\label{personalidad-juruxeddica}
+
+La personalidad constituye una técnica jurídica.
+
+No describe una realidad física.
+
+Es un reconocimiento normativo.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función de la
+personalidad}\label{funciuxf3n-de-la-personalidad}
+
+Permite:
+
+\begin{itemize}
+\tightlist
+\item
+  imputar derechos;
+\item
+  imputar obligaciones;
+\item
+  organizar patrimonios;
+\item
+  facilitar la actividad económica.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Autonomía patrimonial}\label{autonomuxeda-patrimonial}
+
+Sin personalidad jurídica no existiría patrimonio separado.
+
+La autonomía patrimonial constituye una consecuencia directa del
+reconocimiento legal.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Responsabilidad}\label{responsabilidad}
+
+Como principio:
+
+la sociedad responde con su patrimonio.
+
+Los socios responderán únicamente en los casos previstos por la ley.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Importancia práctica}\label{importancia-pruxe1ctica}
+
+La personalidad jurídica explica:
+
+\begin{itemize}
+\tightlist
+\item
+  la responsabilidad;
+\item
+  la representación;
+\item
+  la actuación procesal;
+\item
+  la continuidad del ente.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Doctrina}\label{doctrina}
+
+Nissen y Vítolo coinciden en destacar que la personalidad jurídica
+constituye uno de los ejes estructurales del sistema societario
+argentino, aunque desarrollan distintos enfoques respecto de algunos de
+sus alcances frente al abuso de la forma societaria.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Presupuestos de la personalidad
+jurídica}\label{presupuestos-de-la-personalidad-juruxeddica}
+
+La personalidad jurídica requiere:
+
+\begin{itemize}
+\tightlist
+\item
+  constitución conforme a la ley;
+\item
+  organización;
+\item
+  reconocimiento normativo.
+\end{itemize}
+
+No depende de la voluntad de terceros.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Nacimiento de la
+personalidad}\label{nacimiento-de-la-personalidad}
+
+Como regla general, la personalidad surge con la constitución de la
+sociedad conforme al régimen legal.
+
+La inscripción produce importantes efectos frente a terceros.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Persona jurídica y socios}\label{persona-juruxeddica-y-socios}
+
+La sociedad no constituye una suma de socios.
+
+Es un sujeto distinto.
+
+Por ello:
+
+\begin{itemize}
+\tightlist
+\item
+  posee patrimonio propio;
+\item
+  posee intereses propios;
+\item
+  posee responsabilidad propia.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Permanencia de la
+personalidad}\label{permanencia-de-la-personalidad}
+
+El ingreso o retiro de socios no modifica la identidad de la persona
+jurídica.
+
+La sociedad continúa siendo el mismo sujeto.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Extinción de la
+personalidad}\label{extinciuxf3n-de-la-personalidad}
+
+La personalidad no desaparece inmediatamente con la disolución.
+
+Subsiste durante la etapa de liquidación para concluir los negocios
+pendientes.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Personalidad y órganos}\label{personalidad-y-uxf3rganos}
+
+La sociedad actúa mediante órganos.
+
+No actúa mediante representación convencional.
+
+La actuación orgánica constituye actuación de la propia persona
+jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Introducción a la
+desestimación}\label{introducciuxf3n-a-la-desestimaciuxf3n}
+
+La personalidad jurídica no constituye un principio absoluto.
+
+Puede ser dejada de lado en supuestos excepcionales.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Prescindencia de la
+personalidad}\label{prescindencia-de-la-personalidad}
+
+También denominada:
+
+\begin{itemize}
+\tightlist
+\item
+  desestimación;
+\item
+  inoponibilidad;
+\item
+  levantamiento del velo societario.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Fundamento}\label{fundamento}
+
+La personalidad jurídica no puede utilizarse:
+
+\begin{itemize}
+\tightlist
+\item
+  para defraudar;
+\item
+  para eludir la ley;
+\item
+  para perjudicar terceros;
+\item
+  para frustrar derechos.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Artículo 54 LGS}\label{artuxedculo-54-lgs}
+
+La Ley General de Sociedades contempla expresamente la posibilidad de
+declarar inoponible la personalidad jurídica cuando sea utilizada con
+fines extrasocietarios o para violar la ley, el orden público o la buena
+fe.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Artículo 144 CCyC}\label{artuxedculo-144-ccyc}
+
+El Código Civil y Comercial también regula la inoponibilidad de la
+personalidad jurídica.
+
+Ambas normas deben interpretarse armónicamente.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Carácter excepcional}\label{caruxe1cter-excepcional}
+
+La desestimación constituye un remedio excepcional.
+
+No puede aplicarse por mera conveniencia.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Regla general}\label{regla-general}
+
+La regla continúa siendo:
+
+respeto de la personalidad jurídica.
+
+La excepción exige circunstancias calificadas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Abuso de la personalidad}\label{abuso-de-la-personalidad}
+
+Existe abuso cuando la sociedad deja de ser utilizada para los fines
+propios del instituto y se transforma en un instrumento para alcanzar
+resultados ilícitos o abusivos.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Finalidad del instituto}\label{finalidad-del-instituto}
+
+No procura eliminar la personalidad jurídica.
+
+Procura impedir su utilización abusiva.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Consecuencias}\label{consecuencias}
+
+Declarada la inoponibilidad:
+
+los efectos de determinados actos pueden extenderse a quienes utilizaron
+abusivamente la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Alcance}\label{alcance}
+
+La desestimación:
+
+\begin{itemize}
+\tightlist
+\item
+  no disuelve la sociedad;
+\item
+  no elimina su personalidad;
+\item
+  no modifica su existencia.
+\end{itemize}
+
+Simplemente impide invocarla en el caso concreto.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Interpretación
+restrictiva}\label{interpretaciuxf3n-restrictiva}
+
+La doctrina sostiene que debe aplicarse con extrema prudencia.
+
+La personalidad jurídica constituye uno de los pilares del sistema
+societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Tipicidad}\label{tipicidad}
+
+Otro principio estructural de la LGS es la tipicidad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Concepto}\label{concepto}
+
+Tipicidad significa que la sociedad debe adoptar uno de los tipos
+previstos por el legislador.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Finalidad de la tipicidad}\label{finalidad-de-la-tipicidad}
+
+La tipicidad procura:
+
+\begin{itemize}
+\tightlist
+\item
+  seguridad jurídica;
+\item
+  previsibilidad;
+\item
+  protección de terceros.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Tipo y contrato}\label{tipo-y-contrato}
+
+No deben confundirse.
+
+El contrato social expresa la voluntad de los socios.
+
+El tipo constituye el modelo legal elegido.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Tipos previstos}\label{tipos-previstos}
+
+La LGS regula diversos tipos societarios.
+
+Cada uno posee:
+
+\begin{itemize}
+\tightlist
+\item
+  estructura;
+\item
+  responsabilidad;
+\item
+  órganos;
+\item
+  funcionamiento propios.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Rasgos tipificantes}\label{rasgos-tipificantes}
+
+Cada tipo posee elementos esenciales cuya ausencia puede impedir su
+configuración.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función práctica}\label{funciuxf3n-pruxe1ctica}
+
+La tipicidad permite conocer anticipadamente:
+
+\begin{itemize}
+\tightlist
+\item
+  régimen de responsabilidad;
+\item
+  forma de administración;
+\item
+  régimen de gobierno;
+\item
+  fiscalización.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Reforma de la Ley 26.994}\label{reforma-de-la-ley-26.994-1}
+
+La reforma flexibilizó parcialmente el principio de tipicidad.
+
+No obstante, éste continúa siendo un eje del sistema. La reforma no
+eliminó el principio de tipicidad.
+
+Los tipos sociales previstos por la LGS continúan siendo de número
+cerrado.
+
+Sin embargo,
+
+la Ley 26.994 modificó profundamente las consecuencias derivadas de la
+falta de adecuación a un tipo legal.
+
+La creación del régimen de la Sección IV sustituyó el antiguo sistema
+sancionatorio por un régimen más flexible para las sociedades no
+constituidas conforme a los tipos previstos por la ley.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Clasificación de las
+sociedades}\label{clasificaciuxf3n-de-las-sociedades}
+
+Las sociedades pueden clasificarse conforme a diversos criterios.
+
+No existe una única clasificación.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Según la responsabilidad}\label{seguxfan-la-responsabilidad}
+
+Pueden distinguirse:
+
+\begin{itemize}
+\tightlist
+\item
+  responsabilidad limitada;
+\item
+  responsabilidad ilimitada;
+\item
+  responsabilidad mixta.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Según la participación del
+capital}\label{seguxfan-la-participaciuxf3n-del-capital}
+
+Se distinguen:
+
+\begin{itemize}
+\tightlist
+\item
+  sociedades de personas;
+\item
+  sociedades de capital;
+\item
+  sociedades mixtas.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Según la organización}\label{seguxfan-la-organizaciuxf3n}
+
+Algunos tipos presentan una organización predominantemente personal.
+
+Otros privilegian la organización del capital.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Importancia de las
+clasificaciones}\label{importancia-de-las-clasificaciones}
+
+Las clasificaciones permiten comprender:
+
+\begin{itemize}
+\tightlist
+\item
+  la lógica del sistema;
+\item
+  la función económica de cada tipo;
+\item
+  las diferencias de régimen.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Nacionalidad de las
+sociedades}\label{nacionalidad-de-las-sociedades}
+
+La cuestión de la nacionalidad ha dado lugar a importantes debates
+doctrinarios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Problema jurídico}\label{problema-juruxeddico}
+
+La pregunta consiste en determinar:
+
+¿de qué Estado es una sociedad?
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Principales doctrinas}\label{principales-doctrinas}
+
+Se desarrollaron, entre otras:
+
+\begin{itemize}
+\tightlist
+\item
+  teoría de la constitución;
+\item
+  teoría del domicilio;
+\item
+  teoría del control.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría de la
+constitución}\label{teoruxeda-de-la-constituciuxf3n}
+
+La nacionalidad depende del Estado conforme a cuya legislación fue
+constituida la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría del domicilio}\label{teoruxeda-del-domicilio}
+
+La nacionalidad deriva del domicilio social efectivo.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría del control}\label{teoruxeda-del-control}
+
+La nacionalidad depende de quién ejerce el control económico de la
+sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Derecho argentino}\label{derecho-argentino}
+
+El régimen argentino adopta soluciones propias respecto de las
+sociedades constituidas en el extranjero y de la ley aplicable.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Artículo 1 LGS}\label{artuxedculo-1-lgs}
+
+La Ley General de Sociedades comienza definiendo el contrato de
+sociedad.
+
+Esta disposición constituye el punto de partida de toda la materia.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Elementos del artículo 1}\label{elementos-del-artuxedculo-1}
+
+De su lectura surgen:
+
+\begin{itemize}
+\tightlist
+\item
+  pluralidad (con las excepciones legales);
+\item
+  aportes;
+\item
+  organización;
+\item
+  participación en resultados;
+\item
+  actividad económica.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Naturaleza jurídica}\label{naturaleza-juruxeddica}
+
+La doctrina ha debatido extensamente la naturaleza del acto
+constitutivo.
+
+Las posiciones principales lo consideran:
+
+\begin{itemize}
+\tightlist
+\item
+  contrato;
+\item
+  contrato plurilateral de organización;
+\item
+  acto complejo de organización.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Naturaleza del acto
+constitutivo}\label{naturaleza-del-acto-constitutivo}
+
+La doctrina ha intentado explicar jurídicamente el nacimiento de la
+sociedad.
+
+Las principales posiciones son:
+
+\begin{itemize}
+\tightlist
+\item
+  teoría contractual;
+\item
+  teoría del acto colectivo;
+\item
+  teoría del acto complejo;
+\item
+  teoría institucional.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría contractual}\label{teoruxeda-contractual}
+
+Es la concepción clásica.
+
+Considera que la sociedad nace de un contrato celebrado entre dos o más
+personas.
+
+Su fundamento radica en la existencia del consentimiento de los socios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Fundamentos}\label{fundamentos}
+
+Según esta teoría:
+
+\begin{itemize}
+\tightlist
+\item
+  existe acuerdo de voluntades;
+\item
+  cada socio asume obligaciones;
+\item
+  el contrato genera derechos recíprocos;
+\item
+  la sociedad nace por el consentimiento.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Críticas}\label{cruxedticas}
+
+La teoría contractual explica adecuadamente el nacimiento de las
+sociedades primitivas.
+
+Sin embargo,
+
+presenta dificultades para justificar:
+
+\begin{itemize}
+\tightlist
+\item
+  la continuidad de la sociedad pese al cambio de socios;
+\item
+  la existencia de órganos sociales;
+\item
+  la subordinación de la voluntad individual al interés social.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría del acto colectivo}\label{teoruxeda-del-acto-colectivo}
+
+Esta teoría sostiene que la sociedad surge de una declaración colectiva
+de voluntad.
+
+No existen intereses contrapuestos entre los socios.
+
+Todos persiguen un mismo fin común.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Características}\label{caracteruxedsticas}
+
+A diferencia del contrato tradicional,
+
+las voluntades no se enfrentan.
+
+Se unen para alcanzar un objetivo común:
+
+el desarrollo de la empresa social.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Críticas}\label{cruxedticas-1}
+
+Aunque supera algunos inconvenientes de la teoría contractual,
+
+continúa explicando solamente el momento constitutivo.
+
+No alcanza para justificar plenamente el funcionamiento posterior de la
+sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría del acto complejo}\label{teoruxeda-del-acto-complejo}
+
+Sostiene que el nacimiento de la sociedad resulta de una pluralidad de
+actos jurídicos coordinados.
+
+No basta únicamente el consentimiento de los socios.
+
+También intervienen:
+
+\begin{itemize}
+\tightlist
+\item
+  la inscripción;
+\item
+  el control estatal;
+\item
+  otros actos jurídicos necesarios para la constitución.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Características}\label{caracteruxedsticas-1}
+
+La sociedad nace como consecuencia de un procedimiento complejo.
+
+Cada acto integra una secuencia jurídica destinada a producir un único
+resultado:
+
+el nacimiento de la persona jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Teoría institucional}\label{teoruxeda-institucional}
+
+Representa una evolución respecto de las teorías anteriores.
+
+La sociedad deja de ser vista únicamente como un contrato.
+
+Pasa a concebirse como una institución organizada para la consecución de
+un fin permanente.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Características}\label{caracteruxedsticas-2}
+
+En la sociedad existen intereses que trascienden a los socios
+individuales.
+
+La organización adquiere autonomía respecto de quienes la integran.
+
+Cobran especial importancia:
+
+\begin{itemize}
+\tightlist
+\item
+  el interés social;
+\item
+  los órganos;
+\item
+  la continuidad de la empresa.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Ventajas}\label{ventajas}
+
+La teoría institucional explica adecuadamente:
+
+\begin{itemize}
+\tightlist
+\item
+  la permanencia de la sociedad;
+\item
+  la sustitución de socios;
+\item
+  el funcionamiento de los órganos;
+\item
+  la existencia de un interés propio de la persona jurídica.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Situación actual}\label{situaciuxf3n-actual}
+
+Ninguna teoría explica por sí sola todos los aspectos del fenómeno
+societario.
+
+La doctrina contemporánea reconoce que la sociedad presenta elementos:
+
+\begin{itemize}
+\tightlist
+\item
+  contractuales;
+\item
+  organizativos;
+\item
+  institucionales.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Derecho argentino}\label{derecho-argentino-1}
+
+El artículo 1 de la Ley General de Sociedades mantiene una base
+contractual.
+
+Sin embargo,
+
+la regulación de la organización social, de los órganos y de la
+personalidad jurídica incorpora claros elementos institucionales.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Conclusión}\label{conclusiuxf3n}
+
+La evolución doctrinaria muestra el siguiente recorrido:
+
+\includegraphics[width=9.17in,height=0.73in]{clase01_files/figure-latex/mermaid-figure-1.png}
+
+Cada teoría fue ampliando la explicación del fenómeno societario, desde
+el mero consentimiento de los socios hasta la comprensión de la sociedad
+como una organización dotada de personalidad jurídica propia.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Evolución doctrinaria}\label{evoluciuxf3n-doctrinaria}
+
+Originalmente predominó la concepción contractual.
+
+Posteriormente la doctrina advirtió que dicha explicación resultaba
+insuficiente para comprender el funcionamiento permanente de la
+sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Contratos de cambio}\label{contratos-de-cambio}
+
+En los contratos de cambio:
+
+\begin{itemize}
+\tightlist
+\item
+  las prestaciones se enfrentan;
+\item
+  los intereses son contrapuestos;
+\item
+  cada parte procura satisfacer un interés individual.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Contratos de organización}\label{contratos-de-organizaciuxf3n}
+
+En los contratos de organización:
+
+\begin{itemize}
+\tightlist
+\item
+  las prestaciones convergen;
+\item
+  existe finalidad común;
+\item
+  la organización subsiste luego de celebrado el contrato.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Importancia de la
+distinción}\label{importancia-de-la-distinciuxf3n}
+
+La sociedad no se agota con el consentimiento inicial.
+
+Después del nacimiento:
+
+\begin{itemize}
+\tightlist
+\item
+  continúa funcionando;
+\item
+  produce decisiones;
+\item
+  incorpora socios;
+\item
+  modifica su organización.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Organización permanente}\label{organizaciuxf3n-permanente}
+
+La organización constituye uno de los elementos característicos de la
+sociedad moderna.
+
+No existe únicamente un contrato.
+
+Existe un ente organizado.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Finalidad común}\label{finalidad-comuxfan}
+
+Los socios orientan sus aportes hacia un objetivo compartido.
+
+La finalidad común constituye un elemento diferenciador respecto de
+otros contratos patrimoniales.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Aportes}\label{aportes}
+
+Todo socio debe efectuar un aporte.
+
+Los aportes integran el capital inicial y permiten el desarrollo de la
+actividad social.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Actividad económica}\label{actividad-econuxf3mica}
+
+La actividad debe ser:
+
+\begin{itemize}
+\tightlist
+\item
+  organizada;
+\item
+  permanente;
+\item
+  lícita.
+\end{itemize}
+
+No cualquier actividad justifica la constitución de una sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Participación en
+resultados}\label{participaciuxf3n-en-resultados}
+
+Los socios participan:
+
+\begin{itemize}
+\tightlist
+\item
+  en las utilidades;
+\item
+  en las pérdidas.
+\end{itemize}
+
+Este principio caracteriza al vínculo societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Affectio societatis}\label{affectio-societatis}
+
+La doctrina clásica utiliza la expresión \emph{affectio societatis} para
+describir la voluntad de colaborar en un plano de igualdad para alcanzar
+el fin común.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Alcance del affectio
+societatis}\label{alcance-del-affectio-societatis}
+
+No implica amistad.
+
+No implica afinidad personal.
+
+Implica voluntad de integrar una organización común.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Debate doctrinario}\label{debate-doctrinario}
+
+La doctrina discute:
+
+\begin{itemize}
+\tightlist
+\item
+  si constituye un elemento esencial;
+\item
+  si simplemente describe una consecuencia del contrato social.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{La reforma de 2015}\label{la-reforma-de-2015}
+
+La Ley 26.994 introdujo importantes modificaciones.
+
+Entre ellas:
+
+\begin{itemize}
+\tightlist
+\item
+  cambio de denominación;
+\item
+  incorporación de la SAU;
+\item
+  reforma de la Sección IV.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Cambio de denominación}\label{cambio-de-denominaciuxf3n}
+
+La antigua Ley de Sociedades Comerciales pasó a denominarse:
+
+\textbf{Ley General de Sociedades.}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Razón del cambio}\label{razuxf3n-del-cambio}
+
+La sociedad dejó de vincularse exclusivamente con actividades
+tradicionalmente comerciales.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Unificación}\label{unificaciuxf3n}
+
+La unificación del Derecho Privado eliminó la distinción entre:
+
+\begin{itemize}
+\tightlist
+\item
+  sociedades civiles;
+\item
+  sociedades comerciales.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Consecuencia}\label{consecuencia}
+
+Actualmente todas las sociedades quedan comprendidas dentro del régimen
+general.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedades civiles}\label{sociedades-civiles}
+
+Las sociedades civiles desaparecieron como categoría autónoma.
+
+Su regulación quedó absorbida por la LGS y el Código Civil y Comercial.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Aplicación conjunta}\label{aplicaciuxf3n-conjunta}
+
+Desde 2015:
+
+LGS + CCyC
+
+constituyen un sistema integrado.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Interpretación armónica}\label{interpretaciuxf3n-armuxf3nica}
+
+La LGS conserva autonomía.
+
+Sin embargo, debe interpretarse junto con las normas generales del
+Código.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Principio de especialidad}\label{principio-de-especialidad}
+
+Cuando existe regulación específica en la LGS:
+
+prevalece la norma especial.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Aplicación supletoria}\label{aplicaciuxf3n-supletoria-1}
+
+El Código Civil y Comercial actúa:
+
+\begin{itemize}
+\tightlist
+\item
+  integrando;
+\item
+  completando;
+\item
+  interpretando.
+\end{itemize}
+
+Nunca desplazando injustificadamente la LGS.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Persona jurídica privada}\label{persona-juruxeddica-privada}
+
+El Código Civil y Comercial reconoce expresamente a las sociedades como
+personas jurídicas privadas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Consecuencias}\label{consecuencias-1}
+
+Ello determina:
+
+\begin{itemize}
+\tightlist
+\item
+  capacidad;
+\item
+  patrimonio;
+\item
+  domicilio;
+\item
+  nombre;
+\item
+  responsabilidad.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Capacidad jurídica}\label{capacidad-juruxeddica}
+
+La sociedad posee capacidad para adquirir derechos y contraer
+obligaciones conforme a su objeto y al régimen legal.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Patrimonio}\label{patrimonio}
+
+El patrimonio social constituye:
+
+\begin{itemize}
+\tightlist
+\item
+  una universalidad jurídica;
+\item
+  separada del patrimonio de los socios.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Individualidad}\label{individualidad}
+
+La sociedad mantiene identidad propia aun cuando cambien:
+
+\begin{itemize}
+\tightlist
+\item
+  los socios;
+\item
+  las participaciones;
+\item
+  los administradores.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Continuidad}\label{continuidad}
+
+La permanencia del ente explica la continuidad de las relaciones
+jurídicas.
+
+La sociedad sobrevive a las modificaciones subjetivas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Interés social}\label{interuxe9s-social}
+
+La doctrina distingue:
+
+\begin{itemize}
+\tightlist
+\item
+  interés de cada socio;
+\item
+  interés social.
+\end{itemize}
+
+No siempre coinciden.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Autonomía del interés
+social}\label{autonomuxeda-del-interuxe9s-social}
+
+Las decisiones deben orientarse hacia el interés de la sociedad.
+
+No únicamente hacia intereses particulares.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Órganos}\label{uxf3rganos}
+
+La sociedad actúa mediante órganos.
+
+Los órganos expresan la voluntad del ente.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Doctrina del órgano}\label{doctrina-del-uxf3rgano}
+
+El administrador no sustituye la voluntad social.
+
+La voluntad del órgano es la voluntad de la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Representación orgánica}\label{representaciuxf3n-orguxe1nica}
+
+Debe distinguirse de la representación convencional.
+
+La actuación orgánica integra directamente la actividad de la persona
+jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Patrimonio y
+responsabilidad}\label{patrimonio-y-responsabilidad}
+
+La existencia de patrimonio propio explica:
+
+\begin{itemize}
+\tightlist
+\item
+  responsabilidad propia;
+\item
+  ejecución propia;
+\item
+  autonomía patrimonial.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Separación patrimonial}\label{separaciuxf3n-patrimonial}
+
+Como regla:
+
+las deudas sociales no constituyen deudas personales de los socios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Excepciones}\label{excepciones}
+
+La ley contempla supuestos específicos donde la responsabilidad puede
+extenderse.
+
+Ello no elimina el principio general.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Fraude}\label{fraude}
+
+La utilización abusiva de la personalidad jurídica puede justificar la
+aplicación del artículo 54 LGS.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Buena fe}\label{buena-fe}
+
+Toda actuación societaria debe desarrollarse conforme al principio
+general de buena fe.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Orden público}\label{orden-puxfablico}
+
+Las normas societarias de orden público limitan la autonomía de la
+voluntad de los socios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Seguridad jurídica}\label{seguridad-juruxeddica}
+
+La tipicidad y la personalidad jurídica cumplen una función esencial:
+
+proteger el tráfico jurídico.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Protección de terceros}\label{protecciuxf3n-de-terceros}
+
+La organización societaria no sólo protege a los socios.
+
+También tutela a:
+
+\begin{itemize}
+\tightlist
+\item
+  acreedores;
+\item
+  contratantes;
+\item
+  mercado.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Publicidad}\label{publicidad}
+
+La publicidad registral permite que terceros conozcan:
+
+\begin{itemize}
+\tightlist
+\item
+  existencia;
+\item
+  tipo;
+\item
+  administración;
+\item
+  representación.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Registro Público}\label{registro-puxfablico}
+
+La inscripción constituye uno de los mecanismos centrales del sistema de
+publicidad societaria.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Publicidad societaria}\label{publicidad-societaria}
+
+La publicidad constituye uno de los principios estructurales del régimen
+societario.
+
+Su finalidad consiste en brindar seguridad al tráfico jurídico.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función de la publicidad}\label{funciuxf3n-de-la-publicidad}
+
+La publicidad permite que los terceros conozcan:
+
+\begin{itemize}
+\tightlist
+\item
+  existencia de la sociedad;
+\item
+  tipo social;
+\item
+  administradores;
+\item
+  representación;
+\item
+  modificaciones relevantes.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Seguridad del tráfico}\label{seguridad-del-truxe1fico}
+
+La organización económica moderna exige que los terceros puedan confiar
+en la información registral.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Registro Público}\label{registro-puxfablico-1}
+
+La inscripción cumple funciones de:
+
+\begin{itemize}
+\tightlist
+\item
+  publicidad;
+\item
+  oponibilidad;
+\item
+  seguridad jurídica.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Oponibilidad}\label{oponibilidad}
+
+Los actos sujetos a inscripción producen efectos frente a terceros
+conforme al régimen previsto por la ley.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Autonomía patrimonial}\label{autonomuxeda-patrimonial-1}
+
+La separación patrimonial constituye una consecuencia inmediata del
+reconocimiento de personalidad jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Patrimonio social}\label{patrimonio-social}
+
+El patrimonio social responde:
+
+\begin{itemize}
+\tightlist
+\item
+  por las obligaciones sociales;
+\item
+  frente a los acreedores de la sociedad.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Acreedores sociales}\label{acreedores-sociales}
+
+Como principio:
+
+los acreedores sociales deben perseguir el patrimonio social.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Acreedores particulares}\label{acreedores-particulares}
+
+Los acreedores personales de un socio no son acreedores de la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Independencia patrimonial}\label{independencia-patrimonial}
+
+Debe distinguirse:
+
+\begin{itemize}
+\tightlist
+\item
+  patrimonio del socio;
+\item
+  patrimonio de la sociedad.
+\end{itemize}
+
+La confusión entre ambos contradice el sistema legal.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Organización}\label{organizaciuxf3n}
+
+La organización constituye uno de los elementos característicos del
+fenómeno societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Órganos sociales}\label{uxf3rganos-sociales}
+
+Toda sociedad funciona mediante órganos.
+
+Ellos permiten formar y exteriorizar la voluntad social.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Principales órganos}\label{principales-uxf3rganos}
+
+Según el tipo social pueden existir:
+
+\begin{itemize}
+\tightlist
+\item
+  órgano de gobierno;
+\item
+  órgano de administración;
+\item
+  órgano de fiscalización.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Gobierno}\label{gobierno}
+
+El órgano de gobierno expresa la voluntad de los socios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Administración}\label{administraciuxf3n}
+
+La administración ejecuta las decisiones sociales.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Fiscalización}\label{fiscalizaciuxf3n}
+
+Cuando corresponde:
+
+controla la actuación de los administradores.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{División funcional}\label{divisiuxf3n-funcional}
+
+La distribución de funciones evita la concentración absoluta del poder
+dentro de la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Principio de legalidad}\label{principio-de-legalidad}
+
+Los órganos sólo pueden actuar dentro de las competencias que la ley y
+el contrato les atribuyen.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Interés social}\label{interuxe9s-social-1}
+
+Toda decisión debe perseguir el interés de la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Interés del socio}\label{interuxe9s-del-socio}
+
+No siempre coincide con el interés social.
+
+La doctrina insiste en distinguir ambos conceptos.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Permanencia}\label{permanencia}
+
+La sociedad mantiene continuidad pese al reemplazo de:
+
+\begin{itemize}
+\tightlist
+\item
+  administradores;
+\item
+  socios;
+\item
+  representantes.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Empresa familiar}\label{empresa-familiar}
+
+Muchas sociedades nacen como empresas familiares.
+
+Con el crecimiento económico suelen profesionalizar su organización.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Profesionalización}\label{profesionalizaciuxf3n}
+
+La complejidad empresaria exige:
+
+\begin{itemize}
+\tightlist
+\item
+  órganos especializados;
+\item
+  administración profesional;
+\item
+  control interno.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Evolución económica}\label{evoluciuxf3n-econuxf3mica}
+
+La evolución del capitalismo incrementó la importancia del Derecho
+Societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Concentración económica}\label{concentraciuxf3n-econuxf3mica}
+
+Las sociedades permiten:
+
+\begin{itemize}
+\tightlist
+\item
+  reunir capital;
+\item
+  distribuir riesgos;
+\item
+  facilitar inversiones.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Mercado}\label{mercado}
+
+La organización societaria constituye uno de los instrumentos
+fundamentales del mercado moderno.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Inversión}\label{inversiuxf3n}
+
+La limitación del riesgo incentiva la inversión privada.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Riesgo empresario}\label{riesgo-empresario}
+
+El régimen societario procura equilibrar:
+
+\begin{itemize}
+\tightlist
+\item
+  incentivo económico;
+\item
+  protección de terceros.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Responsabilidad limitada}\label{responsabilidad-limitada}
+
+La responsabilidad limitada no constituye un privilegio absoluto.
+
+Se encuentra condicionada por el cumplimiento del régimen legal.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Responsabilidad ilimitada}\label{responsabilidad-ilimitada}
+
+Algunos tipos sociales mantienen responsabilidad personal de los socios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Razón de la diversidad}\label{razuxf3n-de-la-diversidad}
+
+Cada tipo responde a distintas necesidades económicas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Libertad de elección}\label{libertad-de-elecciuxf3n}
+
+Los particulares pueden elegir el tipo social que mejor se adapte a sus
+necesidades.
+
+Siempre dentro de los previstos por la ley.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Límites}\label{luxedmites}
+
+La autonomía privada encuentra límites en:
+
+\begin{itemize}
+\tightlist
+\item
+  la ley;
+\item
+  el orden público;
+\item
+  la buena fe.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Orden público societario}\label{orden-puxfablico-societario}
+
+Numerosas disposiciones de la LGS poseen carácter imperativo.
+
+No pueden ser dejadas sin efecto por convenio.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Buena fe}\label{buena-fe-1}
+
+La buena fe constituye un principio transversal de todo el Derecho
+Privado.
+
+También rige el Derecho Societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Abuso del derecho}\label{abuso-del-derecho}
+
+El ejercicio abusivo de los derechos societarios no recibe tutela
+jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función económica}\label{funciuxf3n-econuxf3mica}
+
+La sociedad constituye un instrumento destinado a organizar actividad
+económica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función jurídica}\label{funciuxf3n-juruxeddica}
+
+Al mismo tiempo:
+
+es una persona jurídica distinta de quienes la integran.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Técnica jurídica}\label{tuxe9cnica-juruxeddica}
+
+La personalidad constituye una técnica de imputación de derechos y
+obligaciones.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Importancia práctica}\label{importancia-pruxe1ctica-1}
+
+Comprender la personalidad jurídica permite interpretar:
+
+\begin{itemize}
+\tightlist
+\item
+  responsabilidad;
+\item
+  administración;
+\item
+  representación;
+\item
+  patrimonio.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y asociación}\label{sociedad-y-asociaciuxf3n}
+
+No deben confundirse.
+
+La asociación posee finalidad distinta del fenómeno societario.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y fundación}\label{sociedad-y-fundaciuxf3n}
+
+La fundación carece de socios.
+
+La sociedad presupone participación societaria.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y contrato
+asociativo}\label{sociedad-y-contrato-asociativo}
+
+Los contratos asociativos regulados por el Código Civil y Comercial no
+generan una persona jurídica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Diferencia esencial}\label{diferencia-esencial}
+
+La personalidad jurídica constituye el principal criterio diferenciador.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Empresa individual}\label{empresa-individual}
+
+El empresario individual desarrolla actividad económica sin crear una
+persona jurídica distinta.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad unipersonal}\label{sociedad-unipersonal}
+
+La SAU constituye una verdadera sociedad.
+
+Posee personalidad jurídica independiente de su único socio.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad Anónima
+Unipersonal}\label{sociedad-anuxf3nima-unipersonal}
+
+La Ley 26.994 incorporó expresamente la Sociedad Anónima Unipersonal
+(SAU) al ordenamiento argentino.
+
+Su incorporación respondió a una demanda doctrinaria de larga data.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Finalidad de la SAU}\label{finalidad-de-la-sau}
+
+La SAU permite:
+
+\begin{itemize}
+\tightlist
+\item
+  separar patrimonios;
+\item
+  limitar riesgos;
+\item
+  facilitar inversiones;
+\item
+  eliminar socios ficticios.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Unipersonalidad}\label{unipersonalidad}
+
+La unipersonalidad constituye una excepción al principio tradicional de
+pluralidad de socios.
+
+Debe surgir desde el nacimiento de la sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Unipersonalidad
+sobreviniente}\label{unipersonalidad-sobreviniente}
+
+La LGS contempla además supuestos donde la sociedad puede devenir
+unipersonal durante su existencia.
+
+Ello no implica necesariamente su disolución.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{¿Puede cualquier sociedad ser
+unipersonal?}\label{puede-cualquier-sociedad-ser-unipersonal}
+
+No.
+
+La LGS admite la unipersonalidad únicamente en los supuestos previstos
+por la ley.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Restricciones}\label{restricciones}
+
+La SAU presenta un régimen más riguroso que la SA tradicional.
+
+Ello procura proteger:
+
+\begin{itemize}
+\tightlist
+\item
+  acreedores;
+\item
+  tráfico jurídico;
+\item
+  seguridad patrimonial.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Fundamento}\label{fundamento-1}
+
+La existencia de un único socio incrementa el riesgo de confusión
+patrimonial.
+
+Por ello el legislador establece mayores controles.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Capital}\label{capital}
+
+La existencia de un solo socio no elimina la necesidad de un capital
+social suficiente.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Patrimonio}\label{patrimonio-1}
+
+Debe mantenerse estrictamente separado:
+
+\begin{itemize}
+\tightlist
+\item
+  patrimonio social;
+\item
+  patrimonio del socio único.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Administración}\label{administraciuxf3n-1}
+
+La administración continúa siendo un órgano de la sociedad.
+
+No actúa como mandatario del socio único.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y condominio}\label{sociedad-y-condominio}
+
+No deben confundirse.
+
+En el condominio existe cotitularidad sobre bienes.
+
+En la sociedad existe una persona jurídica distinta.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y comunidad
+hereditaria}\label{sociedad-y-comunidad-hereditaria}
+
+La comunidad hereditaria tampoco constituye una sociedad.
+
+Carece de finalidad organizativa propia del contrato social.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y asociación}\label{sociedad-y-asociaciuxf3n-1}
+
+La asociación persigue un fin ideal.
+
+La sociedad procura desarrollar actividad económica organizada.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y fundación}\label{sociedad-y-fundaciuxf3n-1}
+
+La fundación nace de un patrimonio afectado a un fin determinado.
+
+No posee socios.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y fideicomiso}\label{sociedad-y-fideicomiso}
+
+El fideicomiso constituye un patrimonio de afectación.
+
+No genera una persona jurídica independiente.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y contratos
+asociativos}\label{sociedad-y-contratos-asociativos}
+
+Los contratos asociativos regulados por el Código Civil y Comercial:
+
+\begin{itemize}
+\tightlist
+\item
+  no generan personalidad jurídica;
+\item
+  mantienen autonomía patrimonial de cada participante.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Diferencias esenciales}\label{diferencias-esenciales}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Sociedad & Contrato asociativo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Persona jurídica & No \\
+Patrimonio propio & No \\
+Organización permanente & Limitada \\
+Sujeto de derecho & No \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y empresa}\label{sociedad-y-empresa}
+
+\subsection{Empresa}\label{empresa-1}
+
+Fenómeno económico.
+
+\subsection{Sociedad}\label{sociedad-1}
+
+Instrumento jurídico.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y establecimiento}\label{sociedad-y-establecimiento}
+
+\subsection{Establecimiento}\label{establecimiento}
+
+Conjunto organizado de bienes.
+
+\subsection{Sociedad}\label{sociedad-2}
+
+Persona jurídica titular de derechos.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad y empresario}\label{sociedad-y-empresario-1}
+
+El empresario puede actuar:
+
+\begin{itemize}
+\tightlist
+\item
+  individualmente;
+\item
+  mediante una sociedad.
+\end{itemize}
+
+La empresa no exige necesariamente una sociedad.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sociedad como técnica
+jurídica}\label{sociedad-como-tuxe9cnica-juruxeddica}
+
+La sociedad constituye una construcción jurídica destinada a facilitar
+la organización económica.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función económica}\label{funciuxf3n-econuxf3mica-1}
+
+Permite:
+
+\begin{itemize}
+\tightlist
+\item
+  reunir capital;
+\item
+  distribuir riesgos;
+\item
+  profesionalizar la gestión.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Función jurídica}\label{funciuxf3n-juruxeddica-1}
+
+Permite:
+
+\begin{itemize}
+\tightlist
+\item
+  imputar derechos;
+\item
+  imputar obligaciones;
+\item
+  actuar en el tráfico jurídico.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Evolución contemporánea}\label{evoluciuxf3n-contemporuxe1nea}
+
+El Derecho Societario continúa evolucionando frente a:
+
+\begin{itemize}
+\tightlist
+\item
+  globalización;
+\item
+  digitalización;
+\item
+  inteligencia artificial;
+\item
+  nuevas formas empresarias.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Influencia del CCyC}\label{influencia-del-ccyc}
+
+El Código Civil y Comercial modificó profundamente la interpretación del
+Derecho Societario.
+
+No sustituyó la LGS.
+
+La complementó.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Método de estudio}\label{muxe9todo-de-estudio}
+
+Durante el curso trabajaremos siempre en cuatro niveles:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Ley.
+\item
+  Doctrina.
+\item
+  Jurisprudencia.
+\item
+  Aplicación práctica.
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Esquema conceptual de la
+materia}\label{esquema-conceptual-de-la-materia}
+
+\begin{verbatim}
+Actividad económica
+        │
+        ▼
+Empresa
+        │
+        ▼
+Sociedad
+        │
+        ▼
+Persona jurídica
+        │
+        ▼
+Organización
+        │
+        ▼
+Tipos societarios
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Ideas centrales de la clase}\label{ideas-centrales-de-la-clase}
+
+\begin{itemize}
+\tightlist
+\item
+  Sociedad y empresa no son sinónimos.
+\item
+  La sociedad es una persona jurídica.
+\item
+  Existe separación patrimonial.
+\item
+  La personalidad admite límites excepcionales.
+\item
+  La LGS debe interpretarse junto con el CCyC.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Conceptos que deben
+dominarse}\label{conceptos-que-deben-dominarse}
+
+Al finalizar esta unidad el estudiante debe poder explicar:
+
+\begin{itemize}
+\tightlist
+\item
+  sociedad;
+\item
+  empresa;
+\item
+  personalidad jurídica;
+\item
+  tipicidad;
+\item
+  desestimación;
+\item
+  clasificación;
+\item
+  nacionalidad;
+\item
+  SAU.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Lectura recomendada}\label{lectura-recomendada}
+
+Para la próxima clase:
+
+\begin{itemize}
+\tightlist
+\item
+  Nissen, capítulos I a V.
+\item
+  Vítolo, Introducción y Capítulo I.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Próxima clase}\label{pruxf3xima-clase}
+
+\subsection{Constitución de
+sociedades}\label{constituciuxf3n-de-sociedades}
+
+\begin{itemize}
+\tightlist
+\item
+  Requisitos.
+\item
+  Forma.
+\item
+  Instrumento constitutivo.
+\item
+  Publicidad.
+\item
+  Inscripción registral.
+\item
+  Nulidades.
+\end{itemize}
+
+
+
+
+\end{document}
