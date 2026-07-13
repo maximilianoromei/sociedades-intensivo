@@ -1,0 +1,677 @@
+---
+title: "Clase 3 — Responsabilidad"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+
+# Responsabilidad de los socios
+
+## ¿Quién responde por las deudas sociales?
+
+Cuando una sociedad contrae una obligación surge una pregunta fundamental:
+
+> **¿Quién responde frente al acreedor?**
+
+La respuesta depende del régimen de responsabilidad previsto para cada tipo societario.
+
+La primera obligada es siempre la sociedad, porque posee personalidad jurídica y patrimonio propio.
+
+La cuestión consiste en determinar si, además de la sociedad, pueden responder también los socios.
+
+---
+
+# Objetivos de la clase
+
+Al finalizar esta unidad el estudiante podrá:
+
+- Diferenciar responsabilidad limitada e ilimitada.
+- Comprender la responsabilidad subsidiaria.
+- Diferenciar solidaridad y mancomunidad.
+- Identificar el régimen de la SRL.
+- Identificar el régimen de la sociedad colectiva.
+- Resolver casos prácticos.
+
+---
+
+# La personalidad jurídica
+
+La sociedad constituye un sujeto de derecho distinto de sus socios.
+
+Como consecuencia:
+
+- posee patrimonio propio;
+- celebra contratos;
+- adquiere derechos;
+- contrae obligaciones;
+- responde por sus deudas.
+
+La existencia de una persona jurídica distinta constituye el punto de partida para comprender todo el régimen de responsabilidad.
+
+---
+
+# Dos patrimonios distintos
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad] --> B[Patrimonio social]
+
+C[Socios] --> D[Patrimonio personal]
+
+B --> E[Acreedores]
+
+D -.->|Solo cuando la ley lo permite| E
+```
+---
+
+# Segunda pregunta
+
+## ¿Cuándo puede reclamarse al socio?
+
+Esta pregunta no se refiere al monto.
+
+Se refiere al orden en que pueden perseguirse los distintos patrimonios.
+
+Las respuestas posibles son:
+
+- responsabilidad directa;
+- responsabilidad subsidiaria.
+
+---
+
+# Responsabilidad subsidiaria
+
+La responsabilidad es subsidiaria cuando el patrimonio del socio constituye un patrimonio de respaldo.
+
+El acreedor debe dirigirse primero contra:
+
+> **la sociedad**
+
+Sólo si el patrimonio social resulta insuficiente podrá avanzar contra los socios.
+
+---
+
+# ¿Qué significa primero?
+
+La sociedad es el deudor principal.
+
+Los socios aparecen solamente cuando el patrimonio social no alcanza.
+
+```text
+Deuda social
+      ↓
+Reclamo contra la sociedad
+      ↓
+Ejecución del patrimonio social
+      ↓
+Saldo impago
+      ↓
+Reclamo contra los socios
+```
+
+---
+
+# Beneficio de excusión
+
+La subsidiariedad se vincula con el beneficio de excusión.
+
+En términos simples:
+
+Antes de ejecutar el patrimonio personal del socio deben perseguirse los bienes de la sociedad.
+
+---
+
+# Caso práctico
+
+Sociedad Colectiva.
+
+Debe:
+
+**$120.000.000**
+
+Posee bienes por:
+
+**$40.000.000**
+
+Resultado:
+
+Primero se ejecutan esos bienes.
+
+Sólo queda pendiente:
+
+**$80.000.000**
+
+Recién entonces podrá reclamarse a los socios.
+
+---
+
+# Subsidiaria no significa limitada
+
+Es uno de los errores más frecuentes.
+
+La subsidiariedad responde:
+
+> **¿Cuándo?**
+
+La limitación responde:
+
+> **¿Hasta dónde?**
+
+Por eso una responsabilidad puede ser simultáneamente:
+
+- subsidiaria;
+- ilimitada.
+
+Como ocurre en la sociedad colectiva.
+
+---
+
+# Comparación
+
+| Concepto | Responde |
+|-----------|----------|
+| Limitada / Ilimitada | Hasta dónde responde |
+| Subsidiaria | Cuándo responde |
+
+No describen el mismo aspecto.
+
+---
+
+# Tercera pregunta
+
+## ¿Por cuánto puede reclamarse a cada socio?
+
+Ahora debemos analizar cómo se distribuye la deuda entre varios obligados.
+
+Las alternativas son:
+
+- solidaridad;
+- mancomunidad.
+
+---
+
+# Responsabilidad solidaria
+
+Cuando existe solidaridad:
+
+El acreedor puede exigir la totalidad de la deuda a cualquiera de los socios.
+
+No necesita dividir previamente el reclamo.
+
+Puede demandar:
+
+- a todos;
+- a algunos;
+- o solamente a uno.
+
+---
+
+# Caso práctico
+
+Tres socios.
+
+Saldo insoluto:
+
+**$90.000.000**
+
+El acreedor puede reclamar:
+
+- $90.000.000 a Ana;
+
+o
+
+- $90.000.000 a Bruno;
+
+o
+
+- $90.000.000 a Carlos.
+
+---
+
+# ¿Qué ocurre si Ana paga?
+
+La deuda queda extinguida frente al acreedor.
+
+Pero Ana no soportará definitivamente toda la carga.
+
+Podrá reclamar internamente a Bruno y Carlos la parte que corresponda.
+
+---
+
+# Acción de regreso
+
+```{mermaid}
+flowchart LR
+
+A[Acreedor]
+
+A --> B[Ana paga el total]
+
+B --> C[Regreso contra Bruno]
+
+B --> D[Regreso contra Carlos]
+```
+
+La solidaridad protege al acreedor.
+
+La distribución definitiva se resuelve después entre los socios.
+
+---
+
+# Solidaridad
+
+```{mermaid}
+flowchart LR
+
+A[Acreedor]
+
+A --> B[Ana]
+
+A --> C[Bruno]
+
+A --> D[Carlos]
+
+B --> E[$90 M]
+
+C --> E
+
+D --> E
+```
+
+El acreedor elige contra quién reclamar.
+
+---
+
+# Responsabilidad mancomunada
+
+En la mancomunidad ocurre exactamente lo contrario.
+
+Cada obligado responde solamente por su parte.
+
+El acreedor debe reclamar individualmente la cuota correspondiente a cada uno.
+
+---
+
+# Ejemplo
+
+Tres deudores.
+
+Deuda:
+
+**$90.000.000**
+
+Cada uno responde por:
+
+**$30.000.000**
+
+El acreedor no puede exigir los $90.000.000 a uno solo.
+
+---
+
+# ¿Qué pasa si uno es insolvente?
+
+Ana paga:
+
+$30.000.000
+
+Carlos paga:
+
+$30.000.000
+
+Bruno no tiene bienes.
+
+Resultado:
+
+Quedan impagos:
+
+$30.000.000
+
+Ese riesgo lo soporta el acreedor.
+
+No puede trasladar automáticamente la parte de Bruno a Ana.
+
+---
+
+# Comparación
+
+| Solidaridad | Mancomunidad |
+|--------------|--------------|
+| Cada socio puede responder por el total | Cada socio responde sólo por su cuota |
+| Favorece al acreedor | Favorece a los deudores |
+| Existe acción de regreso | No resulta necesaria |
+| El acreedor elige contra quién reclamar | Debe reclamar a cada uno su parte |
+
+---
+
+# Integrando los conceptos
+
+Ya podemos responder las tres preguntas.
+
+| Pregunta | Sociedad Colectiva |
+|-----------|--------------------|
+| ¿Hasta dónde responde? | Ilimitadamente |
+| ¿Cuándo responde? | Subsidiariamente |
+| ¿Por cuánto responde? | Solidariamente |
+
+Las tres respuestas son correctas al mismo tiempo.
+
+---
+
+# Caso integral
+
+Tres socios constituyen una sociedad colectiva.
+
+La sociedad debe:
+
+**$150.000.000**
+
+Su patrimonio sólo alcanza para pagar:
+
+**$40.000.000**
+
+Saldo insoluto:
+
+**$110.000.000**
+
+---
+
+# Primera etapa
+
+El acreedor debe dirigirse primero contra la sociedad.
+
+```{mermaid}
+flowchart LR
+
+A[Acreedor]
+
+A --> B[Sociedad]
+
+B --> C[Patrimonio social]
+
+C --> D[$40 M]
+```
+
+Esto demuestra la responsabilidad:
+
+## Subsidiaria
+
+---
+
+# Segunda etapa
+
+El patrimonio social resulta insuficiente.
+
+Quedan impagos:
+
+**$110.000.000**
+
+Ahora el acreedor puede reclamar a los socios.
+
+---
+
+# Tercera etapa
+
+El acreedor decide reclamar los:
+
+**$110.000.000**
+
+únicamente a Ana.
+
+Puede hacerlo porque la responsabilidad es:
+
+## Solidaria
+
+---
+
+# Cuarta etapa
+
+Ana había aportado solamente:
+
+**$5.000.000**
+
+Sin embargo puede ser obligada a pagar:
+
+**$110.000.000**
+
+Pueden ejecutarse:
+
+- cuentas bancarias;
+- inmuebles;
+- automóviles;
+- demás bienes embargables.
+
+Esto demuestra la responsabilidad:
+
+## Ilimitada
+
+---
+
+# Quinta etapa
+
+Ana paga la totalidad.
+
+¿Pierde definitivamente los:
+
+**$110.000.000**?
+
+## No.
+
+Tiene acción de regreso contra Bruno y Carlos.
+
+---
+
+# Caso completo
+
+```{mermaid}
+flowchart TD
+
+A[Deuda social<br>$150 M]
+
+A --> B[Patrimonio social<br>$40 M]
+
+B --> C[Saldo<br>$110 M]
+
+C --> D[Ana paga todo]
+
+D --> E[Regreso contra Bruno]
+
+D --> F[Regreso contra Carlos]
+```
+
+---
+
+# Las tres respuestas
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad Colectiva]
+
+A --> B[Subsidiaria]
+
+A --> C[Solidaria]
+
+A --> D[Ilimitada]
+```
+
+No son sinónimos.
+
+Se complementan.
+
+---
+
+# Error frecuente Nº 1
+
+> "Responsabilidad ilimitada significa que el acreedor siempre puede reclamar toda la deuda."
+
+## Incorrecto.
+
+La ilimitación solamente indica que el patrimonio comprometido no se limita al aporte.
+
+Que pueda reclamar toda la deuda dependerá de que exista solidaridad.
+
+---
+
+# Error frecuente Nº 2
+
+> "Responsabilidad subsidiaria significa que el socio responde menos."
+
+## Incorrecto.
+
+La subsidiariedad sólo modifica el orden del reclamo.
+
+No disminuye el monto de la obligación.
+
+---
+
+# Error frecuente Nº 3
+
+> "Responsabilidad limitada significa que el socio nunca responde."
+
+## Incorrecto.
+
+El socio puede responder:
+
+- por aportes no integrados;
+- por garantías personales;
+- por actos ilícitos propios;
+- por responsabilidad como administrador;
+- por otros supuestos previstos por la ley.
+
+---
+
+# Error frecuente Nº 4
+
+> "Solidaridad significa que el acreedor puede cobrar varias veces."
+
+## Incorrecto.
+
+Puede reclamar el total a cualquiera de los obligados.
+
+Pero sólo puede cobrar una única vez el importe total de la deuda.
+
+---
+
+# Comparación final
+
+| Característica | SRL | Sociedad Colectiva |
+|---|:---:|:---:|
+| Personalidad jurídica | ✔ | ✔ |
+| Patrimonio propio | ✔ | ✔ |
+| La sociedad responde por sus deudas | ✔ | ✔ |
+| Responsabilidad limitada | ✔ | ✘ |
+| Responsabilidad ilimitada | ✘ | ✔ |
+| Responsabilidad subsidiaria | ✘ | ✔ |
+| Responsabilidad solidaria | ✘ | ✔ |
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Deuda social]
+
+A --> B{Tipo societario}
+
+B --> C[SRL]
+
+B --> D[Sociedad Colectiva]
+
+C --> E[Responde la sociedad]
+
+E --> F[Los socios no responden normalmente por la deuda social]
+
+D --> G[Responde primero la sociedad]
+
+G --> H[Si no alcanza]
+
+H --> I[Responden los socios]
+
+I --> J[Subsidiariamente]
+
+I --> K[Solidariamente]
+
+I --> L[Ilimitadamente]
+```
+
+---
+
+# Ideas fuerza
+
+Cuando analicen cualquier tipo societario háganse siempre estas tres preguntas.
+
+1. ¿Hasta dónde responde el socio?
+2. ¿Cuándo puede reclamársele?
+3. ¿Por cuánto puede reclamársele?
+
+Si responden correctamente esas tres preguntas, comprenderán el régimen de responsabilidad de cualquier tipo social.
+
+---
+
+# Para pensar
+
+¿Puede existir una responsabilidad:
+
+- ilimitada;
+- subsidiaria;
+- pero no solidaria?
+
+¿Por qué?
+
+> Lo veremos al estudiar otros regímenes especiales previstos por la Ley General de Sociedades.
+>
+> ---
+>
+> # Cuidado con los conceptos
+
+Es frecuente utilizar estas expresiones como si fueran equivalentes.
+
+No lo son.
+
+Una misma responsabilidad puede ser, al mismo tiempo:
+
+- ilimitada;
+- subsidiaria;
+- solidaria.
+
+Cada palabra responde una pregunta distinta.
+
+---
+
+# La sociedad colectiva reúne las tres características
+
+El artículo 125 LGS dispone que los socios responden:
+
+- subsidiariamente;
+- ilimitadamente;
+- solidariamente.
+
+Por eso la sociedad colectiva constituye el mejor modelo para comprender cómo pueden combinarse estos conceptos.
+
+---
+

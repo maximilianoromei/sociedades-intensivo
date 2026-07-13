@@ -4453,7 +4453,7 @@ Ejemplo típico:
 
 La Sociedad de Responsabilidad Limitada presenta características de ambos modelos.
 
-```{mermaid
+```{mermaid}
 graph LR}
 
 A[Personalistas]

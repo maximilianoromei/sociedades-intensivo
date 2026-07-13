@@ -8,18 +8,31 @@ website:
     left:
       - text: "Inicio"
         href: index.qmd
+
       - text: "Bienvenida"
         href: bienvenida.qmd
+
       - text: "Cronograma"
         href: cronograma.qmd
+
+      - text: "Evaluaciones"
+        href: evaluaciones.qmd
+
+      - text: "Calificaciones"
+        href: "https://docs.google.com/spreadsheets/d/16kiQy7yrvSAOGyccNWEyVkYPyBoRKB0kZGFvHrD72Y0/edit?usp=sharing"
+        target: _blank
+
       - text: "Bibliografía"
         href: bibliografia.qmd
+
       - text: "Clases"
         menu:
           - text: "Clase 1"
             href: clases/clase01.qmd
+
           - text: "Clase 2"
             href: clases/clase02.qmd
+
           - text: "Clase 3"
             href: clases/clase03.qmd
 

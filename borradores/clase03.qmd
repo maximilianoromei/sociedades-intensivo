@@ -1,0 +1,2496 @@
+---
+title: "Clase 3 — Constitución, iter societatis y sociedades informales"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Clase 3
+
+## Constitución de la sociedad
+
+**Ley General de Sociedades**
+
+**Bibliografía base**
+
+- Daniel R. Vítolo, *Manual de Sociedades* (2023).
+- Ricardo A. Nissen, *Curso de Derecho Societario* (2019).
+
+---
+
+
+# Constitución de la sociedad
+
+## Del concepto al nacimiento de la persona jurídica
+
+```{mermaid}
+flowchart LR
+
+A["Clase 2<br/>¿Qué es una sociedad?"]
+--> B["Clase 3<br/>¿Cómo nace una sociedad?"]
+
+B --> C["Acto constitutivo"]
+
+C --> D["Inscripción"]
+
+D --> E["Persona jurídica plenamente constituida"]
+```
+
+En la clase anterior estudiamos el **concepto de sociedad** y su naturaleza jurídica. A partir de esta clase nos ocuparemos del **proceso de constitución**, es decir, del conjunto de actos necesarios para que la sociedad nazca como sujeto de derecho.
+
+El análisis seguirá el orden de la **Ley General de Sociedades**, comenzando por el acto constitutivo y concluyendo con el régimen de las sociedades comprendidas en la Sección IV.
+
+---
+
+# Hoja de ruta de la clase
+
+```{mermaid}
+flowchart TD
+
+A["Acto constitutivo"]
+B["Elementos generales"]
+C["Elementos específicos"]
+D["Contenido del instrumento (art. 11)"]
+E["Iter societatis"]
+F["Inscripción registral"]
+G["Sociedades de la Sección IV"]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+```
+
+Todo el régimen gira alrededor de una pregunta:
+
+> **¿Qué requisitos exige el ordenamiento para que una sociedad quede regularmente constituida?**
+
+---
+
+# El nacimiento de la sociedad
+
+```{mermaid}
+flowchart LR
+
+A["Voluntad de los constituyentes"]
+
+--> B["Acto constitutivo"]
+
+--> C["Instrumento"]
+
+--> D["Inscripción"]
+
+--> E["Sociedad regularmente constituida"]
+```
+
+El nacimiento de una sociedad no depende exclusivamente del acuerdo de voluntades.
+
+La constitución exige una sucesión de actos jurídicos regulados por la Ley General de Sociedades, algunos de naturaleza privada y otros sometidos al control del Registro Público.
+
+---
+
+# Punto de partida normativo
+
+## Artículos 1 a 11 LGS
+
+```{mermaid}
+mindmap
+  root((Arts. 1-11))
+    Acto constitutivo
+    Capacidad
+    Forma
+    Instrumento
+    Inscripción
+```
+
+Los primeros artículos de la Ley General de Sociedades regulan el proceso constitutivo.
+
+Su estudio resulta indispensable para comprender cómo nace la personalidad jurídica societaria.
+
+---
+
+# El acto constitutivo
+
+```{mermaid}
+flowchart TD
+
+A["Acto constitutivo"]
+
+A --> B["Contrato"]
+
+A --> C["Acto unilateral"]
+
+B --> D["Sociedades pluripersonales"]
+
+C --> E["Sociedad Anónima Unipersonal"]
+```
+
+Luego de la reforma introducida por la Ley 26.994, el acto constitutivo puede revestir dos formas:
+
+- **Contrato**, cuando intervienen dos o más personas.
+- **Declaración unilateral de voluntad**, exclusivamente en el supuesto de la Sociedad Anónima Unipersonal.
+
+---
+
+# El acto constitutivo y sus elementos
+
+```{mermaid}
+mindmap
+  root((Acto constitutivo))
+    Elementos generales
+      Capacidad
+      Consentimiento
+      Objeto
+      Causa
+      Forma
+    Elementos específicos
+      Fondo común
+      Aportes
+      Utilidades y pérdidas
+      Affectio societatis
+```
+
+La doctrina distingue entre:
+
+- **elementos generales**, comunes a todo acto jurídico; y
+- **elementos específicos**, propios del contrato de sociedad.
+
+Esta clasificación será el eje de la primera parte de la clase.
+
+---
+
+# Vítolo
+
+Vítolo explica que el acto constitutivo debe reunir, por un lado, los requisitos generales exigidos para todo acto jurídico y, por otro, los elementos específicos que caracterizan al contrato de sociedad como negocio jurídico de organización. :contentReference[oaicite:0]{index=0}
+
+Asimismo, destaca que la incorporación de la Sociedad Anónima Unipersonal no alteró la regla general según la cual la sociedad nace, normalmente, de un contrato celebrado entre dos o más personas. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Nissen
+
+Nissen parte de la naturaleza contractual de la sociedad y señala que el contrato societario comparte los elementos esenciales de los demás contratos, aunque presenta características propias derivadas de su finalidad organizativa y de la creación de un sujeto de derecho distinto de los socios. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Objetivos de esta unidad
+
+Al finalizar esta clase deberíamos poder:
+
+- identificar los requisitos del acto constitutivo;
+- distinguir los elementos generales de los específicos;
+- interpretar los artículos 1 a 11 de la LGS;
+- comprender el proceso de inscripción;
+- analizar las consecuencias de la falta de inscripción y el régimen de la Sección IV.
+
+---
+
+# Comenzamos
+
+## Primera parte
+
+# Los elementos generales del acto constitutivo
+
+---
+
+# Elementos generales
+
+## Capacidad
+
+```{mermaid}
+mindmap
+  root((Capacidad))
+    Regla general
+    Art. 27
+      Cónyuges
+    Art. 28
+      Menores
+      Incapaces
+      Capacidad restringida
+    Art. 30
+      Sociedad socia
+```
+
+La capacidad constituye uno de los presupuestos de validez del acto constitutivo.
+
+Como regla, se rige por las disposiciones generales del Código Civil y Comercial. Sin embargo, la Ley General de Sociedades contiene normas especiales que responden a las particularidades del fenómeno societario.
+
+---
+
+# La regla general
+
+```{mermaid}
+flowchart LR
+
+A["Código Civil y Comercial"]
+
+--> B["Capacidad para contratar"]
+
+--> C["Contrato de sociedad"]
+
+--> D["Ley General de Sociedades"]
+```
+
+La LGS no regula integralmente la capacidad.
+
+Por ello resultan aplicables las normas generales del Código Civil y Comercial, sin perjuicio de las disposiciones especiales previstas por la legislación societaria.
+
+**Vítolo** parte de este principio y luego analiza las excepciones expresamente contempladas por la ley. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Las reglas especiales
+
+```{mermaid}
+flowchart TD
+
+A["Capacidad"]
+
+A --> B["Art. 27"]
+A --> C["Art. 28"]
+A --> D["Art. 30"]
+
+B --> E["Sociedades entre cónyuges"]
+
+C --> F["Menores e incapaces"]
+
+D --> G["Sociedad socia"]
+```
+
+Las principales reglas especiales de la LGS se concentran en tres artículos.
+
+Cada uno responde a una finalidad distinta de política legislativa.
+
+---
+
+# Artículo 27
+
+## Sociedades entre cónyuges
+
+```{mermaid}
+flowchart LR
+
+A["Ley 19.550"]
+
+--> B["Régimen restrictivo"]
+
+--> C["Ley 26.994"]
+
+--> D["Sociedades de cualquier tipo"]
+```
+
+El texto vigente dispone que:
+
+> **"Los cónyuges pueden integrar entre sí sociedades de cualquier tipo."**
+
+La reforma armonizó la LGS con el nuevo régimen patrimonial del Código Civil y Comercial.
+
+---
+
+# ¿Por qué cambió el régimen?
+
+La prohibición histórica encontraba fundamento en la antigua regulación patrimonial del matrimonio.
+
+El Código Civil y Comercial modificó sustancialmente ese sistema, reconociendo mayor autonomía patrimonial a los cónyuges.
+
+Por ello la reforma eliminó la limitación existente y permitió la constitución de sociedades de cualquier tipo entre esposos.
+
+**Vítolo** destaca que la modificación responde a la necesaria adecuación de la LGS al nuevo derecho de familia. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Artículo 28
+
+## Menores, incapaces y personas con capacidad restringida
+
+```{mermaid}
+flowchart TD
+
+A["Indivisión hereditaria"]
+
+--> B["Constitución de sociedad"]
+
+--> C["Intervienen menores o personas con capacidad restringida"]
+
+--> D["Sólo responsabilidad limitada"]
+```
+
+El artículo 28 no regula la constitución ordinaria de sociedades.
+
+Contempla un supuesto excepcional vinculado con la continuación de una explotación económica integrada por bienes sometidos a indivisión hereditaria.
+
+---
+
+# Finalidad del artículo 28
+
+```{mermaid}
+mindmap
+  root((Art. 28))
+    Protección patrimonial
+    Control judicial
+    Responsabilidad limitada
+    Continuidad de la empresa
+```
+
+La finalidad de la norma consiste en compatibilizar:
+
+- la continuidad de la actividad económica;
+- con la tutela patrimonial de los menores y demás personas especialmente protegidas.
+
+---
+
+# Artículo 30
+
+## Sociedad socia
+
+```{mermaid}
+flowchart TD
+
+A["SA"]
+
+B["SCA"]
+
+A --> C["Sólo pueden integrar"]
+
+B --> C
+
+C --> D["Sociedades por acciones"]
+
+C --> E["SRL"]
+```
+
+El artículo 30 limita la participación de las sociedades anónimas y de las sociedades en comandita por acciones en otras sociedades.
+
+La restricción constituye una de las normas clásicas del derecho societario argentino.
+
+---
+
+# Fundamento del artículo 30
+
+```{mermaid}
+mindmap
+  root((Art.30))
+    Transparencia
+    Control
+    Protección de acreedores
+    Evitar estructuras opacas
+```
+
+Para **Nissen**, estas limitaciones procuran preservar la transparencia patrimonial y evitar estructuras societarias excesivamente complejas que dificulten el control y la protección de terceros. :contentReference[oaicite:2]{index=2}
+
+Vítolo analiza la evolución de la norma y su ámbito de aplicación luego de las reformas introducidas por la Ley 26.994. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Síntesis
+
+```{mermaid}
+flowchart TD
+
+A["Capacidad"]
+
+--> B["Regla general: CCyC"]
+
+B --> C["Excepciones LGS"]
+
+C --> D["Art. 27"]
+
+C --> E["Art. 28"]
+
+C --> F["Art. 30"]
+```
+
+La capacidad constituye el primer presupuesto de validez del acto constitutivo.
+
+Como regla se aplica el Código Civil y Comercial; las excepciones previstas por la LGS responden a razones específicas de protección, transparencia y política legislativa.
+
+---
+
+# Jurisprudencia
+
+## El origen del artículo 30 LGS
+
+**CSJN, "Gobierno Nacional c. Cía. Ferrocarrilera de Petróleo" (30/7/1948)**
+
+Este fallo constituye el antecedente histórico más importante del actual artículo 30 de la Ley General de Sociedades.
+
+Tanto Halperín como Nissen destacan su influencia en la solución adoptada luego por la ley 19.550. :contentReference[oaicite:0]{index=0}
+
+---
+
+# El contexto histórico
+
+```{mermaid}
+timeline
+    title Evolución del régimen
+
+    1948 : Fallo "Gobierno Nacional"
+    1972 : Ley 19.550
+    2015 : Reforma Ley 26.994
+```
+
+El caso fue resuelto muchos años antes de la sanción de la Ley General de Sociedades.
+
+Sin embargo, la solución adoptada por la Corte terminó siendo receptada por el legislador.
+
+---
+
+# El problema jurídico
+
+```{mermaid}
+flowchart LR
+
+A["Sociedad Anónima"]
+
+--> B["Pretende integrar"]
+
+--> C["Sociedad Colectiva"]
+```
+
+La cuestión consistía en determinar si una sociedad anónima podía integrar una sociedad colectiva.
+
+---
+
+# ¿Qué resolvió la Corte?
+
+La Corte Suprema sostuvo que:
+
+- la sociedad anónima **no podía integrar una sociedad colectiva**;
+- la naturaleza de ambos tipos societarios era incompatible.
+
+Ese criterio fue luego incorporado por la legislación societaria. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Fundamento principal
+
+```{mermaid}
+flowchart TD
+
+A["Sociedad colectiva"]
+
+--> B["Intuitu personae"]
+
+--> C["Responsabilidad personal"]
+
+--> D["Incompatibilidad con la SA"]
+```
+
+La Corte entendió que la sociedad colectiva se estructura sobre la confianza personal existente entre los socios.
+
+Ese elemento no resultaba compatible con la participación de una sociedad anónima.
+
+---
+
+# Recepción legislativa
+
+```{mermaid}
+flowchart LR
+
+A["Fallo 1948"]
+
+--> B["Halperín"]
+
+--> C["Ley 19.550"]
+
+--> D["Artículo 30"]
+```
+
+Nissen explica que el criterio jurisprudencial fue asumido por los redactores de la Ley 19.550, especialmente por Isaac Halperín, quien defendía esta limitación como mecanismo de protección del sistema societario. :contentReference[oaicite:2]{index=2}
+
+---
+
+# ¿Cuál era la justificación?
+
+Según la explicación tradicional:
+
+- evitar que la SA eludiera el control estatal;
+- impedir que asumiera responsabilidades ilimitadas propias de una sociedad de personas;
+- preservar la naturaleza intuitu personae de la sociedad colectiva. :contentReference[oaicite:3]{index=3}
+
+---
+
+# La crítica de Nissen
+
+```{mermaid}
+mindmap
+  root((Críticas))
+    Riesgo exagerado
+    Control estatal insuficiente
+    Fundamentos históricos debilitados
+    Necesidad de reforma
+```
+
+Nissen afirma que esos fundamentos fueron ampliamente cuestionados por la doctrina y que existe un consenso importante favorable a la reforma o incluso a la derogación del artículo 30. :contentReference[oaicite:4]{index=4}
+
+---
+
+# Situación actual
+
+Hoy el artículo 30 mantiene una restricción, aunque menos severa que la originaria.
+
+La Ley 26.994 amplió la capacidad de las sociedades anónimas permitiendo su participación en sociedades de responsabilidad limitada, además de las sociedades por acciones. :contentReference[oaicite:5]{index=5}
+
+---
+
+# ¿Por qué seguimos estudiando este fallo?
+
+Porque permite comprender que:
+
+- muchas normas societarias tienen origen jurisprudencial;
+- el artículo 30 no surgió aisladamente, sino como recepción de una construcción previa;
+- conocer el fundamento histórico ayuda también a comprender las críticas contemporáneas.
+
+> **No estudiamos este fallo por su aplicación práctica actual, sino porque explica el origen y la evolución del régimen legal vigente.**
+
+---
+
+# Elementos generales del acto constitutivo
+
+## Consentimiento, objeto, causa y forma
+
+```{mermaid}
+mindmap
+  root((Elementos generales))
+    Consentimiento
+    Objeto
+    Causa
+    Forma
+```
+
+Una vez verificada la capacidad de los constituyentes, corresponde analizar los restantes elementos generales del acto constitutivo.
+
+La Ley General de Sociedades no regula exhaustivamente estos requisitos, por lo que deben integrarse con las disposiciones del Código Civil y Comercial relativas a los actos jurídicos y a los contratos.
+
+Vítolo y Nissen coinciden en que el contrato de sociedad participa de la teoría general del contrato, aunque presenta particularidades derivadas de su función organizativa. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+---
+
+# El consentimiento
+
+```{mermaid}
+flowchart LR
+
+A["Oferta"]
+
+--> B["Aceptación"]
+
+--> C["Consentimiento"]
+
+--> D["Acto constitutivo"]
+```
+
+El consentimiento consiste en el acuerdo de voluntades dirigido a crear una organización societaria.
+
+Como regla, se rige por las normas generales del Código Civil y Comercial sobre formación del consentimiento y vicios de la voluntad.
+
+La principal particularidad aparece en la **Sociedad Anónima Unipersonal**, donde el acto constitutivo deja de ser un contrato para convertirse en una declaración unilateral de voluntad, cuestión ya estudiada en la clase anterior.
+
+---
+
+# Objeto y causa
+
+```{mermaid}
+flowchart LR
+
+A["Objeto"]
+
+--> B["¿Qué hará la sociedad?"]
+
+C["Causa"]
+
+--> D["¿Para qué se constituye?"]
+```
+
+Estos conceptos suelen confundirse, pero cumplen funciones diferentes.
+
+**Objeto social:** determina la actividad que desarrollará la sociedad y constituye uno de los requisitos esenciales del instrumento constitutivo (art. 11, inc. 3°, LGS).
+
+**Causa:** refiere a la finalidad económico-social perseguida por los constituyentes mediante la organización común.
+
+La doctrina coincide en que la licitud debe verificarse tanto respecto del objeto como de la causa. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+
+---
+
+# El objeto social
+
+## Artículo 11 inciso 3° LGS
+
+```{mermaid}
+mindmap
+  root((Objeto social))
+    Preciso
+    Determinado
+    Lícito
+    Posible
+```
+
+La ley exige que el objeto sea **preciso y determinado**.
+
+Esta exigencia no responde a una cuestión meramente formal.
+
+Un objeto correctamente delimitado:
+
+- fija el ámbito de actuación de los administradores;
+- facilita el control registral;
+- brinda información adecuada a los terceros;
+- delimita la actividad para la cual fue creada la sociedad.
+
+Por ello, las cláusulas excesivamente genéricas suelen ser observadas por la autoridad registral.
+
+---
+
+# La forma
+
+## Artículo 4 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Acto constitutivo"]
+
+--> B["Instrumento público"]
+
+--> C["Instrumento privado"]
+
+B --> D["Presentación para inscripción"]
+
+C --> D
+```
+
+Como regla, el contrato constitutivo puede otorgarse por instrumento público o privado.
+
+La escritura pública sólo será exigible cuando una disposición legal específica o la naturaleza de los bienes aportados así lo requieran.
+
+La forma del acto constitutivo no debe confundirse con la forma exigida para determinados aportes, especialmente los bienes registrables.
+
+---
+
+# Doctrina
+
+### Vítolo
+
+- El contrato de sociedad reúne los elementos generales propios de todo acto jurídico.
+- La LGS debe interpretarse conjuntamente con el Código Civil y Comercial.
+- El objeto social constituye uno de los aspectos centrales del control de legalidad efectuado por el Registro Público. :contentReference[oaicite:4]{index=4}
+
+### Nissen
+
+- El consentimiento, el objeto, la causa y la forma continúan rigiéndose por la teoría general del contrato.
+- Las particularidades del contrato de sociedad no eliminan la aplicación de los principios generales del derecho contractual. :contentReference[oaicite:5]{index=5}
+
+---
+
+# Síntesis de los elementos generales
+
+```{mermaid}
+flowchart TD
+
+A["Elementos generales"]
+
+A --> B["Capacidad"]
+
+A --> C["Consentimiento"]
+
+A --> D["Objeto"]
+
+A --> E["Causa"]
+
+A --> F["Forma"]
+
+F --> G["Acto constitutivo válido"]
+```
+
+Con esto concluye el análisis de los **elementos generales**.
+
+A continuación estudiaremos los **elementos específicos**, es decir, aquellos que distinguen al contrato de sociedad de cualquier otro contrato previsto por el ordenamiento jurídico.
+
+---
+
+# Elementos generales del acto constitutivo
+
+## Arts. 1, 4, 11, 13, 18, 19 y 20 LGS
+
+```{mermaid}
+mindmap
+  root((Elementos generales))
+    Consentimiento
+      Art. 1
+    Objeto
+      Art. 11 inc. 3
+      Arts. 18 a 20
+    Causa
+      Art. 1
+      Art. 13
+    Forma
+      Art. 4
+```
+
+El acto constitutivo societario debe leerse desde la Ley General de Sociedades.
+
+La teoría general del contrato completa el régimen, pero el punto de partida debe ser la LGS.
+
+---
+
+# Consentimiento
+
+## Art. 1 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Una o más personas"]
+
+--> B["Se obligan a realizar aportes"]
+
+--> C["Acto constitutivo"]
+
+--> D["Sociedad"]
+```
+
+El consentimiento aparece en el art. 1 cuando la ley describe a quienes se obligan a realizar aportes para aplicarlos a una actividad común.
+
+En las sociedades pluripersonales existe contrato.
+
+En la SAU, el consentimiento plural es reemplazado por la declaración unilateral de voluntad.
+
+Nissen señala que el consentimiento se rige por los principios generales de los actos jurídicos y contratos, aunque identifica supuestos especiales de incorporación societaria no plenamente voluntaria. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Objeto social
+
+## Art. 11 inc. 3 LGS
+
+```{mermaid}
+mindmap
+  root((Objeto social))
+    Preciso
+    Determinado
+    Lícito
+    Posible
+```
+
+El instrumento constitutivo debe contener la designación del objeto social.
+
+La ley exige que sea **preciso y determinado**.
+
+El objeto social delimita la actividad que la sociedad podrá desarrollar y cumple una función relevante frente a socios, administradores, terceros y Registro Público.
+
+---
+
+# Objeto ilícito, actividad ilícita y objeto prohibido
+
+## Arts. 18, 19 y 20 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Objeto o actividad"]
+
+A --> B["Objeto ilícito<br/>Art. 18"]
+
+A --> C["Actividad ilícita<br/>Art. 19"]
+
+A --> D["Objeto prohibido<br/>Art. 20"]
+```
+
+La licitud del objeto no es una cuestión meramente formal.
+
+La LGS distingue entre:
+
+- sociedad de objeto ilícito;
+- sociedad de objeto lícito con actividad ilícita;
+- sociedad de objeto prohibido en razón del tipo.
+
+Esta distinción será retomada al estudiar nulidades societarias.
+
+---
+
+# Causa
+
+## Art. 1 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Aportes"]
+
+--> B["Producción o intercambio de bienes o servicios"]
+
+--> C["Beneficios"]
+
+--> D["Pérdidas"]
+```
+
+La causa del contrato de sociedad se vincula con la finalidad económica común.
+
+El art. 1 muestra esa finalidad: los socios organizan aportes para una actividad común, participando en beneficios y soportando pérdidas.
+
+Nissen vincula la causa con la obtención de beneficios mediante una actividad económica organizada. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Cláusulas leoninas
+
+## Art. 13 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Contrato de sociedad"]
+
+--> B["Participación en ganancias"]
+
+--> C["Participación en pérdidas"]
+
+D["Exclusión absoluta"]
+
+--> E["Cláusula nula<br/>Art. 13 LGS"]
+```
+
+La causa societaria se desnaturaliza si se excluye absolutamente a un socio de las ganancias o de las pérdidas.
+
+Por eso el art. 13 declara nulas determinadas estipulaciones incompatibles con la esencia del contrato social.
+
+---
+
+# Forma
+
+## Art. 4 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Contrato constitutivo o modificatorio"]
+
+A --> B["Instrumento público"]
+
+A --> C["Instrumento privado"]
+
+B --> D["Inscripción"]
+
+C --> D
+```
+
+El art. 4 establece que el contrato constitutivo o sus modificaciones deben otorgarse por instrumento público o privado.
+
+La forma del contrato no debe confundirse con la forma exigida para ciertos aportes, especialmente cuando se aportan bienes registrables.
+
+---
+
+# Vítolo y Nissen
+
+Vítolo trabaja estos elementos partiendo de la LGS y completando con el régimen general del Código Civil y Comercial, especialmente en materia de capacidad, consentimiento, objeto, causa y forma. :contentReference[oaicite:2]{index=2}
+
+Nissen sostiene que el contrato de sociedad debe reunir los elementos comunes a todo contrato —consentimiento, capacidad, objeto y causa—, sin perjuicio de sus notas específicas como contrato plurilateral de organización. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Síntesis normativa
+
+```{mermaid}
+flowchart TD
+
+A["Acto constitutivo"]
+
+A --> B["Art. 1<br/>Concepto y causa societaria"]
+
+A --> C["Art. 4<br/>Forma"]
+
+A --> D["Art. 11 inc. 3<br/>Objeto social"]
+
+A --> E["Art. 13<br/>Cláusulas prohibidas"]
+
+A --> F["Arts. 18 a 20<br/>Ilicitud y objeto prohibido"]
+```
+
+Con esto cerramos los elementos generales.
+
+Seguimos con los elementos específicos del contrato de sociedad.
+
+---
+
+# Elementos específicos del contrato de sociedad
+
+## Artículo 1 LGS
+
+```{mermaid}
+mindmap
+  root((Art. 1 LGS))
+    Aportes
+    Fondo común
+    Actividad organizada
+    Beneficios
+    Pérdidas
+```
+
+A diferencia de los elementos generales, los elementos específicos son aquellos que caracterizan exclusivamente al contrato de sociedad.
+
+Surgen principalmente del artículo 1 de la Ley General de Sociedades y permiten distinguir este contrato de cualquier otro contrato plurilateral.
+
+Vítolo y Nissen coinciden en que estos elementos son los que otorgan identidad propia al fenómeno societario. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+---
+
+# El fondo común
+
+## Art. 1 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Socios"]
+
+--> B["Aportes"]
+
+--> C["Fondo común"]
+
+--> D["Actividad económica"]
+
+--> E["Resultados"]
+```
+
+El artículo 1 exige que los socios se obliguen a realizar aportes.
+
+Esos aportes no permanecen aislados sino que confluyen en un patrimonio destinado al desarrollo de la actividad social.
+
+La doctrina denomina a ese patrimonio inicial **fondo común**.
+
+---
+
+# Fondo común, capital y patrimonio
+
+```{mermaid}
+flowchart TD
+
+A["Aportes"]
+
+--> B["Fondo común"]
+
+B --> C["Capital social"]
+
+B --> D["Patrimonio social"]
+```
+
+Estos conceptos no son equivalentes.
+
+- **Fondo común:** bienes aportados para iniciar la actividad.
+- **Capital social:** cifra jurídica prevista en el contrato.
+- **Patrimonio:** conjunto de bienes, derechos y obligaciones de la sociedad en cada momento de su existencia.
+
+Vítolo dedica especial atención a esta diferenciación, por las frecuentes confusiones que genera en la práctica. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Los aportes
+
+## Art. 1 LGS
+
+```{mermaid}
+mindmap
+  root((Aportes))
+    Dinero
+    Bienes
+    Derechos
+    Créditos
+    Industria
+```
+
+El aporte constituye la obligación principal del socio.
+
+No existe contrato de sociedad sin aportes.
+
+La naturaleza del aporte dependerá del tipo societario y de las disposiciones específicas que regulan cada una de las formas sociales.
+
+---
+
+# Funciones del aporte
+
+```{mermaid}
+flowchart LR
+
+A["Aporte"]
+
+--> B["Forma el fondo común"]
+
+B --> C["Integra el patrimonio"]
+
+C --> D["Permite desarrollar el objeto social"]
+
+D --> E["Genera beneficios o pérdidas"]
+```
+
+El aporte cumple simultáneamente una función:
+
+- económica;
+- organizativa;
+- patrimonial;
+- de garantía frente a terceros.
+
+Por ello constituye uno de los ejes estructurales del derecho societario.
+
+---
+
+# Participación en utilidades y pérdidas
+
+## Art. 1 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Actividad social"]
+
+--> B["Resultado"]
+
+B --> C["Utilidades"]
+
+B --> D["Pérdidas"]
+
+C --> E["Participación de los socios"]
+
+D --> E
+```
+
+El artículo 1 dispone expresamente que los socios participan de los beneficios y soportan las pérdidas.
+
+No se trata de una cláusula accesoria.
+
+Es una consecuencia necesaria de la organización societaria.
+
+---
+
+# Utilidad y dividendo
+
+```{mermaid}
+flowchart LR
+
+A["Resultado positivo"]
+
+--> B["Utilidad"]
+
+--> C["Aprobación de estados contables"]
+
+--> D["Decisión de distribuir"]
+
+--> E["Dividendo"]
+```
+
+La utilidad y el dividendo no son sinónimos.
+
+La utilidad es un resultado económico.
+
+El dividendo constituye el crédito que nace a favor del socio cuando el órgano competente aprueba su distribución.
+
+Vítolo y Nissen desarrollan expresamente esta distinción. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+
+---
+
+# ¿Y la *affectio societatis*?
+
+```{mermaid}
+mindmap
+  root((Affectio societatis))
+    Colaboración
+    Organización común
+    Interés compartido
+    Fin común
+```
+
+La doctrina clásica incorporó la *affectio societatis* como uno de los elementos característicos del contrato de sociedad.
+
+Sin embargo, su verdadera naturaleza ha sido objeto de un intenso debate doctrinario.
+
+¿Es un requisito esencial del contrato?
+
+¿O simplemente una consecuencia de la celebración del contrato social?
+
+Ese interrogante merece un tratamiento específico.
+
+---
+
+# Transición
+
+Hasta aquí hemos analizado los elementos específicos previstos por el artículo 1 de la LGS.
+
+El siguiente tema estará dedicado exclusivamente a la **affectio societatis**, uno de los conceptos más discutidos del Derecho Societario argentino y sobre el cual Vítolo y Nissen adoptan posiciones que vale la pena comparar.
+
+---
+
+# Affectio societatis
+
+## ¿Un elemento esencial del contrato de sociedad?
+
+```{mermaid}
+mindmap
+  root((Affectio societatis))
+    Colaboración
+    Organización común
+    Interés compartido
+    Fin social
+```
+
+La *affectio societatis* es uno de los conceptos más tradicionales del Derecho Societario.
+
+Sin embargo, no aparece mencionada expresamente en la Ley General de Sociedades.
+
+Su reconocimiento es esencialmente doctrinario y jurisprudencial.
+
+---
+
+# ¿Qué significa?
+
+```{mermaid}
+flowchart LR
+
+A["Pluralidad de personas"]
+
+--> B["Voluntad de colaborar"]
+
+--> C["Organización común"]
+
+--> D["Obtención del fin social"]
+```
+
+La expresión *affectio societatis* alude a la voluntad permanente de los socios de colaborar en pie de igualdad para alcanzar el objeto común de la sociedad.
+
+No se identifica con la simple intención de contratar.
+
+Supone una verdadera vocación asociativa.
+
+---
+
+# ¿Dónde está en la ley?
+
+```{mermaid}
+flowchart TD
+
+A["Ley General de Sociedades"]
+
+--> B["No menciona la affectio societatis"]
+
+A --> C["Art. 1"]
+
+C --> D["Organización común"]
+
+C --> E["Aportes"]
+
+C --> F["Participación en beneficios y pérdidas"]
+```
+
+La LGS no utiliza la expresión *affectio societatis*.
+
+Quienes sostienen su vigencia entienden que surge implícitamente del artículo 1 y de la propia estructura del contrato societario.
+
+---
+
+# La doctrina clásica
+
+```{mermaid}
+mindmap
+  root((Doctrina clásica))
+    Halperín
+    Nissen
+    Vítolo
+```
+
+Tradicionalmente se entendió que la *affectio societatis* diferenciaba al contrato de sociedad de otros contratos de colaboración o de cambio.
+
+Su función era explicar la existencia de un interés común y de una organización compartida.
+
+---
+
+# La posición de Nissen
+
+Nissen sostiene que la *affectio societatis* constituye uno de los elementos específicos del contrato de sociedad.
+
+La define como la voluntad de los socios de colaborar activamente para la consecución del fin común, aceptando los riesgos propios de la empresa y subordinando el interés individual al interés social. :contentReference[oaicite:0]{index=0}
+
+Para Nissen, esta nota permite distinguir la sociedad de otras relaciones jurídicas que también persiguen un resultado económico.
+
+---
+
+# La posición de Vítolo
+
+Vítolo reconoce la importancia histórica del concepto, pero advierte que no constituye un requisito autónomo expresamente previsto por la ley.
+
+Entiende que muchas de las funciones tradicionalmente atribuidas a la *affectio societatis* pueden explicarse mediante otros institutos, como la buena fe, el deber de lealtad y la organización prevista en el artículo 1 de la LGS. :contentReference[oaicite:1]{index=1}
+
+---
+
+# ¿Es un elemento esencial?
+
+```{mermaid}
+flowchart TD
+
+A["Posición tradicional"]
+
+--> B["Sí"]
+
+A --> C["No"]
+
+B --> D["Elemento esencial"]
+
+C --> E["Concepto doctrinario útil, pero no autónomo"]
+```
+
+Actualmente existen dos grandes posiciones doctrinarias:
+
+- quienes consideran que integra la esencia del contrato de sociedad;
+- quienes entienden que se trata de una construcción doctrinaria sin autonomía normativa.
+
+---
+
+# Utilidad práctica
+
+```{mermaid}
+mindmap
+  root((Aplicaciones))
+    Interpretación del contrato
+    Conflictos entre socios
+    Exclusión
+    Abuso de mayoría
+    Deber de lealtad
+```
+
+Aun quienes relativizan su carácter esencial reconocen que la *affectio societatis* continúa siendo una herramienta útil para interpretar conflictos internos y valorar la conducta de los socios.
+
+---
+
+# Jurisprudencia
+
+La jurisprudencia argentina ha recurrido frecuentemente a la *affectio societatis* para resolver conflictos entre socios, especialmente en materia de exclusión, paralización de órganos sociales y abuso de mayoría.
+
+Sin embargo, la tendencia más reciente consiste en fundamentar esas soluciones directamente en la Ley General de Sociedades y en el principio de buena fe, antes que en una noción abstracta de *affectio societatis*.
+
+---
+
+# Conclusión
+
+```{mermaid}
+flowchart TD
+
+A["Affectio societatis"]
+
+--> B["Concepto clásico"]
+
+--> C["Discusión doctrinaria"]
+
+--> D["Importancia interpretativa"]
+
+--> E["No aparece expresamente en la LGS"]
+```
+
+La *affectio societatis* sigue ocupando un lugar relevante en la doctrina societaria.
+
+No obstante, después de la reforma introducida por la Ley 26.994, el centro del sistema se desplaza hacia el texto del artículo 1 de la LGS, la organización societaria y los deberes derivados de la buena fe y del interés social.
+
+---
+
+# El acto constitutivo
+
+## Contenido del instrumento
+
+### Artículo 11 LGS
+
+```{mermaid}
+mindmap
+  root((Art. 11))
+    Identificación de socios
+    Denominación
+    Domicilio
+    Objeto
+    Capital
+    Organización
+    Administración
+    Fiscalización
+    Utilidades
+    Disolución
+```
+
+Una vez analizados los elementos generales y específicos del contrato de sociedad, corresponde estudiar **cómo deben exteriorizarse**.
+
+El artículo 11 de la LGS establece el **contenido mínimo** que debe reunir el instrumento constitutivo.
+
+No se trata de un modelo de contrato.
+
+Es un conjunto de requisitos cuya omisión puede impedir la inscripción registral.
+
+---
+
+# Artículo 11 LGS
+
+## ¿Qué finalidad cumple?
+
+```{mermaid}
+flowchart LR
+
+A["Acto constitutivo"]
+
+--> B["Instrumento"]
+
+--> C["Control registral"]
+
+--> D["Publicidad"]
+
+--> E["Seguridad jurídica"]
+```
+
+El artículo 11 persigue múltiples objetivos:
+
+- individualizar a la sociedad;
+- proteger a los socios;
+- brindar información a terceros;
+- facilitar el control de legalidad del Registro Público.
+
+---
+
+# Estructura del artículo 11
+
+```{mermaid}
+flowchart TD
+
+A["Art. 11"]
+
+A --> B["Quiénes constituyen"]
+
+A --> C["Qué sociedad constituyen"]
+
+A --> D["Cómo funcionará"]
+
+A --> E["Cómo finalizará"]
+```
+
+Los distintos incisos pueden agruparse en cuatro grandes categorías:
+
+1. Identificación de los constituyentes.
+2. Individualización de la sociedad.
+3. Organización y funcionamiento.
+4. Disolución y liquidación.
+
+---
+
+# Inciso 1°
+
+## Identificación de los socios
+
+```{mermaid}
+mindmap
+  root((Inc.1))
+    Nombre
+    Edad
+    Estado civil
+    Nacionalidad
+    Profesión
+    Domicilio
+    DNI
+```
+
+El instrumento debe individualizar adecuadamente a los constituyentes.
+
+La finalidad es eliminar toda incertidumbre acerca de quiénes asumen la calidad de socios.
+
+Cuando el socio sea una persona jurídica deberán consignarse los datos correspondientes a su identificación.
+
+---
+
+# Inciso 2°
+
+## Denominación y domicilio
+
+```{mermaid}
+flowchart TD
+
+A["Sociedad"]
+
+--> B["Denominación"]
+
+--> C["Domicilio"]
+
+--> D["Sede social"]
+```
+
+La denominación permite individualizar a la sociedad frente a terceros.
+
+El domicilio determina el Registro Público competente, la competencia judicial y el régimen legal aplicable a numerosos actos societarios.
+
+Debe distinguirse entre:
+
+- domicilio social;
+- sede social.
+
+---
+
+# Inciso 3°
+
+## Objeto social
+
+```{mermaid}
+mindmap
+  root((Objeto))
+    Preciso
+    Determinado
+    Lícito
+```
+
+El objeto constituye uno de los aspectos más controlados por la autoridad registral.
+
+Debe describir con precisión la actividad que desarrollará la sociedad.
+
+Las cláusulas excesivamente amplias suelen ser observadas por el Registro Público.
+
+Vítolo dedica especial atención al objeto por su importancia para el control de legalidad y la actuación de los administradores. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Incisos 4° y 5°
+
+## Capital y aportes
+
+```{mermaid}
+flowchart LR
+
+A["Capital social"]
+
+--> B["Aportes"]
+
+--> C["Integración"]
+
+--> D["Participaciones"]
+```
+
+El instrumento debe indicar:
+
+- el capital social;
+- los aportes comprometidos;
+- la forma de integración;
+- la participación correspondiente a cada socio.
+
+Estos datos permiten conocer la estructura patrimonial inicial de la sociedad.
+
+---
+
+# Incisos 6° a 9°
+
+## Organización de la sociedad
+
+```{mermaid}
+mindmap
+  root((Organización))
+    Administración
+    Representación
+    Fiscalización
+    Reuniones
+    Mayorías
+    Ejercicio social
+```
+
+Estos incisos regulan el funcionamiento interno de la sociedad.
+
+Determinan:
+
+- quién administra;
+- quién representa;
+- cómo se adoptan las decisiones;
+- cómo se controla la gestión;
+- cuándo se confeccionan los estados contables.
+
+Constituyen el verdadero "estatuto de funcionamiento" de la sociedad.
+
+---
+
+# Incisos finales
+
+## Utilidades, disolución y liquidación
+
+```{mermaid}
+flowchart TD
+
+A["Resultados"]
+
+--> B["Distribución"]
+
+B --> C["Disolución"]
+
+C --> D["Liquidación"]
+```
+
+El instrumento debe prever:
+
+- la forma de distribuir utilidades;
+- el tratamiento de las pérdidas;
+- las reglas para la disolución;
+- el procedimiento de liquidación.
+
+La ley procura evitar vacíos normativos que puedan generar conflictos futuros.
+
+---
+
+# Vítolo y Nissen
+
+**Vítolo** explica que el artículo 11 contiene el contenido mínimo obligatorio del instrumento constitutivo y constituye una guía para el control de legalidad efectuado por el Registro Público. :contentReference[oaicite:1]{index=1}
+
+**Nissen** destaca que el artículo 11 no agota el contenido posible del contrato social, sino que establece las cláusulas indispensables para la válida constitución de la sociedad. Sobre esa base pueden incorporarse numerosas estipulaciones complementarias compatibles con la ley. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Cláusulas tipificantes y no tipificantes
+
+```{mermaid}
+flowchart TD
+
+A["Cláusulas del contrato"]
+
+A --> B["Tipificantes"]
+
+A --> C["No tipificantes"]
+
+B --> D["Definen el tipo societario"]
+
+C --> E["Complementan el régimen legal"]
+```
+
+No todas las cláusulas cumplen la misma función.
+
+Las **cláusulas tipificantes** son aquellas exigidas por la ley para configurar un determinado tipo societario.
+
+Las **cláusulas no tipificantes** son pactos complementarios incorporados por la autonomía de la voluntad, siempre que no contradigan normas imperativas ni desnaturalicen el tipo elegido.
+
+Este criterio será especialmente importante al estudiar la tipicidad societaria y las sociedades de la Sección IV.
+
+---
+
+# Iter societatis
+
+## El proceso de constitución de la sociedad
+
+```{mermaid}
+flowchart LR
+
+A["Voluntad de los socios"]
+--> B["Acto constitutivo"]
+--> C["Sociedad en formación"]
+--> D["Inscripción registral"]
+--> E["Sociedad regularmente constituida"]
+```
+
+La constitución de una sociedad no constituye un acto instantáneo.
+
+Entre la celebración del contrato y la inscripción registral existe un período intermedio, conocido por la doctrina como **iter societatis** o **período fundacional**.
+
+Durante esta etapa la sociedad ya existe como organización negocial, pero todavía no ha completado el procedimiento previsto por la ley para su regular constitución.
+
+---
+
+# El período fundacional
+
+```{mermaid}
+timeline
+    title Iter societatis
+
+    Firma del contrato : Acto constitutivo
+    Organización inicial : Sociedad en formación
+    Presentación : Registro Público
+    Inscripción : Sociedad regularmente constituida
+```
+
+El período fundacional comprende todas las actuaciones necesarias para obtener la inscripción del contrato constitutivo.
+
+En esta etapa suelen realizarse actos indispensables para poner en marcha la empresa, como la apertura de cuentas bancarias, la contratación de personal, la adquisición de bienes o la celebración de contratos preliminares.
+
+---
+
+# La sociedad en formación
+
+## Arts. 183 y 184 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Contrato firmado"]
+--> B["Sociedad en formación"]
+--> C["Inscripción"]
+--> D["Sociedad regularmente constituida"]
+```
+
+La LGS regula expresamente la sociedad en formación para las sociedades anónimas.
+
+Sin embargo, la doctrina utiliza esta expresión en un sentido más amplio para describir el período existente entre el otorgamiento del acto constitutivo y la inscripción registral.
+
+Vítolo distingue claramente esta etapa del régimen de las sociedades de la Sección IV. :contentReference[oaicite:0]{index=0}
+
+---
+
+# ¿Qué ocurre durante este período?
+
+```{mermaid}
+mindmap
+  root((Sociedad en formación))
+    Organización inicial
+    Actos preparatorios
+    Contratos
+    Aportes
+    Trámite registral
+```
+
+Durante el período fundacional los socios comienzan a ejecutar el proyecto empresario.
+
+La necesidad de actuar antes de la inscripción explica por qué la ley regula la responsabilidad derivada de esos actos.
+
+---
+
+# Responsabilidad
+
+## Art. 183 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Actos celebrados durante la formación"]
+--> B["Responsabilidad de quienes los realizaron"]
+```
+
+Como principio, quienes actúan en nombre de la sociedad antes de su inscripción responden por los actos celebrados.
+
+La posterior inscripción podrá producir determinados efectos respecto de esos actos, conforme a las condiciones previstas por la ley.
+
+---
+
+# Ratificación
+
+## Art. 184 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Acto celebrado"]
+--> B["Inscripción"]
+--> C["Ratificación por la sociedad"]
+--> D["Asunción de efectos"]
+```
+
+La ley contempla la posibilidad de que determinados actos celebrados durante el período fundacional sean asumidos por la sociedad una vez inscripta.
+
+De este modo se procura compatibilizar las necesidades prácticas del tráfico comercial con la protección de terceros.
+
+---
+
+# Vítolo
+
+Vítolo explica que el período fundacional constituye una etapa necesaria en la vida de toda sociedad y que los artículos 183 y 184 procuran resolver el problema de los actos celebrados antes de la inscripción definitiva. :contentReference[oaicite:1]{index=1}
+
+Destaca además que no debe confundirse la **sociedad en formación** con las **sociedades comprendidas en la Sección IV**, pues responden a supuestos jurídicos completamente diferentes. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Nissen
+
+Nissen señala que la sociedad en formación constituye una situación transitoria y normal dentro del proceso constitutivo.
+
+Su finalidad consiste en permitir el desarrollo de los actos indispensables para la puesta en marcha de la empresa mientras se completa el trámite registral. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Síntesis
+
+```{mermaid}
+flowchart TD
+
+A["Acto constitutivo"]
+--> B["Período fundacional"]
+--> C["Sociedad en formación"]
+--> D["Inscripción"]
+--> E["Sociedad regularmente constituida"]
+```
+
+El **iter societatis** constituye el puente entre el contrato y la personalidad jurídica plenamente oponible.
+
+Comprender esta etapa resulta indispensable para distinguir entre:
+
+- sociedad en formación;
+- sociedad regularmente constituida;
+- sociedades de la Sección IV.
+
+---
+
+# Inscripción en el Registro Público
+
+## Arts. 5 a 10 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Acto constitutivo"]
+
+--> B["Presentación"]
+
+--> C["Control de legalidad"]
+
+--> D["Inscripción"]
+
+--> E["Publicidad"]
+```
+
+La inscripción en el Registro Público constituye la última etapa del proceso constitutivo.
+
+Los artículos 5 a 10 de la LGS regulan:
+
+- el lugar de inscripción;
+- los plazos;
+- el control registral;
+- los efectos de la inscripción;
+- la publicidad del acto constitutivo.
+
+---
+
+# ¿Dónde se inscribe?
+
+## Artículo 5 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Contrato constitutivo"]
+
+--> B["Registro Público"]
+
+B --> C["Domicilio social"]
+```
+
+La inscripción debe solicitarse en el Registro Público correspondiente al domicilio social.
+
+La competencia registral depende del domicilio fijado en el contrato constitutivo.
+
+En la Ciudad Autónoma de Buenos Aires, estas funciones son ejercidas por la **Inspección General de Justicia (IGJ)**.
+
+---
+
+# ¿Cuándo debe solicitarse?
+
+## Artículo 6 LGS
+
+```{mermaid}
+timeline
+    title Artículo 6 LGS
+
+    Firma del contrato : Día 0
+    Presentación : Dentro de los 20 días
+    Trámite registral : Hasta obtener la inscripción
+```
+
+La solicitud de inscripción debe presentarse dentro de los **veinte (20) días** desde el otorgamiento del acto constitutivo.
+
+Si la presentación es tempestiva, la inscripción produce efectos desde la fecha del acto constitutivo.
+
+---
+
+# ¿Qué ocurre si la presentación es tardía?
+
+## Artículo 6 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Presentación fuera de término"]
+
+--> B["La inscripción sigue siendo posible"]
+
+--> C["Debe cumplirse el régimen del art. 6"]
+```
+
+La reforma introducida por la Ley 26.994 eliminó el régimen excesivamente rígido existente con anterioridad.
+
+La presentación tardía ya no impide necesariamente la inscripción, aunque puede producir consecuencias jurídicas específicas.
+
+Vítolo analiza detalladamente esta modificación y destaca el criterio más flexible adoptado por la reforma. :contentReference[oaicite:0]{index=0}
+
+---
+
+# El control registral
+
+## Artículo 6 LGS
+
+```{mermaid}
+mindmap
+  root((Control))
+    Legalidad
+    Tipicidad
+    Objeto
+    Capital
+    Cláusulas obligatorias
+```
+
+El Registro Público no realiza un control de oportunidad o conveniencia.
+
+Su función consiste en verificar la legalidad del acto constitutivo.
+
+Por ello controla, entre otras cuestiones:
+
+- el cumplimiento de la ley;
+- la adecuación al tipo elegido;
+- la presencia de las cláusulas exigidas por el artículo 11.
+
+---
+
+# Facultades de la autoridad registral
+
+```{mermaid}
+flowchart LR
+
+A["Registro Público"]
+
+--> B["Observa"]
+
+--> C["Requiere subsanaciones"]
+
+--> D["Inscribe"]
+```
+
+Si el contrato presenta defectos subsanables, la autoridad registral puede formular observaciones y requerir su corrección antes de disponer la inscripción.
+
+Este control preventivo procura evitar el ingreso al tráfico jurídico de sociedades constituidas en violación de la ley.
+
+---
+
+# Publicidad
+
+## Artículos 5 y 10 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Inscripción"]
+
+--> B["Publicidad"]
+
+--> C["Conocimiento por terceros"]
+
+--> D["Seguridad jurídica"]
+```
+
+La inscripción cumple una función de publicidad.
+
+Permite que terceros conozcan la existencia de la sociedad, sus datos esenciales y las reglas básicas de su organización.
+
+La publicidad registral constituye uno de los fundamentos de la oponibilidad del contrato social.
+
+---
+
+# Modificaciones posteriores
+
+## Artículo 12 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Modificación del contrato"]
+
+--> B["Inscripción"]
+
+--> C["Publicidad"]
+
+--> D["Oponibilidad"]
+```
+
+Las modificaciones del contrato social también deben inscribirse.
+
+Mientras no sean registradas, su oponibilidad frente a terceros puede verse afectada.
+
+La inscripción no constituye un requisito exclusivo del acto constitutivo, sino también de las principales modificaciones estatutarias.
+
+---
+
+# Vítolo y Nissen
+
+**Vítolo** explica que el Registro Público ejerce un verdadero control de legalidad y analiza especialmente el nuevo régimen del artículo 6 luego de la reforma de la Ley 26.994, particularmente en materia de presentación tardía. :contentReference[oaicite:1]{index=1}
+
+**Nissen** destaca la importancia del control registral como mecanismo preventivo destinado a preservar la legalidad societaria y proteger a terceros mediante la publicidad de los actos inscriptos. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Transición
+
+```{mermaid}
+flowchart LR
+
+A["Contrato"]
+
+--> B["Inscripción"]
+
+--> C["Sociedad regularmente constituida"]
+
+A --> D["Sin inscripción"]
+
+--> E["Sección IV LGS"]
+```
+
+La inscripción permite alcanzar el régimen ordinario de las sociedades regularmente constituidas.
+
+La falta de inscripción, en cambio, conduce al régimen especial previsto por los **artículos 21 a 26 de la Ley General de Sociedades**, que estudiaremos a continuación.
+
+---
+
+# Las sociedades de la Sección IV
+
+## Arts. 21 a 26 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Ley 19.550"]
+
+--> B["Sociedades de hecho e irregulares"]
+
+--> C["Ley 26.994"]
+
+--> D["Sociedades de la Sección IV"]
+```
+
+La Ley 26.994 modificó profundamente el régimen de las sociedades no regularmente constituidas.
+
+Desaparecieron las categorías de **sociedad de hecho** y **sociedad irregular**, reemplazadas por un régimen único contenido en los artículos 21 a 26 de la LGS.
+
+La finalidad de la reforma fue abandonar un sistema predominantemente sancionatorio para adoptar un régimen más flexible, privilegiando la conservación de la empresa y la protección del tráfico jurídico. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+---
+
+# ¿Qué sociedades comprende?
+
+## Artículo 21 LGS
+
+```{mermaid}
+mindmap
+  root((Sección IV))
+    Sin inscripción
+    Con defectos de forma
+    Con omisiones
+    Atípicas
+```
+
+El artículo 21 comprende un conjunto heterogéneo de supuestos.
+
+No se trata únicamente de sociedades no inscriptas.
+
+También quedan alcanzadas aquellas que presentan defectos constitutivos o cuya instrumentación no satisface las exigencias legales.
+
+La Sección IV constituye un régimen residual destinado a evitar la nulidad automática de organizaciones empresarias que funcionan en la realidad económica.
+
+---
+
+# Antes y después de la reforma
+
+```{mermaid}
+flowchart LR
+
+A["Antes de 2015"]
+
+--> B["Sociedad irregular"]
+
+A --> C["Sociedad de hecho"]
+
+D["Desde 2015"]
+
+--> E["Sección IV"]
+
+E --> F["Régimen unificado"]
+```
+
+Uno de los principales objetivos de la reforma fue eliminar categorías cuya diferenciación práctica generaba importantes dificultades interpretativas.
+
+En su reemplazo se estableció un régimen único, aplicable a todas las sociedades comprendidas en el artículo 21.
+
+---
+
+# Fundamento de la reforma
+
+```{mermaid}
+mindmap
+  root((Ley 26.994))
+    Conservación de la empresa
+    Seguridad del tráfico
+    Flexibilización
+    Protección de terceros
+```
+
+La reforma parte de una idea central.
+
+La ausencia de inscripción no debe conducir automáticamente a la desaparición del fenómeno societario.
+
+Cuando existe una organización económica que actúa en el tráfico jurídico, el derecho debe brindar respuestas adecuadas para proteger tanto a los socios como a los terceros.
+
+Vítolo destaca que la reforma abandona la lógica sancionatoria que caracterizaba al régimen anterior. :contentReference[oaicite:2]{index=2}
+
+---
+
+# La posición de Nissen
+
+Nissen reconoce que la reforma implicó un cambio profundo respecto del sistema originario de la Ley 19.550.
+
+No obstante, advierte que la amplitud del nuevo régimen puede generar incertidumbre y plantea diversos interrogantes interpretativos respecto de su alcance y de la protección de terceros. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Primera consecuencia
+
+## La sociedad existe
+
+```{mermaid}
+flowchart LR
+
+A["Contrato"]
+
+--> B["No inscripción"]
+
+--> C["Sección IV"]
+
+--> D["La organización subsiste"]
+```
+
+La falta de inscripción ya no implica desconocer la existencia de la organización.
+
+La sociedad continúa siendo relevante para el derecho.
+
+Lo que cambia es el régimen jurídico aplicable.
+
+---
+
+# Método de estudio
+
+En los próximos artículos analizaremos:
+
+```{mermaid}
+flowchart TD
+
+A["Art. 21"]
+
+--> B["Representación"]
+
+--> C["Responsabilidad"]
+
+--> D["Bienes registrables"]
+
+--> E["Subsanación"]
+
+--> F["Disolución"]
+```
+
+Cada uno de estos aspectos fue profundamente modificado por la Ley 26.994.
+
+---
+
+# Idea central
+
+La Sección IV ya no constituye un régimen de "sociedades defectuosas".
+
+Constituye un **régimen especial** para organizaciones que existen y actúan en el tráfico jurídico, pero que no reúnen los requisitos necesarios para quedar sometidas al régimen ordinario de las sociedades regularmente constituidas.
+
+---
+
+# Artículo 22 LGS
+
+## La subsanación
+
+```{mermaid}
+flowchart LR
+
+A["Sociedad Sección IV"]
+
+--> B["Defecto constitutivo"]
+
+--> C["Subsanación"]
+
+--> D["Sociedad regularmente constituida"]
+```
+
+Una de las principales innovaciones de la Ley 26.994 fue incorporar expresamente la posibilidad de **subsanar** los defectos que colocan a la sociedad dentro del régimen de la Sección IV.
+
+El nuevo sistema procura conservar la empresa y facilitar su adecuación al régimen general, abandonando el criterio predominantemente sancionatorio del régimen anterior.
+
+Vítolo considera que esta posibilidad constituye una de las modificaciones más importantes introducidas por la reforma. :contentReference[oaicite:0]{index=0}
+
+---
+
+# ¿Qué significa subsanar?
+
+## Artículo 22 LGS
+
+```{mermaid}
+mindmap
+  root((Subsanación))
+    Corregir defectos
+    Completar requisitos
+    Obtener inscripción
+```
+
+Subsanar significa remover la causa que impide la regular constitución de la sociedad.
+
+La finalidad no es crear una nueva sociedad, sino permitir que la organización existente acceda al régimen ordinario previsto por la Ley General de Sociedades.
+
+---
+
+# ¿Qué puede subsanarse?
+
+```{mermaid}
+flowchart TD
+
+A["Defectos"]
+
+A --> B["Falta de inscripción"]
+
+A --> C["Defectos instrumentales"]
+
+A --> D["Omisiones subsanables"]
+```
+
+La subsanación comprende los supuestos previstos en la Sección IV siempre que el defecto sea susceptible de corrección.
+
+No todo vicio admite subsanación.
+
+Cuando existe un obstáculo insalvable, la sociedad continuará sometida al régimen especial.
+
+---
+
+# Artículo 23 LGS
+
+## Representación
+
+```{mermaid}
+flowchart LR
+
+A["Sociedad Sección IV"]
+
+--> B["Representación"]
+
+--> C["Actos frente a terceros"]
+```
+
+El artículo 23 regula la representación de estas sociedades.
+
+La reforma abandona el criterio rígido del régimen anterior y procura brindar mayor seguridad al tráfico jurídico.
+
+La actuación del representante se analiza atendiendo tanto a la protección de terceros como a la realidad del funcionamiento societario.
+
+---
+
+# Bienes registrables
+
+## Artículo 23 LGS
+
+```{mermaid}
+flowchart TD
+
+A["Sociedad Sección IV"]
+
+--> B["Adquisición de bienes registrables"]
+
+--> C["Inscripción a nombre de la sociedad"]
+```
+
+Una de las novedades más relevantes consiste en admitir que estas sociedades puedan adquirir bienes registrables.
+
+Antes de la reforma, esta cuestión originaba importantes dificultades prácticas.
+
+La nueva regulación facilita el desenvolvimiento normal de la empresa y protege la seguridad del tráfico.
+
+Vítolo destaca este cambio como una de las innovaciones más trascendentes del nuevo régimen. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Prueba de la sociedad
+
+## Artículo 23 LGS
+
+```{mermaid}
+mindmap
+  root((Prueba))
+    Instrumento
+    Actuación
+    Terceros
+    Medios generales
+```
+
+La existencia de la sociedad y sus cláusulas pueden acreditarse por los medios admitidos por el ordenamiento.
+
+La reforma flexibiliza sensiblemente el sistema probatorio, privilegiando la realidad económica sobre el excesivo formalismo.
+
+---
+
+# Artículo 24 LGS
+
+## Responsabilidad de los socios
+
+```{mermaid}
+flowchart LR
+
+A["Obligaciones sociales"]
+
+--> B["Sociedad"]
+
+--> C["Socios"]
+```
+
+El régimen de responsabilidad constituye uno de los aspectos más importantes de la Sección IV.
+
+La Ley 26.994 abandonó el sistema uniforme de responsabilidad solidaria e ilimitada que caracterizaba a las antiguas sociedades de hecho e irregulares.
+
+El nuevo régimen debe analizarse a partir del texto del artículo 24 y de las cláusulas pactadas por los socios.
+
+Vítolo y Nissen dedican un extenso desarrollo a esta modificación por las importantes consecuencias prácticas que genera. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+
+---
+
+# Artículo 25 LGS
+
+## Disolución
+
+```{mermaid}
+flowchart TD
+
+A["Sociedad Sección IV"]
+
+--> B["Causal legal"]
+
+--> C["Disolución"]
+
+--> D["Liquidación"]
+```
+
+La disolución también fue reformulada.
+
+La finalidad del nuevo sistema consiste en evitar soluciones automáticas incompatibles con la continuidad de empresas económicamente viables.
+
+La conservación de la organización aparece nuevamente como uno de los principios inspiradores de la reforma.
+
+---
+
+# Artículo 26 LGS
+
+## Acreedores particulares
+
+```{mermaid}
+flowchart LR
+
+A["Acreedor particular"]
+
+--> B["Derechos del socio"]
+
+--> C["Participación social"]
+```
+
+El artículo 26 regula las relaciones entre los acreedores particulares de los socios y la sociedad.
+
+La norma procura compatibilizar:
+
+- la protección del crédito individual;
+- la continuidad de la empresa;
+- la estabilidad de la organización societaria.
+
+---
+
+# Balance de la reforma
+
+```{mermaid}
+mindmap
+  root((Sección IV))
+    Subsanación
+    Representación
+    Bienes registrables
+    Responsabilidad
+    Disolución
+    Protección de terceros
+```
+
+La Ley 26.994 sustituyó un régimen construido sobre la irregularidad por otro orientado a la **conservación de la empresa**, la **protección del tráfico jurídico** y la **regularización de las organizaciones existentes**.
+
+Vítolo considera que el nuevo régimen abandona definitivamente la lógica sancionatoria que inspiraba el sistema anterior, mientras que Nissen advierte que varias de las soluciones incorporadas plantean importantes desafíos interpretativos. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+
+---
+
+# Cláusulas del acto constitutivo
+
+## Cláusulas tipificantes y no tipificantes
+
+```{mermaid}
+flowchart TD
+
+A["Contrato social"]
+
+--> B["Cláusulas tipificantes"]
+
+A --> C["Cláusulas no tipificantes"]
+```
+
+El contenido del contrato social no se agota en las cláusulas exigidas por el artículo 11 de la Ley General de Sociedades.
+
+Los socios pueden incorporar otras estipulaciones en ejercicio de la autonomía de la voluntad, siempre que respeten las normas imperativas y no desnaturalicen el tipo social elegido.
+
+Esta distinción permite diferenciar entre **cláusulas tipificantes** y **cláusulas no tipificantes**. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Cláusulas tipificantes
+
+```{mermaid}
+mindmap
+  root((Tipificantes))
+    Definen el tipo
+    Son esenciales
+    Surgen de la ley
+    No pueden omitirse
+```
+
+Las cláusulas tipificantes son aquellas indispensables para que la sociedad pueda ser encuadrada dentro de uno de los tipos previstos por la Ley General de Sociedades.
+
+No dependen de la voluntad de los socios.
+
+Su contenido viene impuesto por la ley y constituye uno de los aspectos sometidos al control de legalidad del Registro Público.
+
+---
+
+# Función de las cláusulas tipificantes
+
+```{mermaid}
+flowchart LR
+
+A["Cláusulas tipificantes"]
+
+--> B["Determinan el tipo social"]
+
+--> C["Régimen jurídico aplicable"]
+
+--> D["Protección de terceros"]
+```
+
+Las cláusulas tipificantes cumplen una doble función:
+
+- permiten identificar el tipo societario elegido;
+- determinan el régimen legal que gobernará la sociedad durante toda su existencia.
+
+Por ello, su omisión o contradicción puede impedir la inscripción o provocar el ingreso al régimen de la Sección IV.
+
+---
+
+# Cláusulas no tipificantes
+
+```{mermaid}
+mindmap
+  root((No tipificantes))
+    Organización interna
+    Derechos especiales
+    Restricciones
+    Mecanismos de solución de conflictos
+```
+
+Las cláusulas no tipificantes son aquellas incorporadas por decisión de los socios para adaptar el funcionamiento de la sociedad a sus necesidades particulares.
+
+No resultan exigidas por la ley.
+
+Su validez depende de que sean compatibles con el régimen imperativo de la LGS y con el tipo societario adoptado.
+
+---
+
+# Autonomía de la voluntad
+
+```{mermaid}
+flowchart TD
+
+A["Autonomía privada"]
+
+--> B["Cláusulas no tipificantes"]
+
+B --> C["Límite"]
+
+C --> D["Normas imperativas"]
+
+C --> E["Tipo societario"]
+```
+
+El contrato social constituye una expresión de la autonomía privada.
+
+Sin embargo, esa autonomía no es absoluta.
+
+Los socios no pueden incorporar estipulaciones incompatibles con normas imperativas ni alterar los elementos esenciales del tipo elegido.
+
+---
+
+# El control registral
+
+## Arts. 6 y 11 LGS
+
+```{mermaid}
+flowchart LR
+
+A["Contrato"]
+
+--> B["Registro Público"]
+
+--> C["Control de legalidad"]
+
+--> D["Inscripción"]
+```
+
+Al ejercer el control de legalidad, el Registro Público verifica tanto la presencia de las cláusulas obligatorias como la compatibilidad de las cláusulas incorporadas por los socios con el ordenamiento jurídico.
+
+Las observaciones registrales suelen recaer sobre cláusulas que alteran el régimen legal del tipo societario o contradicen normas imperativas.
+
+---
+
+# Vítolo
+
+Vítolo explica que el contrato social puede contener numerosas estipulaciones complementarias, pero destaca que la autonomía contractual encuentra su límite en las normas imperativas de la Ley General de Sociedades y en la preservación de la tipicidad societaria. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Nissen
+
+Nissen sostiene que las cláusulas incorporadas por los socios sólo son admisibles cuando no modifican la estructura esencial del tipo societario ni afectan derechos cuya tutela responde a razones de orden público. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Síntesis
+
+```{mermaid}
+flowchart TD
+
+A["Contrato social"]
+
+A --> B["Cláusulas exigidas por la ley"]
+
+A --> C["Cláusulas incorporadas por los socios"]
+
+B --> D["Tipificantes"]
+
+C --> E["No tipificantes"]
+
+E --> F["Válidas si respetan la LGS"]
+```
+
+La distinción entre cláusulas tipificantes y no tipificantes constituye una manifestación del equilibrio existente en el derecho societario entre dos principios:
+
+- la **tipicidad**, que garantiza la seguridad jurídica y la protección de terceros;
+- la **autonomía de la voluntad**, que permite adaptar el contrato social a las necesidades de los socios dentro de los límites fijados por la ley.
+
+---

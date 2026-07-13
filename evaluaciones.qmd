@@ -1,0 +1,29 @@
+---
+title: "Evaluaciones"
+---
+
+# Evaluaciones
+
+En esta sección se publicarán los parcialitos, solucionarios y calificaciones correspondientes a la cursada.
+
+::: {.callout-note}
+Los parcialitos tienen finalidad formativa y sirven como seguimiento de lectura y preparación para los parciales.
+:::
+
+## Parcialitos
+
+| Evaluación | Fecha | Material | Solucionario | Notas |
+|---|---:|---|---|---|
+| Parcialito 1 | 08/07 | [Ver parcialito](evaluaciones/parcialito-1.pdf){target="_blank"} | [Ver respuestas](evaluaciones/parcialito-1-respuestas.pdf){target="_blank"} | [Ver notas](PEGAR_LINK_SHEETS){target="_blank"} |
+| Parcialito 2 | — | Próximamente | Próximamente | Próximamente |
+| Parcialito 3 | — | Próximamente | Próximamente | Próximamente |
+| Parcialito 4 | — | Próximamente | Próximamente | Próximamente |
+| Parcialito 5 | — | Próximamente | Próximamente | Próximamente |
+| Parcialito 6 | — | Próximamente | Próximamente | Próximamente |
+
+## Parciales
+
+| Evaluación | Fecha | Notas |
+|---|---:|---|
+| Primer parcial | 22/07 | Próximamente |
+| Segundo parcial | 01/08 | Próximamente |
