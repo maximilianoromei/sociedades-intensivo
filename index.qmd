@@ -53,17 +53,23 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/distincion-empresa-sociedad.pdf" target="_blank">Descargar presentación en PDF</a>
 
-### Clase 3 
+### Clase 3 - Responsabilidad
 
 - 🎓 <a href="clases/clase03-responsabilidad.html" target="_blank">Presentación del tema </a>
 
 - 📄 <a href="clases/clase03-responsabilidad.pdf" target="_blank">Descargar presentación en PDF</a>
 
-### Clase 3 
+### Clase 3 - Nacionalidad
 
 - 🎓 <a href="clases/clase03-nacionalidad.html" target="_blank">Presentación del tema </a>
 
 - 📄 <a href="clases/clase03-nacionalidad.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 3 - Naturaleza Jurídica Sociedad
+
+- 🎓 <a href="clases/clase03-naturaleza-juridica-sociedad.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase03-naturaleza-juridica-sociedad.pdf" target="_blank">Descargar presentación en PDF</a>
 
 
 ## Evaluaciones

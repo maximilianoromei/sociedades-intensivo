@@ -1,0 +1,265 @@
+---
+title: "Clase 3 — Naturaleza Juridica Sociedad"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Naturaleza jurídica de la sociedad
+
+## Las principales construcciones doctrinarias
+
+- Teoría contractual
+- Teoría del acto colectivo
+- Teoría del acto complejo
+- Teoría institucional
+
+> **Pregunta central:** ¿cómo explica el derecho el nacimiento y funcionamiento de una sociedad?
+>
+> ---
+>
+> # ¿Por qué existen distintas teorías?
+
+Las teorías sobre la naturaleza jurídica de la sociedad intentan responder un mismo interrogante:
+
+> **¿Qué es jurídicamente una sociedad?**
+
+Las respuestas han evolucionado históricamente.
+
+- contrato;
+- acto colectivo;
+- acto complejo;
+- institución.
+
+Cada una explica mejor una dimensión distinta del fenómeno societario.
+
+---
+
+# La teoría contractual
+
+La Ley General de Sociedades mantiene una concepción **contractualista**, pero no desde el contrato clásico de cambio.
+
+La Exposición de Motivos adopta la idea de:
+
+## Contrato plurilateral de organización
+
+Los socios no intercambian prestaciones contrapuestas.
+
+Todos concurren para:
+
+- realizar aportes;
+- organizar una actividad económica;
+- constituir un patrimonio separado;
+- crear un nuevo sujeto de derecho.
+
+---
+
+# El contrato plurilateral de organización
+
+A diferencia de los contratos sinalagmáticos:
+
+| Contrato de cambio | Contrato de sociedad |
+|--------------------|----------------------|
+| Intereses contrapuestos | Intereses convergentes |
+| Cada parte busca una prestación | Todos persiguen un fin común |
+| Produce efectos entre partes | Da nacimiento a una organización |
+
+La sociedad constituye un negocio asociativo.
+
+---
+
+# La posición de Nissen
+
+Para Ricardo Nissen:
+
+> "Lo trascendente del negocio asociativo son las personas y no las abstracciones."
+
+La personalidad jurídica constituye:
+
+- un instrumento técnico;
+- al servicio de quienes organizan la empresa.
+
+La sociedad no es un fin en sí mismo.
+
+Es un recurso jurídico destinado a facilitar la actuación colectiva.
+
+---
+
+# Teoría del acto colectivo
+
+Surge para superar las limitaciones del contrato clásico.
+
+Idea central:
+
+Las declaraciones de voluntad:
+
+- concurren hacia un interés común;
+- permanecen individualizables;
+- no existen intereses contrapuestos.
+
+La voluntad social aparece como resultado de una convergencia.
+
+---
+
+# Teoría del acto complejo
+
+Representa un paso adicional.
+
+Las voluntades individuales:
+
+- dejan de actuar aisladamente;
+- se integran;
+- forman una voluntad única.
+
+Resulta especialmente útil para explicar:
+
+- funcionamiento de los órganos;
+- formación de la voluntad social;
+- decisiones asamblearias.
+
+---
+
+# Acto colectivo y acto complejo
+
+| Acto colectivo | Acto complejo |
+|----------------|---------------|
+| Voluntades concurrentes | Voluntad única resultante |
+| Las voluntades siguen siendo distinguibles | Las voluntades se integran |
+| Explica el nacimiento | Explica mejor el funcionamiento de los órganos |
+
+### Manóvil
+
+La sociedad constituye una estructura organizativa que, una vez creada, expresa una voluntad propia mediante sus órganos.
+
+---
+
+# La teoría institucional
+
+Hauriou y Renard.
+
+La sociedad deja de ser únicamente un contrato.
+
+Pasa a ser una institución.
+
+Predomina:
+
+- la organización;
+- la permanencia;
+- el interés social;
+- la continuidad de la empresa.
+
+La voluntad individual pierde centralidad frente al interés institucional.
+
+---
+
+# Consecuencias de la teoría institucional
+
+Permite explicar adecuadamente:
+
+- continuidad pese al cambio de socios;
+- muerte de socios;
+- transmisión de acciones o cuotas;
+- órganos permanentes;
+- personalidad jurídica.
+
+La empresa aparece como un valor digno de conservación.
+
+Art. 100 LGS.
+
+---
+
+# La SAU y el cambio de paradigma
+
+La Ley 26.994 modifica profundamente el debate.
+
+La SAU demuestra que:
+
+- la pluralidad deja de ser indispensable;
+- el acto constitutivo puede ser unilateral;
+- la personalidad jurídica no presupone necesariamente un grupo de personas.
+
+El acto constitutivo pasa a ser:
+
+> una declaración unilateral de voluntad con vocación organizativa.
+
+---
+
+# Recepción en el derecho argentino
+
+El régimen vigente presenta características eclécticas.
+
+### Constitución
+
+Predomina la explicación contractual.
+
+### Funcionamiento
+
+Predominan las teorías organizativas e institucionales.
+
+La LGS combina elementos de todas ellas.
+
+---
+
+# Debate actual
+
+### Vítolo
+
+La reforma de 2015 debilitó el antiguo sistema sancionatorio.
+
+La Sección IV reconoce personalidad jurídica y eficacia a sociedades antes consideradas irregulares.
+
+### Consecuencia
+
+La personalidad jurídica aparece como una técnica de organización más que como un premio al cumplimiento formal.
+
+---
+
+# Favier Dubois y los nuevos desafíos
+
+Favier Dubois advierte sobre la aparición de un:
+
+## Modelo tecnocrático
+
+Caracterizado por:
+
+- automatización;
+- inteligencia artificial;
+- disminución del control humano.
+
+Sostiene que el derecho societario debe preservar:
+
+- responsabilidad personal;
+- control humano ("human in the loop");
+- función instrumental de la personalidad jurídica.
+
+---
+
+# Cuadro comparativo
+
+| Teoría | Explica mejor | Idea central |
+|---------|---------------|--------------|
+| Contractual | Constitución | Contrato plurilateral de organización |
+| Acto colectivo | Comunidad de fines | Voluntades concurrentes |
+| Acto complejo | Formación de la voluntad social | Integración de voluntades |
+| Institucional | Organización permanente | Interés social y conservación de la empresa |
