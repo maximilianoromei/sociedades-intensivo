@@ -1,0 +1,414 @@
+---
+title: "Clase 4 — Capacidad para ser socio"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# La capacidad para ser socio
+
+La **capacidad** constituye uno de los elementos generales del contrato de sociedad. Como regla, toda persona con capacidad para contratar puede adquirir la calidad de socio. Sin embargo, la Ley General de Sociedades introduce una serie de **limitaciones especiales** que no responden a la teoría general de la incapacidad, sino a razones propias del derecho societario.
+
+Estas restricciones procuran preservar la transparencia patrimonial, evitar conflictos de intereses y proteger tanto a los socios como a los terceros que contratan con la sociedad.
+
+La capacidad para integrar una sociedad, por lo tanto, no puede analizarse exclusivamente a la luz del Código Civil y Comercial, sino que exige el estudio de las disposiciones especiales contenidas en los artículos 27 a 32 de la Ley General de Sociedades.
+
+---
+
+## Artículo 27 LGS
+### Sociedad entre cónyuges
+
+> **Artículo 27.** *Los cónyuges pueden integrar entre sí sociedades de cualquier tipo y las reguladas en la Sección IV.*
+
+La redacción vigente del artículo 27 fue introducida por la Ley 26.994 y constituye una de las modificaciones más importantes del régimen societario en materia de capacidad.
+
+Antes de la reforma, los cónyuges únicamente podían integrar sociedades por acciones y de responsabilidad limitada, quedando excluidas las sociedades personalistas debido al riesgo que implicaba la responsabilidad ilimitada y la confusión patrimonial con el régimen matrimonial.
+
+El Código Civil y Comercial modificó profundamente el régimen patrimonial del matrimonio, reconociendo una mayor autonomía a los cónyuges y permitiendo incluso la elección del régimen patrimonial. Como consecuencia de ello, desaparecieron los fundamentos que justificaban la prohibición histórica.
+
+En la actualidad, los cónyuges pueden constituir sociedades de cualquier tipo, incluidas las sociedades comprendidas en la Sección IV.
+
+> **Vítolo** sostiene que la reforma armoniza la Ley General de Sociedades con el nuevo régimen patrimonial del matrimonio establecido por el Código Civil y Comercial, eliminando restricciones que habían perdido fundamento.
+>
+---
+
+## Fundamento de la reforma del artículo 27
+
+La modificación del artículo 27 no constituye una decisión aislada sino que responde a la necesidad de compatibilizar la Ley General de Sociedades con el Código Civil y Comercial.
+
+El régimen anterior partía de la idea de que la comunidad de bienes podía verse afectada por la existencia de sociedades con responsabilidad ilimitada integradas por ambos cónyuges.
+
+La reforma parte de una lógica diferente:
+
+- reconoce la autonomía patrimonial de los cónyuges;
+- admite distintos regímenes patrimoniales;
+- elimina restricciones fundadas exclusivamente en el vínculo matrimonial.
+
+Como consecuencia, la ley abandona una prohibición de carácter preventivo para confiar en los mecanismos generales de responsabilidad previstos por el ordenamiento jurídico.
+
+---
+
+## Evolución del régimen
+
+| Régimen anterior | Régimen vigente |
+|------------------|-----------------|
+| Los cónyuges sólo podían integrar determinados tipos sociales. | Los cónyuges pueden integrar cualquier tipo societario. |
+| Existía una restricción legal fundada en el régimen matrimonial. | Predomina la autonomía de la voluntad y la libertad de organización. |
+| El artículo 29 tenía plena aplicación práctica. | El artículo 29 posee hoy una importancia predominantemente histórica. |
+
+La reforma de la Ley 26.994 evidencia el abandono de una concepción restrictiva del matrimonio en favor de un sistema basado en la autonomía patrimonial de los cónyuges.
+
+---
+
+## Artículo 28 LGS
+### Herederos menores en sociedades con responsabilidad ilimitada
+
+> **Artículo 28.** *Los herederos menores de edad de un socio cuyo fallecimiento obligue a incorporar nuevos socios podrán continuar en la sociedad únicamente cuando la ley lo autorice y bajo las condiciones establecidas por el ordenamiento.*
+
+El artículo 28 procura armonizar dos intereses igualmente dignos de tutela:
+
+- la continuidad de la empresa;
+- la protección del heredero incapaz.
+
+La muerte de un socio no debe conducir necesariamente a la disolución de la sociedad, pero tampoco puede implicar que un menor quede automáticamente sometido a un régimen de responsabilidad ilimitada incompatible con su condición.
+
+La norma constituye una solución de equilibrio entre el derecho sucesorio y el derecho societario.
+
+---
+
+## Artículo 29 LGS
+### Alcance actual
+
+El artículo 29 establecía originariamente las consecuencias derivadas del incumplimiento del régimen previsto para las sociedades entre cónyuges.
+
+Como consecuencia de la reforma introducida por la Ley 26.994 y la nueva redacción del artículo 27, gran parte de su contenido perdió virtualidad práctica.
+
+Hoy su interés es principalmente histórico, pues permite comprender la evolución legislativa desde un régimen restrictivo hacia otro basado en la autonomía privada.
+
+La doctrina coincide en señalar que la reforma eliminó el supuesto típico para el cual había sido concebida esta disposición.
+
+---
+
+## Artículo 30 LGS
+### La denominada "sociedad socia"
+
+> **Artículo 30.** *Las sociedades anónimas y en comandita por acciones sólo pueden formar parte de sociedades por acciones y de responsabilidad limitada.*
+
+El artículo 30 no regula la capacidad de las personas humanas.
+
+Su objeto consiste en limitar la capacidad de determinadas sociedades para integrar otras sociedades.
+
+La norma procura mantener la coherencia entre el tipo societario elegido y el régimen de responsabilidad correspondiente.
+
+### Fundamento clásico
+
+Halperín explica que la restricción evita que una sociedad cuyos socios gozan del beneficio de la responsabilidad limitada termine asumiendo indirectamente la responsabilidad ilimitada propia de los tipos personalistas.
+
+En consecuencia, la disposición protege:
+
+- la intangibilidad del capital social;
+- la seguridad de los acreedores;
+- la coherencia del sistema tipológico diseñado por la Ley General de Sociedades.
+
+---
+
+## Críticas doctrinarias al artículo 30
+
+El artículo 30 ha sido objeto de numerosas críticas doctrinarias, principalmente por responder a una concepción del derecho societario propia de la década de 1970, cuando las sociedades eran concebidas como unidades aisladas.
+
+Sin embargo, la realidad económica contemporánea se caracteriza por la existencia de:
+
+- grupos de sociedades;
+- holdings;
+- sociedades controlantes y controladas;
+- estructuras empresariales multinivel.
+
+### La posición de Vítolo
+
+Daniel Roque Vítolo sostiene que la norma parte de un modelo de sociedad individual que ya no refleja el funcionamiento de la empresa moderna.
+
+En ese contexto, limitar la participación de las sociedades por acciones en determinados tipos sociales puede obstaculizar operaciones empresariales perfectamente legítimas y habituales en el derecho comparado.
+
+No obstante, mientras el legislador no modifique la norma, el artículo 30 continúa siendo una disposición de orden público que debe ser observada.
+
+---
+
+## El artículo 30 y la conservación de la empresa
+
+La incorporación de la sociedad anónima unipersonal y la flexibilización introducida por la Ley 26.994 reabrieron el debate acerca del alcance del artículo 30.
+
+Rafael Manóvil advierte que el derecho societario moderno debe privilegiar la conservación de la empresa por sobre soluciones excesivamente formalistas.
+
+Desde esta perspectiva, la interpretación del artículo 30 no puede perder de vista que la finalidad última del derecho societario consiste en preservar organizaciones económicamente viables y no en obstaculizar innecesariamente su continuidad.
+
+La discusión demuestra la tensión permanente entre dos valores:
+
+- el respeto por la tipicidad societaria;
+- la conservación de la empresa como unidad económica.
+
+---
+
+## Artículo 31 LGS
+### Participaciones en otras sociedades
+
+> **Artículo 31.** Ninguna sociedad, excepto aquellas cuyo objeto sea exclusivamente financiero o de inversión, puede tomar o mantener participación en otra u otras sociedades por un monto superior a sus reservas libres y a la mitad de su capital y de las reservas legales.
+
+La norma establece un límite objetivo a las inversiones permanentes que una sociedad puede realizar en otras sociedades.
+
+No prohíbe la inversión societaria.
+
+Lo que limita es la magnitud que esas inversiones pueden alcanzar respecto del patrimonio propio de la sociedad inversora.
+
+Se trata de una norma destinada a preservar la función económica del capital social y evitar que la sociedad sustituya el desarrollo de su objeto por la mera tenencia de participaciones societarias.
+
+---
+
+## ¿Cómo funciona el límite del artículo 31?
+
+La ley establece una fórmula objetiva.
+
+La participación máxima permitida resulta de sumar:
+
+- las reservas libres;
+- el cincuenta por ciento (50 %) del capital social;
+- el cincuenta por ciento (50 %) de las reservas legales.
+
+La finalidad consiste en impedir que una parte sustancial del patrimonio quede inmovilizada en inversiones permanentes ajenas a la actividad principal de la sociedad.
+
+No se trata de una prohibición absoluta sino de una limitación cuantitativa destinada a preservar el equilibrio patrimonial del ente.
+
+---
+
+## Fundamento del artículo 31
+
+¿Por qué el legislador limita la posibilidad de invertir en otras sociedades?
+
+La doctrina identifica diversas razones.
+
+### Verón
+
+El límite procura impedir una excesiva inmovilización del patrimonio social mediante inversiones permanentes.
+
+### Nissen
+
+La restricción protege la función de garantía que cumple el capital social frente a acreedores y terceros.
+
+### Richard
+
+Las inversiones desproporcionadas pueden constituir un supuesto de utilización abusiva de la personalidad jurídica cuando importan una descapitalización incompatible con el objeto de la sociedad.
+
+En consecuencia, el artículo 31 constituye una manifestación del principio de protección del patrimonio social.
+
+---
+
+## Excepciones previstas por el artículo 31
+
+El propio artículo contempla importantes excepciones.
+
+Los límites no resultan aplicables cuando:
+
+- la sociedad tiene por objeto exclusivo actividades financieras o de inversión;
+- el exceso deriva del pago de dividendos en acciones;
+- el exceso proviene de la capitalización de reservas.
+
+Asimismo, determinadas entidades sujetas a legislación especial quedan excluidas del régimen general.
+
+Estas excepciones responden a la naturaleza propia de esas actividades, en las cuales la inversión en otras sociedades constituye precisamente el objeto principal del ente.
+
+---
+
+## Consecuencias del exceso
+
+Cuando una sociedad supera el límite previsto por el artículo 31 debe:
+
+- comunicar esa circunstancia a la sociedad participada dentro de los diez días de aprobado el balance;
+- enajenar el excedente dentro de los seis meses siguientes.
+
+La ley no declara la nulidad de la participación.
+
+Opta por un mecanismo de regularización destinado a restablecer el equilibrio patrimonial sin afectar innecesariamente la estabilidad de las relaciones jurídicas.
+
+---
+
+## Sanción por incumplimiento
+
+Si la sociedad no enajena el excedente dentro del plazo legal, las participaciones que exceden el límite:
+
+- pierden el derecho de voto;
+- pierden el derecho a percibir utilidades.
+
+La sanción subsiste hasta que la situación sea regularizada.
+
+### Doctrina
+
+Como explica Verón, la ley utiliza una sanción de carácter económico y político, evitando la nulidad de la adquisición y privilegiando la regularización de la situación patrimonial.
+
+De este modo se preserva la estabilidad del tráfico mercantil sin dejar de sancionar el incumplimiento.
+
+---
+
+## Artículo 32 LGS
+### Participaciones recíprocas
+
+> **Artículo 32.** Es nula la constitución de sociedades o el aumento de su capital mediante participaciones recíprocas, aun por interpósita persona.
+
+El artículo 32 constituye una de las normas más importantes de protección del capital social.
+
+La ley prohíbe que dos sociedades integren recíprocamente su capital porque ello produciría una apariencia patrimonial sin un efectivo ingreso de riqueza.
+
+En otras palabras, ninguna de las sociedades realiza un verdadero aporte: ambas aparentan capitalizarse utilizando el patrimonio de la otra.
+
+La consecuencia prevista por la ley es particularmente severa: **la nulidad** del acto constitutivo o del aumento de capital realizado mediante este mecanismo.
+
+---
+
+## ¿Por qué se prohíben las participaciones recíprocas?
+
+La prohibición responde a razones de política legislativa vinculadas con la protección del capital social.
+
+Si las participaciones recíprocas fueran admitidas libremente podrían producirse diversas distorsiones:
+
+- capitales sociales ficticios;
+- incremento aparente del patrimonio;
+- simulación de solvencia;
+- manipulación del control societario;
+- perjuicio para acreedores y terceros.
+
+### Verón
+
+El autor explica que la finalidad del artículo consiste en impedir el denominado **"aguamiento del capital social"**, esto es, la existencia de capitales que carecen de un verdadero respaldo patrimonial.
+
+---
+
+## Ejemplo
+
+Supóngase que:
+
+- Alfa S.A. constituye Beta S.A. aportando $100.000.000.
+- Simultáneamente Beta S.A. integra el capital de Alfa S.A. por el mismo monto.
+
+Desde el punto de vista formal ambas sociedades presentan un importante capital social.
+
+Sin embargo:
+
+- no ingresó riqueza nueva al sistema;
+- el patrimonio real permanece inalterado;
+- el capital social deja de cumplir su función de garantía.
+
+Precisamente este resultado es el que procura evitar el artículo 32 de la Ley General de Sociedades.
+
+---
+
+## Artículo 33 LGS
+### Sociedades controladas y sociedades vinculadas
+
+Luego de prohibir determinadas participaciones recíprocas, la Ley General de Sociedades introduce el concepto de **control societario**.
+
+El artículo 33 distingue dos categorías:
+
+### Sociedades controladas
+
+Existe control cuando una sociedad posee los votos necesarios para formar la voluntad social de otra, ya sea:
+
+- de manera directa;
+- por intermedio de otra sociedad;
+- o mediante cualquier otro mecanismo que otorgue influencia dominante.
+
+### Sociedades vinculadas
+
+Existe vinculación cuando una sociedad participa en otra en una proporción igual o superior al diez por ciento (10 %) de su capital.
+
+---
+
+## La importancia del artículo 33
+
+El artículo 33 trasciende la simple clasificación de sociedades.
+
+Constituye el punto de partida para comprender el fenómeno de los **grupos societarios**.
+
+A partir de esta disposición pueden explicarse numerosas instituciones del derecho societario moderno:
+
+- balances consolidados;
+- responsabilidad de sociedades controlantes;
+- conflictos de interés;
+- dirección unificada;
+- grupos económicos.
+
+La empresa moderna ya no actúa necesariamente mediante una única sociedad, sino a través de conjuntos de sociedades jurídicamente independientes pero económicamente integradas.
+
+---
+
+## Interés social e interés del grupo
+
+La aparición de los grupos de sociedades plantea una cuestión central:
+
+> ¿Debe actuar cada sociedad exclusivamente en función de su propio interés social o puede sacrificarlo en beneficio del grupo?
+
+La Ley General de Sociedades fue concebida sobre la base del **interés social** de cada sociedad considerada individualmente.
+
+Sin embargo, la evolución económica demuestra que muchas decisiones empresariales sólo pueden comprenderse desde la lógica del grupo.
+
+Esta tensión constituye uno de los grandes debates contemporáneos del derecho societario.
+
+---
+
+## Doctrina
+
+### Eduardo Favier Dubois
+
+Advierte que el fenómeno de los grupos no debe conducir a vaciar de contenido el concepto tradicional de interés social.
+
+Cada sociedad conserva personalidad jurídica propia y sus administradores continúan obligados a actuar conforme al interés de esa persona jurídica.
+
+### Otaegui
+
+Reconoce la realidad económica de los grupos empresariales, pero sostiene que ello no autoriza a desconocer la autonomía patrimonial de cada sociedad integrante.
+
+---
+
+## Síntesis del régimen de los artículos 27 a 33
+
+Las disposiciones analizadas persiguen un objetivo común:
+
+**preservar la transparencia y la autenticidad de la organización societaria.**
+
+| Artículo | Finalidad |
+|-----------|-----------|
+| 27 | Sociedades entre cónyuges. |
+| 28 | Protección de herederos menores. |
+| 29 | Consecuencia histórica del régimen anterior. |
+| 30 | Restricciones a la sociedad socia. |
+| 31 | Límites a las participaciones permanentes. |
+| 32 | Prohibición de participaciones recíprocas. |
+| 33 | Concepto de control y vinculación societaria. |
+
+Estas normas no constituyen simples restricciones a la capacidad.
+
+Integran un verdadero sistema destinado a proteger:
+
+- el capital social;
+- la transparencia patrimonial;
+- la seguridad del tráfico mercantil;
+- el correcto funcionamiento de la empresa organizada bajo forma societaria.
+

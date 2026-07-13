@@ -1,0 +1,763 @@
+---
+title: "Clase 4 — Art 11"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Artículo 11 LGS  
+**Contenido del instrumento constitutivo**
+
+El artículo 11 de la Ley General de Sociedades establece el **contenido mínimo obligatorio** del instrumento de constitución.
+
+La norma procura que, desde el nacimiento de la sociedad, queden determinados:
+
+- quiénes son los socios;
+- cómo se identifica la sociedad;
+- qué actividad desarrollará;
+- con qué capital contará;
+- cómo será administrada;
+- cómo se distribuirán los resultados;
+- cuáles serán los derechos y obligaciones de los socios;
+- cómo funcionará, se disolverá y liquidará.
+
+No constituye una enumeración meramente formal. Cada inciso cumple una función de organización interna, publicidad y protección de terceros.
+
+---
+
+# Función jurídica del artículo 11
+
+El artículo 11 transforma los elementos del negocio societario en **cláusulas concretas del instrumento constitutivo**.
+
+Sus menciones obligatorias cumplen distintas funciones:
+
+- individualizan a los sujetos;
+- delimitan la actividad social;
+- estructuran el patrimonio inicial;
+- distribuyen competencias orgánicas;
+- regulan las relaciones entre socios;
+- anticipan mecanismos para resolver conflictos;
+- facilitan el control de legalidad registral.
+
+La omisión de requisitos esenciales puede impedir que la sociedad produzca plenamente los efectos propios del tipo elegido y determinar la aplicación del régimen de la Sección IV, conforme a los artículos 17 y 21 de la LGS.
+
+---
+
+## ¿Qué interés protege cada inciso del artículo 11?
+
+El artículo 11 no reúne exigencias arbitrarias.
+
+Cada una de sus cláusulas obligatorias protege un aspecto esencial de la organización societaria.
+
+| Inciso | Contenido | Interés protegido |
+|---------|-----------|------------------|
+| 1 | Identificación de los socios | Capacidad y legitimación |
+| 2 | Nombre y domicilio | Identidad y publicidad |
+| 3 | Objeto | Principio de especialidad |
+| 4 | Capital y aportes | Patrimonio y tutela de acreedores |
+| 5 | Plazo | Seguridad jurídica |
+| 6 | Administración | Organización del ente |
+| 7 | Utilidades y pérdidas | Equilibrio contractual |
+| 8 | Derechos y obligaciones | Relaciones internas |
+| 9 | Disolución y liquidación | Extinción ordenada |
+
+El artículo 11 organiza jurídicamente todo el ciclo de vida de la sociedad.
+
+---
+
+# Artículo 11, inciso 1  
+**Individualización de los socios**
+
+El instrumento constitutivo debe expresar:
+
+- nombre;
+- edad;
+- estado civil;
+- nacionalidad;
+- profesión;
+- domicilio;
+- número de documento de identidad.
+
+La finalidad no consiste únicamente en completar datos registrales.
+
+La identificación permite verificar:
+
+- la existencia de los otorgantes;
+- su capacidad;
+- su legitimación para contratar;
+- las restricciones legales aplicables;
+- el régimen de responsabilidad asumido.
+
+También permite determinar con precisión quiénes adquieren el estado de socio y quiénes quedan obligados por el contrato constitutivo.
+
+---
+
+# Capacidad y legitimación de los socios
+
+La individualización exigida por el inciso 1 permite controlar la aptitud jurídica de quienes intervienen.
+
+La mayoría de edad se adquiere a los dieciocho años, conforme al Código Civil y Comercial.
+
+En materia societaria deben considerarse, además, las reglas especiales de la LGS:
+
+- sociedades entre cónyuges;
+- herederos menores;
+- sociedades que participan en otras sociedades;
+- limitaciones de los artículos 30 a 32.
+
+La capacidad civil general no implica necesariamente aptitud irrestricta para integrar cualquier estructura societaria.
+
+---
+
+# Sociedades entre cónyuges
+
+El artículo 27 LGS permite actualmente que los cónyuges integren entre sí:
+
+- sociedades de cualquier tipo;
+- sociedades comprendidas en la Sección IV.
+
+La Ley 26.994 eliminó las antiguas restricciones que afectaban principalmente a las sociedades personalistas.
+
+La reforma acompañó la ampliación de la autonomía patrimonial matrimonial introducida por el Código Civil y Comercial.
+
+**Nissen**, no obstante, advierte que la amplitud normativa no debe utilizarse para:
+
+- ocultar bienes gananciales;
+- perjudicar acreedores;
+- eludir las reglas de liquidación de la comunidad;
+- construir una separación patrimonial meramente aparente.
+
+---
+
+# Artículo 11, inciso 2  
+**Nombre y domicilio**
+
+El instrumento constitutivo debe expresar:
+
+- la razón social o denominación;
+- el domicilio de la sociedad.
+
+Ambos elementos forman parte de la identidad jurídica de la persona societaria.
+
+El nombre permite distinguirla de otras personas y atribuirle jurídicamente actos, derechos y obligaciones.
+
+El domicilio determina:
+
+- la jurisdicción registral;
+- la competencia territorial;
+- el lugar general de cumplimiento;
+- el ámbito de recepción de notificaciones.
+
+---
+
+# Razón social y denominación
+
+La **razón social** se vincula tradicionalmente con sociedades personalistas y puede incluir el nombre de uno o más socios.
+
+La **denominación social** cumple una función objetiva de identificación y no necesita reproducir el nombre de los integrantes.
+
+No deben confundirse con:
+
+- nombre de fantasía;
+- marca;
+- designación comercial;
+- dominio de internet.
+
+La razón social o denominación identifica al sujeto de derecho. El nombre de fantasía identifica, principalmente, una explotación, producto o presencia comercial.
+
+---
+
+# Domicilio y sede social
+
+La doctrina y la jurisprudencia distinguen:
+
+**Domicilio social**
+
+- indica la jurisdicción o ciudad;
+- integra el estatuto o contrato;
+- su modificación puede exigir reforma del instrumento constitutivo.
+
+**Sede social**
+
+- indica la calle y número concretos;
+- puede inscribirse separadamente;
+- suele ser fijada o modificada por el órgano de administración cuando el contrato no la incorpora de manera precisa.
+
+El plenario **“Quilpe S.A.”** consolidó esta distinción entre domicilio y sede.
+
+---
+
+# Validez de las notificaciones
+
+Las notificaciones practicadas en la sede inscripta se consideran válidas y vinculantes para la sociedad.
+
+La regla protege a los terceros y evita que la persona jurídica alegue:
+
+- traslados no inscriptos;
+- cambios informales;
+- desconocimiento de comunicaciones;
+- falta de recepción interna.
+
+**Vítolo y Verón** destacan que la publicidad registral debe brindar certeza acerca del lugar donde la sociedad puede ser válamente emplazada.
+
+La sociedad soporta las consecuencias de no inscribir oportunamente el cambio de sede.
+
+---
+
+# Sede inscripta y buena fe
+
+La eficacia de la sede registrada debe interpretarse de acuerdo con la buena fe.
+
+Puede discutirse la validez de una notificación cuando el tercero:
+
+- conoce de manera inequívoca que la sociedad no funciona allí;
+- utiliza deliberadamente una dirección puramente ficticia;
+- procura impedir la defensa de la sociedad;
+- actúa abusivamente.
+
+La inscripción protege el tráfico jurídico, pero no debería transformarse en un instrumento para legitimar conductas fraudulentas o abusivas.
+
+---
+
+# Artículo 11, inciso 3  
+**El objeto social**
+
+El contrato debe contener la designación del objeto, que debe ser:
+
+- preciso;
+- determinado.
+
+El objeto social describe las actividades económicas que la sociedad se propone desarrollar.
+
+No debe confundirse con el objeto del contrato.
+
+**Objeto del contrato**
+
+Prestaciones que asumen los socios, fundamentalmente los aportes.
+
+**Objeto social**
+
+Actividad que desarrollará la persona jurídica una vez constituida.
+
+---
+
+# Funciones del objeto social
+
+El objeto social cumple funciones internas y externas.
+
+**Función interna**
+
+- orienta la actividad societaria;
+- delimita la actuación de los administradores;
+- permite controlar el cumplimiento del fin social;
+- informa a los socios sobre el destino de sus aportes.
+
+**Función externa**
+
+- permite a terceros conocer la actividad del ente;
+- facilita el control registral;
+- sirve como parámetro para evaluar la representación;
+- contribuye a identificar actos notoriamente extraños.
+
+---
+
+# Principio de especialidad
+
+El objeto social se relaciona con el principio de especialidad de las personas jurídicas.
+
+El artículo 141 del Código Civil y Comercial reconoce personalidad jurídica para el cumplimiento de los fines de creación del ente.
+
+La sociedad puede realizar:
+
+- actos comprendidos en su objeto;
+- actos conexos;
+- actos preparatorios;
+- actos auxiliares;
+- operaciones razonablemente vinculadas con su actividad.
+
+El objeto no debe interpretarse con rigidez mecánica. Su función es ordenar la actuación social, no paralizarla.
+
+---
+
+# Objeto y representación  
+**Artículo 58 LGS**
+
+El artículo 58 establece que los administradores o representantes obligan a la sociedad por los actos que no sean **notoriamente extraños al objeto social**.
+
+La norma protege la seguridad del tráfico.
+
+No basta con que un acto:
+
+- no esté expresamente mencionado;
+- sea excepcional;
+- no forme parte de la actividad cotidiana.
+
+Para excluir la vinculación de la sociedad, el acto debe ser manifiesta y objetivamente ajeno a su actividad.
+
+El conflicto puede generar responsabilidad interna del administrador aunque el acto resulte oponible a la sociedad frente al tercero.
+
+---
+
+# Objeto preciso y determinado
+
+La exigencia legal procura impedir objetos:
+
+- vagos;
+- indeterminados;
+- universales;
+- meramente enunciativos;
+- capaces de abarcar cualquier actividad imaginable.
+
+Un objeto adecuadamente redactado debe permitir conocer:
+
+- el sector económico;
+- la actividad principal;
+- las operaciones complementarias;
+- el ámbito razonable de actuación.
+
+La precisión protege a los socios, pues les permite conocer a qué actividad quedará afectado el patrimonio social.
+
+---
+
+# El debate sobre el objeto múltiple
+
+**Nissen** sostiene una posición restrictiva respecto de los objetos múltiples y sin conexidad.
+
+Sus principales argumentos son:
+
+- dificultan el control de legalidad;
+- impiden determinar adecuadamente el capital necesario;
+- favorecen la infracapitalización;
+- amplían excesivamente las facultades de los administradores;
+- vacían de contenido el principio de especialidad.
+
+Desde esta perspectiva, las actividades deben guardar una conexión razonable entre sí y responder a una organización empresaria identificable.
+
+---
+
+# SAS y objeto plural
+
+La Ley 27.349 admitió para las sociedades por acciones simplificadas un criterio más flexible respecto del objeto.
+
+La SAS puede incluir actividades plurales, aun cuando no exista conexidad estricta entre ellas.
+
+Esta solución responde a un paradigma contractualista que procura:
+
+- reducir costos;
+- facilitar emprendimientos;
+- evitar reformas estatutarias frecuentes;
+- ampliar la autonomía de la voluntad.
+
+**Nissen** critica este régimen porque considera que debilita el control registral y rompe la relación entre objeto, capital y actividad empresaria.
+
+---
+
+## ¿Qué controla el Registro respecto del objeto?
+
+El control de legalidad no se limita a verificar que exista una cláusula sobre el objeto.
+
+También examina su contenido.
+
+En particular verifica:
+
+- que sea lícito;
+- que sea preciso;
+- que sea determinado;
+- que no resulte meramente genérico;
+- que exista razonable relación entre el objeto y el capital social.
+
+Un objeto excesivamente amplio dificulta el control registral y debilita el principio de especialidad.
+---
+
+# Artículo 11, inciso 4  
+**Capital social y aportes**
+
+El instrumento constitutivo debe expresar:
+
+- el capital social en moneda argentina;
+- el aporte de cada socio.
+
+El capital representa jurídicamente el valor nominal de los aportes comprometidos.
+
+No debe confundirse con el patrimonio social.
+
+**Capital**
+
+- cifra estable;
+- surge del contrato;
+- solo cambia mediante procedimientos legales.
+
+**Patrimonio**
+
+- realidad económica dinámica;
+- aumenta o disminuye;
+- comprende activos y pasivos.
+
+---
+
+# Funciones del capital social
+
+El capital social cumple distintas funciones.
+
+**Función organizativa**
+
+Determina la participación de los socios y sirve como referencia para derechos políticos y económicos.
+
+**Función productiva**
+
+Proporciona recursos iniciales para desarrollar la actividad.
+
+**Función de garantía**
+
+Opera como cifra de retención patrimonial destinada a proteger indirectamente a los acreedores.
+
+**Verón y Nissen** destacan la importancia de preservar la correspondencia entre capital declarado y aportes efectivamente realizados.
+
+---
+
+# Capital social: debate doctrinario
+
+**Vítolo** advierte una tendencia contemporánea a la flexibilización y “difuminación” de la función tradicional del capital social.
+
+Este paradigma se manifiesta en:
+
+- menores exigencias de capital inicial;
+- simplificación de valuaciones;
+- mayor libertad estatutaria;
+- nuevos tipos societarios.
+
+**Nissen** rechaza esa tendencia y sostiene que debilita la protección de terceros.
+
+**Richard** vincula la insuficiencia patrimonial grave con la responsabilidad de socios y administradores cuando la sociedad actúa sin recursos adecuados y causa daños.
+
+---
+
+## ¿Por qué el artículo 11 exige indicar el capital?
+
+La exigencia no responde únicamente a una finalidad contable.
+
+La incorporación del capital al instrumento constitutivo permite:
+
+- conocer la magnitud económica inicial del emprendimiento;
+- determinar la participación de cada socio;
+- controlar la suficiencia patrimonial;
+- facilitar el control registral;
+- brindar información relevante a quienes contratan con la sociedad.
+
+El capital constituye uno de los datos esenciales para valorar la seriedad del proyecto empresario.
+
+---
+
+# Capital e infracapitalización
+
+La infracapitalización aparece cuando los recursos aportados resultan manifiestamente insuficientes para la actividad emprendida.
+
+Debe distinguirse:
+
+**Infracapitalización originaria**
+
+La sociedad nace con recursos inadecuados para su objeto.
+
+**Infracapitalización sobreviniente**
+
+La insuficiencia aparece durante la vida social como consecuencia de pérdidas o expansión de la actividad.
+
+La insuficiencia de capital no genera automáticamente responsabilidad personal.
+
+Para atribuir responsabilidad deben verificarse:
+
+- conducta antijurídica;
+- daño;
+- relación causal;
+- abuso, fraude o incumplimiento de deberes.
+
+---
+
+# Capital de la SAU
+
+En la sociedad anónima unipersonal el capital debe estar totalmente integrado al momento de la constitución.
+
+La exigencia busca reforzar:
+
+- la realidad del patrimonio inicial;
+- la protección de terceros;
+- la separación entre patrimonio personal y social;
+- la seriedad de la organización unipersonal.
+
+**Verón** critica la diferencia respecto de las sociedades anónimas pluripersonales, en las que los aportes dinerarios pueden integrarse inicialmente en menor proporción.
+
+La discusión enfrenta tutela de terceros y libertad de organización.
+
+---
+
+# Artículo 11, inciso 5  
+**Plazo de duración**
+
+El contrato debe establecer un plazo de duración determinado.
+
+La exigencia brinda certidumbre respecto de la vigencia de la organización.
+
+El plazo permite conocer:
+
+- hasta cuándo se mantiene el vínculo;
+- cuándo debe resolverse la prórroga;
+- cuándo podría operar la disolución;
+- qué expectativas pueden tener socios y terceros.
+
+La sociedad puede ser prorrogada conforme al procedimiento legal y contractual aplicable.
+
+---
+
+# Omisión o indeterminación del plazo
+
+El plazo no puede quedar formulado de manera completamente indeterminada dentro del régimen típico.
+
+La ausencia de una cláusula esencial puede impedir que la sociedad produzca plenamente los efectos correspondientes al tipo elegido.
+
+En las sociedades comprendidas en la Sección IV, la duración y la disolución se someten a reglas más flexibles.
+
+La exigencia del artículo 11 responde a una finalidad de seguridad jurídica, no a una preferencia abstracta por sociedades de duración breve.
+
+---
+
+# Artículo 11, inciso 6  
+**Administración, fiscalización y reuniones**
+
+El instrumento debe establecer las reglas conforme a las cuales funcionarán:
+
+- la administración;
+- la fiscalización;
+- las reuniones de socios.
+
+Estas cláusulas configuran la estructura orgánica de la sociedad.
+
+Deben determinar, según el tipo:
+
+- quién administra;
+- cómo se designan y remueven administradores;
+- cómo se adoptan decisiones;
+- qué mayorías se requieren;
+- cómo se controla la gestión.
+
+La ausencia de reglas claras puede generar parálisis y conflictos internos.
+
+---
+
+# La doctrina del órgano
+
+Los administradores no actúan como simples mandatarios de los socios.
+
+Actúan como integrantes de un órgano de la persona jurídica.
+
+La doctrina orgánica permite explicar que:
+
+- la actuación se imputa directamente a la sociedad;
+- la competencia proviene de la ley y del contrato;
+- los administradores tienen deberes propios;
+- la sociedad conserva continuidad aunque cambien sus integrantes.
+
+El artículo 11 obliga a diseñar desde el origen la estructura mediante la cual la persona jurídica formará y exteriorizará su voluntad.
+
+---
+
+# Reuniones a distancia
+
+El artículo 158 del Código Civil y Comercial admite reuniones de órganos mediante medios que permitan a los participantes comunicarse simultáneamente.
+
+La cláusula constitutiva puede regular:
+
+- plataformas autorizadas;
+- mecanismos de identificación;
+- conservación de grabaciones;
+- firma de actas;
+- forma de cómputo de mayorías;
+- participación desde distintas jurisdicciones.
+
+La virtualidad no elimina los requisitos de convocatoria, deliberación, información y documentación de las decisiones.
+
+---
+
+## ¿Qué controla el Registro respecto de la organización?
+
+El control registral comprende también las reglas de funcionamiento interno.
+
+Entre otros aspectos verifica:
+
+- competencia de los órganos;
+- forma de designación y remoción;
+- régimen de mayorías;
+- convocatoria;
+- quórum;
+- representación;
+- mecanismos de fiscalización.
+
+La finalidad consiste en asegurar que la sociedad pueda formar y exteriorizar válidamente su voluntad.
+
+---
+
+# Artículo 11, inciso 7  
+**Utilidades y pérdidas**
+
+El contrato debe establecer las reglas para distribuir utilidades y soportar pérdidas.
+
+Si no existe previsión específica, se aplican las proporciones correspondientes a los aportes.
+
+La participación en resultados constituye una consecuencia esencial del vínculo societario.
+
+Debe diferenciarse:
+
+- utilidad de la sociedad;
+- utilidad distribuible;
+- dividendo del socio;
+- pérdida contable;
+- responsabilidad del socio por deudas sociales.
+
+Soportar pérdidas no significa necesariamente responder personalmente frente a terceros.
+
+---
+
+# Artículo 13 y cláusulas leoninas
+
+La autonomía contractual encuentra un límite en el artículo 13 LGS.
+
+Son nulas las cláusulas que:
+
+- excluyen a un socio de las ganancias;
+- lo liberan totalmente de las pérdidas;
+- atribuyen todos los beneficios a uno o algunos socios;
+- aseguran la restitución íntegra del aporte con un beneficio garantizado;
+- desnaturalizan la participación común en el riesgo.
+
+La nulidad recae sobre la estipulación leonina y procura preservar la esencia del contrato societario.
+
+---
+
+# Artículo 11, inciso 8  
+**Derechos y obligaciones de los socios**
+
+El contrato puede incluir las cláusulas necesarias para precisar los derechos y obligaciones de los socios entre sí y frente a la sociedad.
+
+Los derechos pueden clasificarse en:
+
+**Patrimoniales**
+
+- participación en utilidades;
+- cuota de liquidación;
+- transmisión de la participación;
+- preferencia y acrecer cuando correspondan.
+
+**Políticos o parapolíticos**
+
+- voto;
+- información;
+- participación en reuniones;
+- impugnación de decisiones;
+- control de la gestión.
+
+La regulación contractual debe respetar las normas imperativas del tipo.
+
+---
+
+# Deberes de los socios
+
+Junto con sus derechos, los socios asumen deberes derivados de:
+
+- la ley;
+- el contrato;
+- la buena fe;
+- el interés social.
+
+Entre ellos:
+
+- cumplir los aportes;
+- abstenerse de competir cuando corresponda;
+- actuar lealmente;
+- no obstaculizar abusivamente el funcionamiento;
+- respetar las decisiones válidamente adoptadas;
+- informar situaciones de conflicto.
+
+La autonomía de la voluntad permite precisar estos deberes, pero no eliminar los deberes esenciales derivados del vínculo societario.
+
+---
+
+# Artículo 11, inciso 9  
+**Funcionamiento, disolución y liquidación**
+
+El instrumento debe contener las cláusulas necesarias para establecer:
+
+- el funcionamiento de la sociedad;
+- las causales y mecanismos de disolución;
+- el procedimiento de liquidación.
+
+La previsión anticipada reduce conflictos cuando la organización atraviesa:
+
+- vencimiento del plazo;
+- imposibilidad de cumplir el objeto;
+- pérdidas patrimoniales;
+- decisión de los socios;
+- conflictos graves;
+- otras causales legales o contractuales.
+
+La disolución no extingue inmediatamente la personalidad jurídica.
+
+---
+
+# Liquidación de la sociedad
+
+Durante la liquidación, la personalidad subsiste para cumplir una finalidad específica:
+
+- concluir operaciones pendientes;
+- realizar el activo;
+- cancelar el pasivo;
+- confeccionar balances;
+- distribuir el remanente.
+
+El contrato puede prever:
+
+- quién actuará como liquidador;
+- cómo será designado;
+- qué facultades tendrá;
+- cómo se rendirán cuentas;
+- cómo se distribuirá la cuota de liquidación.
+
+Estas cláusulas permiten ordenar jurídicamente la etapa final de la sociedad.
+
+---
+
+# El artículo 11 como sistema
+
+El artículo 11 no reúne requisitos aislados.
+
+Diseña jurídicamente todo el ciclo de vida de la sociedad:
+
+```{mermaid}
+flowchart LR
+    A[Socios] --> B[Identidad]
+    B --> C[Objeto]
+    C --> D[Capital]
+    D --> E[Organización]
+    E --> F[Resultados]
+    F --> G[Derechos y deberes]
+    G --> H[Disolución]
+    H --> I[Liquidación]

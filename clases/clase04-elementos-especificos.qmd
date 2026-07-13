@@ -1,0 +1,662 @@
+---
+title: "Clase 4 — Elementos especificos"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+## Los elementos específicos del contrato de sociedad
+
+Los elementos generales permiten afirmar que existe un contrato válido.
+
+Los **elementos específicos** permiten afirmar que ese contrato reúne las notas características exigidas por el derecho societario para ser calificado como una sociedad.
+
+No toda comunidad de intereses constituye una sociedad.
+
+No toda copropiedad constituye una sociedad.
+
+No toda organización patrimonial constituye una sociedad.
+
+Como señala **Ricardo Nissen**, los elementos específicos son aquellos que permiten diferenciar el contrato de sociedad de otros negocios jurídicos que también implican una organización patrimonial o una comunidad de intereses.
+
+La jurisprudencia también ha destacado que del artículo 1 de la Ley General de Sociedades surgen los elementos que caracterizan la existencia misma del fenómeno societario.
+
+Tradicionalmente la doctrina identifica como elementos específicos:
+
+- el fondo común;
+- los aportes;
+- la participación en utilidades y pérdidas;
+- la *affectio societatis*.
+
+Estos institutos explican por qué la sociedad constituye una categoría autónoma dentro del derecho privado.
+
+---
+
+## La función de los elementos específicos
+
+Los elementos específicos cumplen una función tipificante.
+
+Mientras los elementos generales son comunes a todos los contratos, los elementos específicos permiten distinguir el contrato de sociedad de otras figuras jurídicas próximas, tales como:
+
+- el condominio;
+- la comunidad hereditaria;
+- ciertos contratos asociativos;
+- las simples comunidades de intereses.
+
+La existencia de una organización patrimonial no basta para afirmar que existe una sociedad.
+
+Es necesario verificar la concurrencia de aquellos elementos que la Ley General de Sociedades considera propios del fenómeno societario.
+
+> **Nissen:** los elementos específicos son los que otorgan identidad al contrato de sociedad y permiten diferenciarlo de otros negocios jurídicos asociativos.
+
+---
+
+## El fondo común
+
+El fondo común constituye la consecuencia inmediata de los aportes realizados por los socios.
+
+Mediante ellos se forma un patrimonio inicial destinado exclusivamente al desarrollo de la actividad prevista en el objeto social.
+
+El fondo común representa el primer soporte económico de la empresa organizada y constituye el presupuesto necesario para el nacimiento del patrimonio social.
+
+No se trata simplemente de una suma de bienes.
+
+Los bienes aportados dejan de integrar el patrimonio individual de los socios para incorporarse al patrimonio de un sujeto de derecho distinto.
+
+> **Nissen** sostiene que el fondo común constituye el presupuesto patrimonial indispensable para que la sociedad pueda actuar como sujeto de derecho autónomo.
+
+---
+
+## Fondo común, aportes y capital social
+
+Estos conceptos se encuentran estrechamente vinculados, pero no son equivalentes.
+
+### Aportes
+
+Constituyen las prestaciones patrimoniales asumidas por los socios.
+
+↓
+
+### Fondo común
+
+Se integra con los aportes efectivamente realizados.
+
+↓
+
+### Capital social
+
+Representa jurídicamente el valor nominal de los aportes comprometidos en el contrato constitutivo.
+
+↓
+
+### Patrimonio social
+
+Comprende la totalidad de bienes, derechos y obligaciones de la sociedad y evoluciona durante toda su existencia.
+
+> El fondo común constituye el punto de partida del patrimonio social, mientras que el capital social representa una cifra jurídica relativamente estable.
+
+---
+
+## La función económica del capital social
+
+El capital social no constituye un conjunto de bienes.
+
+Es una cifra jurídica que cumple diversas funciones dentro del régimen societario.
+
+Entre ellas:
+
+- organizar la participación de los socios;
+- determinar determinados derechos políticos y económicos;
+- servir como referencia para la tutela del patrimonio social;
+- brindar una garantía indirecta a los acreedores.
+
+### Richard
+
+Destaca que la adecuada valuación de los aportes resulta esencial porque el capital social continúa cumpliendo una importante función de garantía frente a terceros.
+
+### Vítolo
+
+Advierte una progresiva flexibilización del concepto tradicional de capital social, especialmente en los nuevos tipos societarios, fenómeno que denomina una **"difuminación de la función del capital social"**.
+
+### Nissen
+
+Mantiene una posición crítica frente a esa tendencia y sostiene que la insuficiencia patrimonial puede justificar la responsabilidad de los socios cuando exista infracapitalización abusiva.
+
+---
+
+## Fondo común y condominio
+
+La existencia de un patrimonio integrado por varios titulares no convierte automáticamente esa relación jurídica en una sociedad.
+
+### Condominio
+
+- Existe cotitularidad sobre uno o varios bienes.
+- La finalidad principal es la conservación o el aprovechamiento del bien común.
+- No existe necesariamente una organización empresaria.
+- No hay obligación de participar en utilidades y pérdidas.
+
+### Sociedad
+
+- Existe un patrimonio autónomo.
+- Los bienes se afectan al desarrollo de una actividad económica organizada.
+- Los socios persiguen la obtención de utilidades mediante la explotación de una empresa.
+
+
+### Conclusión
+
+El fondo común constituye uno de los principales criterios para distinguir la sociedad del condominio y de otras formas de comunidad patrimonial.
+
+---
+
+## Los aportes
+
+El aporte constituye la prestación fundamental que cada socio asume al celebrar el contrato de sociedad.
+
+Mediante el aporte, el socio contribuye a la formación del fondo común indispensable para el desarrollo de la actividad social.
+
+Sin aportes no existe sociedad.
+
+La obligación de aportar distingue al socio de otras personas vinculadas con la sociedad, como los administradores, trabajadores o acreedores.
+
+### Nissen
+
+El aporte constituye la obligación esencial asumida por el socio y representa la manifestación patrimonial de su incorporación al contrato de sociedad.
+
+---
+
+## El aporte como obligación jurídica
+
+El aporte no consiste simplemente en entregar un bien.
+
+Con la celebración del contrato nace una **obligación jurídica** a cargo del socio.
+
+La prestación puede consistir en:
+
+- dar una cosa;
+- transmitir un derecho;
+- realizar una prestación de hacer, cuando el tipo societario lo permita.
+
+En consecuencia, el aporte constituye una obligación exigible cuyo incumplimiento genera las responsabilidades previstas por la Ley General de Sociedades.
+
+> El aporte es una obligación; la entrega del bien constituye su cumplimiento.
+>
+---
+
+## Aporte e integración
+
+Estos conceptos no deben confundirse.
+
+| Aporte | Integración |
+|---------|-------------|
+| Es la obligación asumida por el socio. | Es el cumplimiento efectivo de esa obligación. |
+| Nace con el contrato. | Se produce mediante la entrega del bien o derecho comprometido. |
+| Tiene naturaleza obligacional. | Tiene efectos patrimoniales. |
+
+Esta distinción resulta particularmente importante en las sociedades por acciones, donde la ley admite la integración parcial de determinados aportes al momento de la constitución.
+
+---
+
+## Finalidad de los aportes
+
+Los aportes cumplen múltiples funciones dentro del contrato de sociedad.
+
+Entre ellas:
+
+- formar el fondo común;
+- dotar a la sociedad de un patrimonio inicial;
+- permitir el desarrollo del objeto social;
+- distribuir la participación de los socios;
+- servir de base para determinar derechos económicos y políticos.
+
+Los aportes no constituyen un fin en sí mismos.
+
+Representan el instrumento mediante el cual la sociedad obtiene los recursos necesarios para desarrollar la actividad económica prevista en su objeto.
+
+---
+
+## ¿Qué puede aportarse?
+
+Como regla general pueden aportarse todos los bienes y derechos susceptibles de valoración económica.
+
+Entre otros:
+
+- dinero;
+- bienes muebles;
+- inmuebles;
+- créditos;
+- derechos de propiedad intelectual;
+- marcas;
+- patentes;
+- establecimientos comerciales.
+
+La admisibilidad de determinados aportes dependerá del tipo societario elegido y de las normas específicas de la Ley General de Sociedades.
+
+---
+
+## Prestaciones de hacer
+
+No todos los tipos societarios admiten aportes consistentes en prestaciones de hacer.
+
+En las sociedades de personas, la actividad o trabajo personal del socio puede constituir un aporte válido.
+
+En cambio, en las sociedades de responsabilidad limitada y en las sociedades por acciones rige un criterio mucho más estricto, privilegiándose los aportes susceptibles de valoración patrimonial inmediata.
+
+La razón de esta diferencia reside en la función de garantía que cumple el capital social frente a terceros.
+
+---
+
+## Requisitos de los aportes
+
+La Ley General de Sociedades exige que todo aporte reúna determinadas condiciones.
+
+En términos generales, el bien o derecho aportado debe ser:
+
+- susceptible de valoración económica;
+- transmisible a la sociedad;
+- útil para el cumplimiento del objeto social.
+
+Estos requisitos responden a la función económica del aporte: integrar el patrimonio social y servir de garantía frente a terceros.
+
+No cualquier bien puede ser objeto de aporte, sino únicamente aquellos que puedan incorporarse válidamente al patrimonio de la sociedad.
+
+---
+
+## Valuación de los aportes
+
+Todo aporte debe ser valuado.
+
+La valuación cumple una doble función:
+
+### Función interna
+
+Permite determinar:
+
+- la participación de cada socio;
+- la proporción en las utilidades;
+- el peso relativo de cada aporte dentro del patrimonio social.
+
+### Función externa
+
+Protege a los terceros, evitando la sobrevaloración del capital social y garantizando que éste refleje razonablemente el patrimonio efectivamente incorporado a la sociedad.
+
+La importancia de la valuación aumenta significativamente en las sociedades de responsabilidad limitada y en las sociedades por acciones, donde el capital social cumple una función de garantía.
+
+---
+
+## Incumplimiento del aporte
+
+La obligación de aportar constituye una obligación contractual.
+
+En consecuencia, el socio que no cumple incurre en incumplimiento y puede ser compelido al cumplimiento o responder por los daños ocasionados.
+
+Dependiendo del tipo societario y de las circunstancias del caso, el incumplimiento puede dar lugar a:
+
+- mora del socio;
+- ejecución del aporte comprometido;
+- exclusión del socio, cuando corresponda;
+- indemnización de los daños y perjuicios causados a la sociedad.
+
+La falta de cumplimiento compromete la formación del patrimonio social y puede afectar el normal desarrollo de la actividad empresaria.
+
+---
+
+## Garantía de evicción y vicios
+
+Cuando el aporte consiste en bienes determinados, el socio no sólo debe entregarlos.
+
+También responde por su legitimidad y aptitud.
+
+En consecuencia, resultan aplicables, en lo pertinente, las reglas generales sobre:
+
+- evicción;
+- vicios ocultos;
+- saneamiento.
+
+Si el bien aportado presenta defectos que disminuyen sustancialmente su utilidad o si el aportante no era titular del derecho transmitido, la sociedad podrá ejercer las acciones correspondientes contra el socio aportante.
+
+### Finalidad
+
+Proteger la integridad del patrimonio social y asegurar que los aportes respondan efectivamente al valor comprometido.
+
+---
+
+## Síntesis sobre los aportes
+
+El aporte constituye la obligación patrimonial fundamental del socio.
+
+Mediante su cumplimiento:
+
+- se forma el fondo común;
+- nace el patrimonio inicial de la sociedad;
+- se determina la participación de cada socio;
+- se posibilita el desarrollo del objeto social.
+
+Sin aportes no existe empresa organizada ni puede alcanzarse la finalidad económica perseguida por los socios.
+
+Por ello, la doctrina considera al aporte como uno de los elementos específicos esenciales del contrato de sociedad.
+
+---
+
+## Aportes, capital y patrimonio
+
+En el lenguaje corriente estos conceptos suelen utilizarse como sinónimos.
+
+Desde el punto de vista jurídico y contable, sin embargo, expresan realidades completamente distintas.
+
+### Aporte
+
+Es la prestación que cada socio se obliga a realizar en favor de la sociedad.
+
+### Capital social
+
+Es la cifra jurídica que representa el valor nominal de los aportes comprometidos por los socios.
+
+### Patrimonio
+
+Es el conjunto de bienes, derechos y obligaciones pertenecientes a la sociedad en un momento determinado.
+
+La correcta diferenciación de estos conceptos resulta indispensable para comprender el régimen del capital social y de los estados contables.
+
+---
+
+## El aporte
+
+El aporte constituye la obligación principal del socio.
+
+Su cumplimiento permite formar el fondo común indispensable para el funcionamiento de la sociedad.
+
+El aporte puede consistir en:
+
+- dinero;
+- bienes;
+- derechos;
+- prestaciones de hacer, cuando la ley lo permita.
+
+Una vez efectuado, el bien deja de pertenecer al patrimonio del socio e ingresa al patrimonio de la sociedad.
+
+> **Idea central:** el aporte pertenece al socio; una vez cumplido, pasa a integrar el patrimonio social.
+>
+---
+
+## El capital social
+
+El capital social no es un conjunto de bienes.
+
+Tampoco es dinero depositado en una cuenta bancaria.
+
+El capital es una **cifra jurídica**, establecida en el contrato constitutivo, que expresa el valor nominal de los aportes comprometidos por los socios.
+
+Cumple diversas funciones:
+
+- organiza la participación de los socios;
+- sirve como parámetro para determinados derechos políticos y económicos;
+- constituye una garantía indirecta para los acreedores;
+- opera como referencia para diversas decisiones societarias.
+
+### Nissen
+
+El capital constituye una cifra estable que no varía con los resultados del ejercicio, salvo mediante los procedimientos previstos por la ley.
+
+---
+
+## El patrimonio social
+
+El patrimonio comprende la totalidad de los bienes, derechos y obligaciones pertenecientes a la sociedad.
+
+A diferencia del capital social, el patrimonio es dinámico.
+
+Aumenta o disminuye permanentemente como consecuencia de:
+
+- ganancias;
+- pérdidas;
+- incorporación de nuevos bienes;
+- pago de deudas;
+- adquisición de activos;
+- variaciones del mercado.
+
+En consecuencia, el patrimonio nunca permanece estático durante la vida de la sociedad.
+
+---
+
+## Diferencias fundamentales
+
+| Aporte | Capital | Patrimonio |
+|---------|----------|------------|
+| Obligación del socio. | Cifra jurídica. | Universalidad jurídica. |
+| Se cumple mediante la entrega del bien. | Surge del contrato constitutivo. | Surge de la actividad de la sociedad. |
+| Forma el fondo común. | Organiza la estructura patrimonial. | Refleja la situación económica real. |
+| Pertenece inicialmente al socio. | Permanece relativamente estable. | Cambia todos los días. |
+
+### Esquema
+
+Socio → **Aporte** → Sociedad
+
+Aportes → **Capital social**
+
+Actividad económica → **Patrimonio**
+
+---
+
+## Caso práctico
+
+Tres socios constituyen una sociedad.
+
+- Socio A aporta $50.000.000.
+- Socio B aporta un inmueble valuado en $80.000.000.
+- Socio C aporta maquinaria valuada en $20.000.000.
+
+### Al momento de la constitución
+
+Capital social: **$150.000.000**
+
+Patrimonio: **$150.000.000**
+
+### Un año después
+
+La sociedad obtiene ganancias por $40.000.000.
+
+Capital social: **$150.000.000**
+
+Patrimonio: **$190.000.000**
+
+### Conclusión
+
+El patrimonio aumentó.
+
+El capital permaneció inalterado.
+
+Esta diferencia explica por qué ambos conceptos no pueden utilizarse como sinónimos.
+
+---
+
+## Participación en utilidades y pérdidas
+
+La participación en las utilidades y en las pérdidas constituye uno de los elementos específicos del contrato de sociedad.
+
+No basta con efectuar aportes ni con organizar una empresa.
+
+Para que exista sociedad es indispensable que los socios participen, en la forma convenida, de los resultados de la actividad social.
+
+Este principio aparece expresamente en el artículo 1 de la Ley General de Sociedades y constituye uno de los rasgos distintivos del fenómeno societario.
+
+La participación comprende tanto los beneficios obtenidos por la sociedad como el riesgo inherente al desarrollo de la empresa.
+
+> **Nissen** sostiene que la vocación de participar en utilidades y soportar pérdidas constituye una manifestación esencial de la causa-fin del contrato de sociedad.
+>
+---
+
+## ¿Qué significa participar en las utilidades?
+
+Participar en las utilidades no significa que los socios tengan derecho automático a percibir dinero.
+
+La sociedad desarrolla una actividad económica.
+
+Como consecuencia de ella puede obtener:
+
+- ganancias;
+- pérdidas;
+- o resultados neutros.
+
+Sólo cuando exista una utilidad distribuible y el órgano competente disponga su distribución nacerá el derecho individual del socio al dividendo.
+
+### Consecuencia
+
+No debe confundirse:
+
+- utilidad;
+- ganancia;
+- dividendo.
+
+Cada concepto responde a una etapa distinta del funcionamiento económico de la sociedad.
+
+---
+
+## Utilidad y dividendo
+
+Estos conceptos suelen utilizarse indistintamente, pero poseen significados diferentes.
+
+### Utilidad
+
+Es el beneficio económico obtenido por la sociedad luego del cierre del ejercicio y la confección de los estados contables.
+
+Pertenece inicialmente a la sociedad.
+
+### Dividendo
+
+Es la parte de esa utilidad cuya distribución aprueba el órgano competente en favor de los socios.
+
+Sólo a partir de ese momento nace un crédito individual del socio frente a la sociedad.
+
+### Conclusión
+
+Toda utilidad puede transformarse en dividendo.
+
+No toda utilidad será necesariamente distribuida.
+
+---
+
+## ¿Qué puede ocurrir con la utilidad?
+
+Una vez aprobado el balance, la utilidad puede tener distintos destinos.
+
+Puede:
+
+- distribuirse entre los socios;
+- destinarse a reservas legales;
+- destinarse a reservas facultativas;
+- aplicarse a compensar pérdidas anteriores;
+- afectarse a otros destinos previstos por la ley o el contrato.
+
+Por ello, la obtención de ganancias por parte de la sociedad no implica automáticamente el nacimiento del derecho al dividendo.
+
+---
+
+## Del resultado al dividendo
+
+```{mermaid}
+flowchart LR
+
+A[Actividad económica] --> B[Resultado del ejercicio]
+
+B --> C{¿Existe utilidad?}
+
+C -->|No| D[Pérdida]
+
+C -->|Sí| E[Estados contables]
+
+E --> F[Reserva legal]
+
+F --> G[Reservas facultativas]
+
+G --> H[Utilidad distribuible]
+
+H --> I[Dividendo]
+```
+
+La utilidad constituye un resultado contable.
+
+El dividendo constituye un derecho patrimonial del socio nacido de una decisión societaria.
+
+---
+
+## Participación en las pérdidas
+
+La participación en las pérdidas constituye el correlato necesario de la participación en las utilidades.
+
+Quien pretende beneficiarse con el éxito de la empresa debe asumir también el riesgo derivado de su fracaso.
+
+Esta regla explica por qué la exclusión absoluta de un socio de las pérdidas resulta incompatible con la esencia misma del contrato de sociedad.
+
+La distribución de las pérdidas podrá efectuarse conforme al contrato constitutivo, siempre que se respeten los límites establecidos por la Ley General de Sociedades.
+
+---
+
+## El artículo 13 LGS y el pacto leonino
+
+El artículo 13 declara nulas determinadas cláusulas del contrato social por resultar incompatibles con la esencia del contrato de sociedad.
+
+Entre ellas se encuentran aquellas que:
+
+- excluyen a un socio de toda participación en las ganancias;
+- lo liberan totalmente de soportar las pérdidas;
+- atribuyen todas las utilidades a uno o algunos socios.
+
+Estas estipulaciones reciben tradicionalmente la denominación de **pacto leonino**.
+
+La nulidad alcanza únicamente a la cláusula y no necesariamente al contrato en su totalidad.
+
+---
+
+## ¿Por qué se prohíbe el pacto leonino?
+
+La prohibición responde a la propia naturaleza del contrato de sociedad.
+
+Si uno de los socios queda completamente excluido de las ganancias o de las pérdidas, desaparece uno de los elementos esenciales del negocio jurídico asociativo.
+
+### Halperín
+
+La participación en los resultados constituye una consecuencia natural del riesgo asumido por quienes integran la organización societaria.
+
+### Nissen
+
+La supresión absoluta de ese riesgo desnaturaliza el contrato y justifica la nulidad prevista por el artículo 13 de la Ley General de Sociedades.
+
+---
+
+## Caso práctico
+
+Tres personas constituyen una SRL.
+
+El contrato establece:
+
+- Socio A: participa del 100 % de las utilidades.
+- Socio B: participa únicamente de las pérdidas.
+- Socio C: no participa ni en utilidades ni en pérdidas.
+
+### Preguntas
+
+1. ¿Es válida la cláusula?
+2. ¿Qué dispone el artículo 13 LGS?
+3. ¿La nulidad alcanza a toda la sociedad o solamente a la estipulación?
+4. ¿Qué finalidad persigue esta prohibición?

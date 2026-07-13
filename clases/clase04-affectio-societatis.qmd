@@ -1,0 +1,175 @@
+---
+title: "Clase 4 — Affectio Societatis"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# La affectio societatis
+
+## Concepto
+
+Tradicionalmente, la doctrina ha considerado a la *affectio societatis* como uno de los elementos característicos del contrato de sociedad.
+
+No se trata de un sentimiento de amistad, afecto o confianza entre los socios.
+
+Consiste en la **voluntad jurídica de colaborar activamente en la consecución del fin social**, subordinando el interés individual al interés común de la empresa.
+
+Como explica **Alberto Víctor Verón**, la *affectio societatis* representa una voluntad de unión desde el punto de vista económico, dirigida a obtener ganancias y soportar las pérdidas derivadas de la actividad social.
+
+> La affectio societatis supone una disposición jurídica de colaboración y no un vínculo afectivo entre los socios.
+>
+---
+
+## Affectio societatis e intuitu personae
+
+Aunque suelen confundirse, la *affectio societatis* y el *intuitu personae* responden a conceptos distintos.
+
+### Affectio societatis
+
+- Voluntad de colaborar para alcanzar el fin social.
+- Tiene contenido funcional.
+- Se vincula con la organización de la empresa.
+
+### Intuitu personae
+
+- La persona del socio resulta determinante para la constitución o permanencia de la sociedad.
+- Predomina la confianza personal.
+- Es característico de las sociedades personalistas y de muchas sociedades de familia.
+
+### Verón
+
+En determinadas sociedades anónimas cerradas o familiares puede predominar el *intuitu personae*, sin que ello implique identificar ambos conceptos.
+
+---
+
+## La concepción clásica
+
+La doctrina tradicional consideró durante décadas que la *affectio societatis* constituía un elemento esencial del contrato de sociedad.
+
+Esta postura entiende que la sociedad supone:
+
+- voluntad permanente de colaboración;
+- coordinación de esfuerzos;
+- subordinación del interés individual al interés común;
+- vocación de permanencia de la organización.
+
+Desde esta perspectiva, la *affectio societatis* explica por qué la sociedad constituye una organización y no un simple intercambio de prestaciones.
+
+---
+
+## La posición de Ricardo Nissen
+
+Ricardo Nissen define la *affectio societatis* como la predisposición de los socios a actuar coordinadamente en beneficio del interés común de la sociedad.
+
+Sin embargo, rechaza identificar este concepto con una situación permanente de armonía.
+
+Las discrepancias, los conflictos e incluso los enfrentamientos entre socios son fenómenos normales dentro de una organización empresaria.
+
+Por ello, la desaparición de la cordialidad no implica, por sí sola, la desaparición de la *affectio societatis*.
+
+---
+
+## ¿La falta de affectio societatis disuelve la sociedad?
+
+Para Nissen, la respuesta es negativa.
+
+La mera pérdida de la *affectio societatis* **no constituye una causal autónoma de disolución**.
+
+Tampoco basta para justificar la exclusión de un socio.
+
+Lo jurídicamente relevante son las conductas derivadas de esa situación.
+
+Por ejemplo:
+
+- incumplimiento de deberes sociales;
+- obstrucción sistemática del funcionamiento de los órganos;
+- abuso del derecho;
+- violación del deber de buena fe.
+
+La exclusión o responsabilidad del socio se fundamentará en esos incumplimientos y no en la simple desaparición de la voluntad de colaboración.
+
+---
+
+## La crisis de la affectio societatis
+
+Parte de la doctrina contemporánea cuestiona que la *affectio societatis* continúe siendo un elemento autónomo del contrato de sociedad.
+
+### Horacio Roitman
+
+Sostiene que las funciones tradicionalmente atribuidas a este instituto pueden explicarse mediante otros principios jurídicos:
+
+- buena fe;
+- cumplimiento contractual;
+- deber de lealtad;
+- interés social.
+
+En consecuencia, propone abandonar la *affectio societatis* como requisito independiente del contrato de sociedad.
+
+---
+
+## La sociedad anónima unipersonal (SAU)
+
+La incorporación de la SAU por la Ley 26.994 reabrió completamente este debate.
+
+Si existe un único socio, desaparece toda posibilidad de una voluntad colectiva de colaboración.
+
+### Verón
+
+Califica como "irrisorio" hablar de *affectio societatis* cuando sólo existe un socio.
+
+### Nissen
+
+Coincide en que la sociedad unipersonal demuestra que la personalidad jurídica no depende necesariamente de una comunidad de personas sino de un recurso técnico previsto por el ordenamiento jurídico.
+
+---
+
+
+## Affectio societatis y participación en las pérdidas
+
+Efraín H. Richard vincula la *affectio societatis* con uno de los principios fundamentales del contrato de sociedad.
+
+Quien participa en la empresa debe compartir tanto los beneficios como los riesgos derivados de la actividad.
+
+Por ello, las cláusulas que excluyen totalmente a un socio de las pérdidas (art. 13 LGS) no sólo alteran el equilibrio contractual.
+
+También contradicen la lógica de colaboración y comunidad de riesgos que caracteriza al contrato de sociedad.
+
+---
+
+## Síntesis doctrinaria
+
+| Autor | Posición |
+|--------|----------|
+| **Verón** | Define la *affectio societatis* como voluntad jurídica de colaboración y la distingue del *intuitu personae*. |
+| **Nissen** | Su ausencia no constituye causal autónoma de disolución; lo relevante son las conductas derivadas. |
+| **Roitman** | Considera que ha perdido autonomía y puede ser reemplazada por la buena fe y el cumplimiento contractual. |
+| **Richard** | La vincula con la participación común en el riesgo empresario y la prohibición del pacto leonino. |
+
+### Conclusión
+
+La *affectio societatis* continúa siendo uno de los conceptos más debatidos de la teoría general del derecho societario.
+
+Mientras la doctrina clásica la consideró un elemento esencial del contrato, la evolución legislativa y la incorporación de la sociedad unipersonal han llevado a reinterpretar su alcance y utilidad práctica.
+
