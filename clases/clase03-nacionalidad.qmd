@@ -1,0 +1,181 @@
+---
+title: "Clase 3 — Nacionalidad"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+## ¿Las sociedades tienen nacionalidad?
+
+### Dos grandes posiciones doctrinarias
+
+**Tesis afirmativa**
+- La sociedad posee nacionalidad del mismo modo que las personas humanas.
+- La nacionalidad determina el vínculo con un Estado.
+
+**Tesis negativa (predominante en Argentina)**
+- La sociedad no tiene nacionalidad.
+- Lo relevante es la ley aplicable (lex societatis), el domicilio y el lugar de constitución.
+
+> **Doctrina Irigoyen (1875):**
+>
+> El contrato de sociedad crea un vínculo jurídico de contenido económico, no un vínculo político con el Estado.
+>
+> ---
+>
+> ## Fundamento de la doctrina Irigoyen
+
+La denominada **Doctrina Irigoyen** rechaza atribuir nacionalidad a las sociedades porque:
+
+- la personalidad jurídica es una técnica de organización;
+- el contrato social persigue fines económicos;
+- no existe un vínculo político entre la sociedad y el Estado.
+
+### Consecuencia
+
+El problema jurídico deja de ser:
+
+> "¿Cuál es la nacionalidad?"
+
+y pasa a ser:
+
+> **¿Qué ley rige la existencia y actuación de la sociedad?**
+>
+> ---
+>
+> ## Principales teorías
+
+| Teoría | Punto de conexión |
+|---------|------------------|
+| Constitución | Lugar donde se constituyó la sociedad |
+| Domicilio | Sede real o efectiva |
+| Control | Nacionalidad de quienes controlan la sociedad |
+
+Ninguna de ellas identifica necesariamente la "nacionalidad" de la sociedad.
+
+---
+
+## Teoría de la constitución
+
+Es el criterio adoptado por la LGS.
+
+### Artículo 118
+
+La existencia y forma de la sociedad se rigen por:
+
+> **la ley del lugar de constitución.**
+
+Ventajas
+
+- seguridad jurídica;
+- previsibilidad;
+- estabilidad de las relaciones societarias.
+
+Es la regla general del derecho argentino.
+
+---
+
+## Teoría del domicilio
+
+Sostiene que la ley aplicable debe ser la del:
+
+- domicilio efectivo;
+- sede administrativa;
+- centro real de dirección.
+
+### Finalidad
+
+Evitar:
+
+- domicilios ficticios;
+- sociedades instrumentales;
+- fraude a la ley.
+
+---
+
+## Teoría del control
+
+La sociedad se vincula con el Estado del cual proviene:
+
+- el capital;
+- el poder de decisión.
+
+### Utilidad
+
+No determina la ley societaria.
+
+Se utiliza para:
+
+- inversiones extranjeras;
+- defensa de la competencia;
+- políticas públicas;
+- control estatal.
+
+---
+
+## El sistema argentino
+
+La LGS no habla de nacionalidad.
+
+Utiliza distintos puntos de conexión:
+
+- lugar de constitución;
+- domicilio;
+- sede efectiva;
+- actividad desarrollada en Argentina.
+
+El eje pasa de la nacionalidad a la **lex societatis**.
+
+---
+
+## Sociedades extranjeras
+
+### Artículo 118 LGS
+
+Puede distinguirse entre:
+
+- acto aislado;
+- ejercicio habitual;
+- sucursal;
+- participación en sociedades locales.
+
+La consecuencia jurídica depende de la actividad desarrollada y no de la nacionalidad.
+
+---
+
+## Fraude a la ley
+
+### Artículo 124 LGS
+
+Si una sociedad fue constituida en el extranjero pero:
+
+- tiene sede en Argentina; o
+- su principal objeto se cumple en Argentina,
+
+será considerada sociedad local a los efectos del cumplimiento de la ley argentina.
+
+No interesa la nacionalidad.
+
+Interesa evitar el fraude.
+
