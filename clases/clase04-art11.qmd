@@ -204,7 +204,12 @@ La doctrina y la jurisprudencia distinguen:
 - puede inscribirse separadamente;
 - suele ser fijada o modificada por el órgano de administración cuando el contrato no la incorpora de manera precisa.
 
-El plenario **“Quilpe S.A.”** consolidó esta distinción entre domicilio y sede.
+>El plenario **“Quilpe S.A.”** consolidó esta distinción entre domicilio y sede.
+>"El contrato social o estatuto puede limitarse a expresar la ciudad o población en que la sociedad
+>tiene su domicilio, si los socios no quieren que la dirección constituya una
+>cláusula contractual. Pero el juez sólo ordenará la inscripción en el Registro si la
+>dirección precisa (calle y número) del domicilio social figura en el contrato o
+>estatuto o instrumento separado que se presenta al tiempo de inscribir la sociedad".
 
 ---
 

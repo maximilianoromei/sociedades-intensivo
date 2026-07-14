@@ -1,0 +1,229 @@
+---
+title: "Clase 5 — Nulidades objeto societario"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# El objeto social y las nulidades
+
+El objeto social debe ser:
+
+- lícito;
+- posible;
+- preciso;
+- determinado.
+
+La Ley General de Sociedades distingue tres situaciones diferentes:
+
+1. sociedad con **objeto ilícito** (art. 18);
+2. sociedad con **objeto lícito que desarrolla actividad ilícita** (art. 19);
+3. sociedad con **objeto prohibido en razón del tipo** (art. 20).
+
+Aunque los tres supuestos conducen a la nulidad o disolución, responden a fundamentos distintos y producen consecuencias parcialmente diferentes.
+
+---
+
+# Artículo 18
+## Sociedad de objeto ilícito
+
+Existe objeto ilícito cuando la actividad prevista en el contrato es contraria al ordenamiento jurídico.
+
+La ilicitud se encuentra presente desde el nacimiento de la sociedad.
+
+### Ejemplos
+
+- tráfico de estupefacientes;
+- contrabando;
+- explotación de juegos clandestinos;
+- comercialización ilícita de armas.
+
+La ilicitud recae sobre el propio objeto social.
+
+---
+
+# Consecuencias del artículo 18
+
+La sociedad es:
+
+- nula de nulidad absoluta.
+
+Los socios:
+
+- no pueden invocar la existencia de la sociedad;
+- no pueden reclamar restitución de aportes;
+- no pueden exigir utilidades;
+- no pueden reclamar contribución a las pérdidas.
+
+En cambio,
+
+los terceros de buena fe sí pueden invocar la existencia de la sociedad frente a los socios.
+
+---
+
+# Liquidación
+
+Declarada la nulidad:
+
+- el juez designará al liquidador;
+- se realizará el activo;
+- se cancelará el pasivo;
+- se indemnizarán los daños ocasionados.
+
+### Remanente
+
+A diferencia del régimen general,
+
+el remanente **no se distribuye entre los socios**.
+
+Ingresa al patrimonio del Estado para el fomento de la educación común de la jurisdicción correspondiente.
+
+---
+
+# Responsabilidad
+
+Los socios,
+
+los administradores,
+
+y quienes hubieren actuado como tales,
+
+responden:
+
+- ilimitadamente;
+- solidariamente;
+
+por:
+
+- el pasivo social;
+- los perjuicios ocasionados.
+
+La ley agrava la responsabilidad como consecuencia de haber constituido una sociedad con un objeto prohibido por el ordenamiento jurídico.
+
+---
+
+# Artículo 19
+## Sociedad de objeto lícito con actividad ilícita
+
+Aquí el objeto social es perfectamente válido.
+
+Lo ilícito aparece durante la ejecución de la actividad.
+
+### Ejemplo
+
+Objeto:
+
+> Comercialización de productos electrónicos.
+
+Actividad desarrollada:
+
+> Contrabando.
+
+El contrato es inicialmente válido.
+
+La ilicitud aparece posteriormente en la actuación de la sociedad.
+
+---
+
+# Consecuencias del artículo 19
+
+La sociedad será:
+
+- disuelta;
+- liquidada.
+
+Se aplican, en principio, las consecuencias del artículo 18.
+
+### Diferencia fundamental
+
+Los socios que acrediten haber actuado de buena fe quedan excluidos:
+
+- de la pérdida del remanente;
+- de la responsabilidad agravada prevista para quienes participaron en la actividad ilícita.
+
+---
+
+# Artículo 20
+## Objeto prohibido en razón del tipo
+
+No existe aquí una actividad ilícita.
+
+La actividad puede ser perfectamente lícita.
+
+Lo prohibido es que ese tipo societario desarrolle esa actividad.
+
+### Ejemplo
+
+Una sociedad colectiva constituida para realizar una actividad reservada legalmente a una sociedad anónima.
+
+La incompatibilidad surge del tipo elegido.
+
+---
+
+# Comparación
+
+| Art. 18 | Art. 19 | Art. 20 |
+|----------|----------|----------|
+| Objeto ilícito | Objeto lícito | Objeto lícito |
+| La ilicitud existe desde la constitución | La ilicitud aparece durante la actividad | La prohibición deriva del tipo societario |
+| Nulidad absoluta | Disolución y liquidación | Nulidad absoluta |
+| Remanente al Estado | Buena fe puede excluir ciertas sanciones | Remanente conforme a la liquidación común |
+
+---
+
+# Esquema final
+
+```{mermaid}
+flowchart TD
+
+A[Objeto social]
+
+A --> B[Ilícito]
+
+A --> C[Lícito]
+
+B --> D[Art.18]
+
+C --> E[Actividad ilícita]
+
+C --> F[Objeto prohibido por el tipo]
+
+E --> G[Art.19]
+
+F --> H[Art.20]
+```
+
+### Recordar
+
+**Art. 18**
+
+La ilicitud está en el contrato.
+
+**Art. 19**
+
+La ilicitud está en la actividad.
+
+**Art. 20**
+
+La ilicitud está en el tipo societario elegido.

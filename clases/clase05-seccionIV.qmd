@@ -1,0 +1,763 @@
+---
+title: "Clase 5 — Seccion IV"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Las sociedades de la Sección IV
+
+Hasta la reforma introducida por la Ley 26.994, la Ley General de Sociedades distinguía claramente entre:
+
+- sociedades regularmente constituidas;
+- sociedades irregulares;
+- sociedades de hecho.
+
+La irregularidad era concebida como una situación anómala.
+
+El sistema tenía un marcado carácter sancionatorio: quien no cumplía las exigencias legales perdía buena parte de los beneficios del régimen societario y quedaba sometido a un sistema de responsabilidad especialmente severo.
+
+La reforma modificó completamente esa concepción.
+
+Hoy ya no se habla de sociedades irregulares o de hecho como categorías autónomas, sino de **sociedades comprendidas en la Sección IV del Capítulo I de la LGS**.
+
+---
+
+# El régimen anterior
+
+Antes de la Ley 26.994 coexistían dos categorías principales:
+
+## Sociedades irregulares
+
+Aquellas constituidas conforme a un tipo legal, pero que no habían cumplido con la inscripción registral.
+
+## Sociedades de hecho
+
+Aquellas que funcionaban como sociedad sin haberse instrumentado conforme a ninguno de los tipos previstos por la ley.
+
+Ambas compartían un régimen severo de responsabilidad de los socios y una limitada oponibilidad del contrato social.
+
+---
+
+# Críticas al régimen anterior
+
+La doctrina cuestionó durante muchos años el régimen sancionatorio.
+
+Se señalaba que:
+
+- la falta de inscripción no justificaba desconocer la personalidad jurídica;
+- el sistema privilegiaba la sanción por sobre la conservación de la empresa;
+- la responsabilidad solidaria e ilimitada no siempre guardaba relación con la gravedad del incumplimiento.
+
+Autores como Daniel Vítolo, Rafael Manóvil y Efraín Richard propiciaban abandonar el modelo sancionatorio para reconocer plenamente la personalidad de estas organizaciones.
+
+---
+
+# La reforma de la Ley 26.994
+
+La reforma abandona definitivamente la lógica sancionatoria.
+
+Desaparecen las categorías de:
+
+- sociedad irregular;
+- sociedad de hecho.
+
+En su lugar, la ley reúne todos estos supuestos bajo una única regulación:
+
+## Sección IV del Capítulo I de la Ley General de Sociedades
+
+El cambio no es meramente terminológico.
+
+Implica una modificación profunda de la filosofía del sistema.
+
+---
+
+# Del sistema sancionatorio al sistema de reconocimiento
+
+## Antes
+
+"No cumplió con la ley."
+
+↓
+
+"No accede a los beneficios."
+
+↓
+
+"Responde con mayor rigor."
+
+---
+
+## Después de la Ley 26.994
+
+"La sociedad existe."
+
+↓
+
+"Posee personalidad jurídica."
+
+↓
+
+"Se aplican reglas especiales de funcionamiento."
+
+La falta de inscripción deja de ser concebida como una conducta merecedora de sanción.
+
+---
+
+# ¿Qué comprende la Sección IV?
+
+La Sección IV no regula un único tipo societario.
+
+Comprende diversas situaciones en las cuales la sociedad no reúne todos los requisitos exigidos para funcionar como una sociedad típica regularmente constituida.
+
+Por ello suele afirmarse que constituye un **régimen residual** o **de cierre** dentro de la Ley General de Sociedades.
+
+Toda sociedad que no pueda quedar comprendida plenamente dentro del régimen de un tipo legal determinado puede terminar sometida a las reglas de esta Sección.
+
+---
+
+# Artículo 21 LGS
+
+El artículo 21 dispone:
+
+> "La sociedad que no se constituya con sujeción a los tipos del Capítulo II, que omita requisitos esenciales o que incumpla con las formalidades exigidas por esta ley, queda sometida a las disposiciones de esta Sección."
+
+La norma identifica tres grandes supuestos:
+
+- sociedades no constituidas conforme a un tipo legal;
+- omisión de requisitos esenciales;
+- incumplimiento de formalidades legales.
+
+---
+
+# ¿Qué sociedades comprende el artículo 21?
+
+Podemos distinguir tres categorías.
+
+### 1. Sociedades atípicas
+
+No adoptan ninguno de los tipos previstos por la LGS.
+
+---
+
+### 2. Sociedades con defectos esenciales
+
+Omiten alguno de los requisitos exigidos por la ley.
+
+---
+
+### 3. Sociedades con defectos formales
+
+No cumplen con las formalidades necesarias para acceder al régimen de la sociedad regularmente constituida.
+
+Todas ellas quedan sujetas al mismo régimen jurídico previsto por la Sección IV.
+
+---
+
+# ¿Qué cambió con la reforma?
+
+La Ley 26.994 no se limitó a modificar algunos artículos.
+
+Cambió el paradigma del régimen de las sociedades informales.
+
+## Régimen anterior
+
+La falta de inscripción o de adecuación al tipo legal implicaba una situación anómala.
+
+La ley reaccionaba agravando la responsabilidad de los socios y restringiendo los efectos del contrato.
+
+## Régimen actual
+
+La sociedad continúa siendo reconocida como sujeto de derecho.
+
+La falta de inscripción o de tipicidad no determina su inexistencia, sino la aplicación de un régimen jurídico especial.
+
+La consecuencia ya no es la sanción, sino la aplicación de las reglas de la Sección IV.
+
+---
+
+# ¿Por qué desaparece el régimen sancionatorio?
+
+La reforma parte de una premisa distinta.
+
+La personalidad jurídica no depende de la inscripción.
+
+Depende de la existencia de una organización destinada a desarrollar una actividad común.
+
+Por ello, aun cuando la sociedad no reúna todos los requisitos del tipo legal, continúa siendo considerada una persona jurídica.
+
+La inscripción deja de ser el presupuesto de la personalidad para convertirse, principalmente, en un requisito de regularidad y oponibilidad.
+
+---
+
+# Personalidad jurídica en la Sección IV
+
+Uno de los cambios más importantes de la reforma consiste en reconocer personalidad jurídica a las sociedades comprendidas en la Sección IV.
+
+La discusión que durante años dividió a la doctrina pierde gran parte de su relevancia a partir de la entrada en vigencia del Código Civil y Comercial.
+
+Actualmente:
+
+- el artículo 2 de la LGS dispone que la sociedad es sujeto de derecho;
+- el artículo 148 del CCyC reconoce personalidad jurídica a las personas jurídicas privadas;
+- la Sección IV regula el funcionamiento de estas sociedades, pero no niega su personalidad.
+
+La reforma desplaza el debate desde la existencia de la persona jurídica hacia el régimen aplicable a su actuación.
+
+---
+
+# La posición de la doctrina
+
+### Daniel Vítolo
+
+La reforma abandona definitivamente el criterio sancionatorio y reconoce personalidad jurídica a las sociedades comprendidas en la Sección IV.
+
+---
+
+### Ricardo Nissen
+
+Critica la excesiva flexibilización del sistema.
+
+Entiende que la desaparición de las sanciones disminuye los incentivos para la constitución regular de las sociedades.
+
+---
+
+### Efraín Richard
+
+La personalidad jurídica no puede depender exclusivamente del cumplimiento de requisitos registrales.
+
+Lo relevante es la existencia de una organización patrimonial destinada al desarrollo de una actividad común.
+
+---
+
+# ¿La Sección IV crea un nuevo tipo societario?
+
+No.
+
+La Sección IV **no incorpora un nuevo tipo de sociedad**.
+
+Tampoco regula una "sociedad de la Sección IV".
+
+Lo que establece es **un régimen jurídico aplicable a distintas sociedades** que, por diversas razones, no quedan comprendidas plenamente dentro de un tipo legal.
+
+En consecuencia:
+
+- la Sección IV no constituye un tipo societario;
+- constituye un régimen residual aplicable a múltiples supuestos.
+
+---
+
+# Consecuencia práctica
+
+Una sociedad comprendida en la Sección IV:
+
+✔ tiene personalidad jurídica.
+
+✔ puede adquirir derechos.
+
+✔ puede contraer obligaciones.
+
+✔ puede ser titular de bienes.
+
+✔ puede actuar en juicio.
+
+Lo que cambia no es su existencia.
+
+Lo que cambia es **el régimen de relaciones internas, de representación, de responsabilidad y de oponibilidad**, regulado específicamente en los artículos 21 a 26 de la LGS.
+
+---
+
+# Artículo 22 LGS  
+## Régimen aplicable entre los socios
+
+El contrato social puede ser invocado entre los socios.
+
+La reforma abandona el criterio anterior, según el cual el contrato de una sociedad irregular o de hecho tenía una eficacia interna muy restringida.
+
+Actualmente, los socios pueden oponer entre sí las cláusulas pactadas respecto de:
+
+- aportes;
+- administración;
+- distribución de utilidades;
+- participación en pérdidas;
+- transmisión de participaciones;
+- disolución;
+- liquidación;
+- demás derechos y obligaciones internas.
+
+### Consecuencia
+
+La sociedad comprendida en la Sección IV no funciona necesariamente al margen de su contrato.
+
+El acuerdo conserva eficacia entre quienes lo celebraron.
+
+---
+
+# Artículo 22 LGS  
+## Oponibilidad frente a terceros
+
+El contrato también puede ser invocado frente a terceros cuando se acredita que éstos lo conocían efectivamente al momento de contratar o de nacer la relación obligatoria.
+
+La regla protege la buena fe.
+
+### Si el tercero conocía el contrato
+
+La sociedad y los socios pueden oponerle sus cláusulas.
+
+### Si el tercero no lo conocía
+
+No corresponde imponerle limitaciones internas que no fueron publicitadas ni conocidas.
+
+> La falta de inscripción no elimina el contrato, pero condiciona su oponibilidad frente a terceros.
+>
+---
+
+# Artículo 22 LGS  
+## El tercero frente al contrato social
+
+El tercero puede invocar el contrato contra:
+
+- la sociedad;
+- los socios;
+- los administradores;
+- los representantes.
+
+La norma evita que quienes integran una sociedad informal desconozcan su propia organización cuando ello perjudica a un tercero.
+
+### Asimetría protectoria
+
+La sociedad no puede beneficiarse de su propia falta de publicidad.
+
+Por eso, el tercero puede invocar el contrato aunque la sociedad no pueda oponérselo si aquél no lo conocía.
+
+---
+
+# Artículo 22 LGS  
+## Ejemplo práctico
+
+Tres socios pactan internamente que sólo uno de ellos puede celebrar contratos superiores a $10.000.000.
+
+Otro socio celebra una operación por $20.000.000.
+
+### Supuesto 1
+
+El tercero conocía la limitación.
+
+La sociedad puede oponerle el contrato.
+
+### Supuesto 2
+
+El tercero desconocía la limitación y actuó de buena fe.
+
+La sociedad no puede utilizar una cláusula interna no publicitada para evitar las consecuencias del acto.
+
+---
+
+# Artículo 23 LGS  
+## Representación de la sociedad
+
+Cualquiera de los socios representa a la sociedad exhibiendo el contrato.
+
+Esta regla opera salvo que el propio contrato establezca una organización diferente.
+
+El artículo reconoce una solución práctica para sociedades que no cuentan con una estructura orgánica plenamente inscripta.
+
+### Fundamento
+
+Permitir que la sociedad actúe en el tráfico jurídico sin negar eficacia a su organización interna.
+
+---
+
+# Artículo 23 LGS  
+## Limitaciones a la representación
+
+Las cláusulas relativas a la representación pueden oponerse al tercero cuando éste conocía su contenido.
+
+Por lo tanto, vuelve a aparecer la misma lógica del artículo 22:
+
+- conocimiento del tercero;
+- buena fe;
+- eficacia del contrato;
+- protección del tráfico jurídico.
+
+### Idea central
+
+La falta de inscripción no convierte necesariamente en irrelevantes las reglas internas.
+
+Su eficacia externa depende del conocimiento efectivo del tercero.
+
+---
+
+# Artículo 23 LGS  
+## Administración
+
+Las relaciones entre los socios respecto de la administración se rigen por el contrato.
+
+Esto permite establecer:
+
+- administración conjunta;
+- administración indistinta;
+- administración a cargo de uno o varios socios;
+- mayorías especiales;
+- actos que requieren autorización previa.
+
+Si no existe una regulación contractual clara, aumenta el riesgo de conflictos internos y de incertidumbre frente a terceros.
+
+---
+
+# Artículo 23 LGS  
+## Bienes registrables
+
+La sociedad puede adquirir bienes registrables.
+
+Para hacerlo debe acreditar ante el Registro:
+
+- su existencia;
+- las facultades de su representante;
+- la voluntad de adquirir el bien;
+- la proporción en que participan los socios.
+
+La adquisición debe instrumentarse mediante un acto de reconocimiento de la sociedad y de sus integrantes.
+
+---
+
+# Artículo 23 LGS  
+## Acto de reconocimiento
+
+El acto de reconocimiento permite individualizar:
+
+- la sociedad;
+- los socios;
+- la participación de cada uno;
+- el representante;
+- el bien adquirido.
+
+Debe instrumentarse conforme a las exigencias correspondientes al bien registrable.
+
+### Finalidad
+
+Evitar que la falta de inscripción societaria impida a la sociedad ser titular de:
+
+- inmuebles;
+- automotores;
+- buques;
+- aeronaves;
+- otros bienes sujetos a registración.
+
+---
+
+# Artículo 23 LGS  
+## Prueba de la sociedad
+
+La existencia de la sociedad puede probarse por cualquier medio.
+
+La reforma abandona una visión excesivamente formalista.
+
+Pueden utilizarse, entre otros:
+
+- contratos;
+- correspondencia;
+- comprobantes;
+- registros contables;
+- transferencias bancarias;
+- facturas;
+- testimonios;
+- comportamiento de las partes.
+
+La valoración debe considerar la realidad económica y la conducta desarrollada por quienes actuaron como socios.
+
+---
+
+# Artículo 23 LGS  
+## Caso práctico
+
+Dos personas explotan conjuntamente un comercio.
+
+No existe contrato escrito.
+
+Ambas:
+
+- aportaron dinero;
+- tomaron decisiones;
+- contrataron empleados;
+- distribuyeron utilidades;
+- utilizaron una cuenta bancaria común.
+
+### Pregunta
+
+¿Puede probarse la existencia de la sociedad?
+
+Sí.
+
+El artículo 23 admite cualquier medio probatorio apto para demostrar la organización y la actuación societaria.
+
+---
+
+# Artículo 24 LGS  
+## Responsabilidad frente a terceros
+
+El artículo 24 establece como regla que los socios responden frente a terceros:
+
+- como obligados simplemente mancomunados;
+- por partes iguales.
+
+La solidaridad o una proporción diferente sólo resultará cuando surja de:
+
+- una estipulación expresa aplicable a una relación determinada;
+- una cláusula del contrato social;
+- las reglas del tipo que los socios manifestaron adoptar.
+
+La norma reemplaza la antigua solidaridad legal por un sistema basado en la mancomunación.
+
+---
+
+# Artículo 24 LGS  
+## Mancomunación por partes iguales
+
+La obligación simplemente mancomunada se divide entre los socios.
+
+Si no existe una estipulación diferente, cada uno responde por una parte igual.
+
+### Ejemplo
+
+Deuda frente a un tercero: $12.000.000
+
+Cuatro socios.
+
+Participación legal frente al tercero:
+
+- Socio A: $3.000.000
+- Socio B: $3.000.000
+- Socio C: $3.000.000
+- Socio D: $3.000.000
+
+El acreedor no puede exigir el total a uno solo por la sola aplicación del artículo 24.
+
+---
+
+# Artículo 24 LGS  
+## Excepciones a la regla general
+
+La mancomunación por partes iguales cede cuando existe:
+
+### Estipulación relativa a una relación concreta
+
+Los socios pueden asumir solidaridad frente a una operación determinada.
+
+### Cláusula del contrato social
+
+El contrato puede establecer solidaridad o proporciones diferentes.
+
+### Aplicación de las reglas del tipo adoptado
+
+Si los socios manifestaron adoptar un tipo, pueden resultar aplicables sus reglas de responsabilidad cuando correspondan.
+
+La ley reconoce así un amplio espacio a la autonomía de la voluntad.
+
+---
+
+# Artículo 25 LGS
+## La subsanación
+
+La Ley 26.994 abandona definitivamente la idea de que las sociedades de la Sección IV deban desaparecer o regularizarse compulsivamente.
+
+En su lugar, incorpora un mecanismo de **subsanación**, destinado a permitir que la sociedad adecue su situación jurídica y acceda al régimen de las sociedades regularmente constituidas.
+
+La finalidad del instituto es favorecer la continuidad de la empresa y preservar la organización creada por los socios.
+
+---
+
+# ¿Qué significa subsanar?
+
+Subsanar significa remover la causa que determina la aplicación de la Sección IV.
+
+La subsanación puede consistir, por ejemplo, en:
+
+- adoptar uno de los tipos previstos por la LGS;
+- completar requisitos esenciales omitidos;
+- cumplir las formalidades legales pendientes;
+- obtener la inscripción registral cuando corresponda.
+
+El objetivo es que la sociedad pase a quedar sometida plenamente al régimen del tipo elegido.
+
+---
+
+# ¿Quién puede pedir la subsanación?
+
+El artículo 25 reconoce legitimación a cualquiera de los socios.
+
+La decisión no requiere necesariamente la iniciativa conjunta de todos ellos.
+
+De este modo, la ley procura evitar que la voluntad obstructiva de uno de los socios impida la regularización de la sociedad.
+
+La solución refleja una clara orientación hacia la conservación de la empresa.
+
+---
+
+# La decisión de subsanar
+
+La subsanación requiere el acuerdo de los socios en las condiciones previstas por la ley.
+
+Cuando existan discrepancias, cualquiera de ellos puede promover el procedimiento correspondiente.
+
+La intervención judicial aparece como un mecanismo destinado a superar los conflictos internos y facilitar la continuidad de la sociedad.
+
+---
+
+# El derecho de receso
+
+La ley protege también al socio que no desea continuar bajo el nuevo régimen.
+
+Por ello reconoce el **derecho de receso**.
+
+El socio disidente puede separarse de la sociedad y exigir el reembolso del valor de su participación.
+
+La subsanación no puede imponerse sacrificando injustificadamente la posición patrimonial del socio que no presta su consentimiento.
+
+---
+
+# ¿Cómo se determina el valor de la participación?
+
+Cuando el socio ejerce el derecho de receso, corresponde determinar el valor de su parte social.
+
+Si no existe acuerdo entre las partes, dicha valuación podrá realizarse por los mecanismos previstos legalmente o mediante pericia judicial.
+
+El objetivo consiste en evitar que la salida del socio implique un enriquecimiento indebido para alguno de los restantes integrantes.
+
+---
+
+# La finalidad del artículo 25
+
+El artículo 25 refleja uno de los principios centrales incorporados por la reforma.
+
+La prioridad ya no consiste en sancionar la informalidad.
+
+La prioridad consiste en:
+
+- preservar la empresa;
+- facilitar la regularización;
+- proteger a los terceros;
+- respetar los derechos de los socios.
+
+La subsanación aparece como un instrumento de conservación y no de castigo.
+
+---
+
+# La subsanación y el principio de conservación
+
+La incorporación del artículo 25 responde a un cambio de paradigma.
+
+El régimen anterior privilegiaba la sanción.
+
+El régimen vigente privilegia la continuidad de la organización empresaria.
+
+La subsanación constituye una manifestación del principio de conservación de la empresa, procurando evitar la desaparición de organizaciones económicamente viables por el solo incumplimiento de requisitos formales.
+
+---
+
+# La posición de Daniel Vítolo
+
+Para Vítolo, la reforma abandona definitivamente la concepción sancionatoria del régimen anterior.
+
+La subsanación debe interpretarse de manera amplia.
+
+Su finalidad consiste en:
+
+- facilitar la adecuación de la sociedad al régimen general;
+- preservar la empresa;
+- evitar soluciones disvaliosas derivadas de meros incumplimientos formales.
+
+La prioridad deja de ser castigar la informalidad y pasa a ser conservar la organización económica creada por los socios.
+
+---
+
+# La posición de Ricardo Nissen
+
+Nissen mantiene una postura crítica.
+
+Entiende que el régimen anterior incentivaba la constitución regular de las sociedades.
+
+La flexibilización introducida por la Ley 26.994 reduce esos incentivos y aproxima excesivamente el régimen de las sociedades informales al de las regularmente constituidas.
+
+Desde esta perspectiva, la subsanación debilita el efecto preventivo que tradicionalmente cumplía el régimen societario.
+
+---
+
+# El debate sobre la unipersonalidad sobreviniente
+
+Uno de los principales problemas interpretativos aparece cuando una sociedad pluripersonal queda reducida a un único socio.
+
+¿Corresponde considerar que la sociedad ingresa en la Sección IV?
+
+¿Debe transformarse en SAU?
+
+¿Puede mantenerse el tipo originario?
+
+La discusión sobre la subsanación se vincula directamente con estas preguntas y constituye uno de los debates más intensos posteriores a la reforma.
+
+---
+
+# Rafael Manóvil y la unipersonalidad
+
+Manóvil sostiene que la reducción a un solo socio no conduce automáticamente a la desaparición de la sociedad.
+
+La interpretación debe armonizar:
+
+- el artículo 1 LGS;
+- el principio de conservación de la empresa;
+- el régimen de la Sección IV;
+- las soluciones previstas para la subsanación.
+
+La cuestión continúa siendo objeto de intenso debate doctrinario.
+
+---
+
+# Ideas centrales del artículo 25
+
+✔ La subsanación constituye una innovación de la Ley 26.994.
+
+✔ Su finalidad es favorecer la conservación de la empresa.
+
+✔ La regularización deja de ser una sanción para convertirse en una posibilidad.
+
+✔ El instituto procura equilibrar:
+
+- la autonomía de los socios;
+- la seguridad del tráfico;
+- la protección de terceros;
+- la continuidad de la organización empresaria.
+
+La reforma reemplaza un modelo sancionatorio por un modelo de conservación.
+
+---
+
+# Cuadro integrador
+
+| Artículo | Tema | Idea central |
+|----------|------|--------------|
+| 21 | Ámbito de aplicación | Determina qué sociedades quedan sometidas a la Sección IV. |
+| 22 | Contrato | El contrato conserva eficacia entre los socios y puede ser oponible a terceros en determinados supuestos. |
+| 23 | Organización | Regula representación, administración, prueba y adquisición de bienes registrables. |
+| 24 | Responsabilidad | Establece la regla de la mancomunación y sus excepciones. |
+| 25 | Subsanación | Favorece la regularización y la conservación de la empresa. |

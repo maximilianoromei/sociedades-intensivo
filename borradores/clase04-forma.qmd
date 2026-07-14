@@ -1,0 +1,81 @@
+---
+title: "Clase 4 — Causa"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# La forma del contrato de sociedad
+
+La forma constituye otro de los elementos generales del contrato.
+
+En principio, los contratos son no formales, salvo que la ley imponga una forma determinada.
+
+En materia societaria, la Ley General de Sociedades exige determinados recaudos formales cuyo cumplimiento resulta indispensable para producir plenamente los efectos previstos por el ordenamiento.
+
+---
+
+## Forma y tipicidad
+
+La forma cumple múltiples funciones.
+
+No solamente exterioriza la voluntad de los socios.
+
+También permite:
+
+- identificar el tipo societario elegido;
+- controlar la legalidad del contrato;
+- acceder a la publicidad registral;
+- proteger a terceros.
+
+Por ello la forma adquiere una importancia mucho mayor que en los contratos civiles comunes.
+
+---
+
+## Instrumento constitutivo
+
+Toda sociedad nace mediante un acto constitutivo instrumentado conforme a las exigencias legales.
+
+Ese instrumento contendrá posteriormente las cláusulas exigidas por el artículo 11 de la Ley General de Sociedades, cuyo análisis será desarrollado en la próxima clase.
+
+En consecuencia, la forma constituye el vehículo mediante el cual se exterioriza el contrato de sociedad.
+
+---
+
+## Forma e inscripción
+
+No debe confundirse:
+
+- celebración del contrato;
+- instrumentación;
+- inscripción registral.
+
+La inscripción no integra la forma del contrato.
+
+Constituye un requisito destinado a producir determinados efectos jurídicos previstos por la Ley General de Sociedades.
+
+La sociedad puede existir antes de la inscripción, aunque los efectos frente a terceros variarán según el régimen legal aplicable.
+
+---
+

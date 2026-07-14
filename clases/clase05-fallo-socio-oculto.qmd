@@ -1,0 +1,513 @@
+---
+title: "Clase 5 - FALLO PROTEINSA"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Caso "Proteinsa S.A."
+## ¿Banco acreedor o socio oculto?
+### CNCom., Sala E, 5 de marzo de 2026
+
+---
+
+# ¿Cuál era el conflicto?
+
+Una empresa (Proteinsa S.A.) sostuvo que el Banco BTG Pactual
+**no era un simple acreedor**.
+
+Afirmó que, en realidad, había actuado como un:
+
+- socio inversor,
+- socio oculto,
+- verdadero controlador del negocio.
+
+La consecuencia jurídica era trascendente:
+
+👉 si era socio, no podía presentarse al concurso como acreedor privilegiado.
+
+---
+
+# Contexto económico
+
+Todo comienza con la quiebra de:
+
+## Rasic Hnos. S.A.
+
+(ex Cresta Roja)
+
+Una de las mayores empresas avícolas del país.
+
+La quiebra puso en riesgo:
+
+- miles de puestos de trabajo;
+- la continuidad de la producción;
+- una unidad productiva de enorme valor.
+
+---
+
+# La solución judicial
+
+El juzgado concursal decidió mantener en funcionamiento
+la empresa.
+
+Primero mediante un fideicomiso de administración.
+
+Luego permitió que determinadas empresas privadas
+constituyeran una nueva sociedad para adquirir
+la unidad productiva.
+
+Así nació:
+
+# PROTEINSA S.A.
+
+---
+
+# ¿Quiénes integraban Proteinsa?
+
+Proteinsa fue constituida por empresas del sector agroindustrial.
+
+Su finalidad era:
+
+✔ adquirir los activos de Rasic
+
+✔ continuar la explotación
+
+✔ preservar las fuentes laborales
+
+Pero existía un problema.
+
+No tenía dinero suficiente para comprar la empresa.
+
+---
+
+# La necesidad de financiamiento
+
+Para poder comprar los activos,
+Proteinsa necesitaba aproximadamente
+
+**USD 35.000.000**
+
+Entonces apareció un nuevo actor:
+
+# Banco BTG Pactual
+
+(Brasil)
+
+---
+
+# ¿Qué hizo BTG?
+
+BTG estructuró el financiamiento.
+
+No entregó inicialmente el dinero en forma directa.
+
+Emitió una
+
+**Stand By Letter of Credit**
+
+que permitió que bancos argentinos
+otorgaran el préstamo.
+
+Posteriormente también realizó préstamos directos.
+
+---
+
+# Las garantías
+
+Para obtener esos créditos,
+Proteinsa otorgó:
+
+- hipotecas;
+- prendas;
+- fianzas personales;
+- garantías sobre acciones.
+
+BTG quedó fuertemente involucrado
+en toda la operación financiera.
+
+---
+
+# Luego apareció el problema
+
+Proteinsa ingresó en concurso preventivo.
+
+BTG pidió verificar:
+
+- un crédito superior a USD 44 millones;
+- otro crédito superior a USD 20 millones;
+- otros créditos menores.
+
+Invocó privilegio hipotecario.
+
+---
+
+# ¿Qué respondió Proteinsa?
+
+La concursada sostuvo que BTG
+
+NO era un verdadero acreedor.
+
+Dijo que en realidad era:
+
+- un inversor;
+- un socio oculto;
+- un socio controlador.
+
+Y que pretendía presentarse
+como acreedor para cobrar antes
+que los restantes acreedores.
+
+---
+
+# ¿Por qué decía eso?
+
+Porque BTG:
+
+- financió toda la operación;
+- exigía garantías;
+- controlaba desembolsos;
+- imponía auditorías;
+- condicionaba decisiones empresarias;
+- participó en la venta posterior de la empresa.
+
+Según Proteinsa,
+todo ello demostraba
+que era mucho más que un banco.
+
+---
+
+# La pregunta jurídica
+
+¿Puede un financista convertirse
+en socio oculto?
+
+¿Alcanza con:
+
+- controlar;
+- financiar;
+- imponer condiciones;
+- exigir auditorías?
+
+¿O hace falta algo más?
+
+---
+
+# La doctrina sobre el socio oculto
+
+La Cámara cita a
+
+## Horacio Roitman
+
+y define al socio oculto como quien:
+
+- no figura en el contrato;
+- niega ser socio;
+- pero participa en la vida social;
+- recibe utilidades;
+- soporta pérdidas;
+- interviene en las decisiones.
+
+---
+
+# ¿Qué caracteriza al verdadero socio?
+
+La Cámara recuerda que el status socii supone:
+
+✔ aportes
+
+✔ participación en utilidades
+
+✔ participación en pérdidas
+
+✔ derechos políticos
+
+✔ derecho de voto
+
+✔ integración a la organización societaria
+
+No alcanza cualquier influencia económica.
+
+---
+
+# Análisis del caso
+
+La Cámara examinó toda la prueba.
+
+Verificó que BTG:
+
+✔ financió
+
+✔ exigió garantías
+
+✔ supervisó
+
+✔ protegió su inversión
+
+Pero...
+
+---
+
+# Lo que NO encontró la Cámara
+
+No existía prueba de que BTG:
+
+❌ fuera accionista
+
+❌ hubiera realizado aportes de capital
+
+❌ tuviera derecho a voto
+
+❌ participara en asambleas
+
+❌ designara administradores
+
+❌ recibiera dividendos
+
+❌ soportara pérdidas como socio
+
+---
+
+# Diferencia fundamental
+
+La Cámara distingue dos conceptos.
+
+## Control contractual
+
+Surge de un contrato de financiamiento.
+
+El acreedor impone condiciones
+para proteger el recupero del préstamo.
+
+≠
+
+## Control societario
+
+Supone el ejercicio de derechos propios
+del socio.
+
+---
+
+# La conclusión
+
+BTG tenía un enorme poder económico.
+
+Pero ese poder derivaba del
+
+## contrato de préstamo
+
+No de la condición de socio.
+
+Su influencia era financiera.
+
+No societaria.
+
+---
+
+# Resolución
+
+La Cámara rechazó el planteo de Proteinsa.
+
+Sostuvo que:
+
+✔ BTG era acreedor.
+
+✔ No era socio oculto.
+
+✔ Los créditos debían verificarse.
+
+✔ Conservaba los privilegios reconocidos.
+
+---
+
+# Considerando destacado
+
+> "No se advierte probado que hubiese tenido
+> los derechos y obligaciones patrimoniales del socio,
+> realizar aportes de capital,
+> participar de las ganancias y pérdidas,
+> ni derechos políticos."
+
+Y agrega:
+
+> "Tampoco existe prueba suficiente
+> que permita sostener que el Banco
+> hubiera ejercido una dirección conjunta
+> con los órganos naturales
+> de administración."
+
+---
+
+# Enseñanzas del fallo
+
+Este precedente enseña que:
+
+✔ financiar una sociedad no convierte al acreedor en socio;
+
+✔ imponer condiciones de control tampoco;
+
+✔ el socio oculto exige la existencia
+de verdaderos atributos del status socii;
+
+✔ debe probarse participación societaria,
+no simplemente influencia económica.
+
+---
+
+# Un planteo previo del Ministerio Público Fiscal
+
+Antes de analizar si BTG era o no un socio oculto,
+la Fiscal General introdujo otra cuestión.
+
+## ¿Podía BTG actuar en Argentina sin inscribirse?
+
+Al tratarse de un banco constituido en Brasil,
+debía analizarse el alcance del art. 118 LGS.
+
+---
+
+# El art. 118 LGS
+
+La Cámara recuerda que el art. 118 distingue dos situaciones:
+
+## Actos aislados
+
+La sociedad extranjera puede realizarlos
+sin necesidad de inscribirse.
+
+## Ejercicio habitual de actividades
+
+Debe inscribirse en la República Argentina
+conforme al tercer párrafo del art. 118 LGS.
+
+La dificultad consiste en determinar
+cuándo un acto deja de ser "aislado".
+
+---
+
+# ¿Qué dijeron la doctrina y la jurisprudencia?
+
+La Cámara cita distintas posiciones.
+
+### Nissen
+
+Interpretación restrictiva.
+
+Solo son actos aislados aquellos
+esporádicos y carentes de permanencia.
+
+### Roitman
+
+No existe un criterio matemático.
+
+Debe analizarse:
+
+- naturaleza del acto;
+- finalidad;
+- efectos jurídicos;
+- contexto de la operación.
+
+También cita el precedente **"Rolyfar"**,
+que negó el carácter de acto aislado
+a una serie de mutuos hipotecarios.
+
+---
+
+# ¿Qué resolvió la Cámara?
+
+La Cámara sostuvo que:
+
+✔ la actuación del Banco BTG
+
+**NO constituía un acto aislado.**
+
+La constitución de varias hipotecas,
+la financiación,
+los desembolsos,
+la percepción de cuotas
+y la continuidad del vínculo
+evidenciaban una actividad permanente.
+
+Por ello,
+en principio,
+correspondía la inscripción prevista
+por el art. 118 LGS.
+
+---
+
+# ¿Por qué igualmente admitió el crédito?
+
+La Cámara realizó una excepción
+fundada en las particularidades del caso.
+
+Destacó que:
+
+- toda la operatoria ocurrió dentro de un proceso concursal;
+- la intervención del banco fue pública;
+- el tribunal conocía su actuación;
+- los acreedores también;
+- la documentación societaria estaba incorporada al expediente.
+
+En consecuencia,
+la finalidad de publicidad perseguida por el art. 118
+ya se encontraba satisfecha.
+
+Exigir la inscripción hubiera importado,
+en este caso,
+
+> **un rigorismo formal excesivo**.
+
+Por ello reconoció legitimación
+al Banco BTG Pactual para verificar su crédito.
+
+---
+
+# Dos enseñanzas del fallo
+
+## Sociedades extranjeras
+
+✔ El concepto de acto aislado debe interpretarse restrictivamente.
+
+✔ La actuación habitual exige,
+como regla,
+la inscripción del art. 118 LGS.
+
+✔ Sin embargo,
+la finalidad de la norma es proteger
+la publicidad y la seguridad jurídica,
+no imponer formalismos irrazonables.
+
+---
+
+## Socio oculto
+
+✔ El control económico
+no convierte al acreedor en socio.
+
+✔ El socio oculto requiere
+verdadera participación societaria.
+
+✔ La influencia contractual
+no equivale al ejercicio
+del status socii.

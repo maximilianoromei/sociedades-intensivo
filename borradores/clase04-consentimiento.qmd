@@ -1,0 +1,95 @@
+---
+title: "Clase 4 — Consentimiento"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# El consentimiento en el contrato de sociedad
+
+El consentimiento constituye uno de los elementos esenciales de todo contrato (arts. 957, 971 y concordantes del Código Civil y Comercial). En materia societaria presenta una particularidad: no se dirige al intercambio de prestaciones contrapuestas, sino a la creación de una organización destinada a desarrollar una actividad económica.
+
+En el contrato de sociedad las voluntades no se enfrentan; concurren hacia un objetivo común. Por ello, la doctrina caracteriza al contrato de sociedad como un **contrato plurilateral de organización**, en el que los intereses de los socios son convergentes y no antagónicos.
+
+La existencia de consentimiento válido constituye un presupuesto indispensable para la formación del vínculo societario y para la creación de la persona jurídica.
+
+---
+
+## El consentimiento en el contrato plurilateral
+
+A diferencia de los contratos de cambio, en los que cada parte procura obtener una prestación de la otra, el contrato de sociedad supone la concurrencia de varias declaraciones de voluntad orientadas a una finalidad común.
+
+Cada socio manifiesta su voluntad de:
+
+- integrar una organización;
+- efectuar un aporte;
+- participar en una actividad económica;
+- compartir utilidades y soportar pérdidas.
+
+### Halperín
+
+La sociedad constituye un contrato de organización en el que las prestaciones de los socios se dirigen a la formación de un patrimonio común y no al intercambio recíproco de prestaciones.
+
+---
+
+## Los vicios del consentimiento
+
+Como todo contrato, el contrato de sociedad puede verse afectado por vicios del consentimiento.
+
+El Código Civil y Comercial regula:
+
+- error;
+- dolo;
+- violencia.
+
+Cuando alguno de estos vicios afecta la voluntad de un socio corresponde analizar si ello determina la nulidad del vínculo individual o compromete la existencia misma de la sociedad.
+
+La respuesta dependerá de la naturaleza del vicio, del momento en que fue advertido y de la posibilidad de conservar la organización societaria.
+
+---
+
+## El principio de conservación de la sociedad
+
+Uno de los rasgos característicos del derecho societario consiste en privilegiar la conservación de la empresa.
+
+Por ello, la existencia de un vicio que afecte el consentimiento de uno de los socios no conduce necesariamente a la nulidad total del contrato.
+
+Siempre que resulte posible preservar la organización sin afectar derechos de terceros, la doctrina y la legislación privilegian soluciones conservatorias por sobre la desaparición del ente.
+
+### Vítolo
+
+La conservación de la sociedad constituye uno de los principios rectores del moderno derecho societario y debe orientar la interpretación de las normas relativas a la invalidez del contrato social.
+
+---
+
+## Conclusiones
+
+El consentimiento en materia societaria presenta características propias:
+
+- constituye una manifestación de voluntad convergente;
+- tiene por finalidad crear una organización permanente;
+- se encuentra sometido a las reglas generales del Código Civil y Comercial;
+- pero su invalidez debe analizarse a la luz de los principios propios del derecho societario, especialmente el principio de conservación de la empresa.
+
+En consecuencia, el estudio del consentimiento no puede agotarse en la teoría general de los contratos, sino que exige considerar la finalidad organizativa del contrato de sociedad.
