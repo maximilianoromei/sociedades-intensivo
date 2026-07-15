@@ -43,884 +43,727 @@ En otras palabras, el socio no adquiere un único derecho, sino un **conjunto de
 
 ---
 
-# El estado de socio como situación jurídica compleja
+# Los socios
 
-La doctrina coincide en que el estado de socio no puede explicarse como un simple derecho de crédito.
+## Concepto
 
-El socio no ocupa la posición de un acreedor frente a la sociedad.
+Vítolo define al socio como **quien, con carácter originario o derivado, resulta titular de una fracción del capital social**, representada por partes de interés, cuotas sociales, acciones o relaciones de hecho. 
 
-Su vínculo es mucho más amplio.
+La condición de socio presenta una doble dimensión:
 
-Comprende simultáneamente:
+- constituye un **vínculo** entre el sujeto y la sociedad;
+- constituye un **estado** que determina el conjunto de derechos y obligaciones derivados de esa condición.
 
-- derechos patrimoniales;
-- derechos políticos;
-- facultades de control;
-- deberes de colaboración;
-- deberes de lealtad;
-- responsabilidades previstas por la ley.
-
-Por ello suele afirmarse que el estado de socio configura una **situación jurídica compleja y de carácter permanente**, cuyo contenido puede modificarse durante la vida de la sociedad.
+No se trata simplemente de ser titular de determinados derechos patrimoniales, sino de ocupar una posición jurídica permanente dentro de la organización societaria.
 
 ---
 
-# El estado de socio y la relación societaria
+# El carácter de socio como vínculo jurídico
 
-La calidad de socio genera una relación jurídica de naturaleza organizativa.
+Según Vítolo, el carácter de socio constituye un **vínculo** porque relaciona al sujeto con la sociedad mediante un conjunto de relaciones jurídicas.
 
-A diferencia de los contratos de cambio, donde las prestaciones se extinguen con el cumplimiento, en el contrato de sociedad la relación jurídica permanece durante toda la existencia de la sociedad.
+Ese vínculo comprende simultáneamente:
 
-El estado de socio se proyecta sobre la totalidad de la vida social y explica por qué el ordenamiento reconoce al socio facultades de participación en la gestión, el control y la formación de la voluntad social.
+- derechos;
+- obligaciones.
 
-No se trata únicamente de un inversor.
+No existe un derecho aislado ni una obligación aislada.
 
-Se trata de un integrante de la organización societaria.
-
----
-
-# Estado de socio y titularidad de la participación
-
-No debe confundirse el estado de socio con el documento o título que representa la participación.
-
-Por ejemplo:
-
-- en una sociedad anónima, la acción representa la participación del socio;
-- en una SRL, esa participación se exterioriza mediante cuotas sociales;
-- en una sociedad colectiva, mediante partes de interés.
-
-Sin embargo, el **estado de socio** no se identifica con esos instrumentos.
-
-La acción, la cuota o la parte de interés son vehículos de transmisión de la participación.
-
-La condición de socio es la posición jurídica que el ordenamiento atribuye a su titular.
+Todos ellos encuentran su fundamento en la condición de socio.
 
 ---
 
-# Caracteres del estado de socio
+# El estado de socio
 
-El estado de socio presenta algunas notas características.
+Además de constituir un vínculo, la condición de socio configura un **estado jurídico**.
 
-## Es personal
+Vítolo señala que dicho estado:
 
-Corresponde al titular de la participación social.
+- coloca al sujeto en una relación jurídica particular con la sociedad;
+- no puede desmembrarse en cada uno de los derechos y obligaciones considerados aisladamente;
+- explica que esos derechos y obligaciones existan precisamente porque el sujeto reviste la calidad de socio;
+- mantiene su vigencia de manera permanente, dinámica e integral. 
 
-## Es dinámico
-
-Su contenido puede modificarse por reformas estatutarias, cambios legislativos o decisiones sociales.
-
-## Es complejo
-
-Comprende un conjunto de derechos, deberes, cargas y responsabilidades.
-
-## Es transmisible
-
-Puede transmitirse en los supuestos y con los límites previstos por la ley y por el contrato social.
+El estado de socio constituye, por lo tanto, la fuente de todos los derechos y obligaciones societarias.
 
 ---
 
-# La posición de la doctrina
+# ¿Cómo se adquiere el estado de socio?
 
-### Tullio Ascarelli
+Vítolo identifica dos formas básicas de adquirir la calidad de socio:
 
-El estado de socio constituye una posición jurídica derivada de la incorporación del individuo a una organización destinada a la consecución de un fin común.
+## Originariamente
 
----
+Participando como socio fundador en el acto constitutivo de la sociedad.
 
-### Isaac Halperín
+## Derivadamente
 
-La sociedad no genera solamente derechos de crédito.
+Incorporándose con posterioridad a la constitución de la sociedad.
 
-Crea una organización permanente dentro de la cual cada socio ocupa una posición jurídica determinada.
+Esta incorporación puede producirse:
 
----
-
-### Ricardo Nissen
-
-La calidad de socio implica la integración a un régimen jurídico complejo compuesto por derechos patrimoniales, derechos políticos, deberes y responsabilidades que encuentran su fundamento en la ley y en el contrato social.
+- por un acto entre vivos;
+- por sucesión mortis causa. 
 
 ---
 
-# Consecuencia práctica
+# Adquisición derivada del estado de socio
 
-Comprender el estado de socio permite explicar numerosos institutos de la Ley General de Sociedades.
+Cuando la incorporación deriva de un acto entre vivos, la calidad de socio puede adquirirse:
 
-A partir de esta condición jurídica se derivan, entre otros:
+- por transmisión de una participación social;
+- por incorporación como consecuencia de un aumento del capital social.
 
-- el derecho de voto;
-- el derecho de información;
-- la percepción de utilidades;
-- el derecho de receso;
-- la exclusión;
-- la transmisión de la participación;
-- la responsabilidad del socio;
-- la actuación de los acreedores particulares.
+En estos supuestos, la adquisición del estado de socio dependerá de:
 
-En consecuencia, muchas de las normas que analizaremos en esta clase regulan, en realidad, los efectos derivados del estado de socio.
+- las disposiciones del contrato social;
+- las reglas propias del tipo societario correspondiente. 
 
 ---
 
-# El interés del socio y el interés social
+# Comienzo de los derechos y obligaciones del socio
 
-Una de las discusiones más importantes del derecho societario consiste en determinar cuál es el interés que debe prevalecer cuando existe conflicto entre los socios, los administradores y la propia sociedad.
+## Artículo 36 LGS
 
-La pregunta es sencilla de formular, pero compleja de responder:
+> **"Los derechos y obligaciones de los socios empiezan desde la fecha fijada en el contrato de sociedad."** 
 
-> **¿La sociedad posee un interés propio distinto del interés individual de sus socios?**
+La norma establece una regla general de gran importancia:
 
-La respuesta a este interrogante condiciona la interpretación de numerosos institutos de la Ley General de Sociedades:
+Los derechos y obligaciones derivados del estado de socio **no nacen necesariamente con la inscripción de la sociedad**, sino desde la fecha que las partes hayan previsto en el contrato constitutivo.
 
-- el ejercicio del derecho de voto;
-- la actuación de los administradores;
-- la responsabilidad del socio controlante;
-- los grupos de sociedades;
-- el abuso de la personalidad jurídica.
-
-Por ello, el concepto de **interés social** constituye uno de los pilares del derecho societario contemporáneo.
+De este modo, la ley reconoce eficacia al acuerdo de los socios para determinar el momento en que comenzarán a desplegarse los efectos internos de la relación societaria.
 
 ---
 
-# ¿Qué es el interés del socio?
+# El fundamento de la solución legal
 
-Todo socio persigue un interés individual al incorporarse a una sociedad.
+Vítolo destaca que el artículo 36 confirma una idea presente desde el origen de la Ley General de Sociedades.
 
-Ese interés puede consistir en:
+La sociedad comienza a actuar desde el acto constitutivo y no recién desde la inscripción registral.
 
-- obtener una renta;
-- participar en una actividad económica;
-- ejercer el control de la sociedad;
-- incrementar el valor de su participación;
-- desarrollar un proyecto empresarial.
+Por ello, los derechos y obligaciones entre los socios pueden comenzar antes de la inscripción cuando así lo disponga el contrato social. 
 
-Ese interés es perfectamente legítimo.
-
-Sin embargo, el hecho de ser socio implica aceptar que ese interés individual debe ejercerse dentro del marco establecido por la ley, el contrato social y el interés de la propia organización.
-
-No todo lo que beneficia a un socio beneficia necesariamente a la sociedad.
+La inscripción continúa siendo esencial para la oponibilidad frente a terceros y para los efectos previstos por la ley, pero ello no impide que la relación interna entre los socios produzca efectos desde un momento anterior.
 
 ---
 
-# ¿Qué entendemos por interés social?
+# Responsabilidad por los actos anteriores
 
-El interés social es el interés propio de la persona jurídica considerada como organización.
+El segundo párrafo del artículo 36 dispone:
 
-No debe identificarse automáticamente con:
+> **"Sin perjuicio de ello responden también de los actos realizados, en nombre o por cuenta de la sociedad, por quienes hayan tenido hasta entonces su representación y administración, de acuerdo con lo que se dispone para cada tipo de sociedad."** 
 
-- el interés de la mayoría;
-- el interés del socio controlante;
-- el interés de un administrador;
-- el interés de un grupo empresario.
+La norma contempla los actos realizados durante la etapa previa al funcionamiento definitivo de la sociedad.
 
-La principal dificultad consiste precisamente en determinar cuál es el contenido concreto de ese interés cuando aparecen conflictos entre los distintos sujetos vinculados a la sociedad.
-
-Esta cuestión ha dado origen a diversas construcciones doctrinarias.
+Se trata de aquellos negocios celebrados para posibilitar la constitución y puesta en marcha del ente.
 
 ---
 
-# La concepción contractualista
+# Interpretación de Vítolo
 
-Para la doctrina contractualista, el interés social surge de la convergencia de los intereses de los socios.
+Según Vítolo, este supuesto comprende los **actos preparatorios y negociales** celebrados antes de la constitución definitiva de la sociedad y destinados a hacer posible su organización y funcionamiento. 
 
-La sociedad es concebida como un contrato plurilateral de organización.
+En estos casos:
 
-En consecuencia, el interés social no constituye un interés autónomo, sino la expresión del interés común perseguido por quienes celebraron el contrato.
+- los socios responden por esos actos;
+- pero la extensión de esa responsabilidad **no es uniforme**.
 
-Autores como **Ascarelli** y **Halperín** parten de esta concepción, aunque con distintos matices.
-
-Desde esta perspectiva, la voluntad de los socios ocupa un lugar central en la vida de la sociedad.
-
----
-
-# La concepción institucional
-
-La teoría institucional sostiene que la sociedad constituye una organización dotada de un interés propio, distinto del interés individual de sus integrantes.
-
-Una vez creada la persona jurídica, ésta adquiere autonomía.
-
-En consecuencia:
-
-- los administradores deben actuar en interés de la sociedad;
-- el ejercicio de los derechos individuales encuentra límites;
-- el voto puede resultar abusivo aun cuando favorezca al socio que lo emite.
-
-Esta concepción explica numerosos institutos modernos del derecho societario, especialmente en materia de responsabilidad y abuso del control.
+La propia ley remite al régimen de responsabilidad correspondiente al tipo societario elegido.
 
 ---
 
-# ¿Existe realmente un interés social?
+# Crítica doctrinaria
 
-La doctrina contemporánea rechaza las respuestas absolutas.
+Vítolo observa que esta solución ha sido **duramente criticada por la doctrina**.
 
-Hoy predomina la idea de que el interés social no puede identificarse exclusivamente con:
+La crítica radica en que la ley **no establece una responsabilidad ilimitada y solidaria** para todos los socios por los actos anteriores a la constitución, sino que remite al régimen propio de cada tipo societario. 
 
-❌ la voluntad de la mayoría;
-
-❌ el interés del socio controlante;
-
-❌ la suma de los intereses individuales.
-
-Tampoco constituye un interés completamente desligado de los socios.
-
-Se trata de un interés funcional, vinculado a la conservación y desarrollo de la empresa organizada bajo la forma societaria.
+Ello ha generado objeciones doctrinarias, ya que esos actos son anteriores al nacimiento pleno de la organización societaria y podrían justificar un régimen uniforme de responsabilidad.
 
 ---
 
-# La posición de Ricardo Nissen
+# Mora en el aporte
 
-Para Nissen, el interés social constituye un interés propio de la sociedad como sujeto de derecho.
+## Artículo 37 LGS
 
-Los administradores no representan al socio que los designó.
+> **El socio que no cumpla con el aporte en las condiciones convenidas incurre en mora por el mero vencimiento del plazo y debe resarcir los daños e intereses. Si no tuviere plazo fijado, el aporte es exigible desde la inscripción de la sociedad.** 
 
-Representan a la sociedad.
+La norma regula las consecuencias del incumplimiento de la principal obligación del socio:
 
-Por ello, aun cuando exista un socio controlante, las decisiones deben orientarse al interés de la persona jurídica y no al beneficio exclusivo de quien ejerce el control.
-
-Esta concepción adquiere especial relevancia en materia de responsabilidad de administradores y controlantes.
+**integrar el aporte comprometido.**
 
 ---
 
-# El interés social como límite al ejercicio de los derechos del socio
+# La mora es automática
 
-El reconocimiento de un interés social autónomo tiene importantes consecuencias prácticas.
+El artículo 37 adopta una solución expresa.
 
-El socio no puede ejercer sus derechos de manera arbitraria o exclusivamente en beneficio propio.
+El socio:
 
-El ejercicio de los derechos sociales encuentra límites en:
-
-- la buena fe (arts. 9 y 10 CCyC);
-- la prohibición del abuso del derecho (art. 10 CCyC);
-- el deber de lealtad hacia la sociedad;
-- el interés social.
-
-En consecuencia, un acto formalmente válido puede resultar ilegítimo si persigue exclusivamente un beneficio individual en perjuicio de la sociedad.
-
-La calidad de socio no confiere un poder absoluto sobre la organización societaria.
+- incurre en mora **por el mero vencimiento del plazo**;
+- no requiere intimación previa;
+- desde ese momento responde por los daños e intereses derivados del incumplimiento. 
+  
+La ley coloca sobre el socio la carga de cumplir oportunamente el aporte comprometido.
 
 ---
 
-# El derecho de voto y el interés social
+# ¿Qué ocurre si no se fijó plazo?
 
-El derecho de voto constituye uno de los principales derechos políticos del socio.
+El propio artículo 37 contempla esa situación.
 
-Sin embargo, no se trata de un derecho absoluto.
+Si el contrato social **no establece un plazo para integrar el aporte**:
 
-La doctrina mayoritaria entiende que el voto debe ejercerse procurando la satisfacción del interés social y no exclusivamente del interés individual del socio.
+- el aporte resulta exigible **desde la inscripción de la sociedad**. 
 
-Por ello, el voto puede ser impugnado cuando:
-
-- constituye un abuso del derecho;
-- persigue un beneficio exclusivamente personal;
-- ocasiona un perjuicio injustificado a la sociedad o a la minoría;
-- configura un supuesto de fraude o desviación de poder.
-
-El interés social opera así como parámetro de control del ejercicio del derecho de voto.
+A partir de ese momento, el incumplimiento produce la mora prevista por la ley.
 
 ---
 
-# El conflicto entre interés individual e interés social
+# Consecuencias de la mora
 
-En la práctica, ambos intereses no siempre coinciden.
+El incumplimiento genera dos efectos inmediatos:
 
-## Ejemplo
+## Responsabilidad resarcitoria
 
-La sociedad atraviesa dificultades económicas.
+El socio debe:
 
-Un socio propone distribuir todas las utilidades obtenidas durante el ejercicio.
+- resarcir los daños;
+- pagar los intereses derivados de la mora.
 
-Desde la perspectiva individual, la decisión resulta beneficiosa para los socios.
+## Sanciones societarias
 
-Sin embargo, desde la perspectiva del interés social, podría ser más conveniente destinar esas ganancias a reservas para fortalecer el patrimonio de la sociedad y asegurar la continuidad de la empresa.
-
-La solución dependerá de cuál de esos intereses deba prevalecer en el caso concreto.
-
----
-
-# El socio controlante
-
-La tensión entre interés individual e interés social adquiere especial importancia cuando existe un socio que ejerce el control de la sociedad.
-
-El control otorga la posibilidad de influir decisivamente en:
-
-- la integración de los órganos sociales;
-- la aprobación de balances;
-- la distribución de utilidades;
-- las reformas estatutarias;
-- las operaciones con sociedades vinculadas.
-
-Precisamente por esa posición de poder, la ley y la doctrina exigen que el socio controlante ejerza sus derechos respetando el interés social y sin abusar de su posición dominante.
-
-El control no constituye un privilegio.
-
-Constituye una fuente de mayores responsabilidades.
+Además del resarcimiento, la ley otorga a la sociedad herramientas específicas frente al socio incumplidor.
 
 ---
 
-# La posición de Eduardo Favier Dubois
+# Opciones de la sociedad
 
-Favier Dubois sostiene que el interés social no puede reducirse al interés económico inmediato de los socios.
+El artículo 37 concede a la sociedad dos alternativas.
 
-La sociedad constituye una organización destinada al desarrollo de una empresa.
+Puede:
 
-Por ello, las decisiones deben evaluarse considerando:
+## Excluir al socio
 
-- la continuidad de la actividad;
-- la conservación del patrimonio social;
-- la protección de los acreedores;
-- la tutela de las minorías;
-- el adecuado funcionamiento de la empresa.
+Sin perjuicio de la reclamación judicial que éste pudiera promover.
 
-Esta visión adquiere especial importancia en los grupos de sociedades y en las modernas estructuras empresariales.
+## Exigir el cumplimiento del aporte
 
----
+Reclamando judicialmente la integración comprometida. 
 
-# Ideas para recordar
-
-✔ El interés del socio y el interés social no siempre coinciden.
-
-✔ El interés social limita el ejercicio de los derechos individuales.
-
-✔ El derecho de voto debe ejercerse de buena fe y conforme al interés de la sociedad.
-
-✔ El socio controlante tiene una especial responsabilidad derivada de su posición de poder.
-
-✔ La noción de interés social constituye uno de los fundamentos del régimen de responsabilidad previsto en el artículo 54 de la LGS.
+La elección corresponde a la sociedad.
 
 ---
 
-# El socio controlante
+# Régimen especial de las sociedades por acciones
 
-La Ley General de Sociedades no define expresamente quién es el socio controlante.
+El último párrafo del artículo 37 dispone:
 
-Sin embargo, el concepto surge de las normas sobre control societario (arts. 33 y ss. LGS) y de la doctrina elaborada en torno a la responsabilidad derivada del ejercicio del poder de decisión.
+> **"En las sociedades por acciones se aplicará el artículo 193."** 
 
-Puede definirse como **aquel socio que posee la posibilidad de determinar, directa o indirectamente, la voluntad social**, ya sea mediante la mayoría de votos o a través de otros mecanismos de influencia dominante.
+En consecuencia, cuando el socio incumplidor sea accionista de una sociedad por acciones, la ley remite al régimen especial previsto para ese tipo societario.
 
-El control puede ejercerse:
-
-- por la titularidad de la mayoría del capital con derecho a voto;
-- mediante acuerdos de sindicación;
-- a través de vínculos de subordinación;
-- por cualquier otro medio que permita imponer las decisiones sociales.
-
-Lo relevante no es únicamente la cantidad de acciones o cuotas, sino la efectiva capacidad de dirección.
+El tratamiento de ese régimen será desarrollado al estudiar la sociedad anónima.
 
 ---
 
-# El poder de control y sus límites
-
-El control constituye una situación jurídica legítima.
-
-El ordenamiento no prohíbe que un socio controle una sociedad.
-
-Por el contrario, reconoce expresamente la existencia de sociedades controlantes y controladas.
-
-Sin embargo, el ejercicio del control encuentra límites.
-
-El socio controlante no puede utilizar su posición dominante para:
-
-- beneficiar exclusivamente su patrimonio;
-- perjudicar injustificadamente a la sociedad;
-- lesionar los derechos de los socios minoritarios;
-- defraudar a los acreedores.
-
-El control genera poder.
-
-Y el poder supone responsabilidad.
-
----
-
-# El abuso del poder de control
-
-No toda decisión adoptada por el socio controlante genera responsabilidad.
-
-La responsabilidad aparece cuando el control se ejerce abusivamente.
-
-Existe abuso, por ejemplo, cuando el controlante:
-
-- desvía el interés social hacia un interés exclusivamente personal;
-- utiliza la sociedad como instrumento para perjudicar a terceros;
-- provoca deliberadamente la insolvencia de la sociedad;
-- utiliza la personalidad jurídica con fines extrasocietarios.
-
-En estos supuestos el problema deja de ser societario para transformarse en un supuesto de abuso del derecho y de utilización indebida de la personalidad jurídica.
-
----
-
-# Relación con el artículo 54 LGS
-
-El artículo 54 constituye la principal herramienta para responsabilizar al socio controlante cuando utiliza abusivamente la sociedad.
-
-No toda situación de control habilita su aplicación.
-
-Es necesario demostrar:
-
-- abuso de la personalidad jurídica;
-- desviación del interés social;
-- fraude a la ley;
-- frustración de derechos de terceros.
-
-Por ello, la condición de controlante no genera responsabilidad por sí sola.
-
-La responsabilidad deriva del ejercicio abusivo de esa posición.
-
----
-
-# La posición de Ricardo Nissen
-
-Nissen sostiene que el socio controlante no puede identificar el interés de la sociedad con su propio interés.
-
-El hecho de controlar la mayoría del capital o de los votos no autoriza a disponer libremente del patrimonio social.
-
-La sociedad constituye un sujeto de derecho distinto de sus integrantes.
-
-Por ello, el control debe ejercerse respetando:
-
-- el interés social;
-- los derechos de las minorías;
-- los derechos de los acreedores;
-- la buena fe.
-
-Cuando ello no ocurre, puede surgir responsabilidad personal del controlante.
-
----
-
-# El socio oculto y el socio aparente
-
-Los artículos 34 y 35 de la Ley General de Sociedades regulan dos figuras tradicionales del derecho societario:
-
-- el socio oculto;
-- el socio aparente o presta nombre.
-
-Ambas tienen un denominador común.
-
-Existe una discordancia entre la realidad y la apariencia respecto de quién reviste la condición de socio.
-
-El legislador procura evitar que esa apariencia perjudique a terceros o sea utilizada para eludir responsabilidades.
-
-Por ello, la ley prohíbe ambas figuras y establece un régimen específico de responsabilidad.
-
----
-
-# El socio oculto
-
-El socio oculto es quien participa realmente en la sociedad, pero permanece deliberadamente fuera de la estructura visible de ésta.
-
-No figura:
-
-- en el contrato social;
-- en el estatuto;
-- en los registros societarios;
-- como titular de acciones o cuotas.
-
-Sin embargo:
-
-- aporta capital;
-- participa de las decisiones;
-- recibe beneficios;
-- influye en la conducción de la sociedad.
-
-Su condición de socio permanece deliberadamente oculta frente a terceros.
-
----
-
-# El socio aparente o presta nombre
-
-La situación inversa es la del socio aparente.
-
-Aquí una persona aparece exteriormente como socio, pero en realidad actúa en beneficio de otro.
-
-Su función consiste en prestar su nombre para ocultar la identidad del verdadero interesado.
-
-Por ello suele denominarse también **prestanombre**.
-
-La apariencia creada puede inducir a error a terceros respecto de quién participa efectivamente en la sociedad.
-
----
-
-# Diferencias
-
-| Socio oculto | Socio aparente |
-|--------------|----------------|
-| Es el verdadero socio. | No es el verdadero interesado. |
-| Permanece oculto. | Aparece frente a terceros. |
-| Dirige o participa realmente en la sociedad. | Presta su nombre para encubrir al verdadero socio. |
-| Procura permanecer invisible. | Genera una apariencia jurídica. |
-
-En ambos casos existe una disociación entre la realidad económica y la apariencia jurídica.
-
----
-
-# Artículo 34 LGS
-
-El artículo 34 dispone:
-
-> "Queda prohibida la actuación societaria del socio aparente o prestanombre y la del socio oculto."
-
-La norma no sanciona la mera existencia de estas figuras.
-
-Lo que prohíbe es su utilización como mecanismo de actuación societaria.
-
-Su finalidad consiste en proteger:
-
-- la transparencia societaria;
-- la seguridad del tráfico;
-- la confianza de los terceros.
-
----
-
-# Artículo 35 LGS
-
-La consecuencia de infringir el artículo 34 aparece prevista en el artículo 35.
-
-El socio oculto y el socio aparente responden:
-
-- subsidiariamente;
-- solidariamente;
-- ilimitadamente;
-
-conforme al régimen previsto para los socios de la sociedad colectiva (art. 125 LGS).
-
-La responsabilidad constituye una consecuencia del uso abusivo de estas figuras para ocultar o distorsionar la verdadera composición subjetiva de la sociedad.
-
----
-
-# ¿Cómo se prueba la existencia de un socio oculto?
-
-La prueba suele presentar especiales dificultades.
-
-Precisamente porque el socio oculto procura permanecer invisible, rara vez existirá prueba directa.
-
-Por ello, la jurisprudencia admite recurrir a la **prueba indiciaria**, valorando conjuntamente circunstancias tales como:
-
-- aportes de dinero;
-- participación en decisiones;
-- instrucciones impartidas a administradores;
-- percepción de utilidades;
-- manejo de cuentas bancarias;
-- documentación comercial;
-- comunicaciones internas.
-
-Ningún indicio suele ser suficiente por sí solo.
-
-La convicción judicial surge de la apreciación conjunta de todos ellos.
-
----
-
-# El socio del socio
-
-El artículo 35 de la Ley General de Sociedades aclara una cuestión fundamental.
-
-El acreedor o el socio de un socio **no adquiere, por ese solo hecho, la calidad de socio de la sociedad**.
-
-La sociedad mantiene una relación jurídica exclusivamente con quienes integran su estructura societaria.
-
-Las relaciones particulares de un socio permanecen, como regla, ajenas a la sociedad.
-
-Esta solución preserva la autonomía patrimonial y organizativa del ente.
-
----
-
-# ¿Quién es el socio del socio?
-
-Se denomina "socio del socio" a quien participa únicamente en los negocios particulares de uno de los integrantes de la sociedad.
-
-## Ejemplo
-
-Pedro es socio de una SRL.
-
-Juan celebra con Pedro un contrato por el cual participará del 50 % de las utilidades que éste obtenga como socio.
-
-### Consecuencia
-
-Juan será socio de Pedro.
-
-Pero **no será socio de la SRL**.
-
-No adquiere ningún vínculo jurídico con la sociedad.
-
----
-
-# Consecuencias jurídicas
-
-El socio del socio:
-
-❌ no integra la sociedad.
-
-❌ no puede votar.
-
-❌ no puede ejercer el derecho de información.
-
-❌ no puede impugnar decisiones sociales.
-
-❌ no participa directamente en las utilidades sociales.
-
-Sus derechos sólo pueden hacerse valer frente al socio con quien celebró el contrato.
-
-La sociedad permanece completamente ajena a esa relación jurídica.
-
----
-
-# Fundamento de la solución
-
-La sociedad constituye una persona jurídica distinta de sus socios.
-
-Por ello, la condición de socio no puede transmitirse indirectamente mediante acuerdos celebrados por uno de sus integrantes.
-
-La incorporación de un nuevo socio requiere observar las reglas previstas por:
-
-- la ley;
-- el contrato social;
-- el tipo societario correspondiente.
-
-El contrato celebrado entre un socio y un tercero carece de aptitud para modificar la composición subjetiva de la sociedad.
-
----
-
-# Cuadro comparativo
-
-| Figura | ¿Es socio de la sociedad? | ¿Tiene derechos societarios? |
-|---------|--------------------------|------------------------------|
-| Socio | Sí | Sí |
-| Socio oculto | Sí (aunque permanezca oculto) | Sí, pero responde conforme al art. 35 cuando se verifica el supuesto legal. |
-| Socio aparente | No actúa como verdadero socio; presta su nombre. | La ley le atribuye responsabilidad frente a terceros. |
-| Socio del socio | No | No. Sólo tiene derechos frente al socio con quien contrató. |
-
-La calidad de socio sólo nace conforme a la ley y al contrato social. No puede adquirirse indirectamente mediante un acuerdo celebrado con uno de los socios.
-
----
-
-# Transmisión del estado de socio
-
-La calidad de socio integra el patrimonio de su titular y, como regla, es susceptible de transmisión.
-
-Sin embargo, el derecho societario no adopta una solución uniforme.
-
-La posibilidad de transmitir la participación dependerá fundamentalmente del tipo societario elegido, ya que no todas las sociedades atribuyen la misma importancia a la persona del socio.
-
-En consecuencia, la transmisibilidad del estado de socio oscila entre dos modelos:
-
-- libre transmisibilidad, propia de las sociedades de capital;
-- transmisibilidad restringida, característica de las sociedades personalistas.
-
-La solución legal procura armonizar dos intereses:
-
-- el derecho del socio a disponer de su participación;
-- el interés de la sociedad en controlar el ingreso de nuevos integrantes.
-
----
-
-# Formas de transmisión
-
-La calidad de socio puede transmitirse por distintas causas jurídicas.
-
-Las principales son:
-
-## Actos entre vivos
-
-La participación se transmite mediante un negocio jurídico celebrado por el socio durante su vida.
-
-Ejemplo:
-
-- cesión de cuotas;
-- compraventa de acciones;
-- donación.
-
----
-
-## Mortis causa
-
-La transmisión se produce como consecuencia del fallecimiento del socio.
-
-Los herederos suceden al causante conforme a las reglas del derecho sucesorio y a las disposiciones particulares de la Ley General de Sociedades.
-
----
-
-## Ejecución forzada
-
-La transmisión tiene origen en la ejecución promovida por los acreedores del socio.
-
-En estos supuestos, el ingreso del adquirente dependerá de las reglas previstas para cada tipo societario.
-
----
-
-# ¿La calidad de socio siempre puede transmitirse?
-
-No.
-
-La respuesta depende del tipo societario.
-
-En algunos tipos, la participación constituye esencialmente una inversión patrimonial.
-
-En otros, la persona del socio resulta determinante para la existencia misma de la sociedad.
-
-Por ello, cuanto mayor sea el componente personalista del tipo social, mayores serán las restricciones para transmitir la calidad de socio.
-
----
-
-# Sociedades de personas y sociedades de capital
-
-```{mermaid}
-flowchart LR
-
-A[Estado de socio]
-
-A --> B[Sociedades de personas]
-
-A --> C[Sociedades de capital]
-
-B --> D[Transmisión restringida]
-
-C --> E[Transmisión más libre]
-```
-
-En las sociedades de personas predomina el **intuitu personae**.
-
-En las sociedades de capital predomina el aspecto patrimonial de la participación.
-
-Esta diferencia explica buena parte del régimen de transmisión previsto por la Ley General de Sociedades.
-
----
-
-# Fundamento de las restricciones
-
-Las limitaciones a la transmisión no procuran restringir arbitrariamente el derecho de propiedad del socio.
-
-Su finalidad consiste en proteger:
-
-- la estabilidad de la organización;
-- la confianza entre los socios;
-- la continuidad del proyecto común;
-- la autonomía de la voluntad expresada al constituir la sociedad.
-
-Por ello, la intensidad de las restricciones disminuye a medida que aumenta la importancia del capital frente a la persona del socio.
-
----
-
-# Cesación del estado de socio
-
-La calidad de socio no es necesariamente permanente.
-
-Puede extinguirse por diversas causas previstas en la ley, en el contrato social o derivadas de la propia voluntad del socio.
-
-Las principales formas de cesación son:
-
-- transmisión de la participación;
-- fallecimiento;
-- exclusión;
-- receso;
-- resolución parcial;
-- extinción de la sociedad.
-
-Cada uno de estos supuestos presenta particularidades según el tipo societario y produce consecuencias distintas respecto de la continuidad de la sociedad y de los derechos del socio saliente.
-
----
-
-# Principales causas de cesación
+# Esquema del artículo 37
 
 ```{mermaid}
 flowchart TD
 
-A[Estado de socio]
+A[Aporte comprometido]
 
-A --> B[Cesión]
+A --> B[Incumplimiento]
 
-A --> C[Muerte]
+B --> C[Mora automática]
 
-A --> D[Receso]
+C --> D[Daños e intereses]
 
-A --> E[Exclusión]
+C --> E[Excluir al socio]
 
-A --> F[Resolución parcial]
+C --> F[Exigir judicialmente el aporte]
 
-A --> G[Extinción de la sociedad]
+C --> G[SA → aplicación del art. 193]
 ```
 
-No todas producen los mismos efectos.
+---
 
-En algunos casos cesa únicamente la calidad de socio.
+# El aporte
 
-En otros, puede verse comprometida la continuidad de la sociedad.
+## Concepto
 
-La solución dependerá del tipo societario y de las disposiciones legales aplicables.
+Según Vítolo, el aporte constituye un elemento propio del contrato de sociedad y se encuentra expresamente previsto en el artículo 1° de la Ley General de Sociedades como la principal obligación de los socios. 
+
+Su finalidad consiste en que el conjunto de los aportes sea aplicado por la sociedad a la producción o intercambio de bienes o servicios.
+
+El aporte constituye la contribución que realiza cada socio para integrar el patrimonio inicial del ente y permitir el desarrollo de su objeto social.
 
 ---
 
-# El derecho de receso
+# Función económica y jurídica del aporte
 
-El receso constituye el derecho del socio a retirarse de la sociedad cuando la ley o el contrato así lo autorizan.
+Vítolo destaca que el aporte no tiene un destino de atesoramiento.
 
-Su fundamento consiste en evitar que el socio quede obligado a permanecer en una organización cuyas condiciones esenciales han sido modificadas sin su consentimiento.
+Por el contrario:
 
-El ejercicio del receso produce la extinción del estado de socio respecto del recedente y genera, como regla, el derecho al reembolso del valor de su participación.
+- integra el patrimonio inicial de la sociedad;
+- conforma el capital social;
+- permite el inicio de la actividad empresaria;
+- constituye un elemento indispensable para el cumplimiento del objeto social. 
 
-Los supuestos concretos serán analizados al estudiar cada tipo societario.
-
----
-
-# La exclusión del socio
-
-La exclusión constituye una sanción que permite separar de la sociedad a un socio cuya conducta torna inconveniente o imposible la continuación de la relación societaria.
-
-A diferencia del receso:
-
-- no depende de la voluntad del socio;
-- responde al incumplimiento de deberes legales o contractuales;
-- procura preservar la continuidad de la sociedad.
-
-Su procedencia y requisitos varían según el tipo societario.
+Sin aportes, la sociedad carecería de uno de sus elementos esenciales y no podría desarrollar su actividad.
 
 ---
 
-# Los acreedores del socio y los acreedores sociales
+# El aporte no es un acto gratuito
 
-Uno de los principios fundamentales del derecho societario consiste en distinguir claramente:
+El acto de aportación tiene carácter oneroso.
 
-- los acreedores de la sociedad;
-- los acreedores particulares de los socios.
+El socio no aporta bienes a fondo perdido.
 
-La sociedad posee un patrimonio propio.
+Su contribución persigue un fin económico determinado:
 
-En consecuencia, los acreedores sociales deben satisfacer sus créditos sobre ese patrimonio.
-
-Los acreedores personales del socio, en cambio, sólo pueden perseguir los derechos que integran el patrimonio de su deudor, sin afectar directamente el patrimonio social.
-
----
-
-# Acreedores sociales y acreedores particulares
-
-| Acreedores sociales | Acreedores del socio |
-|---------------------|----------------------|
-| Su deudor es la sociedad. | Su deudor es el socio. |
-| Ejecutan el patrimonio social. | Ejecutan el patrimonio personal del socio. |
-| No persiguen directamente los bienes personales de los socios (salvo supuestos legales). | No pueden ejecutar directamente los bienes de la sociedad. |
-
-La autonomía patrimonial de la persona jurídica explica esta separación.
+- participar del emprendimiento común;
+- obtener utilidades si la explotación resulta exitosa;
+- percibir, al finalizar la vida de la sociedad, la cuota de liquidación correspondiente.
 
 ---
 
-# ¿Qué puede embargar el acreedor del socio?
+# Bienes aportables
 
-Como regla, el acreedor particular del socio no puede apropiarse de bienes pertenecientes a la sociedad.
+## Artículo 38 LGS
 
-Su ejecución recae sobre los derechos patrimoniales que integran el patrimonio del socio, tales como:
+Como principio general, los aportes pueden consistir en:
 
-- dividendos o utilidades distribuidas;
-- cuota de liquidación;
-- participación social, cuando la ley y el tipo societario lo permitan.
+- obligaciones de dar;
+- obligaciones de hacer.
 
-La intensidad de estas facultades dependerá del régimen previsto para cada tipo social.
+La ley únicamente excluye las obligaciones de no hacer como objeto del aporte.
 
-# Cierre del bloque
+---
 
-El estado de socio constituye una posición jurídica dinámica.
+# Límites según el tipo societario
 
-Durante la vida de la sociedad:
+La amplitud del artículo 38 reconoce una excepción.
 
-- pueden variar los derechos del socio;
-- puede modificarse la composición subjetiva de la sociedad;
-- pueden ingresar nuevos socios;
-- otros pueden retirarse o ser excluidos;
-- los acreedores pueden incidir sobre la participación social.
+Existen tipos societarios en los cuales la ley exige que los aportes consistan exclusivamente en obligaciones de dar.
 
-La Ley General de Sociedades procura compatibilizar estos cambios con la estabilidad de la organización y la protección de terceros.
+En algunos supuestos, incluso exige que se trate de bienes susceptibles de ejecución forzada.
 
-En las clases dedicadas a cada tipo societario analizaremos cómo estas reglas generales se proyectan sobre la sociedad colectiva, la SRL, la sociedad anónima y los restantes tipos previstos por la ley.
+Vítolo vincula esta diferencia con el régimen de responsabilidad asumido por los socios.
+
+---
+
+# Relación entre aporte y responsabilidad
+
+```{mermaid}
+flowchart TD
+
+A[Tipo societario]
+
+A --> B[Responsabilidad limitada]
+
+A --> C[Responsabilidad ilimitada]
+
+B --> D[Aportes de dar]
+
+B --> E[Bienes susceptibles de ejecución forzada]
+
+C --> F[También pueden admitirse obligaciones de hacer]
+
+C --> G[También pueden admitirse aportes de uso y goce]
+```
+
+La extensión de los bienes aportables depende del régimen de responsabilidad previsto para cada tipo social.
+
+---
+
+# Obligaciones de dar
+
+Las obligaciones de dar tienen por objeto la entrega de una cosa o de un bien.
+
+En ellas, el deudor debe desprenderse del bien para transmitirlo al acreedor. Vítolo remite al régimen general de los arts. 746 y siguientes del Código Civil y Comercial. 
+
+A los fines societarios, estas obligaciones constituyen la forma típica de integrar el patrimonio inicial de la sociedad.
+
+---
+
+# Clases de obligaciones de dar
+
+Vítolo distingue tres categorías principales:
+
+- **Obligaciones de dar cosas ciertas**, cuando el bien se encuentra individualizado.
+- **Obligaciones de género**, cuando el objeto se determina por su especie y cantidad.
+- **Obligaciones de dinero**, cuando el aporte consiste en una suma determinada o determinable de moneda. 
+
+Todas ellas pueden constituir aportes, siempre que resulten compatibles con el régimen previsto para el tipo societario correspondiente.
+
+---
+
+# Aportes en propiedad y aportes de uso o goce
+
+Las obligaciones de dar pueden tener distintos alcances.
+
+El socio puede aportar un bien:
+
+- **en propiedad**, transmitiendo el dominio a la sociedad;
+- **en uso y goce**, conservando la propiedad y permitiendo únicamente su utilización por la sociedad. 
+
+La admisibilidad de cada modalidad dependerá del tipo societario elegido.
+
+---
+
+# ¿Cuándo puede aportarse el uso y goce?
+
+Vítolo vincula esta cuestión con el régimen de responsabilidad de los socios.
+
+Como regla:
+
+- en las sociedades con **responsabilidad limitada**, no se admiten aportes de uso y goce, salvo como prestaciones accesorias;
+- en las sociedades con **responsabilidad ilimitada**, la ley admite el aporte de bienes en uso y goce. 
+
+La solución procura reforzar la garantía patrimonial de los terceros cuando la responsabilidad de los socios se encuentra limitada.
+
+---
+
+# Obligaciones de hacer
+
+Las obligaciones de hacer tienen por objeto la prestación de un servicio o la realización de una actividad.
+
+Vítolo remite a los artículos 773 y 774 del Código Civil y Comercial y recuerda que estas obligaciones pueden consistir en:
+
+- desarrollar una actividad con la diligencia debida;
+- procurar un resultado concreto;
+- procurar un resultado eficaz expresamente prometido.
+
+---
+
+# ¿En qué sociedades pueden constituir un aporte?
+
+La Ley General de Sociedades admite, como principio, que el aporte consista en obligaciones de hacer.
+
+Sin embargo, Vítolo destaca que estas prestaciones **solo son admisibles en aquellos tipos en los cuales los socios responden en forma subsidiaria, ilimitada y solidaria por las obligaciones sociales**. 
+
+---
+
+# Esquema general de los aportes
+
+```{mermaid}
+flowchart TD
+
+A[Aportes]
+
+A --> B[Obligaciones de dar]
+
+A --> C[Obligaciones de hacer]
+
+B --> D[Propiedad]
+
+B --> E[Uso y goce]
+
+C --> F[Solo en los tipos admitidos por la ley]
+
+E --> G[Sociedades personalistas]
+
+D --> H[SRL y SA]
+```
+
+---
+
+# Inscripción preventiva del aporte
+
+## Artículo 38 LGS
+
+Cuando el aporte consista en un bien cuya transferencia requiera inscripción registral, ésta deberá realizarse **preventivamente a nombre de la sociedad en formación**. 
+
+La inscripción preventiva protege el proceso constitutivo hasta que la sociedad adquiera plenamente su personalidad jurídica.
+
+---
+
+# Fundamento de la inscripción preventiva
+
+Vítolo explica que la finalidad de la inscripción preventiva consiste en **sustraer el bien de la acción de los acreedores particulares del socio aportante**. 
+
+De ese modo se evita que:
+
+- el bien sea ejecutado antes de perfeccionarse la transferencia;
+- la sociedad quede privada de un elemento esencial para iniciar su actividad;
+- se frustre el cumplimiento del objeto social.
+
+---
+
+# Bienes alcanzados
+
+La inscripción preventiva no se limita a los inmuebles.
+
+Comprende todos los bienes cuya transmisión requiere inscripción registral, entre ellos:
+
+- inmuebles;
+- automotores;
+- buques;
+- aeronaves;
+- marcas;
+- patentes;
+- derechos de propiedad intelectual.
+
+---
+
+# Forma del aporte
+
+El segundo párrafo del artículo 38 establece:
+
+> El cumplimiento del aporte deberá ajustarse a los requisitos impuestos por las leyes de acuerdo con la distinta naturaleza de los bienes. 
+
+La ley no establece una forma única.
+
+Cada clase de bien deberá transferirse conforme al régimen jurídico que le resulte aplicable.
+
+---
+
+# Determinación del aporte
+
+## Artículo 39 LGS
+
+En las sociedades de responsabilidad limitada y en las sociedades por acciones:
+
+- el aporte debe consistir en bienes determinados;
+- esos bienes deben ser susceptibles de ejecución forzada. 
+
+La norma procura asegurar la efectividad del capital social como garantía frente a terceros.
+
+---
+
+# Derechos aportables
+
+## Artículo 40 LGS
+
+Los derechos también pueden ser objeto de aporte.
+
+Para ello deben reunirse dos requisitos:
+
+- encontrarse debidamente instrumentados;
+- recaer sobre bienes susceptibles de ser aportados.
+
+Además, la ley excluye expresamente los derechos litigiosos.
+
+---
+
+# Aporte de créditos
+
+## Artículo 41 LGS
+
+Cuando el aporte consiste en un crédito:
+
+- la sociedad se convierte en cesionaria por la sola constancia contenida en el contrato social;
+- no resulta necesaria una cesión posterior. 
+
+La transmisión opera directamente por disposición legal.
+
+---
+
+# Responsabilidad del aportante
+
+El socio que aporta un crédito responde por:
+
+- la existencia del crédito;
+- la legitimidad del crédito. 
+  
+La ley no garantiza únicamente la cesión, sino también que el crédito exista y pertenezca efectivamente al aportante.
+
+---
+
+# Incobrabilidad del crédito
+
+Si el crédito no puede cobrarse a su vencimiento:
+
+- la obligación del socio se transforma en una obligación de aportar dinero;
+- dicho aporte deberá integrarse dentro de los treinta días. 
+
+La finalidad es impedir que la sociedad soporte el riesgo de un crédito incobrable aportado por uno de sus socios.
+
+---
+
+# Bienes gravados
+
+## Artículo 43 LGS
+
+Los bienes gravados pueden ser aportados.
+
+Sin embargo:
+
+- deben valuarse deduciendo el gravamen;
+- el gravamen debe especificarse expresamente por el aportante. 
+
+La finalidad es evitar una sobrevaluación del aporte.
+
+---
+
+# Fondo de comercio
+
+## Artículo 44 LGS
+
+Cuando el aporte consiste en un fondo de comercio:
+
+- debe practicarse inventario;
+- debe realizarse valuación;
+- deben cumplirse las normas legales que regulan su transferencia. 
+
+---
+
+# Evicción
+
+## Artículo 46 LGS
+
+La evicción produce dos consecuencias:
+
+- autoriza la exclusión del socio;
+- genera responsabilidad por los daños ocasionados. 
+
+Si el socio no es excluido, deberá integrar el valor del bien e indemnizar los daños.
+
+---
+
+# Reemplazo del bien
+
+## Artículo 47 LGS
+
+El socio puede evitar la exclusión cuando:
+
+- reemplaza el bien por otro de igual especie y calidad;
+- el bien resulta sustituible.
+
+Ello no lo libera de indemnizar los daños ocasionados.
+
+---
+
+# Valuación de los aportes
+
+## Arts. 51 a 53 LGS
+
+La valuación de los aportes constituye uno de los mecanismos fundamentales de tutela del capital social.
+
+Su correcta determinación resulta indispensable para:
+
+- establecer la verdadera integración del capital;
+- proteger la igualdad entre los socios;
+- evitar la sobrevaluación de los aportes en especie;
+- resguardar la garantía patrimonial de los acreedores.
+
+Vítolo destaca que el régimen de valuación procura impedir la creación ficticia de capital mediante la incorporación de bienes por un valor superior al real.
+
+---
+
+# Regla general
+
+## Artículo 51 LGS
+
+Como principio general:
+
+Los aportes en especie se valuarán:
+
+- en la forma prevista por el contrato social; o,
+- en su defecto, según los precios de plaza;
+- o mediante uno o más peritos designados por el juez de la inscripción. 
+
+La ley privilegia la autonomía de la voluntad, pero establece mecanismos supletorios destinados a asegurar una valuación objetiva.
+
+---
+
+# Sociedades de responsabilidad limitada
+
+En las sociedades de responsabilidad limitada y en comandita simple (respecto de los socios comanditarios):
+
+el contrato debe indicar los antecedentes que justifican la valuación atribuida al aporte. 
+
+La finalidad consiste en permitir el posterior control de la razonabilidad del valor asignado.
+
+---
+
+# Impugnación por los acreedores
+
+En caso de insolvencia o quiebra de la sociedad:
+
+los acreedores pueden impugnar la valuación dentro del plazo de cinco años desde la realización del aporte.
+
+La impugnación no procede cuando la valuación hubiera sido realizada judicialmente. 
+
+La norma constituye una manifestación del principio de protección del capital social.
+
+---
+
+# Impugnación por el socio
+
+## Artículo 52 LGS
+
+El socio afectado por la valuación también puede impugnarla.
+
+La impugnación:
+
+- debe ser fundada;
+- tramita en instancia única;
+- debe deducirse dentro del quinto día hábil desde la notificación.
+
+El juez resolverá luego de oír a los peritos intervinientes.
+
+---
+
+# Régimen especial de las sociedades por acciones
+
+## Artículo 53 LGS
+
+En las sociedades por acciones la valuación requiere aprobación de la autoridad de contralor.
+
+La ley distingue dos supuestos:
+
+- bienes con valor corriente → valor de plaza;
+- bienes sin valor corriente → valuación pericial, salvo que pueda sustituirse por informes oficiales o de bancos oficiales.
+
+---
+
+# Diferencias entre SRL y SA
+
+| SRL | SA |
+|------|-----|
+| Predomina la justificación contractual del valor. | Interviene la autoridad de contralor. |
+| Puede existir impugnación de acreedores durante cinco años. | La valuación requiere aprobación administrativa. |
+| El contrato debe justificar los antecedentes de valuación. | El procedimiento se encuentra más intensamente controlado. |
+
+La intensidad del control aumenta en las sociedades por acciones debido a la mayor circulación de las participaciones y a la tutela del mercado.
+
+---
+
+# Observación doctrinaria de Vítolo
+
+Vítolo explica que la valuación de los aportes constituye una de las principales herramientas destinadas a preservar la realidad del capital social.
+
+Por ello, el legislador establece distintos mecanismos de control según el tipo societario, intensificando las exigencias en las sociedades por acciones debido a la función económica que cumple el capital frente a terceros. 
+
+
+---
+
+# Ideas principales
+
+```{mermaid}
+flowchart TD
+
+A[Aporte en especie]
+
+A --> B[Debe valuarse]
+
+B --> C[Regla general<br>Art. 51]
+
+B --> D[SRL]
+
+B --> E[SA]
+
+D --> F[Antecedentes justificativos]
+
+E --> G[Control administrativo]
+
+B --> H[Impugnación]
+
+H --> I[Socio]
+
+H --> J[Acreedores]
+```
