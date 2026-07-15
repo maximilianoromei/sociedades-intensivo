@@ -105,7 +105,7 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 🎓 <a href="clases/clase05-objeto-nulidades.html" target="_blank">Presentación del tema </a>
 
-- 📄 <a href="clases/clase04-objeto-nulidades.pdf" target="_blank">Descargar presentación en PDF</a>
+- 📄 <a href="clases/clase05-objeto-nulidades.pdf" target="_blank">Descargar presentación en PDF</a>
 
 ## Evaluaciones
 
