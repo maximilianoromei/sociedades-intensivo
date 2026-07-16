@@ -1,0 +1,948 @@
+---
+title: "Clase 7 — Administración y Representación"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Administración y representación
+
+## Organización funcional de la sociedad
+
+La existencia de la sociedad como sujeto de derecho exige necesariamente que su voluntad se exteriorice a través de personas físicas.
+
+La Ley General de Sociedades regula esa actuación mediante dos funciones estrechamente vinculadas, pero conceptualmente diferentes:
+
+- **la administración**, vinculada con la conducción interna de la sociedad;
+- **la representación**, vinculada con la actuación frente a terceros.
+
+Todo el régimen de los artículos **58 a 60** parte de esta distinción.
+
+> **Idea central:** administrar no es lo mismo que representar.
+>
+---
+
+# Administración y representación
+
+## La distinción según Nissen
+
+Nissen sostiene que debe distinguirse claramente ambos conceptos.
+
+### Administración
+
+Corresponde a la esfera **interna** de la sociedad.
+
+Comprende:
+
+- la deliberación;
+- la adopción de decisiones;
+- la conducción de los negocios sociales.
+
+### Representación
+
+Corresponde a la esfera **externa**.
+
+Consiste en la vinculación de la sociedad con los terceros mediante quienes tienen atribuida la representación social. 
+
+---
+
+# Administración y representación
+
+## La distinción según Nissen
+
+Nissen sostiene que debe distinguirse claramente ambos conceptos.
+
+### Administración
+
+Corresponde a la esfera **interna** de la sociedad.
+
+Comprende:
+
+- la deliberación;
+- la adopción de decisiones;
+- la conducción de los negocios sociales.
+
+### Representación
+
+Corresponde a la esfera **externa**.
+
+Consiste en la vinculación de la sociedad con los terceros mediante quienes tienen atribuida la representación social. 
+
+---
+
+# Administración y representación
+
+## La explicación de Vítolo
+
+Para Vítolo:
+
+La administración constituye el proceso global destinado a conducir la actividad de la sociedad mediante:
+
+- planificación;
+- organización;
+- dirección;
+- control.
+
+Su finalidad consiste en lograr el cumplimiento del objeto social mediante una gestión eficiente de los recursos sociales.
+
+---
+
+# Representación
+
+## La explicación de Vítolo
+
+La representación consiste en la actuación de la sociedad frente a terceros.
+
+Implica ejecutar los actos jurídicos necesarios para desarrollar:
+
+- la gestión operativa;
+- la gestión empresaria;
+- la organización societaria.
+
+Mientras la administración actúa **hacia adentro**, la representación proyecta la voluntad social **hacia afuera**.
+
+---
+
+# Coincidencias entre ambos autores
+
+| Nissen | Vítolo |
+|---------|---------|
+| Administración → esfera interna. | Administración → conducción de la organización. |
+| Representación → esfera externa. | Representación → actuación frente a terceros. |
+| Ambas funciones suelen reunirse en una misma persona. | Ambas funciones normalmente son ejercidas por los administradores. |
+
+Los dos autores coinciden en distinguir conceptualmente ambas funciones, aunque reconocen que en la práctica frecuentemente recaen sobre las mismas personas. 
+
+---
+
+# ¿Cuándo aparecen claramente diferenciadas?
+
+Nissen y Vítolo destacan un supuesto en el cual la diferencia resulta especialmente visible:
+
+## La sociedad anónima
+
+- El **Directorio** ejerce la administración.
+- El **Presidente del Directorio** ejerce la representación legal.
+
+Por ello, la sociedad anónima constituye el ejemplo más claro de separación entre ambas funciones.
+
+---
+
+# Administración y representación
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad]
+
+A --> B[Administración]
+
+A --> C[Representación]
+
+B --> D[Decisiones]
+
+B --> E[Organización]
+
+B --> F[Conducción]
+
+C --> G[Contratos]
+
+C --> H[Actos jurídicos]
+
+C --> I[Vinculación con terceros]
+```
+
+---
+
+# La teoría del órgano
+
+## El abandono de la teoría del mandato
+
+La Ley General de Sociedades adopta la denominada **teoría del órgano** para explicar la actuación de los administradores.
+
+Ello implica abandonar la concepción clásica según la cual los administradores actuaban como simples mandatarios de la sociedad.
+
+En consecuencia, la actuación del administrador ya no se explica mediante las reglas del mandato, sino a través de la organización propia de la persona jurídica.
+
+---
+
+# La explicación de Nissen
+
+Para Nissen:
+
+- los administradores **no son mandatarios** de la sociedad;
+- son **órganos** de la persona jurídica;
+- por ello, cuando actúan, **es la propia sociedad quien actúa frente a terceros**.
+
+La teoría del órgano elimina la diferenciación entre la voluntad del administrador y la voluntad de la sociedad.
+
+---
+
+# La explicación de Vítolo
+
+Vítolo sostiene que la teoría del órgano sustituyó definitivamente a la doctrina del mandato.
+
+Según esta construcción:
+
+- el representante estatutario no expresa una voluntad propia;
+- es portador de la voluntad de la persona jurídica;
+- la sociedad actúa directamente por medio de su órgano.
+
+---
+
+# La construcción doctrinaria
+
+Según Vítolo, cuando la persona jurídica interviene mediante su órgano:
+
+- el negocio jurídico es celebrado **por la propia sociedad**;
+- el órgano absorbe la figura del representante;
+- no existe actuación "en nombre ajeno", sino actuación de la persona jurídica mediante su órgano.
+
+---
+
+# Observaciones críticas de Nissen
+
+Nissen reconoce que la teoría del órgano ha sido ampliamente aceptada por la doctrina y la jurisprudencia.
+
+Sin embargo, señala que se trata de una construcción dogmática basada sobre la personalidad jurídica y que **no alcanza a explicar todos los problemas derivados de la gestión societaria**.
+
+Por ello observa que, en determinadas cuestiones, la doctrina continúa recurriendo subsidiariamente a las reglas del mandato.
+
+---
+
+# Coincidencias y diferencias
+
+| Nissen | Vítolo |
+|---------|---------|
+| La ley adopta la teoría del órgano. | La ley adopta la teoría del órgano. |
+| El administrador no es mandatario. | El administrador no es mandatario. |
+| La sociedad actúa por medio de su órgano. | El órgano expresa la voluntad de la persona jurídica. |
+| Advierte que la teoría no explica todas las cuestiones y, en ciertos casos, subsisten referencias al mandato. | Explica principalmente el fundamento dogmático y la evolución desde la teoría del mandato. |
+
+
+---
+
+# Esquema conceptual
+
+```{mermaid}
+flowchart LR
+
+A[Persona jurídica]
+
+A --> B[Órgano]
+
+B --> C[Administrador]
+
+C --> D[Actuación frente a terceros]
+
+D --> E[La actuación se imputa directamente a la sociedad]
+```
+
+---
+
+# El régimen de representación
+
+## Artículo 58 LGS
+
+El artículo 58 regula los efectos de la actuación del administrador o representante frente a terceros.
+
+La norma dispone:
+
+> "El administrador o el representante que de acuerdo con el contrato o por disposición de la ley tenga la representación de la sociedad, obliga a ésta por todos los actos que no sean notoriamente extraños al objeto social."
+
+La representación constituye el mecanismo mediante el cual la voluntad de la sociedad produce efectos jurídicos frente a terceros. 
+
+---
+
+# El límite de la representación
+
+## El objeto social
+
+Tanto Nissen como Vítolo coinciden en que el principal límite de la actuación del representante está dado por el **objeto social**.
+
+La sociedad queda obligada por los actos celebrados por su representante siempre que ellos **no sean notoriamente extraños al objeto social**.
+
+---
+
+# El principio de especialidad
+
+Nissen explica que el artículo 58 constituye una aplicación del **principio de especialidad** propio de las personas jurídicas.
+
+Ello significa que:
+
+- la capacidad de la sociedad se encuentra delimitada por su objeto;
+- los actos deben estar dirigidos al cumplimiento de ese objeto.
+
+Relaciona esta solución con el artículo 141 del Código Civil y Comercial.
+
+---
+
+# La doctrina del ultra vires
+
+Vítolo identifica el fundamento del artículo 58 con la denominada **doctrina del ultra vires**.
+
+Según esta doctrina:
+
+- la sociedad sólo responde por los actos comprendidos dentro de su objeto;
+- el objeto social determina el ámbito de legitimación del representante.
+
+La precisión del objeto social adquiere así una importancia central. 
+
+---
+
+# ¿Qué significa "notoriamente extraño"?
+
+Nissen destaca que la ley no utiliza la expresión "acto extraño", sino **"acto notoriamente extraño"**.
+
+Por ello:
+
+- la ajenidad debe resultar manifiesta;
+- cuando exista duda, corresponde considerar que el acto obliga a la sociedad.
+
+La protección del tráfico jurídico impide interpretar restrictivamente la representación.
+
+---
+
+# Ejemplos desarrollados por Nissen
+
+Nissen menciona como ejemplos de actos notoriamente extraños:
+
+- otorgar garantías en favor de terceros sin beneficio para la sociedad;
+- pagar deudas ajenas;
+- realizar donaciones que no reporten beneficio directo o indirecto para la sociedad.
+
+---
+
+# La posición de Vítolo
+
+Vítolo destaca que no siempre resulta sencillo determinar cuándo un acto es notoriamente extraño.
+
+Recuerda que:
+
+- el objeto debe ser preciso y determinado;
+- ello no implica necesariamente que la sociedad tenga un único objeto.
+
+La apreciación debe realizarse considerando la actividad efectivamente prevista en el contrato social.
+
+---
+
+# Protección de los terceros
+
+Ambos autores coinciden en que el artículo 58 procura armonizar dos intereses:
+
+- la protección del interés de la sociedad;
+- la seguridad y celeridad del tráfico mercantil.
+
+Por ello, la ley protege al tercero que contrata de buena fe con quien aparece investido de facultades representativas.
+
+---
+
+# Límites internos y terceros
+
+Nissen explica que el contrato social puede contener limitaciones internas a las facultades del representante.
+
+Sin embargo:
+
+esas restricciones **no son oponibles a los terceros**, sin perjuicio de la responsabilidad interna del administrador que las haya infringido.
+
+---
+
+# Coincidencias doctrinarias
+
+| Nissen | Vítolo |
+|---------|---------|
+| El objeto social limita la actuación del representante. | El objeto social delimita la legitimación para obligar a la sociedad. |
+| Sólo quedan fuera los actos notoriamente extraños. | La doctrina del ultra vires explica el artículo 58. |
+| Debe protegerse al tercero de buena fe. | Debe preservarse el principio de apariencia y la seguridad del tráfico. |
+
+
+---
+
+# Esquema del artículo 58
+
+```{mermaid}
+flowchart TD
+
+A[Representante]
+
+A --> B{Acto celebrado}
+
+B -->|No es notoriamente extraño| C[Obliga a la sociedad]
+
+B -->|Notoriamente extraño| D[No obliga a la sociedad]
+
+C --> E[Protección del tercero de buena fe]
+
+D --> F[Responsabilidad del administrador]
+```
+
+---
+
+# Representación plural
+
+## Artículo 58 LGS
+
+La representación de la sociedad puede organizarse en forma plural.
+
+Cuando ello ocurre, el estatuto determina la forma en que deberán actuar los representantes.
+
+La infracción a ese régimen posee consecuencias específicas previstas por el propio artículo 58 de la Ley General de Sociedades.
+
+---
+
+# Infracción al régimen de representación plural
+
+Como regla general:
+
+Si la sociedad ha organizado la representación en forma plural y dicho régimen es infringido, **los actos celebrados en esas condiciones resultan inoponibles a la sociedad**.
+
+La ley establece, sin embargo, importantes excepciones destinadas a proteger el tráfico jurídico.
+
+---
+
+# Excepciones previstas por el artículo 58
+
+La infracción al régimen de representación plural **no puede ser opuesta por la sociedad** cuando las obligaciones hubieran sido contraídas mediante:
+
+- títulos valores;
+- contratos entre ausentes;
+- contratos de adhesión;
+- contratos concluidos mediante formularios.
+
+### Excepción
+
+La sociedad podrá invocar la infracción cuando el tercero **hubiera tenido conocimiento efectivo** de que el acto se celebraba contrariando el régimen de representación plural.
+
+---
+
+# Fundamento de la solución
+
+Nissen explica que este régimen responde a razones de seguridad jurídica.
+
+En particular:
+
+- el carácter circulatorio de los títulos valores;
+- la imposibilidad de exigir a los terceros investigaciones complejas acerca de las facultades representativas;
+- la buena fe que debe presidir los contratos de adhesión y los celebrados mediante formularios.
+
+La finalidad consiste en preservar la seguridad del tráfico comercial.
+
+---
+
+# Limitaciones internas
+
+Además de las derivadas del objeto social, el contrato constitutivo puede establecer limitaciones internas a las facultades del representante.
+
+Sin embargo, el artículo 58 dispone que:
+
+**esas limitaciones son inoponibles a los terceros.**
+
+En consecuencia:
+
+- la sociedad queda obligada frente al tercero;
+- ello no excluye la eventual responsabilidad interna del administrador que incumplió el estatuto.
+
+---
+
+# Ejemplo
+
+El estatuto dispone que:
+
+- para vender un inmueble se requiere autorización previa de la asamblea.
+
+El administrador celebra igualmente la operación.
+
+## Consecuencia
+
+La falta de esa autorización:
+
+- no afecta la validez del acto frente al tercero;
+- no libera a la sociedad;
+- puede generar responsabilidad del administrador frente a la sociedad.
+
+---
+
+# La firma del representante
+
+La Ley General de Sociedades no exige fórmulas sacramentales para actuar en nombre de la sociedad.
+
+No obstante, debe resultar **indudable** que quien suscribe lo hace representando a la persona jurídica.
+
+La jurisprudencia ha considerado insuficiente la sola firma de la persona física cuando no surge que actuó en representación de la sociedad (la denominada **antefirma**).
+
+---
+
+# La teoría de la apariencia
+
+Vítolo explica que el artículo 58 debe interpretarse conjuntamente con el **principio de apariencia**.
+
+Este principio procura proteger a quienes contratan con la sociedad guiándose por la apariencia de legitimidad que ofrece quien actúa como representante.
+
+Por ello, la doctrina del **ultra vires** encuentra un límite en la tutela de los terceros de buena fe.
+
+---
+
+# Contenido del principio de apariencia
+
+Según Vítolo:
+
+El tercero tiene derecho a presumir que:
+
+- se han cumplido las regulaciones internas de la sociedad;
+- los actos del administrador o representante gozan de presunción de legitimidad.
+
+En consecuencia, la sociedad no puede oponer frente al tercero irregularidades internas que éste no estaba en condiciones de conocer.
+
+---
+
+# Alcance del principio
+
+La teoría de la apariencia también resulta aplicable cuando:
+
+- la sociedad pretende desconocer un acto invocando decisiones internas posteriores;
+- se cuestiona la legalidad de la designación del administrador.
+
+Frente al tercero de buena fe, la existencia y alcance del acto deben apreciarse conforme a su **manifestación externa**.
+
+---
+
+# Síntesis del artículo 58
+
+```{mermaid}
+flowchart TD
+
+A[Representante]
+
+A --> B[Acto celebrado]
+
+B --> C{Respeta el régimen de representación}
+
+C -->|Sí| D[Obliga a la sociedad]
+
+C -->|No| E[Representación plural infringida]
+
+E --> F{Excepción legal}
+
+F -->|Títulos valores / adhesión / entre ausentes / formularios| G[La sociedad queda obligada]
+
+F -->|Tercero conocía la infracción| H[La sociedad puede oponerla]
+
+D --> I[Protección del tercero]
+
+G --> I
+```
+
+---
+
+# Deber de diligencia y lealtad
+
+## Artículo 59 LGS
+
+El artículo 59 establece el estándar general de conducta exigible a todos los administradores y representantes de sociedades.
+
+> **"Los administradores y los representantes de la sociedad deben obrar con lealtad y con la diligencia de un buen hombre de negocios."**
+
+La norma constituye el eje de todo el régimen de responsabilidad de los administradores y sirve de criterio interpretativo para las disposiciones especiales que regulan cada tipo societario.
+
+---
+
+# Ámbito de aplicación
+
+El deber previsto por el artículo 59 alcanza a:
+
+- administradores;
+- representantes;
+- cualquiera sea el tipo societario.
+
+Nissen destaca que este artículo contiene un **principio general**, cuya aplicación se proyecta sobre todas las normas especiales que regulan la responsabilidad de los administradores.
+
+---
+
+# La lealtad
+
+El primer deber impuesto por el artículo 59 es la **lealtad**.
+
+Ello exige que el administrador:
+
+- actúe en interés de la sociedad;
+- evite utilizar su cargo para obtener ventajas personales;
+- no coloque sus intereses por encima de los intereses cuya gestión le ha sido confiada.
+
+Vítolo desarrolla la lealtad como uno de los pilares del régimen de actuación de los administradores.
+
+---
+
+# La diligencia
+
+El segundo estándar legal es la diligencia.
+
+La ley no exige una diligencia ordinaria.
+
+Exige la diligencia propia de un:
+
+## "Buen hombre de negocios"
+
+El parámetro es superior al del buen padre de familia o al de la diligencia común del derecho civil, pues se trata de la actuación profesional de quien administra una empresa. 
+
+---
+
+# El "buen hombre de negocios"
+
+Tanto Nissen como Vítolo destacan que la diligencia debe apreciarse teniendo en cuenta:
+
+- la naturaleza de la actividad;
+- las funciones desempeñadas;
+- las circunstancias concretas del caso.
+
+No existe un criterio abstracto aplicable a toda actuación administrativa.
+
+El estándar se construye atendiendo a la conducta esperable de un administrador profesional. 
+
+---
+
+# Contenido del deber de diligencia
+
+La diligencia comprende, entre otras manifestaciones:
+
+- informarse adecuadamente antes de decidir;
+- controlar la marcha de los negocios sociales;
+- adoptar las medidas razonablemente exigibles para el cumplimiento del objeto social;
+- actuar con prudencia en la gestión empresaria.
+
+Estos deberes derivan del estándar general impuesto por el artículo 59.
+
+---
+
+# Incumplimiento
+
+Cuando el administrador incumple los deberes impuestos por el artículo 59, puede incurrir en responsabilidad por:
+
+- mal desempeño del cargo;
+- violación de la ley;
+- violación del estatuto;
+- violación del reglamento;
+- dolo;
+- abuso de facultades;
+- culpa grave.
+
+Estos supuestos son desarrollados posteriormente por el régimen especial de responsabilidad de los administradores.
+
+---
+
+# El artículo 59 como criterio rector
+
+Nissen explica que las normas especiales sobre responsabilidad remiten permanentemente al artículo 59.
+
+Así ocurre, por ejemplo, con el régimen de responsabilidad de los directores de la sociedad anónima previsto en el artículo 274 LGS, que toma como punto de partida el criterio del artículo 59. 
+
+---
+
+# Coincidencias doctrinarias
+
+| Nissen | Vítolo |
+|---------|---------|
+| El art. 59 establece un principio general aplicable a todos los administradores. | El art. 59 contiene el estándar general de conducta de la administración societaria. |
+| La diligencia debe apreciarse según la función desempeñada. | La diligencia debe juzgarse conforme a la actuación profesional del administrador. |
+| El incumplimiento constituye el fundamento del régimen de responsabilidad posterior. | El artículo 59 es la base de los deberes de actuación de los administradores. |
+
+---
+
+# Esquema del artículo 59
+
+```{mermaid}
+flowchart TD
+
+A[Administrador]
+
+A --> B[Lealtad]
+
+A --> C[Diligencia del buen hombre de negocios]
+
+B --> D[Actuar en interés de la sociedad]
+
+C --> E[Gestión profesional]
+
+D --> F[Cumplimiento del art. 59]
+
+E --> F
+
+F --> G[Base del régimen de responsabilidad]
+```
+
+---
+
+# Designación e inscripción de administradores
+
+## Artículo 60 LGS
+
+El artículo 60 dispone que toda designación y cesación de administradores debe inscribirse en el Registro Público.
+
+La inscripción debe contener, como mínimo:
+
+- datos identificatorios del administrador;
+- domicilio especial, cuando corresponda;
+- plazo del mandato;
+- forma de actuación cuando exista representación plural.
+
+La publicidad registral procura otorgar certeza respecto de quiénes se encuentran legitimados para representar a la sociedad frente a terceros.
+
+---
+
+# Finalidad de la inscripción
+
+La inscripción cumple una función de publicidad.
+
+Permite que los terceros conozcan:
+
+- quién ejerce la administración;
+- quién posee la representación legal;
+- cuándo cesó un administrador;
+- cuál es el alcance de sus facultades.
+
+La registración fortalece la seguridad del tráfico jurídico
+
+---
+
+# Naturaleza de la inscripción
+
+Nissen recuerda que la inscripción prevista por el artículo 60 tiene **carácter declarativo**.
+
+En consecuencia:
+
+- el nombramiento del administrador no nace con la inscripción;
+- la inscripción cumple una función de publicidad;
+- su principal efecto consiste en tornar la designación oponible a terceros.
+
+---
+
+# Oponibilidad frente a terceros
+
+Mientras la designación no se inscriba:
+
+- pueden suscitarse dificultades respecto de su oponibilidad;
+- la publicidad registral brinda certeza acerca de la legitimación del representante.
+
+La registración protege tanto a la sociedad como a quienes contratan con ella.
+
+---
+
+# Designación y cesación
+
+La exigencia de inscripción comprende:
+
+- la designación de administradores;
+- la cesación;
+- la sustitución;
+- cualquier modificación relevante relativa al ejercicio del cargo.
+
+No sólo interesa conocer quién administra actualmente la sociedad, sino también cuándo dejó de hacerlo.
+
+---
+
+# Relación con el artículo 58
+
+Los artículos 58 y 60 se complementan.
+
+- El artículo 58 determina **quién puede obligar a la sociedad**.
+- El artículo 60 determina **cómo esa representación se hace pública frente a terceros**.
+
+Representación y publicidad registral constituyen dos aspectos inseparables del sistema legal
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Designación]
+
+A --> B[Inscripción]
+
+B --> C[Publicidad]
+
+C --> D[Oponibilidad]
+
+D --> E[Seguridad del tráfico jurídico]
+```
+
+---
+
+# Ideas principales
+
+- La inscripción del artículo 60 posee carácter **declarativo**.
+- Su finalidad principal es la **publicidad**.
+- La publicidad favorece la **oponibilidad** frente a terceros.
+- Deben inscribirse tanto la **designación** como la **cesación** de los administradores.
+- El artículo 60 complementa el régimen de representación previsto por el artículo 58. 
+
+---
+
+# Régimen general de responsabilidad
+
+La responsabilidad de los administradores constituye la consecuencia jurídica del incumplimiento de los deberes impuestos por la Ley General de Sociedades.
+
+Los artículos 58, 59 y 60 conforman un sistema integrado:
+
+- el artículo 58 delimita las facultades de representación;
+- el artículo 59 establece el estándar de conducta;
+- el artículo 60 asegura la publicidad de quienes ejercen la administración.
+
+La violación de cualquiera de estos deberes puede generar responsabilidad del administrador.
+
+---
+
+# Fuentes de responsabilidad
+
+Vítolo explica que la responsabilidad del administrador puede derivar de distintos supuestos.
+
+Entre ellos:
+
+- violación de la ley;
+- violación del contrato constitutivo;
+- violación del reglamento;
+- incumplimiento de los deberes propios del cargo;
+- actuación desleal;
+- actuación negligente.
+
+---
+
+# Obligaciones del administrador
+
+El administrador asume:
+
+## Obligaciones generales
+
+Derivadas de los artículos 58 y 59 de la Ley General de Sociedades.
+
+## Obligaciones específicas
+
+Aquellas que la ley impone según el tipo societario y el cargo desempeñado.
+
+Vítolo distingue ambos planos para explicar el fundamento del régimen general de responsabilidad. 
+
+
+---
+
+# Administración plural
+
+Cuando la administración corresponde a varias personas:
+
+la responsabilidad dependerá:
+
+- de la organización prevista para el órgano;
+- de la intervención efectiva de cada administrador;
+- del régimen legal aplicable al tipo societario.
+
+No toda actuación de un integrante determina automáticamente la responsabilidad de los restantes.
+
+---
+
+# Cese del administrador
+
+El cese en el cargo pone fin, como regla, a las obligaciones derivadas de la administración.
+
+Sin embargo, Vítolo destaca que ello no elimina la responsabilidad por los actos realizados durante el ejercicio del cargo.
+
+La inscripción de la cesación prevista en el artículo 60 cumple un papel relevante respecto de su oponibilidad frente a terceros.
+
+---
+
+# Clasificación de los incumplimientos
+
+Vítolo desarrolla el artículo 59 distinguiendo distintos supuestos.
+
+Entre ellos:
+
+- actuación desleal;
+- falta de diligencia;
+- incumplimiento de obligaciones legales;
+- incumplimiento de obligaciones estatutarias.
+
+Todos ellos pueden constituir fuente de responsabilidad del administrador.
+
+---
+
+# Prescripción
+
+La responsabilidad de los administradores se encuentra sometida a un plazo de prescripción.
+
+Vítolo analiza:
+
+- el comienzo del cómputo;
+- los supuestos de suspensión;
+- los efectos del cese del administrador sobre dicho plazo.
+
+---
+
+# Dispensa de responsabilidad
+
+La ley contempla supuestos en los cuales la responsabilidad puede verse limitada.
+
+Vítolo distingue entre:
+
+- eximición;
+- extinción;
+- dispensa.
+
+Aclara que la mera ausencia o abstención del administrador no basta, por sí sola, para excluir su responsabilidad cuando subsisten los presupuestos legales para atribuírsela.
+
+---
+
+# Ideas finales
+
+```{mermaid}
+flowchart TD
+
+A[Administrador]
+
+A --> B[Representación<br>Art. 58]
+
+A --> C[Lealtad y diligencia<br>Art. 59]
+
+A --> D[Publicidad registral<br>Art. 60]
+
+B --> E[Responsabilidad]
+
+C --> E
+
+D --> E
+```
+
+---
+
+# Conclusiones
+
+## Organización de la administración
+
+- La administración y la representación cumplen funciones distintas, aunque frecuentemente recaen en las mismas personas.
+- La teoría del órgano explica la imputación de los actos del administrador a la sociedad.
+- El artículo 58 protege el tráfico jurídico mediante la representación orgánica y el principio de apariencia.
+- El artículo 59 fija el estándar de actuación basado en la lealtad y la diligencia del buen hombre de negocios.
+- El artículo 60 garantiza la publicidad registral de quienes ejercen la administración.
+
+Estos tres artículos constituyen el régimen general aplicable a la administración de todas las sociedades reguladas por la Ley General de Sociedades. 
+
+---
+

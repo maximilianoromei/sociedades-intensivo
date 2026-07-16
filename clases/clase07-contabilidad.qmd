@@ -1,0 +1,1149 @@
+---
+title: "Clase 7 — Contabilidad"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Documentación y contabilidad societaria
+
+La contabilidad permite registrar, ordenar y reconstruir las operaciones de una persona que desarrolla una actividad económica.
+
+En materia societaria, su importancia excede el interés interno de la sociedad.
+
+La documentación contable permite:
+
+- conocer la situación patrimonial, económica y financiera;
+- seguir la evolución de los negocios;
+- informar a los socios;
+- proteger a quienes contratan con la sociedad;
+- reconstruir el patrimonio en caso de concurso o quiebra;
+- controlar la actuación de los administradores.
+
+---
+
+# Sujetos obligados a llevar contabilidad
+
+## Artículo 320 CCyC
+
+Nissen recuerda que están obligados a llevar contabilidad:
+
+- las personas jurídicas privadas;
+- quienes realizan una actividad económica organizada;
+- quienes son titulares de una empresa o establecimiento comercial, industrial, agropecuario o de servicios.
+
+El Código Civil y Comercial también permite que otras personas lleven contabilidad voluntariamente, siempre que soliciten la inscripción y habilitación de sus registros.
+
+---
+
+# La contabilidad y los terceros
+
+Nissen destaca que la contabilidad interesa a la comunidad y al tráfico mercantil.
+
+Permite a quienes contratan con la sociedad conocer:
+
+- la evolución de sus negocios;
+- su estado patrimonial;
+- su situación financiera;
+- la composición de su activo y pasivo.
+
+La información contable contribuye a reducir la incertidumbre de quienes mantienen relaciones jurídicas con la sociedad.
+
+---
+
+# Contabilidad y procesos concursales
+
+La contabilidad permite reconstruir el patrimonio de la sociedad.
+
+Esta función adquiere especial importancia cuando la sociedad atraviesa:
+
+- un concurso preventivo;
+- una quiebra.
+
+Los registros permiten reconstruir las operaciones realizadas, identificar bienes, obligaciones y movimientos patrimoniales y analizar la evolución de la situación económica de la sociedad.
+
+---
+
+# La contabilidad como medio de prueba
+
+La contabilidad también beneficia a quien la lleva.
+
+Cuando se encuentra confeccionada en legal forma, puede ser utilizada para probar las operaciones realizadas en caso de conflicto.
+
+Nissen vincula esta eficacia probatoria con el artículo 330 del Código Civil y Comercial.
+
+La fuerza probatoria depende del cumplimiento de las exigencias legales aplicables a los libros y registros contables.
+
+---
+
+# La contabilidad y el derecho de información
+
+Tratándose de sociedades, la contabilidad constituye un presupuesto para el ejercicio del derecho de información de los socios.
+
+Sólo mediante una contabilidad regular pueden conocer:
+
+- la marcha de los negocios sociales;
+- la evolución del patrimonio;
+- los resultados obtenidos;
+- la gestión de los administradores.
+
+Nissen relaciona esta función con el derecho de contralor reconocido por el artículo 55 LGS.
+
+---
+
+# Responsabilidad por la contabilidad
+
+La obligación de llevar regularmente los libros societarios y contables corresponde a los administradores.
+
+Según Nissen:
+
+- la inexistencia de contabilidad;
+- su irregularidad;
+- la falta de documentación respaldatoria;
+
+pueden constituir causa suficiente para la remoción de los administradores.
+
+También corresponde a la sindicatura controlar el cumplimiento de esas obligaciones.
+
+---
+
+# La explicación de Vítolo
+
+Vítolo distingue la contabilidad moderna de la mera teneduría de libros.
+
+La contabilidad no se limita a anotar operaciones.
+
+Cumple tres funciones básicas:
+
+1. registrar las cifras e informaciones necesarias para el desarrollo de la actividad;
+2. analizar la información reunida;
+3. suministrar información sobre los resultados a las personas interesadas.
+
+La información contable sirve tanto para conocer el pasado como para orientar las decisiones futuras.
+
+---
+
+# Contabilidad y planificación
+
+Vítolo destaca que la información y la contabilidad son instrumentos esenciales para administrar una empresa.
+
+Permiten:
+
+- planear la actividad;
+- comprobar sus resultados;
+- comparar la evolución de los negocios;
+- analizar los ingresos y egresos;
+- orientar las decisiones futuras.
+
+La contabilidad posee, por lo tanto, una función histórica, comprobatoria e informativa.
+
+---
+
+# Normas contables
+
+Vítolo señala que el régimen de contabilidad se encuentra orientado por normas profesionales.
+
+Menciona:
+
+- las Normas Contables Profesionales;
+- los Principios de Contabilidad Generalmente Aceptados;
+- las Normas Contables Legales;
+- las Normas de Información Financiera.
+
+Estas normas proporcionan criterios para la preparación, valuación y exposición de la información contable.
+
+---
+
+# Libros y registros indispensables
+
+## Artículo 322 CCyC
+
+Nissen identifica como registros indispensables:
+
+- el Libro Diario;
+- el Libro Inventario y Balances;
+- los registros necesarios para integrar adecuadamente el sistema contable;
+- los libros exigidos específicamente por el Código o por otras leyes.
+
+A estos registros contables se agregan los libros societarios exigidos por la Ley General de Sociedades.
+
+---
+
+# El Libro Diario
+
+En el Libro Diario deben registrarse las operaciones relativas a la actividad que produzcan efectos sobre el patrimonio.
+
+Los asientos pueden realizarse:
+
+- individualmente;
+- mediante registros resumidos que no comprendan períodos superiores a un mes.
+
+Los asientos globales deben surgir de anotaciones detalladas contenidas en registros auxiliares.
+
+---
+
+# Libro Inventario y Balances
+
+El Libro Inventario y Balances es un registro cronológico.
+
+En él deben asentarse:
+
+- los bienes y derechos pertenecientes a la sociedad;
+- las obligaciones a su cargo;
+- la información correspondiente a la constitución;
+- los estados contables de cada ejercicio.
+
+La información debe encontrarse valuada a la fecha correspondiente.
+
+---
+
+# Libros auxiliares
+
+El sistema contable puede requerir otros registros en función de la importancia y naturaleza de la actividad.
+
+Nissen menciona, entre otros:
+
+- Libro Mayor o de Cuentas Corrientes;
+- Libro Caja;
+- Libro Bancos;
+- Libro Compras;
+- Libro Ventas;
+- registros de Ganancias y Pérdidas.
+
+Estos libros complementan la información asentada en los registros indispensables.
+
+---
+
+# Libros contables y libros societarios
+
+```{mermaid}
+flowchart LR
+
+A[Registros de la sociedad]
+
+A --> B[Libros contables]
+
+A --> C[Libros societarios]
+
+B --> D[Diario]
+
+B --> E[Inventario y Balances]
+
+B --> F[Registros auxiliares]
+
+C --> G[Actas]
+
+C --> H[Asistencia a asambleas]
+
+C --> I[Registro de acciones]
+```
+
+Los libros contables reflejan las operaciones patrimoniales.
+
+Los libros societarios documentan el funcionamiento interno de los órganos de la sociedad.
+
+---
+
+# Requisitos de los registros
+
+Según el artículo 325 CCyC, los libros y registros contables deben llevarse:
+
+- en forma cronológica;
+- de manera actualizada;
+- sin alteraciones que no hayan sido debidamente salvadas;
+- en idioma nacional;
+- en moneda nacional.
+
+Además, deben permitir determinar al cierre de cada ejercicio:
+
+- la situación patrimonial;
+- su evolución;
+- los resultados obtenidos.
+
+---
+
+# Domicilio de los registros
+
+Los libros y registros deben permanecer en el domicilio de su titular.
+
+Vítolo destaca que la fijación de un lugar determinado permite precisar dónde deben realizarse:
+
+- las tareas de control;
+- las diligencias probatorias;
+- el examen de los libros y documentación respaldatoria.
+
+La regla procura evitar controversias sobre la ubicación de la información contable.
+
+---
+
+# Conservación de la documentación
+
+Vítolo explica que los libros, registros y documentación respaldatoria deben conservarse durante diez años.
+
+El plazo se computa:
+
+- desde el último asiento, para los libros;
+- desde la última anotación, para los restantes registros;
+- desde la fecha de emisión, para los documentos respaldatorios.
+
+---
+
+# Confidencialidad de la contabilidad
+
+El régimen mantiene el principio de confidencialidad.
+
+Vítolo señala que:
+
+- no se admiten investigaciones generales destinadas simplemente a determinar si una persona lleva contabilidad;
+- el examen probatorio debe limitarse a las cuestiones concretamente debatidas;
+- puede analizarse el sistema general sólo para verificar si cumple con las prescripciones legales.
+
+---
+
+# Registros digitales
+
+## Artículo 61 LGS
+
+La Ley General de Sociedades admite que los libros societarios y contables sean llevados mediante registros digitales.
+
+Nissen explica que la reforma introducida por la Ley 27.444 permitió prescindir de las formalidades tradicionales para utilizar sistemas digitales.
+
+La posibilidad comprende:
+
+- libros contables;
+- libros societarios;
+- documentación y registros vinculados.
+
+---
+
+# Requisitos del sistema digital
+
+El sistema de contabilización debe permitir:
+
+- individualizar las operaciones;
+- identificar las cuentas deudoras y acreedoras;
+- verificar posteriormente las registraciones;
+- mantener el tracto registral.
+
+Los registros públicos deben implementar mecanismos destinados a comprobar ese tracto.
+
+---
+
+# Registros digitales y SAS
+
+Nissen recuerda que el régimen digital se vincula con el sistema previsto para las sociedades por acciones simplificadas.
+
+En las SAS, los registros digitales son obligatorios.
+
+Para las sociedades regidas por la LGS, la adopción del sistema digital es facultativa.
+
+La utilización de medios digitales no elimina la obligación de asegurar la integridad y verificabilidad de la información.
+
+---
+
+# Requisitos técnicos de los registros alternativos
+
+Vítolo señala que los medios electrónicos, magnéticos u ópticos deben garantizar:
+
+- inalterabilidad;
+- inviolabilidad;
+- verosimilitud;
+- completitud.
+
+El medio utilizado puede variar, pero debe preservar la seguridad y confiabilidad del sistema contable.
+
+---
+
+# Síntesis inicial
+
+```{mermaid}
+flowchart TD
+
+A[Contabilidad societaria]
+
+A --> B[Registro de operaciones]
+
+A --> C[Información]
+
+A --> D[Prueba]
+
+A --> E[Control]
+
+B --> F[Libros contables]
+
+C --> G[Socios y terceros]
+
+D --> H[Conflictos judiciales]
+
+E --> I[Administradores y sindicatura]
+```
+
+La contabilidad constituye simultáneamente:
+
+- un sistema de registración;
+- un medio de información;
+- un instrumento de control;
+- un elemento probatorio.
+
+---
+
+# Los libros societarios
+
+A diferencia del empresario individual, las sociedades deben llevar, además de los libros contables, determinados **libros societarios**.
+
+Su finalidad no consiste en registrar operaciones económicas, sino en documentar la vida institucional de la sociedad.
+
+Nissen destaca que su importancia excede el ámbito interno de la sociedad, pues permiten reconstruir el funcionamiento de sus órganos y verificar la regularidad de sus decisiones.
+
+---
+
+# Libros societarios obligatorios
+
+Entre los principales libros societarios se encuentran:
+
+- Libro de Actas de Asambleas.
+- Libro de Actas del Directorio u órgano de administración colegiado.
+- Libro de Registro de Asistencia a Asambleas.
+- Libro de Registro de Acciones.
+
+Cada uno cumple una función diferente dentro de la organización societaria.
+
+---
+
+# Clasificación
+
+```{mermaid}
+flowchart TD
+
+A[Libros societarios]
+
+A --> B[Actas de Asamblea]
+
+A --> C[Actas del Directorio]
+
+A --> D[Registro de Asistencia]
+
+A --> E[Registro de Acciones]
+```
+
+Todos ellos se encuentran sujetos a las formalidades previstas para los libros de comercio.
+
+---
+
+# Libro de Actas de Asambleas
+
+Su existencia deriva de los artículos 73 y 249 de la Ley General de Sociedades.
+
+En él deben asentarse:
+
+- las manifestaciones realizadas por los accionistas;
+- la forma de las votaciones;
+- sus resultados;
+- las decisiones adoptadas.
+
+Su finalidad consiste en documentar la actuación del órgano de gobierno.
+
+---
+
+# Contenido del acta
+
+El acta debe contener, entre otros aspectos:
+
+- resumen de las deliberaciones;
+- desarrollo de las votaciones;
+- resultado obtenido;
+- texto completo de las resoluciones aprobadas.
+
+De esta forma puede reconstruirse posteriormente lo ocurrido durante la asamblea.
+
+---
+
+# Redacción del acta
+
+La Ley General de Sociedades **no exige** que el acta sea redactada durante el desarrollo de la asamblea.
+
+Para agilizar el funcionamiento del órgano:
+
+- la propia asamblea designa a quienes deberán suscribir el acta;
+- dichos accionistas certifican posteriormente la fidelidad de lo acontecido.
+
+El acta será firmada por ellos y por el presidente del directorio o representante legal.
+
+---
+
+# Libro de Actas del Directorio
+
+El libro de actas del directorio documenta el funcionamiento del órgano de administración.
+
+En él deben registrarse:
+
+- deliberaciones;
+- votaciones;
+- resoluciones adoptadas.
+
+A diferencia del acta de asamblea, debe confeccionarse durante el desarrollo de la reunión.
+
+---
+
+# Firma del acta del Directorio
+
+Las actas del directorio deben ser firmadas:
+
+- por todos los directores presentes;
+
+al finalizar la reunión.
+
+Ello asegura la autenticidad de las deliberaciones y decisiones adoptadas.
+
+---
+
+# Aplicación a otros órganos colegiados
+
+Nissen aclara que este régimen no se limita al directorio.
+
+También resulta aplicable cuando:
+
+- la administración se organiza colegiadamente en otros tipos sociales;
+- funciona un consejo de vigilancia;
+- existe una sindicatura plural o comisión fiscalizadora.
+
+La obligación deriva del artículo 73 LGS.
+
+---
+
+# Derecho de información
+
+Los socios pueden solicitar copia de las actas.
+
+Nissen entiende que este derecho no debe limitarse exclusivamente a las actas de asamblea.
+
+También pueden requerirse copias de las actas de los restantes órganos colegiados cuando ello resulte necesario para:
+
+- controlar la gestión;
+- impugnar resoluciones;
+- evaluar la actuación de administradores y síndicos.
+
+---
+
+# Registro de Asistencia a Asambleas
+
+El artículo 238 LGS exige llevar un libro especial de asistencia.
+
+En él deben registrarse:
+
+- los accionistas que comunicaron su asistencia;
+- sus datos identificatorios;
+- la cantidad de votos;
+- los representantes que concurran en su nombre.
+
+---
+
+# Finalidad del Registro de Asistencia
+
+Este libro complementa el Libro de Actas de Asamblea.
+
+Su principal función consiste en acreditar:
+
+- la integración del quórum;
+- la legitimación de quienes participaron;
+- la cantidad de votos presentes.
+
+Por ello posee especial importancia para verificar la regularidad del acto asambleario.
+
+---
+
+# Libro de Registro de Acciones
+
+El artículo 213 LGS exige llevar un Libro de Registro de Acciones.
+
+Este libro reviste especial importancia desde la instauración de la nominatividad obligatoria de las acciones.
+
+Según Nissen, la calidad de accionista se adquiere, frente a la sociedad, mediante la inscripción de la transferencia en dicho registro.
+
+---
+
+# Contenido del Registro de Acciones
+
+Deben registrarse, entre otras cuestiones:
+
+- clases de acciones;
+- derechos y obligaciones correspondientes;
+- estado de integración;
+- nombre del suscriptor;
+- transferencias;
+- medidas cautelares;
+- modificaciones de la situación jurídica de las acciones.
+
+---
+
+# Particularidades de la SRL
+
+En las sociedades de responsabilidad limitada existe un libro especial destinado a documentar las decisiones sociales.
+
+Ello resulta coherente con el sistema que admite la adopción de acuerdos mediante:
+
+- comunicación escrita;
+- respuesta a consultas efectuadas por la gerencia;
+- declaración escrita de todos los socios.
+
+Las respuestas deben conservarse durante tres años.
+
+---
+
+# Pérdida o sustracción de los libros
+
+La desaparición de los libros societarios no impide el funcionamiento de la sociedad.
+
+Nissen sostiene que:
+
+- las reuniones pueden celebrarse igualmente;
+- las actas pueden documentarse inicialmente en instrumentos públicos o privados;
+- posteriormente deberán transcribirse a los nuevos libros rubricados.
+
+Critica el criterio restrictivo adoptado por la Inspección General de Justicia sobre este punto.
+
+---
+
+# Importancia práctica
+
+Los libros societarios permiten:
+
+- reconstruir la historia institucional de la sociedad;
+- controlar la legalidad de las decisiones;
+- acreditar el funcionamiento regular de los órganos;
+- ejercer el derecho de información;
+- impugnar resoluciones cuando corresponda.
+
+Constituyen uno de los pilares de la organización societaria.
+
+---
+
+# Síntesis
+
+```{mermaid}
+flowchart TD
+
+A[Libros societarios]
+
+A --> B[Documentan órganos]
+
+B --> C[Asamblea]
+
+B --> D[Administración]
+
+B --> E[Fiscalización]
+
+C --> F[Control de legalidad]
+
+D --> G[Responsabilidad]
+
+E --> H[Derecho de información]
+```
+
+---
+
+# Los estados contables
+
+Los administradores no rinden cuentas mediante el procedimiento general del Código Civil y Comercial.
+
+Nissen explica que, en materia societaria, la rendición de cuentas se cumple mediante la elaboración de los **estados contables**, cuyo contenido se encuentra minuciosamente reglamentado por la Ley General de Sociedades.
+
+El sistema comprende:
+
+- Balance (art. 63).
+- Estado de resultados (art. 64).
+- Cuadros y notas complementarias (art. 65).
+- Memoria (art. 66).
+- Informe de la sindicatura (art. 294 inc. 5°).
+
+Además, las normas técnicas exigen un informe de auditor independiente. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Función de los estados contables
+
+Los estados contables constituyen una rendición periódica de la gestión de los administradores.
+
+Permiten conocer:
+
+- la situación patrimonial;
+- la situación económica;
+- la situación financiera;
+- los resultados del ejercicio.
+
+Nissen destaca que la detallada regulación legal responde al interés que reviste la transparencia de la información societaria, especialmente en las sociedades por acciones. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Artículo 62 LGS
+
+## Ámbito de aplicación
+
+Las disposiciones de los artículos **62 a 66** se aplican:
+
+- a las sociedades por acciones;
+- a las SRL comprendidas en el artículo 299 inciso 2.
+
+Las restantes sociedades confeccionan sus estados contables conforme al artículo 326 del Código Civil y Comercial. 
+
+---
+
+# Preparación de los estados contables
+
+La confección corresponde a los administradores.
+
+Aunque habitualmente deleguen la tarea en profesionales en ciencias económicas,
+
+**esa delegación no elimina ni atenúa su responsabilidad** respecto del contenido de los estados contables.
+
+Los administradores conservan la responsabilidad jurídica por su elaboración. :contentReference[oaicite:4]{index=4}
+
+---
+
+# Aprobación
+
+Los estados contables requieren dos aprobaciones sucesivas.
+
+## Primera
+
+El órgano de administración.
+
+Aprueba:
+
+- los estados contables;
+- la memoria;
+- la convocatoria al órgano de gobierno.
+
+## Segunda
+
+La reunión de socios o la asamblea.
+
+Sólo entonces los estados contables producen plenamente los efectos jurídicos previstos por la ley. Hasta ese momento constituyen simples proyectos. :contentReference[oaicite:5]{index=5}
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Administradores]
+
+A --> B[Confección]
+
+B --> C[Aprobación del órgano de administración]
+
+C --> D[Convocatoria]
+
+D --> E[Asamblea o reunión de socios]
+
+E --> F[Aprobación definitiva]
+```
+
+---
+
+# Publicidad
+
+Nissen observa que la Ley General de Sociedades obliga a determinadas sociedades a remitir copia de los estados contables a la autoridad de control.
+
+Critica que esa obligación no se haya extendido a otras sociedades, particularmente a las SRL, donde los terceros también poseen un interés relevante en conocer su situación patrimonial debido a la limitación de responsabilidad de los socios. :contentReference[oaicite:6]{index=6}
+
+---
+
+# Balance
+
+## Artículo 63
+
+Vítolo define al balance como un estado de situación patrimonial elaborado conforme a reglas técnicas.
+
+Su finalidad consiste en suministrar información sobre:
+
+- la magnitud del activo;
+- la composición del pasivo;
+- el patrimonio neto;
+- la situación patrimonial de la sociedad. :contentReference[oaicite:7]{index=7}
+
+---
+
+# Información que proporciona
+
+Según Vítolo, el balance permite conocer:
+
+- la financiación de la empresa;
+- su solvencia;
+- su liquidez.
+
+Asimismo puede complementarse con:
+
+- información sobre aplicación de utilidades;
+- detalle de partidas;
+- cuadros comparativos;
+- gráficos explicativos;
+- memoria del directorio. :contentReference[oaicite:8]{index=8}
+
+---
+
+# Estado de resultados
+
+## Artículo 64
+
+El estado de resultados informa:
+
+- ingresos;
+- gastos;
+- ganancias;
+- pérdidas;
+
+correspondientes al ejercicio.
+
+Su finalidad consiste en determinar el resultado económico obtenido durante el período analizado. :contentReference[oaicite:9]{index=9}
+
+---
+
+# Contenido del estado de resultados
+
+Debe exponer separadamente:
+
+- operaciones ordinarias;
+- operaciones extraordinarias;
+- ajustes correspondientes a ejercicios anteriores.
+
+No pueden compensarse partidas entre sí.
+
+Asimismo debe complementarse con el estado de evolución del patrimonio neto (hoy, estado de flujos de efectivo). :contentReference[oaicite:10]{index=10}
+
+---
+
+# Notas y cuadros complementarios
+
+## Artículo 65
+
+Las notas complementarias tienen por finalidad ampliar la información contenida en los estados contables.
+
+Vítolo destaca que permiten explicar especialmente:
+
+- criterios de valuación;
+- composición de los distintos rubros;
+- contingencias;
+- hechos posteriores al cierre;
+- demás cuestiones relevantes para interpretar correctamente los estados contables. :contentReference[oaicite:11]{index=11}
+
+---
+
+# La explicación de Nissen
+
+Nissen señala que las notas y cuadros anexos contienen información indispensable que no surge del balance ni del estado de resultados.
+
+Por ello constituyen parte integrante de los estados contables y permiten su adecuada interpretación. :contentReference[oaicite:12]{index=12}
+
+---
+
+# Sistema de estados contables
+
+```{mermaid}
+flowchart TD
+
+A[Estados contables]
+
+A --> B[Balance]
+
+A --> C[Estado de resultados]
+
+A --> D[Notas]
+
+A --> E[Memoria]
+
+A --> F[Informe de sindicatura]
+
+Todos --> G[Información económica y financiera]
+```
+
+---
+
+---
+
+# La memoria
+
+## Artículo 66 LGS
+
+La memoria integra los estados contables.
+
+Es el documento mediante el cual los administradores informan a los socios:
+
+- la marcha de la sociedad;
+- la situación actual de la empresa;
+- las operaciones realizadas;
+- las operaciones en curso;
+- las perspectivas futuras.
+
+Nissen destaca que la memoria cumple una función explicativa y complementa la información contenida en los estados contables.
+
+---
+
+# Finalidad de la memoria
+
+La Ley General de Sociedades procura evitar memorias meramente formales.
+
+Por ello exige una información:
+
+- veraz;
+- suficiente;
+- circunstanciada;
+- completa.
+
+La memoria debe permitir comprender las variaciones producidas durante el ejercicio y las razones de las decisiones adoptadas por la administración.
+
+---
+
+# Contenido obligatorio
+
+El artículo 66 exige incluir, entre otros aspectos:
+
+- razones de las variaciones del activo y del pasivo;
+- explicación de ganancias y pérdidas extraordinarias;
+- fundamentos para constituir reservas;
+- fundamentos de la propuesta de distribución de dividendos;
+- perspectivas futuras de la sociedad;
+- relaciones con sociedades controladas, controlantes o vinculadas.
+
+---
+
+# Importancia de la memoria
+
+Nissen sostiene que la memoria resulta indispensable para interpretar correctamente los estados contables.
+
+Su insuficiencia o inexistencia puede afectar la validez de la decisión asamblearia que aprueba dichos estados.
+
+La memoria constituye una verdadera explicación jurídica y económica de los estados contables.
+
+---
+
+# Informe de la sindicatura
+
+## Artículo 294 inciso 5°
+
+Cuando existe órgano de fiscalización, la sindicatura debe presentar un informe escrito y fundado.
+
+Debe pronunciarse sobre:
+
+- memoria;
+- inventario;
+- balance;
+- estado de resultados.
+
+Su finalidad consiste en brindar a los socios una opinión técnica independiente acerca de la regularidad de los estados contables.
+
+---
+
+# Informe de sindicatura y auditoría
+
+Nissen distingue claramente ambos documentos.
+
+## Informe de sindicatura
+
+- previsto por la Ley General de Sociedades;
+- elaborado por el síndico.
+
+## Dictamen de auditoría
+
+- exigido por normas profesionales;
+- elaborado por contador público independiente.
+
+No cumplen exactamente la misma función.
+
+---
+
+# Independencia
+
+Nissen destaca que:
+
+la misma persona no debe desempeñarse simultáneamente como:
+
+- síndico;
+- auditor o certificante de los estados contables.
+
+Ello comprometería la independencia exigible al órgano de fiscalización.
+
+Cita un precedente judicial que rechaza esa superposición de funciones.
+
+---
+
+# Estados contables consolidados
+
+## Artículo 62
+
+Las sociedades controlantes deben presentar, como información complementaria,
+
+**estados contables consolidados**.
+
+Su finalidad consiste en mostrar la situación económica y financiera del conjunto del grupo empresario y no únicamente de la sociedad controlante.
+
+---
+
+# Finalidad de la consolidación
+
+Los estados consolidados permiten:
+
+- apreciar el verdadero patrimonio del grupo;
+- conocer la situación económica global;
+- brindar información más completa a socios y terceros.
+
+Nissen señala que constituyen una exigencia propia de las sociedades controlantes.
+
+---
+
+# Derecho de los socios
+
+## Artículos 67 y 69
+
+Los estados contables constituyen una rendición de cuentas de los administradores.
+
+Por ello la ley reconoce a los socios el derecho a:
+
+- analizarlos;
+- requerir información;
+- aprobarlos;
+- impugnarlos.
+
+Estos derechos poseen carácter irrenunciable.
+
+---
+
+# Información previa
+
+Los administradores deben poner a disposición de los socios, con anticipación legal:
+
+- balance;
+- estado de resultados;
+- estado de evolución del patrimonio neto;
+- notas;
+- cuadros anexos.
+
+Cuando corresponda también:
+
+- memoria;
+- informe de la sindicatura.
+
+La finalidad consiste en permitir un voto informado.
+
+---
+
+# Derecho de información
+
+Los socios pueden solicitar:
+
+- aclaraciones;
+- informes;
+- explicaciones;
+- rendición de cuentas respecto de operaciones concretas.
+
+Según Nissen, la negativa injustificada de los administradores puede constituir fundamento suficiente para impugnar la decisión que apruebe los estados contables.
+
+---
+
+# Impugnación
+
+La resolución que aprueba los estados contables puede ser impugnada.
+
+Entre los supuestos desarrollados por Nissen se encuentran:
+
+- estados contables falsos;
+- estados contables irregulares;
+- falta de información;
+- incumplimiento del artículo 67;
+- insuficiencia de la memoria;
+- inexistencia del informe de sindicatura.
+
+---
+
+# Principio de unidad
+
+La aprobación de los estados contables constituye una decisión única.
+
+No es posible separar:
+
+- balance;
+- estado de resultados;
+- memoria;
+- notas;
+- cuadros;
+- informe de sindicatura.
+
+Todos integran un único sistema de información.
+
+Por ello la irregularidad de cualquiera de ellos puede afectar la validez del acuerdo asambleario.
+
+---
+
+# Facultades de la autoridad de control
+
+La Comisión Nacional de Valores y las demás autoridades competentes pueden exigir:
+
+- estados complementarios;
+- información financiera adicional;
+- análisis de liquidez;
+- estado de origen y aplicación de fondos (hoy reemplazado por el estado de flujo de efectivo).
+
+La finalidad consiste en proteger adecuadamente al público inversor.
+
+---
+
+# Esquema final
+
+```{mermaid}
+flowchart TD
+
+A[Estados contables]
+
+A --> B[Balance]
+
+A --> C[Estado de resultados]
+
+A --> D[Notas]
+
+A --> E[Memoria]
+
+A --> F[Informe de sindicatura]
+
+A --> G[Estados consolidados]
+
+A --> H[Información a los socios]
+
+H --> I[Aprobación]
+
+H --> J[Impugnación]
+```
+
+---
+
+# Conclusiones
+
+- La documentación societaria constituye un sistema integrado de información.
+- Los administradores son responsables de su confección.
+- Los estados contables permiten ejercer el derecho de información de los socios.
+- La memoria y el informe de sindicatura complementan la información económica.
+- Los socios cuentan con derechos irrenunciables de información, aprobación e impugnación.
+- La transparencia contable constituye uno de los pilares del régimen societario argentino.
+
+---

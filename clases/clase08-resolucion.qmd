@@ -1,0 +1,1454 @@
+---
+title: "Clase 8 — Resolución de Sociedades"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Estructura del capítulo
+
+```{mermaid}
+flowchart TD
+
+A[Resolución del contrato social]
+
+A --> B[Resolución parcial]
+
+A --> C[Disolución]
+
+C --> D[Liquidación]
+
+D --> E[Cancelación registral]
+```
+
+---
+
+# Una aclaración inicial
+
+Vítolo observa que la Ley General de Sociedades regula conjuntamente:
+
+- la resolución parcial;
+- la disolución.
+
+Sin embargo, destaca que se trata de institutos distintos.
+
+Mientras la resolución parcial procura la continuidad de la sociedad,
+
+la disolución marca el comienzo de su extinción mediante la liquidación. 
+
+---
+
+# La crítica doctrinaria
+
+Gran parte de la doctrina ha cuestionado la técnica legislativa empleada en la Sección XII de la Ley General de Sociedades.
+
+Según esa postura,
+
+la resolución parcial y la disolución:
+
+- no son instituciones complementarias;
+- poseen presupuestos diferentes;
+- producen consecuencias opuestas.
+
+Vítolo reconoce la crítica, aunque considera que carece de trascendencia práctica. 
+
+---
+
+# ¿Por qué no es trascendente?
+
+Según Vítolo,
+
+existe una conexión entre ambos institutos.
+
+```{mermaid}
+flowchart TD
+
+A[Resolución total]
+
+A --> B[Disolución]
+
+C[Resolución parcial]
+
+C --> D[Continuidad de la sociedad]
+
+D --> E[Puede influir sobre causales de disolución]
+```
+
+La resolución parcial puede afectar cuestiones vinculadas con:
+
+- la pluralidad de socios;
+- la posibilidad de cumplir el objeto social. 
+
+---
+
+# Resolución parcial
+
+## Concepto
+
+La resolución parcial consiste en:
+
+la disolución del vínculo societario respecto de uno o varios socios,
+
+manteniéndose vigente el contrato social entre los restantes.
+
+La sociedad continúa existiendo como sujeto de derecho. 
+
+---
+
+# Finalidad
+
+La resolución parcial procura:
+
+- preservar la empresa;
+- evitar la disolución del ente;
+- permitir la continuidad del contrato social entre quienes permanecen.
+
+Como recordaba Cámara —citado por Vítolo—,
+
+las legislaciones modernas buscan evitar que las vicisitudes personales de un socio provoquen necesariamente la desaparición de la sociedad. 
+
+---
+
+# Características
+
+La resolución parcial:
+
+✅ modifica el elenco de socios.
+
+✅ modifica el contrato social.
+
+✅ mantiene la personalidad jurídica.
+
+✅ no afecta la existencia del sujeto de derecho.
+
+La sociedad continúa desarrollando normalmente su actividad. 
+
+---
+
+# ¿Qué se resuelve?
+
+Vítolo formula una precisión importante.
+
+No se resuelve parcialmente la sociedad.
+
+Lo que se resuelve parcialmente es:
+
+## el contrato social.
+
+Ello ocurre porque la sociedad constituye un sujeto de derecho y no puede disolverse parcialmente. 
+
+---
+
+# Modos de resolución parcial
+
+La resolución parcial puede producirse por tres causas:
+
+```{mermaid}
+flowchart TD
+
+A[Resolución parcial]
+
+A --> B[Fallecimiento]
+
+A --> C[Renuncia o retiro]
+
+A --> D[Exclusión]
+```
+
+Estas tres modalidades poseen fundamentos y efectos diferentes.
+
+---
+
+---
+
+# Muerte del socio
+
+## Artículo 90 LGS
+
+La muerte del socio constituye uno de los supuestos legales de resolución parcial del contrato de sociedad.
+
+Como regla,
+
+el fallecimiento produce la extinción del vínculo societario respecto del causante,
+
+sin afectar la continuidad de la sociedad. 
+---
+
+# Fundamento
+
+Nissen explica que la solución encuentra fundamento en un principio básico del derecho contractual.
+
+Los herederos son terceros respecto del contrato de sociedad.
+
+Por ello, nadie puede imponerles el ingreso a la sociedad sin su consentimiento, en aplicación del principio general del artículo 1021 del Código Civil y Comercial. 
+
+---
+
+# ¿En qué sociedades opera?
+
+Según Nissen,
+
+la resolución parcial por muerte del socio rige para:
+
+- sociedades colectivas;
+- sociedades en comandita simple;
+- sociedades de capital e industria;
+
+e implícitamente para las sociedades de responsabilidad limitada por aplicación del artículo 155 LGS. 
+
+---
+
+# Sociedades excluidas
+
+Nissen recuerda que este régimen
+
+no resulta aplicable a:
+
+- sociedades anónimas;
+- sociedades comprendidas en la Sección IV.
+
+En las sociedades anónimas,
+
+como regla,
+
+la muerte del accionista resulta indiferente para la sociedad. 
+
+---
+
+# La crítica de Nissen
+
+Nissen discrepa con la solución legal.
+
+Considera equivocado excluir a las sociedades anónimas del régimen de resolución parcial,
+
+porque una gran cantidad de sociedades anónimas cerradas o de familia poseen el mismo carácter personalista que las sociedades de responsabilidad limitada.
+
+Por ello sostiene la necesidad de una reforma legislativa. 
+
+---
+
+# Pacto de continuación con herederos
+
+El segundo párrafo del artículo 90 admite que el contrato social establezca la continuación de la sociedad con los herederos del socio fallecido.
+
+Nissen critica severamente esta solución.
+
+Entiende que obliga a los herederos a incorporarse a un contrato del cual nunca formaron parte, calificando esa solución como incompatible con el carácter contractual de la sociedad. 
+
+---
+
+# Efectos de la muerte del socio
+
+Vítolo enumera, entre otros, los siguientes efectos:
+
+- se extingue el vínculo del causante con la sociedad;
+- los herederos adquieren un derecho crediticio por el valor de la participación;
+- la sociedad debe liquidar la cuota social;
+- el patrimonio del causante continúa respondiendo por las obligaciones sociales hasta la inscripción registral;
+- los herederos participan en el resultado de las operaciones pendientes;
+- la valuación debe realizarse considerando la empresa en marcha. 
+
+---
+
+# Alternativas de la sociedad
+
+Producido el fallecimiento,
+
+la sociedad puede:
+
+```{mermaid}
+flowchart TD
+
+A[Fallecimiento del socio]
+
+A --> B[Continuar con los socios sobrevivientes]
+
+A --> C[Disolver la sociedad]
+
+A --> D[Ejecutar el pacto de continuación con herederos]
+```
+
+Estas alternativas son desarrolladas por Vítolo al analizar los efectos de la resolución parcial. 
+
+---
+
+# Momento en que produce efectos
+
+Vítolo distingue distintos planos.
+
+La resolución parcial
+
+opera de pleno derecho
+
+desde el momento del fallecimiento del socio.
+
+Sin embargo,
+
+respecto de la sociedad,
+
+sus efectos comienzan cuando ésta toma conocimiento del fallecimiento,
+
+pues recién entonces puede adecuar el contrato social. 
+
+---
+
+# Efectos frente a terceros
+
+Aunque la resolución parcial opere entre las partes desde el fallecimiento,
+
+frente a terceros
+
+solo resulta oponible
+
+desde la inscripción de la modificación contractual en el Registro Público,
+
+conforme al principio general del artículo 12 LGS.
+
+---
+
+---
+
+# Estipulación convencional de causales de resolución parcial
+
+## Artículo 89 LGS
+
+El artículo 89 autoriza a los socios a prever en el contrato constitutivo:
+
+- causales de resolución parcial;
+- causales de disolución;
+
+distintas de las expresamente contempladas por la Ley General de Sociedades. 
+
+---
+
+# El principal supuesto
+
+Nissen señala que el artículo 89 se refiere principalmente al:
+
+## Retiro voluntario del socio.
+
+Aunque este supuesto no se encuentra regulado expresamente en la Sección XII,
+
+su admisión surge implícitamente del artículo 13, inciso 5°, de la Ley General de Sociedades. 
+
+---
+
+# Retiro voluntario
+
+El contrato constitutivo puede prever que,
+
+transcurrido determinado tiempo,
+
+el socio pueda retirarse de la sociedad:
+
+- sin necesidad de expresar causa;
+- con derecho al reembolso del valor real de su participación;
+- en bienes o en dinero.
+
+Todo ello depende de la cláusula incorporada al contrato social. 
+
+---
+
+# Retiro voluntario y receso
+
+Nissen insiste en que ambos institutos
+
+## no deben confundirse.
+
+Aunque existe entre ellos una relación de género a especie,
+
+responden a presupuestos diferentes. 
+
+---
+
+# Diferencias
+
+| Retiro voluntario | Derecho de receso |
+|-------------------|-------------------|
+| Requiere cláusula contractual. | Surge directamente de la ley. |
+| Depende de la voluntad del socio. | Nace frente a determinadas decisiones sociales. |
+| No procede en la SA. | Puede ejercerse en cualquier tipo social cuando la ley lo reconoce. |
+| El reembolso puede determinarse mediante un balance especial de retiro e incluir el valor llave. | El reembolso se calcula conforme al régimen legal del artículo 245 LGS. |
+
+Las diferencias son destacadas expresamente por Nissen. 
+
+---
+
+# La explicación de Vítolo
+
+Vítolo define la renuncia como:
+
+> el retiro voluntario del socio de la empresa, rompiendo el vínculo que lo liga con la sociedad.
+
+Recuerda, citando a Cámara, que si bien los contratos normalmente no pueden resolverse sin el consentimiento de quienes los celebraron, la ley admite excepcionalmente el alejamiento de un socio cuando ello no afecta la continuidad del ente. 
+
+---
+
+# Finalidad del instituto
+
+Según Vítolo,
+
+el retiro voluntario permite conciliar dos intereses:
+
+- el interés del socio que desea desvincularse;
+- el interés de la sociedad en continuar funcionando.
+
+Por ello constituye una "válvula de escape" que favorece la subsistencia de la sociedad pese al alejamiento de uno o más de sus integrantes. 
+
+---
+
+# Ideas principales
+
+```{mermaid}
+flowchart TD
+
+A[Art. 89 LGS]
+
+A --> B[Cláusula contractual]
+
+B --> C[Retiro voluntario]
+
+C --> D[Reembolso]
+
+D --> E[Continúa la sociedad]
+
+A --> F[No confundir con el receso]
+```
+
+---
+
+---
+
+# Exclusión del socio
+
+## Artículo 91 LGS
+
+La exclusión constituye otro supuesto de resolución parcial del contrato social.
+
+Mediante este instituto,
+
+la sociedad puede separar a uno de sus integrantes cuando exista **justa causa**.
+
+La finalidad consiste en preservar el normal funcionamiento de la sociedad frente a la conducta o situación de uno de sus socios. 
+
+---
+
+# ¿En qué sociedades procede?
+
+La exclusión resulta aplicable a:
+
+- sociedades colectivas;
+- sociedades en comandita simple;
+- sociedades de capital e industria;
+- socios comanditados de las sociedades en comandita por acciones;
+- sociedades de responsabilidad limitada.
+
+No constituye un instituto de aplicación general para todos los tipos societarios. 
+
+---
+
+# Justa causa
+
+El artículo 91 contempla dos grandes supuestos.
+
+Existe justa causa cuando:
+
+- el socio incurre en **grave incumplimiento de sus obligaciones**;
+
+o
+
+- sobreviene incapacidad, inhabilitación, quiebra o concurso civil del socio, cuando esos hechos resultan legalmente relevantes para el tipo societario correspondiente. 
+
+---
+
+# Particularidad de la SRL
+
+Nissen destaca una excepción importante.
+
+En las sociedades de responsabilidad limitada,
+
+la incapacidad, la inhabilitación, la quiebra o el concurso civil
+
+**no constituyen justa causa de exclusión**
+
+cuando el socio adquirió esa condición al constituirse la sociedad.
+
+Sí procede la exclusión si ingresó posteriormente mediante adquisición de cuotas sociales (art. 152 LGS).
+
+Nissen critica esta diferencia por considerarla carente de explicación y de coherencia. 
+
+---
+
+# Grave incumplimiento
+
+Nissen recuerda que la jurisprudencia ha considerado comprendidas dentro del concepto de grave incumplimiento conductas tales como:
+
+- distracción del patrimonio social;
+- incumplimiento de los aportes comprometidos;
+- oposición infundada a un aumento de capital necesario;
+- oposición sistemática al funcionamiento de la sociedad;
+- falta permanente de colaboración del socio gerente;
+- competencia con la sociedad.
+
+Todas ellas afectan el normal desenvolvimiento de la empresa. 
+
+---
+
+# Acción de exclusión
+
+Como regla,
+
+la exclusión requiere una **acción judicial**.
+
+Nissen explica que:
+
+- la demanda debe promoverse dentro de los **noventa días** desde que se conoció el hecho justificante;
+- ese plazo tiene naturaleza de **caducidad**.
+
+La única excepción corresponde a la mora en el cumplimiento del aporte (art. 37 LGS), donde la exclusión puede ser decidida directamente por el órgano de gobierno. 
+
+---
+
+# Legitimación
+
+La acción posee carácter **social**.
+
+Puede ser promovida:
+
+- por el representante de la sociedad, cuando así lo decidió el órgano de gobierno;
+
+o
+
+- por cualquiera de los socios.
+
+En este último supuesto,
+
+la demanda debe sustanciarse con citación de todos los integrantes de la sociedad. 
+
+---
+
+# Suspensión provisoria
+
+Durante el trámite judicial,
+
+el juez puede disponer:
+
+## la suspensión provisoria de los derechos del socio cuya exclusión se persigue.
+
+Nissen sostiene que esta medida cautelar procede incluso cuando la acción fue iniciada por uno de los socios, pues la exclusión protege el interés de la sociedad y no únicamente el del demandante. 
+
+---
+
+# Finalidad de la acción
+
+Nissen resume el fundamento del instituto.
+
+La acción de exclusión procura:
+
+> hacer cesar las consecuencias de una conducta disvaliosa en beneficio del funcionamiento o del patrimonio de la sociedad.
+
+Por ello califica a la acción como una verdadera acción social. 
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Justa causa]
+
+A --> B[Acción judicial]
+
+B --> C[Suspensión provisoria]
+
+C --> D[Sentencia]
+
+D --> E[Exclusión del socio]
+
+E --> F[Continúa la sociedad]
+```
+
+---
+
+# Efectos de la exclusión
+
+## Artículo 92 LGS
+
+La sentencia que declara la exclusión no extingue la sociedad.
+
+Produce únicamente la resolución del vínculo respecto del socio excluido.
+
+El artículo 92 regula específicamente las consecuencias patrimoniales y jurídicas de esa separación. 
+
+---
+
+# Derecho al reembolso
+
+El primer efecto consiste en que:
+
+el socio excluido
+
+## tiene derecho a una suma de dinero
+
+que represente el valor de su participación,
+
+calculado **a la fecha de la invocación de la causal de exclusión**. 
+
+---
+
+# Operaciones pendientes
+
+La exclusión no elimina la participación del socio
+
+en las operaciones que aún se encuentran en curso.
+
+Por ello:
+
+- participa en los beneficios;
+
+- soporta las pérdidas
+
+correspondientes a esas operaciones pendientes al momento de la separación. 
+
+---
+
+# Retención de la parte social
+
+La ley autoriza a la sociedad
+
+a retener la parte correspondiente al socio excluido
+
+hasta que concluyan las operaciones pendientes.
+
+Esta solución procura evitar liquidaciones prematuras que puedan perjudicar a la sociedad o al propio socio separado. 
+
+---
+
+# Bienes aportados en uso y goce
+
+Cuando el aporte consistió
+
+en un bien entregado en uso y goce,
+
+el socio excluido
+
+no puede exigir su restitución
+
+si dicho bien resulta indispensable para el funcionamiento de la sociedad.
+
+En ese supuesto,
+
+recibirá el valor de su participación en dinero. 
+
+---
+
+# Responsabilidad frente a terceros
+
+La exclusión
+
+no libera inmediatamente al socio
+
+frente a los terceros.
+
+Continúa respondiendo
+
+por las obligaciones sociales
+
+hasta la inscripción registral de la exclusión
+
+en el Registro Público. 
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Exclusión]
+
+A --> B[Reembolso]
+
+A --> C[Participa en operaciones pendientes]
+
+A --> D[Puede retenerse su parte]
+
+A --> E[No recupera el bien aportado en uso si es indispensable]
+
+A --> F[Responde frente a terceros hasta la inscripción]
+```
+
+---
+
+# Exclusión en sociedades de dos socios
+
+## Artículo 93 LGS
+
+Nissen sostiene que
+
+no existe impedimento para excluir a un socio
+
+en una sociedad integrada solamente por dos socios.
+
+La reforma introducida por la Ley 26.994 modificó la solución tradicional al incorporar la referencia al artículo 94 bis LGS. 
+
+---
+
+# La crítica de Nissen
+
+Nissen afirma que
+
+la remisión del artículo 93 al artículo 94 bis
+
+no resulta clara.
+
+Entiende que el artículo 94 bis
+
+solo es aplicable
+
+a las sociedades allí expresamente contempladas,
+
+y no puede extenderse a cualquier tipo social,
+
+porque ello sería contradictorio con el artículo 1° LGS, que únicamente admite la constitución originaria de sociedades unipersonales bajo la forma de sociedad anónima. 
+
+---
+
+# Consecuencias
+
+Según Nissen,
+
+declarada judicialmente la exclusión en una sociedad de dos socios,
+
+las alternativas son:
+
+- recomponer la pluralidad de socios;
+
+- iniciar el procedimiento de liquidación;
+
+- aplicar el artículo 94 bis únicamente en los supuestos para los cuales fue previsto por la ley.
+
+No corresponde extender automáticamente ese régimen a todos los tipos societarios.
+
+---
+
+# La disolución de la sociedad
+
+## Artículo 94 LGS
+
+A diferencia de la resolución parcial del contrato social,
+
+la disolución pone fin a la etapa dinámica de la sociedad.
+
+Como consecuencia de la configuración de una causal disolutoria,
+
+la sociedad deja de desarrollar normalmente su objeto social y pasa a realizar únicamente los actos necesarios para su liquidación. 
+
+---
+
+# Concepto
+
+Nissen explica que la disolución:
+
+- no extingue inmediatamente a la sociedad;
+- no produce el cese abrupto de sus actividades;
+- no elimina su personalidad jurídica.
+
+La personalidad subsiste exclusivamente a los fines de la liquidación, conforme al artículo 101 LGS. 
+
+---
+
+# Del objeto social a la liquidación
+
+```{mermaid}
+flowchart LR
+
+A[Objeto social]
+
+--> B[Causal de disolución]
+
+--> C[Liquidación]
+
+--> D[Cancelación del pasivo]
+
+--> E[Distribución del remanente]
+```
+
+La finalidad de la sociedad deja de ser la explotación del objeto social y pasa a ser la realización del activo, la cancelación del pasivo y, eventualmente, la distribución del remanente entre los socios. 
+
+---
+
+# Causales de disolución
+
+## Artículo 94 LGS
+
+Nissen enumera las causales legales de disolución:
+
+1. Decisión de los socios.
+2. Vencimiento del plazo.
+3. Cumplimiento de la condición.
+4. Cumplimiento o imposibilidad sobreviniente del objeto.
+5. Pérdida del capital social.
+6. Quiebra.
+7. Fusión.
+8. Cancelación de la oferta pública o cotización.
+9. Retiro de la autorización para funcionar. 
+
+---
+
+# La enumeración no es taxativa
+
+Nissen aclara que
+
+la enumeración del artículo 94
+
+## no es cerrada.
+
+Ello se demuestra porque:
+
+- el artículo 89 permite incorporar causales convencionales;
+
+y además,
+
+la jurisprudencia ha admitido otros supuestos de disolución no contemplados expresamente por la ley. 
+
+---
+
+# Jurisprudencia citada por Nissen
+
+Entre los supuestos admitidos por los tribunales,
+
+Nissen menciona:
+
+- pérdida de la affectio societatis;
+- graves desarmonías entre los socios;
+- venta del único bien social;
+- imposibilidad de funcionamiento de los órganos sociales;
+- sociedades integradas por dos grupos con el 50 % del capital cada uno que impiden adoptar decisiones indispensables para el funcionamiento del ente. 
+
+---
+
+# Otras hipótesis
+
+Nissen agrega otro supuesto.
+
+También corresponde la disolución cuando existe:
+
+## sentencia firme de nulidad del contrato o estatuto social.
+
+La declaración de nulidad
+
+no produce efectos retroactivos,
+
+sino que abre el procedimiento liquidatorio debido a la actuación pública que la sociedad ya desarrolló en el tráfico jurídico. 
+
+---
+
+# La pérdida del capital social
+
+Nissen explica que esta causal se justifica por la función que cumple el capital social.
+
+El capital constituye:
+
+- un instrumento para desarrollar el objeto social;
+
+pero también,
+
+- una garantía para los acreedores sociales.
+
+Su desaparición priva a los terceros de esa garantía patrimonial. 
+
+---
+
+# Quiebra
+
+La disolución por quiebra presenta características especiales.
+
+No depende de la voluntad de los socios.
+
+Proviene de una resolución judicial.
+
+La liquidación ya no se rige por la Ley General de Sociedades,
+
+sino por la Ley de Concursos y Quiebras,
+
+y queda a cargo del síndico designado por el juez del concurso. 
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Causal de disolución]
+
+A --> B[Cesa la actividad normal]
+
+B --> C[Subsiste la personalidad]
+
+C --> D[Liquidación]
+
+D --> E[Pago del pasivo]
+
+E --> F[Distribución del remanente]
+
+F --> G[Cancelación registral]
+```
+
+---
+
+# Eficacia de la disolución
+
+## Artículos 97 y 98 LGS
+
+Nissen distingue claramente dos planos.
+
+## Entre los socios
+
+La disolución produce efectos desde que ocurre la causal disolutoria.
+
+## Frente a terceros
+
+La disolución sólo resulta oponible desde su inscripción en el Registro Público,
+
+salvo que los terceros hubieran conocido la existencia de la causal. 
+
+---
+
+# El caso del vencimiento del plazo
+
+Nissen destaca una excepción.
+
+Cuando la causal consiste en:
+
+## vencimiento del plazo de duración,
+
+la sociedad continúa obligándose frente a terceros
+
+hasta que la disolución sea inscripta en el Registro Público.
+
+La solución procura proteger la seguridad del tráfico jurídico. 
+
+---
+
+# Revocación de las causales de disolución
+
+## Artículo 100 LGS
+
+La reforma introducida por la Ley 26.994 modificó profundamente el régimen.
+
+Actualmente,
+
+las causales de disolución
+
+**pueden ser removidas**
+
+si desaparece la causa que las originó
+
+y existe decisión social adoptada antes de cancelarse la inscripción de la sociedad. 
+
+---
+
+# Fundamento de la reforma
+
+Nissen explica que el nuevo régimen procura favorecer:
+
+- la conservación de la empresa;
+- la continuidad de la actividad económica;
+- el mantenimiento de las fuentes de trabajo.
+
+La remoción de la causal reemplaza el antiguo criterio sancionatorio que llevaba rápidamente a la liquidación. 
+
+---
+
+# Límites
+
+La remoción de la causal exige:
+
+- que haya desaparecido efectivamente la causa de disolución;
+- decisión del órgano competente;
+- inexistencia de derechos adquiridos por terceros incompatibles con esa decisión.
+
+La sociedad no puede ignorar situaciones jurídicas ya consolidadas. 
+
+---
+
+# Prórroga
+
+La prórroga supone
+
+extender el plazo de duración de una sociedad
+
+antes de que éste expire.
+
+La sociedad continúa existiendo sin solución de continuidad,
+
+simplemente prolongando el término previsto originalmente en el contrato social. 
+---
+
+# Reconducción
+
+La reconducción presenta un supuesto diferente.
+
+Opera cuando
+
+el plazo social ya venció
+
+y la sociedad decide continuar su existencia.
+
+Nissen distingue claramente ambos institutos:
+
+- la prórroga evita la disolución;
+- la reconducción procura revertir una causal ya producida. 
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Plazo social]
+
+A --> B{¿Venció?}
+
+B -->|No| C[Prórroga]
+
+B -->|Sí| D[Disolución]
+
+D --> E[Reconducción]
+
+D --> F[Liquidación]
+```
+
+---
+
+# Cierre del régimen de disolución
+
+```{mermaid}
+flowchart TD
+
+A[Causal de disolución]
+
+A --> B[Efectos entre socios]
+
+A --> C[Efectos frente a terceros]
+
+A --> D[Remoción de la causal]
+
+D --> E[Continúa la sociedad]
+
+A --> F[Liquidación]
+```
+
+Con la reforma de la Ley 26.994,
+
+la regla deja de ser la liquidación inmediata.
+
+Siempre que la causal pueda removerse y se cumplan los requisitos legales,
+
+el ordenamiento privilegia la continuidad de la sociedad y de la empresa.
+
+---
+
+# La liquidación
+
+## Artículos 101 a 112 LGS
+
+La disolución no extingue inmediatamente a la sociedad.
+
+Abre una nueva etapa:
+
+## la liquidación.
+
+Nissen explica que la liquidación constituye un procedimiento necesario mediante el cual deben:
+
+- realizarse los bienes del activo;
+- cancelarse las deudas sociales;
+- atenderse los gastos propios de la liquidación;
+- reembolsarse los aportes;
+- distribuirse el eventual remanente entre los socios. 
+
+---
+
+# Finalidad
+
+La liquidación no ha sido establecida principalmente en interés de los socios.
+
+Según Nissen,
+
+el procedimiento existe
+
+## para proteger a los acreedores sociales.
+
+Por ello,
+
+los socios
+
+no pueden disponer libremente de los bienes sociales
+
+ni distribuirlos
+
+mientras el pasivo permanezca insatisfecho. 
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart LR
+
+A[Disolución]
+
+--> B[Liquidación]
+
+--> C[Realización del activo]
+
+--> D[Pago del pasivo]
+
+--> E[Reembolso de aportes]
+
+--> F[Distribución del remanente]
+
+--> G[Cancelación registral]
+```
+
+---
+
+# Protección de los acreedores
+
+Nissen formula una advertencia.
+
+En la práctica existen casos en que los socios
+
+deciden "desaparecer"
+
+sin liquidar correctamente la sociedad,
+
+dejando insatisfechos a los acreedores.
+
+Esa conducta genera responsabilidad solidaria e ilimitada de los administradores,
+
+responsabilidad que también puede alcanzar a los síndicos cuando hubieran permitido esa actuación ilegítima. 
+
+---
+
+# Personalidad jurídica durante la liquidación
+
+## Artículo 101 LGS
+
+La sociedad en liquidación
+
+## conserva su personalidad jurídica
+
+"a ese efecto",
+
+y continúa rigiéndose por las normas correspondientes a su tipo social,
+
+en todo aquello que resulte compatible con el procedimiento liquidatorio. 
+
+---
+
+# Un debate doctrinario
+
+Nissen explica que existen dos posiciones.
+
+## Primera
+
+La sociedad conserva íntegramente su personalidad jurídica.
+
+## Segunda
+
+La personalidad subsiste
+
+únicamente
+
+para concluir las relaciones jurídicas pendientes derivadas del procedimiento liquidatorio.
+
+La jurisprudencia mayoritaria adopta esta segunda posición. 
+
+---
+
+# La posición de Nissen
+
+Nissen adhiere a la tesis restrictiva.
+
+Fundamenta esa solución en dos argumentos.
+
+### Artículo 101
+
+La ley dispone expresamente que la personalidad subsiste
+
+**"a ese efecto"**.
+
+### Artículo 99
+
+Los actos ajenos a la liquidación generan responsabilidad personal de administradores y socios,
+
+lo que demuestra que tales actos ya no pueden imputarse normalmente a la sociedad. 
+
+---
+
+# Consecuencia práctica
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad en liquidación]
+
+A --> B[Actos liquidatorios]
+
+B --> C[Se imputan a la sociedad]
+
+A --> D[Actos ajenos a la liquidación]
+
+D --> E[Responsabilidad de administradores y socios]
+```
+
+La personalidad jurídica subsiste únicamente dentro de los límites necesarios para llevar adelante la liquidación.
+
+---
+
+# Los liquidadores
+
+## Artículo 102 LGS
+
+La administración de la sociedad en liquidación corresponde, como regla,
+
+a quienes ejercían la administración al producirse la causal de disolución.
+
+Sin embargo, el contrato social puede prever un órgano de liquidación diferente.
+
+Si no se designan liquidadores, o éstos no aceptan o no desempeñan el cargo,
+
+cualquier socio puede solicitar judicialmente el nombramiento o una nueva elección. 
+
+---
+
+# Designación
+
+Los liquidadores deben:
+
+- aceptar el cargo;
+- asumir la administración del patrimonio social;
+- inscribir su designación en el Registro Público cuando corresponda.
+
+Nissen señala que, una vez asumidas sus funciones,
+
+cesa la actuación del órgano de administración,
+
+aunque los liquidadores sean las mismas personas que antes administraban la sociedad. 
+
+---
+
+# Inventario y balance inicial
+
+## Artículo 103 LGS
+
+Dentro de los treinta días de asumir,
+
+los liquidadores deben confeccionar:
+
+- inventario;
+- balance del patrimonio social.
+
+Estos documentos constituyen el punto de partida del procedimiento liquidatorio y deben ponerse a disposición de los socios. 
+
+---
+
+# Información periódica
+
+## Artículo 104 LGS
+
+Durante la liquidación,
+
+los liquidadores deben informar a los socios,
+
+al menos trimestralmente,
+
+sobre el estado del procedimiento.
+
+Si la liquidación se prolonga,
+
+deben confeccionarse además balances anuales. 
+
+---
+
+# Facultades
+
+## Artículo 105 LGS
+
+Los liquidadores:
+
+- ejercen la representación de la sociedad;
+- pueden realizar todos los actos necesarios para la realización del activo y cancelación del pasivo;
+- deben seguir las instrucciones impartidas por los socios según el tipo social.
+
+Actúan utilizando la denominación social con el aditamento:
+
+## "en liquidación". 
+
+---
+
+# Responsabilidad
+
+La omisión del aditamento
+
+**"en liquidación"**
+
+hace responsables a los liquidadores
+
+en forma
+
+- ilimitada;
+- solidaria;
+
+por los daños y perjuicios ocasionados.
+
+Asimismo,
+
+responden por el incumplimiento de las instrucciones impartidas por los socios. 
+
+---
+
+# Realización del activo
+
+La realización del activo corresponde a los liquidadores.
+
+Como regla,
+
+debe comenzar inmediatamente después del inventario y del balance inicial.
+
+No obstante,
+
+Vítolo admite que, cuando ello responda al mejor interés de la sociedad,
+
+pueden:
+
+- concluir procesos productivos;
+- finalizar contratos en ejecución;
+- esperar circunstancias de mercado más favorables. 
+
+---
+
+# Contribuciones debidas
+
+## Artículo 106 LGS
+
+Si los fondos sociales resultan insuficientes para cancelar el pasivo,
+
+los liquidadores deben exigir a los socios
+
+las contribuciones debidas
+
+conforme al tipo societario o al contrato constitutivo.
+
+Vítolo aclara que esta obligación no comprende los créditos que ya integran el activo social, sino únicamente las contribuciones adicionales previstas por la ley o el contrato. 
+
+---
+
+# Balance final
+
+## Artículos 109 y 110 LGS
+
+Cancelado el pasivo,
+
+los liquidadores deben confeccionar:
+
+- el balance final;
+- el proyecto de distribución.
+
+Estos documentos son comunicados a los socios,
+
+quienes pueden impugnarlos dentro del plazo legal. 
+
+---
+
+# Distribución del remanente
+
+Una vez aprobado el balance final:
+
+- se reembolsan los aportes;
+- el excedente se distribuye conforme al contrato social;
+- a falta de previsión contractual, en proporción a la participación de cada socio en las ganancias.
+
+Nissen señala que, cancelado íntegramente el pasivo,
+
+nada impide que los bienes remanentes sean adjudicados en especie,
+
+si existe acuerdo unánime de los socios. 
+
+---
+
+# Cancelación registral
+
+## Artículo 112 LGS
+
+Concluida la liquidación,
+
+corresponde:
+
+- cancelar la inscripción de la sociedad en el Registro Público;
+- conservar los libros y documentación social durante diez años.
+
+Con la cancelación registral concluye definitivamente la existencia jurídica de la sociedad. 
+
+---
+
+# Esquema final
+
+```{mermaid}
+flowchart TD
+
+A[Disolución]
+
+A --> B[Liquidadores]
+
+B --> C[Inventario y balance]
+
+C --> D[Realización del activo]
+
+D --> E[Pago del pasivo]
+
+E --> F[Balance final]
+
+F --> G[Distribución]
+
+G --> H[Cancelación registral]
+```
+
+---
+
+# Conclusiones
+
+- La resolución parcial procura preservar la continuidad de la sociedad.
+- La disolución abre la etapa liquidatoria, pero no extingue inmediatamente la personalidad jurídica.
+- La liquidación protege prioritariamente a los acreedores sociales.
+- Los liquidadores sustituyen al órgano de administración y representan a la sociedad durante el procedimiento.
+- La cancelación registral marca la extinción definitiva de la sociedad como sujeto de derecho. 
+
+---
+

@@ -1,0 +1,1927 @@
+---
+title: "Clase 8 — Reorganizacion de Sociedades"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Reorganización de sociedades
+
+## Capítulo XIII LGS
+
+La Ley General de Sociedades regula tres grandes mecanismos de reorganización:
+
+- Transformación.
+- Fusión.
+- Escisión.
+
+Todos ellos permiten modificar la estructura jurídica o patrimonial de la sociedad sin acudir necesariamente a su liquidación.
+
+---
+
+# Finalidad de la reorganización
+
+Las figuras previstas por la ley responden a necesidades propias de la dinámica empresaria.
+
+Permiten:
+
+- adecuar el tipo societario;
+- concentrar empresas;
+- dividir patrimonios;
+- reorganizar actividades.
+
+Cada instituto posee requisitos y efectos propios.
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Reorganización]
+
+A --> B[Transformación]
+
+A --> C[Fusión]
+
+A --> D[Escisión]
+```
+
+---
+
+# Transformación
+
+## Artículo 74 LGS
+
+Existe transformación cuando una sociedad adopta otro de los tipos previstos por la ley.
+
+La transformación:
+
+- no disuelve la sociedad;
+- no altera sus derechos;
+- no altera sus obligaciones.
+
+La persona jurídica continúa siendo la misma.
+
+---
+
+# Concepto
+
+Nissen explica que la transformación supone únicamente una modificación del tipo societario.
+
+No nace una nueva sociedad.
+
+No desaparece la anterior.
+
+Continúa el mismo sujeto de derecho, aunque organizado bajo otro tipo legal.
+
+---
+
+# Efecto principal
+
+La transformación modifica:
+
+- la estructura jurídica;
+- la organización interna;
+- el régimen legal aplicable.
+
+Pero mantiene:
+
+- la personalidad jurídica;
+- el patrimonio;
+- las relaciones jurídicas existentes.
+
+---
+
+# No existe disolución
+
+La transformación:
+
+❌ no importa la disolución de la sociedad.
+
+❌ no exige liquidación.
+
+La sociedad continúa existiendo.
+
+Sólo cambia el tipo societario bajo el cual desarrolla su actividad.
+
+---
+
+# Representación gráfica
+
+```{mermaid}
+flowchart LR
+
+A[SRL]
+
+--> B[Transformación]
+
+--> C[SA]
+
+style B fill:#dddddd
+```
+
+La sociedad sigue siendo la misma.
+
+Sólo cambia su tipo legal.
+
+---
+
+# Naturaleza jurídica
+
+Nissen señala que la transformación constituye una modificación del contrato constitutivo o del estatuto.
+
+No existe:
+
+- transmisión patrimonial;
+- sucesión universal;
+- creación de una nueva persona jurídica.
+
+Existe únicamente una modificación del tipo social.
+
+---
+
+# Continuidad jurídica
+
+Como consecuencia de la transformación:
+
+- permanecen los contratos;
+- permanecen los créditos;
+- permanecen las deudas;
+- permanecen los derechos adquiridos.
+
+La continuidad de la personalidad jurídica explica estos efectos.
+
+---
+
+# Transformación y personalidad jurídica
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad]
+
+A --> B[Modificación del tipo]
+
+B --> C[Misma personalidad jurídica]
+
+C --> D[Mismos derechos]
+
+C --> E[Mismas obligaciones]
+
+C --> F[Mismo patrimonio]
+```
+
+---
+
+# ¿Qué sociedades pueden transformarse?
+
+La transformación presupone la existencia de una sociedad constituida conforme a uno de los tipos previstos por la Ley General de Sociedades.
+
+Por ello, Nissen sostiene que:
+
+✅ pueden transformarse las sociedades regularmente constituidas.
+
+❌ no pueden transformarse las sociedades comprendidas en la Sección IV.
+
+La razón es sencilla: la Sección IV no constituye un tipo societario.
+
+La transformación exige pasar de un **tipo legal** a otro **tipo legal**. 
+
+---
+
+# Sociedades excluidas
+
+Según Nissen, la transformación no resulta admisible respecto de:
+
+- sociedades no constituidas regularmente;
+- sociedades comprendidas en la Sección IV.
+
+Estas sociedades deberán previamente adecuar su situación jurídica antes de poder acceder al procedimiento de transformación. 
+
+---
+
+# Transformación voluntaria
+
+La transformación es **voluntaria** cuando:
+
+los socios deciden adoptar otro tipo social por considerarlo más conveniente para la empresa.
+
+No existe una imposición legal.
+
+La decisión responde exclusivamente a razones empresarias u organizativas. 
+
+---
+
+# Ejemplo
+
+```{mermaid}
+flowchart LR
+
+A[SRL]
+
+--> B[Crecimiento de la empresa]
+
+--> C[Transformación]
+
+--> D[SA]
+```
+
+La personalidad jurídica permanece inalterada.
+
+Sólo cambia el tipo societario.
+
+---
+
+# Transformación obligatoria
+
+Nissen distingue la denominada transformación **forzosa u obligatoria**.
+
+Se presenta cuando la ley exige modificar el tipo social para evitar determinadas consecuencias jurídicas.
+
+Menciona como ejemplos los supuestos previstos en los artículos:
+
+- 140;
+- 145;
+- 324 LGS.
+
+También comprende los casos en que el contrato exige la incorporación de determinados sucesores al producirse el fallecimiento de un socio. 
+
+---
+
+# Transformación de pleno derecho
+
+Luego de la reforma introducida por la Ley 26.994 apareció un supuesto especial.
+
+## Artículo 94 bis
+
+Cuando una sociedad:
+
+- en comandita simple;
+- en comandita por acciones;
+- de capital e industria;
+
+queda reducida a un solo socio,
+
+la ley impone su transformación de pleno derecho en una sociedad anónima unipersonal, salvo que dentro del plazo legal se adopte otra solución. 
+
+---
+
+# La crítica de Nissen
+
+Nissen observa que la ley no explica adecuadamente qué significa la denominada:
+
+## "transformación de pleno derecho"
+
+Advierte que la transformación constituye normalmente un procedimiento complejo que requiere:
+
+- decisiones internas;
+- modificaciones estatutarias;
+- publicidad;
+- inscripción.
+
+Por ello cuestiona cómo podría producirse automáticamente una transformación sin cumplir esos actos. 
+---
+
+# Mayorías
+
+La transformación constituye una de las decisiones societarias de mayor trascendencia.
+
+Por esa razón, Nissen señala que:
+
+debe aprobarse mediante **las mayorías más rigurosas** previstas para el tipo social correspondiente.
+
+La modificación del tipo justifica un régimen especialmente estricto de formación de la voluntad social. 
+---
+
+# Derecho de receso
+
+Como contrapartida de esa decisión,
+
+los socios disconformes cuentan con:
+
+## Derecho de receso.
+
+Nissen fundamenta esta solución en que:
+
+no resulta admisible obligar a un socio a permanecer en una sociedad organizada bajo un tipo distinto de aquel que eligió al incorporarse a ella. 
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad regularmente constituida]
+
+A --> B{Decisión}
+
+B -->|Voluntaria| C[Nuevo tipo]
+
+B -->|Obligatoria| D[Transformación impuesta por la ley]
+
+B -->|Art. 94 bis| E[Transformación de pleno derecho]
+
+C --> F[Misma personalidad jurídica]
+
+D --> F
+
+E --> F
+```
+
+---
+
+# Procedimiento de transformación
+
+## Artículo 77 LGS
+
+La transformación no se produce automáticamente.
+
+Requiere el cumplimiento de un procedimiento legal integrado por una serie de actos sucesivos destinados a proteger:
+
+- a los socios;
+- a los acreedores;
+- a los terceros.
+
+Sólo una vez cumplidas todas las etapas puede inscribirse el nuevo tipo societario. 
+
+---
+
+# Primera etapa
+
+## Acuerdo social
+
+El procedimiento comienza con la decisión de los socios.
+
+Según Nissen:
+
+- la regla es la unanimidad, salvo pacto en contrario;
+- para la SRL rige la mayoría de **tres cuartas partes del capital social** (art. 160 LGS);
+- para las sociedades por acciones rige la mayoría prevista por el artículo 244 LGS.
+
+La transformación constituye una modificación de enorme trascendencia y justifica un régimen reforzado de mayorías. 
+
+---
+
+# Segunda etapa
+
+## Balance especial
+
+Debe confeccionarse un **balance especial de transformación**.
+
+La ley exige que:
+
+- esté cerrado a una fecha que no exceda de un mes del acuerdo;
+- permanezca a disposición de los socios en la sede social con una anticipación mínima de quince días.
+
+El balance debe aprobarse con las mismas mayorías requeridas para los balances de ejercicio. 
+
+---
+
+# Finalidad del balance especial
+
+El balance especial cumple varias funciones.
+
+Permite:
+
+- reflejar la situación patrimonial actual;
+- servir de base para el ejercicio del derecho de receso;
+- brindar información suficiente a los socios antes de adoptar la decisión.
+
+Vítolo destaca que este balance no altera el patrimonio de la sociedad, pues la transformación sólo modifica el tipo social.
+
+---
+
+# Observación de Vítolo
+
+Vítolo considera que el cronograma previsto por el artículo 77 resulta particularmente exigente.
+
+Señala que, dentro de un plazo muy reducido, deben cumplirse simultáneamente:
+
+- confección del balance;
+- auditoría;
+- aprobación por los administradores;
+- puesta a disposición de los socios.
+
+Califica ese cronograma como **muy ajustado** y observa las dificultades prácticas que puede generar. 
+---
+
+# Tercera etapa
+
+## Instrumento definitivo
+
+Aprobada la transformación, debe otorgarse el instrumento correspondiente.
+
+Según Nissen, en él debe constar:
+
+- el nuevo tipo adoptado;
+- los socios que ejercieron el receso;
+- el capital que representan;
+- el cumplimiento de las formalidades propias del nuevo tipo social. 
+
+---
+
+# Cuarta etapa
+
+## Publicidad
+
+El artículo 77 exige publicar un aviso por un día en el diario de publicaciones legales correspondiente.
+
+La publicación debe contener, entre otros datos:
+
+- fecha del acuerdo;
+- fecha del instrumento;
+- denominación anterior y nueva;
+- identidad de los socios que ingresan o se retiran;
+- modificaciones relevantes del contrato social. 
+
+---
+
+# Quinta etapa
+
+## Inscripción
+
+Cumplida la publicidad, corresponde la inscripción en el Registro Público.
+
+Debe inscribirse:
+
+- el instrumento de transformación;
+- el balance especial;
+- los demás documentos exigidos según el tipo societario y la naturaleza de los bienes.
+
+Sólo entonces la transformación queda plenamente perfeccionada frente a terceros. 
+
+---
+
+# Esquema del procedimiento
+
+```{mermaid}
+flowchart TD
+
+A[Acuerdo social]
+
+A --> B[Balance especial]
+
+B --> C[Instrumento definitivo]
+
+C --> D[Publicación]
+
+D --> E[Inscripción]
+
+E --> F[Transformación plenamente eficaz]
+```
+
+---
+
+# Ideas principales
+
+- La transformación requiere un procedimiento legal completo.
+- El balance especial constituye una pieza central del procedimiento.
+- La publicidad protege a terceros y acreedores.
+- La inscripción perfecciona la reorganización frente a terceros.
+- Cada etapa responde a una finalidad específica de protección y seguridad jurídica. 
+
+---
+
+# Derecho de receso
+
+## Artículo 78 LGS
+
+Cuando la transformación no requiere unanimidad,
+
+los socios que:
+
+- votaron en contra; y
+- estuvieron ausentes,
+
+tienen derecho de receso.
+
+El receso les permite retirarse de la sociedad y percibir el valor de su participación conforme al régimen previsto por la ley. 
+
+---
+
+# Fundamento del derecho de receso
+
+Nissen explica que la transformación altera sustancialmente el contrato social.
+
+Ello ocurre porque modifica, entre otros aspectos:
+
+- el régimen de responsabilidad de los socios;
+- la organización interna;
+- el funcionamiento propio del tipo societario elegido.
+
+Por esa razón resulta evidente la procedencia del derecho de receso. 
+
+---
+
+# La explicación de Vítolo
+
+Vítolo destaca que la elección del tipo social constituye uno de los elementos esenciales del consentimiento prestado por el socio al incorporarse a la sociedad.
+
+La transformación modifica aspectos fundamentales, entre ellos:
+
+- el régimen de responsabilidad;
+- la administración;
+- la incorporación y exclusión de socios;
+- el acceso a la documentación;
+- la participación en otras sociedades.
+
+El derecho de receso procura conciliar el interés social con el interés individual del socio disidente. 
+
+---
+
+# ¿Quiénes pueden ejercer el receso?
+
+Como regla general:
+
+- los socios que votaron en contra;
+- los socios ausentes debidamente convocados.
+
+No tienen derecho de receso:
+
+- quienes votaron afirmativamente;
+- quienes participaron y se abstuvieron de votar. 
+
+---
+
+# El caso especial de la SRL
+
+Vítolo señala una discordancia entre:
+
+- el artículo 78; y
+- el artículo 160 LGS.
+
+En las sociedades de responsabilidad limitada,
+
+solo tienen derecho de receso los socios que participaron en la reunión y votaron en contra.
+
+No lo tienen:
+
+- los socios ausentes;
+- quienes se abstuvieron de votar.
+
+Ello obedece a que las normas específicas del tipo desplazan al régimen general de la transformación. 
+
+---
+
+# Sociedades con oferta pública
+
+Vítolo recuerda que el artículo 245 LGS
+
+no reconoce el derecho de receso por transformación a los accionistas de sociedades que hacen oferta pública o cotizan sus acciones. 
+
+---
+
+# Plazo para ejercer el receso
+
+La regla general del artículo 78 establece un plazo común de:
+
+## Quince (15) días
+
+contados desde el acuerdo social,
+
+salvo:
+
+- disposición contractual distinta;
+- normas especiales aplicables a determinados tipos societarios. 
+
+---
+
+# Reembolso
+
+El valor de la participación del socio recedente
+
+se determina sobre la base del:
+
+## Balance especial de transformación.
+
+Nissen explica que el artículo 78 constituye una reglamentación específica del receso y que, en lo no previsto, corresponde acudir al régimen general del artículo 245 LGS, especialmente en materia de plazo de pago y actualización del crédito. 
+
+---
+
+# Efectos del ejercicio del receso
+
+El ejercicio del receso:
+
+- produce efectos inmediatos entre la sociedad y los socios;
+- no resulta oponible a los terceros hasta la inscripción de la transformación.
+
+En consecuencia,
+
+el socio recedente continúa respondiendo frente a terceros por las obligaciones contraídas hasta la inscripción registral. 
+
+---
+
+# Garantía legal
+
+Mientras la transformación no se encuentre inscripta,
+
+la ley protege al socio recedente.
+
+Por ello:
+
+- la sociedad;
+- los socios con responsabilidad ilimitada;
+- los administradores,
+
+garantizan solidaria e ilimitadamente las obligaciones sociales contraídas desde el ejercicio del receso hasta la inscripción de la transformación. 
+
+---
+
+# Preferencia de los socios
+
+## Artículo 79 LGS
+
+La transformación
+
+no afecta las preferencias de los socios,
+
+salvo pacto en contrario.
+
+Los socios que permanecen conservan las preferencias sobre las participaciones pertenecientes a los socios recedentes. 
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Transformación]
+
+A --> B[Socio vota en contra o está ausente]
+
+B --> C[Ejercicio del receso]
+
+C --> D[Balance especial]
+
+D --> E[Reembolso]
+
+C --> F[Continúa respondiendo frente a terceros]
+
+F --> G[Hasta la inscripción]
+
+G --> H[Sociedad y administradores garantizan al recedente]
+```
+
+---
+
+# Rescisión del acuerdo de transformación
+
+## Artículo 80 LGS
+
+Hasta la inscripción registral,
+
+el acuerdo de transformación puede quedar sin efecto.
+
+La ley contempla la posibilidad de rescindir la transformación mientras el procedimiento aún no se haya perfeccionado frente a terceros. 
+
+---
+
+# Fundamento
+
+La transformación es un procedimiento complejo y progresivo.
+
+Mientras no se produzca la inscripción en el Registro Público,
+
+la modificación del tipo societario todavía no se encuentra plenamente consolidada.
+
+Por ello la ley admite dejar sin efecto el acuerdo bajo determinadas condiciones. 
+
+---
+
+# Requisitos
+
+La rescisión requiere:
+
+- decisión social adoptada con las mayorías correspondientes;
+- inexistencia de perjuicio para terceros;
+- que la transformación todavía no haya sido inscripta.
+
+Una vez producida la inscripción, ya no corresponde hablar de rescisión del procedimiento sino de una nueva modificación societaria. 
+
+---
+
+# Protección de terceros
+
+La solución responde al mismo principio que inspira todo el régimen de reorganización.
+
+Mientras la transformación permanezca dentro de la esfera interna de la sociedad,
+
+los socios conservan la posibilidad de dejar sin efecto el procedimiento.
+
+Cuando la reorganización ya produjo efectos frente a terceros,
+
+prevalece la seguridad jurídica del tráfico mercantil. 
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart LR
+
+A[Acuerdo]
+
+--> B[Procedimiento]
+
+--> C{Inscripción}
+
+C -->|No| D[Puede rescindirse]
+
+C -->|Sí| E[No procede la rescisión]
+```
+
+---
+
+# Caducidad
+
+## Artículo 81 LGS
+
+La Ley General de Sociedades también prevé la **caducidad** del procedimiento.
+
+Si la transformación no es inscripta dentro del plazo legal,
+
+el procedimiento pierde eficacia y debe iniciarse nuevamente. 
+
+---
+
+# Fundamento de la caducidad
+
+Nissen explica que el procedimiento de transformación no puede mantenerse indefinidamente abierto.
+
+La situación de incertidumbre:
+
+- perjudica a los socios;
+- afecta a los acreedores;
+- compromete la seguridad del tráfico jurídico.
+
+Por ello la ley establece un plazo máximo para completar la inscripción. 
+
+---
+
+# Consecuencia
+
+La caducidad no implica:
+
+- nulidad;
+- disolución;
+- liquidación.
+
+Simplemente determina que:
+
+la transformación proyectada pierde eficacia,
+
+debiendo reiniciarse íntegramente el procedimiento si la sociedad desea nuevamente modificar su tipo. 
+
+---
+
+# Rescisión y caducidad
+
+| Rescisión | Caducidad |
+|-----------|-----------|
+| Responde a una decisión de la sociedad. | Opera por el transcurso del plazo legal. |
+| Es voluntaria. | Es una consecuencia legal. |
+| Sólo procede antes de la inscripción. | Obliga a reiniciar el procedimiento. |
+
+---
+
+# Fin del régimen de transformación
+
+```{mermaid}
+flowchart TD
+
+A[Transformación]
+
+A --> B[Acuerdo]
+
+B --> C[Procedimiento]
+
+C --> D[Publicidad]
+
+D --> E[Inscripción]
+
+C --> F[Rescisión]
+
+C --> G[Caducidad]
+```
+
+La transformación concluye:
+
+- con la inscripción registral;
+- o bien por la rescisión o la caducidad del procedimiento, según corresponda.
+
+---
+
+# La fusión de sociedades
+
+## Artículos 82 a 87 LGS
+
+La fusión constituye uno de los principales mecanismos de reorganización societaria.
+
+Según Nissen,
+
+representa el instrumento jurídico más idóneo para lograr la concentración empresaria.
+
+Permite integrar patrimonios y actividades sin necesidad de liquidar previamente las sociedades intervinientes. 
+
+---
+
+# Concepto
+
+La fusión tiene lugar cuando:
+
+- dos o más sociedades se disuelven sin liquidarse para constituir una nueva sociedad;
+
+o bien cuando
+
+- una sociedad existente incorpora a otra u otras, que también se disuelven sin liquidarse.
+
+La Ley General de Sociedades reconoce ambas modalidades. 
+---
+
+# Clases de fusión
+
+```{mermaid}
+flowchart TD
+
+A[Fusión]
+
+A --> B[Fusión propiamente dicha]
+
+A --> C[Fusión por absorción]
+
+B --> D[Nace una nueva sociedad]
+
+C --> E[Subsiste la sociedad absorbente]
+```
+
+---
+
+# Fusión propiamente dicha
+
+En esta modalidad:
+
+- todas las sociedades intervinientes se disuelven;
+- ninguna entra en liquidación;
+- nace una nueva sociedad que continúa la actividad empresarial.
+
+La nueva sociedad recibe íntegramente los patrimonios de las sociedades fusionadas. 
+
+---
+
+# Fusión por absorción
+
+En este supuesto:
+
+- una sociedad ya existente continúa su existencia;
+- una o más sociedades se disuelven sin liquidarse;
+- el patrimonio de las absorbidas pasa íntegramente a la absorbente.
+
+No se constituye una nueva persona jurídica. 
+
+---
+
+# Naturaleza jurídica
+
+Nissen caracteriza la fusión como:
+
+## Un contrato celebrado entre sociedades.
+
+Su objeto consiste en producir la transferencia universal del patrimonio:
+
+- de las sociedades fusionadas hacia la nueva sociedad;
+
+o
+
+- de la sociedad absorbida hacia la absorbente. 
+
+---
+
+# Primer efecto
+
+La sociedad fusionaria o absorbente adquiere:
+
+- todos los derechos;
+- todas las obligaciones;
+
+de las sociedades disueltas.
+
+La transferencia se produce al inscribirse el acuerdo definitivo de fusión en el Registro Público. 
+
+---
+
+# Segundo efecto
+
+La fusión también produce un efecto respecto de los socios.
+
+Quienes integraban las sociedades disueltas pasan a adquirir la calidad de socios:
+
+- de la nueva sociedad;
+
+o
+
+- de la sociedad absorbente.
+
+No es necesario celebrar nuevos contratos individuales de incorporación. 
+
+---
+
+# Sucesión universal
+
+Nissen destaca que la fusión constituye un supuesto de:
+
+## Sucesión a título universal.
+
+Ello implica que:
+
+- no deben cederse individualmente los créditos;
+- no deben notificarse las cesiones a los deudores;
+- las obligaciones conservan sus condiciones originales.
+
+La sociedad fusionaria ocupa exactamente la posición jurídica de las sociedades extinguidas. 
+
+---
+
+# Juicios pendientes
+
+Como consecuencia de la sucesión universal,
+
+la sociedad fusionaria o absorbente:
+
+- continúa los procesos judiciales iniciados por las sociedades fusionadas;
+- queda sometida a las sentencias que se dicten en dichos procesos.
+
+La sustitución opera por imperio de la ley. 
+
+---
+
+# Sociedades que no pueden fusionarse
+
+Nissen señala expresamente dos supuestos.
+
+No corresponde la fusión respecto de:
+
+- sociedades en liquidación (art. 101 LGS);
+
+- sociedades comprendidas en la Sección IV del Capítulo I.
+
+La fusión presupone sujetos regularmente constituidos y capaces de transmitir universalmente su patrimonio. 
+
+---
+
+# Esquema conceptual
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad A]
+
+B[Sociedad B]
+
+A --> C[Fusión]
+
+B --> C
+
+C --> D[Nueva sociedad]
+
+D --> E[Transferencia universal]
+
+E --> F[Mismos derechos]
+
+E --> G[Mismas obligaciones]
+
+E --> H[Mismos procesos]
+```
+
+---
+
+# Procedimiento de la fusión
+
+## Artículo 83 LGS
+
+La fusión no se perfecciona mediante una única decisión.
+
+La ley establece un procedimiento integrado por diversas etapas sucesivas destinadas a proteger:
+
+- los intereses de las sociedades participantes;
+- los derechos de los socios;
+- los derechos de los acreedores;
+- la seguridad del tráfico jurídico.
+
+Nissen destaca que la concreción de una fusión suele requerir una preparación prolongada debido a la complejidad técnica y a la necesidad de armonizar los intereses de las sociedades intervinientes. 
+
+---
+
+# Primera etapa
+
+## Compromiso previo de fusión
+
+El procedimiento comienza con el **compromiso previo de fusión**, celebrado por los representantes de todas las sociedades participantes.
+
+Este documento constituye la base de todo el procedimiento posterior.
+
+Debe contener los recaudos previstos por el artículo 83 LGS. 
+
+---
+
+# Contenido del compromiso previo
+
+El compromiso previo debe contener:
+
+- exposición de los motivos y finalidades de la fusión;
+- balances especiales de fusión;
+- relación de cambio;
+- proyecto de contrato o estatuto;
+- limitaciones para la administración durante el procedimiento.
+
+Todos estos elementos permiten conocer anticipadamente cómo se desarrollará la reorganización. 
+
+---
+
+# Motivos y finalidades
+
+El compromiso previo debe explicar:
+
+- por qué las sociedades deciden fusionarse;
+- cuáles son los objetivos perseguidos;
+- cuál será la organización resultante.
+
+La exposición de motivos permite a socios y acreedores comprender el sentido económico y jurídico de la operación. 
+
+---
+
+# Balances especiales
+
+Cada sociedad debe confeccionar un **balance especial de fusión**.
+
+Según el artículo 83:
+
+- debe ser preparado por los administradores;
+- con informe del síndico cuando corresponda;
+- cerrado a una misma fecha;
+- esa fecha no puede ser anterior a tres meses respecto de la firma del compromiso.
+
+Además, todos los balances deben confeccionarse sobre bases homogéneas y utilizando idénticos criterios de valuación. 
+
+---
+
+# Finalidad de los balances especiales
+
+Los balances especiales permiten:
+
+- conocer el patrimonio de cada sociedad;
+- comparar patrimonios homogéneos;
+- determinar la participación que corresponderá a cada grupo de socios.
+
+Su utilización evita distorsiones derivadas de diferentes criterios contables o distintas fechas de cierre. 
+---
+
+# Relación de cambio
+
+Otro elemento esencial es la **relación de cambio**.
+
+Mediante ella los socios pueden conocer:
+
+- qué participación tendrán en la nueva sociedad;
+
+o bien
+
+- cuál será su participación en la sociedad absorbente.
+
+La relación de cambio constituye el parámetro para distribuir las participaciones sociales luego de la fusión. 
+
+---
+
+# Proyecto de contrato o estatuto
+
+El compromiso previo debe incorporar:
+
+- el proyecto de contrato de la nueva sociedad;
+
+o,
+
+si se trata de una absorción,
+
+- las modificaciones que se introducirán al contrato o estatuto de la absorbente.
+
+Ello permite conocer anticipadamente la estructura jurídica de la sociedad resultante. 
+
+---
+
+# Administración durante el procedimiento
+
+Las sociedades también pueden establecer:
+
+- limitaciones para la administración;
+- garantías destinadas a asegurar la continuidad normal de los negocios.
+
+Estas previsiones rigen durante el período comprendido entre el compromiso previo y la inscripción definitiva de la fusión. 
+
+---
+
+# Esquema del compromiso previo
+
+```{mermaid}
+flowchart TD
+
+A[Compromiso previo]
+
+A --> B[Motivos]
+
+A --> C[Balances especiales]
+
+A --> D[Relación de cambio]
+
+A --> E[Proyecto de estatuto]
+
+A --> F[Limitaciones de administración]
+```
+
+---
+
+# Segunda etapa
+
+## Aprobación por los socios
+
+El compromiso previo y los balances especiales deben ser aprobados por el órgano de gobierno de **cada una** de las sociedades participantes.
+
+La aprobación requiere las mayorías exigidas para modificar el contrato social o el estatuto. 
+
+---
+
+# Información previa
+
+Antes de la reunión de socios o de la asamblea,
+
+los administradores deben poner a disposición de los socios:
+
+- el compromiso previo;
+- el balance especial;
+- el informe de la sindicatura, cuando exista.
+
+La documentación debe permanecer disponible durante **quince días** antes de la deliberación.
+
+---
+
+---
+
+# Publicidad de la fusión
+
+## Artículo 83 LGS
+
+Aprobado el compromiso previo y los balances especiales por todas las sociedades participantes,
+
+debe publicarse un aviso durante **tres días**:
+
+- en el diario de publicaciones legales de cada jurisdicción;
+- y en un diario de gran circulación.
+
+La publicidad constituye una etapa indispensable del procedimiento. 
+---
+
+# Contenido del aviso
+
+El aviso debe contener, entre otros datos:
+
+- razón social o denominación de cada sociedad;
+- sede social o datos de inscripción registral;
+- capital de la nueva sociedad o aumento del capital de la absorbente;
+- valuación del activo y del pasivo;
+- tipo y domicilio de la sociedad resultante;
+- fechas del compromiso previo y de las resoluciones aprobatorias. 
+
+---
+
+# Finalidad de la publicidad
+
+La publicación cumple una doble función.
+
+## Informativa
+
+Da a conocer al mercado la proyectada reorganización.
+
+## Protectoria
+
+Permite que los acreedores conozcan la futura modificación del sujeto obligado y puedan ejercer los derechos que la ley les reconoce. 
+
+---
+
+# Protección de los acreedores
+
+Nissen recuerda que los acreedores:
+
+**no participan** del procedimiento de fusión.
+
+Son terceros ajenos al acuerdo celebrado entre las sociedades.
+
+Por ello, la ley les reconoce un mecanismo específico de tutela:
+
+## El derecho de oposición. 
+
+---
+
+# Fundamento del derecho de oposición
+
+La razón de esta protección es sencilla.
+
+Como regla,
+
+**no puede imponerse a un acreedor un cambio de deudor sin su consentimiento**.
+
+La publicidad procura precisamente permitir que los acreedores conozcan la operación antes de su perfeccionamiento. 
+
+---
+
+# Plazo para oponerse
+
+Los acreedores disponen de:
+
+## Quince (15) días
+
+contados desde la **última publicación** del aviso.
+
+Durante ese plazo pueden formular oposición a la ejecución de la fusión. 
+---
+
+# Efectos de la oposición
+
+La oposición:
+
+❌ no hace fracasar la fusión.
+
+❌ no impide continuar el procedimiento.
+
+Su único efecto consiste en:
+
+**demorar el otorgamiento del acuerdo definitivo de fusión** hasta que se cumpla el régimen previsto por la ley. 
+
+---
+
+# Plazo adicional
+
+Vencido el plazo de oposición,
+
+la ley exige esperar:
+
+## Veinte (20) días más.
+
+Durante ese período:
+
+- las sociedades pueden desinteresar al acreedor;
+- pueden otorgarle garantías suficientes;
+- o bien el acreedor puede obtener embargo judicial. 
+
+---
+
+# Embargo judicial
+
+Si el acreedor:
+
+- no fue pagado;
+- ni suficientemente garantizado,
+
+podrá solicitar el embargo judicial de los bienes correspondientes.
+
+La finalidad consiste en asegurar el cobro de su crédito sin impedir definitivamente la reorganización societaria. 
+
+---
+
+# Acuerdo definitivo de fusión
+
+Superada la etapa de oposición,
+
+los representantes de todas las sociedades pueden otorgar el:
+
+## Acuerdo definitivo de fusión.
+
+Este instrumento constituye el acto jurídico que consolida la reorganización. 
+
+---
+
+# Contenido del acuerdo definitivo
+
+El acuerdo definitivo debe contener:
+
+- las resoluciones sociales aprobatorias;
+- la nómina de los socios que ejercieron el receso;
+- el capital que representan;
+- la nómina de acreedores garantizados;
+- la nómina de acreedores embargantes;
+- los acreedores desinteresados;
+- los balances especiales;
+- el balance consolidado de las sociedades fusionadas. 
+
+---
+
+# Esquema del procedimiento
+
+```{mermaid}
+flowchart TD
+
+A[Aprobación]
+
+A --> B[Publicación<br>3 días]
+
+B --> C[Oposición de acreedores<br>15 días]
+
+C --> D[Espera legal<br>20 días]
+
+D --> E[Pago o garantías]
+
+D --> F[Embargo judicial]
+
+E --> G[Acuerdo definitivo]
+
+F --> G
+```
+
+---
+
+# Ideas principales
+
+- La publicidad protege principalmente a los acreedores.
+- La oposición **no impide** la fusión.
+- El procedimiento sólo se suspende hasta resolver la situación de los acreedores oponentes.
+- El acuerdo definitivo sólo puede otorgarse una vez cumplidas las etapas previstas por el artículo 83 LGS.
+
+---
+
+---
+
+# Acuerdo definitivo de fusión
+
+## Artículo 84 LGS
+
+Cumplidas todas las etapas previstas por el artículo 83,
+
+los representantes de las sociedades intervinientes otorgan el:
+
+## Acuerdo definitivo de fusión.
+
+Este instrumento consolida la reorganización y constituye el antecedente inmediato de la inscripción registral. 
+
+---
+
+# Inscripción registral
+
+El acuerdo definitivo debe inscribirse en el Registro Público.
+
+Con la inscripción:
+
+- la fusión produce plenamente sus efectos frente a terceros;
+- se perfecciona la sucesión universal;
+- queda consolidada la reorganización societaria.
+
+Hasta ese momento el procedimiento aún no se encuentra definitivamente concluido. 
+
+---
+
+# Administración durante el procedimiento
+
+Mientras no se produzca la inscripción,
+
+las sociedades continúan existiendo.
+
+Nissen señala que durante ese período:
+
+- deben respetarse las limitaciones previstas en el compromiso previo;
+- los administradores conservan únicamente las facultades compatibles con el proceso de reorganización.
+
+La finalidad consiste en preservar el patrimonio hasta la conclusión de la fusión. 
+
+---
+
+# Derecho de receso
+
+## Artículo 85 LGS
+
+La ley remite al régimen previsto para la transformación.
+
+Por ello resultan aplicables:
+
+- el artículo 78 (receso);
+- el artículo 79 (preferencias).
+
+El derecho corresponde a los socios que votaron en contra de la aprobación del compromiso previo de fusión. 
+
+---
+
+# Ejercicio del receso
+
+Nissen recuerda que:
+
+el receso debe ejercerse
+
+## dentro de los quince días
+
+contados desde la reunión de socios o asamblea que aprobó el compromiso previo de fusión. 
+
+---
+
+# Limitaciones
+
+No corresponde el derecho de receso:
+
+- a los accionistas de la sociedad incorporante (art. 245, primer párrafo);
+
+ni tampoco,
+
+como regla,
+
+a los accionistas de sociedades con oferta pública cuando las acciones recibidas continúan admitidas al mismo régimen.
+
+Sí procede si esa inscripción fuera desistida o denegada. 
+
+---
+
+# Revocación del compromiso previo
+
+## Artículo 86 LGS
+
+El compromiso previo puede quedar sin efecto.
+
+Ello ocurre cuando:
+
+no se obtienen todas las resoluciones sociales aprobatorias
+
+dentro de los **tres meses** contados desde su suscripción. 
+
+---
+
+# Revocación de las resoluciones sociales
+
+Las propias resoluciones aprobatorias también pueden ser revocadas.
+
+Para ello se requiere:
+
+- decisión del mismo órgano de gobierno;
+- mismas mayorías exigidas para aprobar la fusión;
+- que todavía no se haya otorgado el acuerdo definitivo;
+- inexistencia de perjuicio para sociedades, socios o terceros. 
+
+---
+
+# Rescisión de la fusión
+
+## Artículo 87 LGS
+
+El acuerdo definitivo puede ser rescindido judicialmente.
+
+La acción corresponde a cualquiera de las sociedades interesadas,
+
+siempre que invoque:
+
+## justos motivos.
+
+La demanda sólo puede promoverse hasta la inscripción registral. 
+
+---
+
+# Competencia
+
+La acción debe promoverse
+
+ante el juez correspondiente
+
+al lugar donde fue celebrado el acuerdo definitivo de fusión. 
+
+---
+
+# Efectos de la demanda
+
+Promovida la acción de rescisión,
+
+las autoridades de las sociedades disueltas:
+
+- recuperan la administración;
+- cesa la suspensión prevista por el artículo 84.
+
+Nissen destaca que esta solución procura evitar que el patrimonio quede sin conducción mientras se resuelve el litigio. 
+
+---
+
+# Alcance de la acción
+
+Nissen formula una precisión importante.
+
+La acción prevista por el artículo 87
+
+solo puede dirigirse contra:
+
+## el acuerdo definitivo de fusión.
+
+No procede respecto del compromiso previo,
+
+porque ese supuesto ya se encuentra regulado específicamente por el artículo 86 mediante la revocación de las decisiones sociales. 
+
+---
+
+# Esquema final del procedimiento
+
+```{mermaid}
+flowchart TD
+
+A[Compromiso previo]
+
+A --> B[Aprobación]
+
+B --> C[Publicidad]
+
+C --> D[Oposición de acreedores]
+
+D --> E[Acuerdo definitivo]
+
+E --> F[Inscripción]
+
+E --> G[Revocación<br>art. 86]
+
+E --> H[Rescisión judicial<br>art. 87]
+
+F --> I[Fusión perfeccionada]
+```
+
+---
+
+# Síntesis del régimen de la fusión
+
+| Etapa | Finalidad |
+|-------|-----------|
+| Compromiso previo | Organizar la reorganización |
+| Aprobación | Formación de la voluntad social |
+| Publicidad | Protección de acreedores |
+| Oposición | Tutela de terceros |
+| Acuerdo definitivo | Consolidación del procedimiento |
+| Inscripción | Eficacia frente a terceros |
+| Revocación | Dejar sin efecto el compromiso previo |
+| Rescisión | Impugnar judicialmente el acuerdo definitivo |
+
+---
+
+# Fin del instituto
+
+La fusión concluye con la inscripción registral.
+
+Desde ese momento:
+
+- opera la sucesión universal;
+- la sociedad fusionaria o absorbente ocupa íntegramente la posición jurídica de las sociedades disueltas;
+- la reorganización produce todos sus efectos frente a socios y terceros. 
+
+---
+
+# Escisión de sociedades
+
+## Artículo 88 LGS
+
+La escisión constituye otro supuesto de reorganización empresaria regulado por la Ley General de Sociedades.
+
+A diferencia de la fusión,
+
+la ley distingue **cuatro modalidades** diferentes de escisión.
+
+Nissen destaca que cada una produce efectos propios sobre el patrimonio y sobre la continuidad de la sociedad escindente. 
+---
+
+# Clasificación
+
+```{mermaid}
+flowchart TD
+
+A[Escisión]
+
+A --> B[Escisión incorporación]
+
+A --> C[Fusión-escisión]
+
+A --> D[Escisión propiamente dicha]
+
+A --> E[Escisión-división]
+```
+
+---
+
+# Escisión incorporación
+
+## Art. 88 inc. 1°, primera parte
+
+La sociedad escindente:
+
+- no se disuelve;
+- destina parte de su patrimonio a una sociedad ya existente.
+
+La sociedad que recibe ese patrimonio se denomina:
+
+## Sociedad escisionaria.
+
+Como consecuencia:
+
+- la escindente reduce proporcionalmente su capital;
+- la escisionaria incrementa el suyo para incorporar ese patrimonio y entregar la correspondiente participación social a los socios de la escindente. 
+
+---
+
+# Representación gráfica
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad escindente]
+
+--> B[Parte del patrimonio]
+
+--> C[Sociedad ya existente]
+
+A --> D[Continúa existiendo]
+```
+
+---
+
+# Fusión-escisión
+
+## Art. 88 inc. 1°
+
+Tiene lugar cuando:
+
+dos o más sociedades
+
+aportan parte de sus respectivos patrimonios
+
+para constituir
+
+## una nueva sociedad.
+
+Las sociedades escindentes:
+
+- continúan existiendo;
+- reducen su capital en proporción al patrimonio transferido.
+
+Los socios de las sociedades escindentes adquieren la calidad de socios de la nueva sociedad. 
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad A]
+
+B[Sociedad B]
+
+A --> C[Nueva sociedad]
+
+B --> C
+
+A --> D[Continúa]
+
+B --> E[Continúa]
+```
+
+---
+
+# Escisión propiamente dicha
+
+## Art. 88 inc. II
+
+En esta modalidad:
+
+una única sociedad
+
+destina parte de su patrimonio
+
+para crear
+
+una o varias sociedades nuevas.
+
+La decisión es adoptada unilateralmente por el órgano de gobierno de la sociedad escindente.
+
+El instrumento constitutivo de la nueva sociedad se otorga en la misma reunión que aprueba la escisión. 
+---
+
+# Representación
+
+```{mermaid}
+flowchart LR
+
+A[Sociedad]
+
+--> B[Parte del patrimonio]
+
+--> C[Nueva sociedad]
+
+A --> D[Continúa existiendo]
+```
+
+---
+
+# Escisión-división
+
+## Art. 88 inc. III
+
+Este supuesto fue incorporado por la Ley 22.903.
+
+Aquí ocurre algo diferente.
+
+La sociedad:
+
+- se disuelve;
+- no entra en liquidación;
+- destina la totalidad de su patrimonio a la constitución de nuevas sociedades.
+
+Las nuevas sociedades reciben íntegramente el patrimonio de la sociedad escindente. 
+
+---
+
+# Representación
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad]
+
+A --> B[Nueva sociedad]
+
+A --> C[Nueva sociedad]
+
+A --> D[Nueva sociedad]
+
+A -.-> E[La sociedad original desaparece]
+```
+
+---
+
+# Diferencia fundamental
+
+Nissen formula una observación importante.
+
+## Salvo la escisión-división,
+
+en todas las demás modalidades:
+
+- la sociedad escindente continúa existiendo;
+- mantiene su personalidad jurídica.
+
+Sólo reduce su patrimonio en la medida correspondiente a la escisión. 
+---
+
+# Escisión y fusión
+
+La escisión presenta una diferencia esencial respecto de la fusión.
+
+En la escisión:
+
+**no existe transmisión universal del patrimonio.**
+
+Las sociedades escisionarias
+
+no suceden universalmente
+
+a la sociedad escindente.
+
+Cada una conserva su propia personalidad jurídica y únicamente recibe la porción patrimonial que le fue asignada. 
+
+---
+
+# Participaciones sociales
+
+Nissen destaca otra característica propia de la escisión.
+
+Las acciones o partes sociales
+
+correspondientes a la sociedad que recibe el patrimonio
+
+**no se adjudican a la sociedad escindente.**
+
+Se atribuyen directamente
+
+a los socios o accionistas
+
+de la sociedad escindente.
+
+La finalidad de esta solución es evitar las limitaciones que podrían derivar de los artículos 30 a 33 LGS sobre participaciones entre sociedades. 
+
+---
+
+# Esquema comparativo
+
+| Modalidad | ¿Continúa la escindente? | ¿Nueva sociedad? |
+|-----------|-------------------------|------------------|
+| Escisión incorporación | Sí | No |
+| Fusión-escisión | Sí | Sí |
+| Escisión propiamente dicha | Sí | Sí |
+| Escisión-división | No | Sí |
+
+---
+
+# Procedimiento de la escisión
+
+## Artículo 88 LGS
+
+La Ley General de Sociedades dispone que la escisión sigue, como regla general, el procedimiento previsto para la fusión.
+
+En consecuencia, resultan aplicables:
+
+- balance especial;
+- resolución aprobatoria;
+- publicidad;
+- oposición de acreedores;
+- inscripción registral.
+
+Las adaptaciones derivan de la modalidad concreta de escisión elegida. 
+
+---
+
+# Protección de los acreedores
+
+Al igual que en la fusión,
+
+los acreedores cuentan con:
+
+- publicidad suficiente;
+- derecho de oposición;
+- posibilidad de exigir garantías.
+
+La finalidad consiste en evitar que la reorganización perjudique sus derechos. 
+
+---
+
+# Efectos
+
+Como consecuencia de la escisión:
+
+- los bienes comprendidos en la reorganización pasan a la sociedad beneficiaria;
+- los socios reciben directamente las participaciones correspondientes;
+- la reorganización produce efectos frente a terceros desde su inscripción.
+
+La continuidad o desaparición de la sociedad escindente dependerá de la modalidad de escisión elegida. 
+
+---
+
+# Comparación
+
+| Transformación | Fusión | Escisión |
+|---------------|--------|----------|
+| Cambia el tipo social. | Une patrimonios. | Divide patrimonios. |
+| Subsiste la misma persona jurídica. | Puede existir sucesión universal. | Hay transferencia parcial de patrimonio. |
+| No hay transmisión patrimonial. | Sí. | Sí, pero limitada a los bienes escindidos. |
+| Arts. 74-81. | Arts. 82-87. | Art. 88. |
+
+---
+
+# Ideas principales
+
+```{mermaid}
+flowchart LR
+
+A[Reorganización]
+
+A --> B[Transformación]
+
+A --> C[Fusión]
+
+A --> D[Escisión]
+
+B --> E[Cambia el tipo]
+
+C --> F[Concentración empresaria]
+
+D --> G[Descentralización patrimonial]
+```
+
+---
+
+# Cierre del régimen de reorganización
+
+Los tres institutos regulados por la Ley General de Sociedades persiguen una finalidad común:
+
+- adaptar la estructura jurídica de la empresa;
+- preservar la continuidad de la actividad económica;
+- proteger a socios, acreedores y terceros mediante procedimientos específicos de publicidad y control.
+
+Cada mecanismo responde a necesidades organizativas diferentes, pero todos integran el régimen de reorganización societaria previsto por la Ley General de Sociedades. 
+
+---
+

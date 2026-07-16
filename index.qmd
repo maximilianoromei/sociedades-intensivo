@@ -113,11 +113,36 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/clase05-seccionIV.pdf" target="_blank">Descargar presentación en PDF</a>
 
-### Clase 5 - Socio
+### Clase 6 - Socio
 
 - 🎓 <a href="clases/clase06-socio.html" target="_blank">Presentación del tema </a>
 
 - 📄 <a href="clases/clase06-socio.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 7 - Administración
+
+- 🎓 <a href="clases/clase07-administracion.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase07-administracion.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 7 - Contabilidad
+
+- 🎓 <a href="clases/clase07-contabilidad.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase07-contabilidad.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 8 - Reorganización
+
+- 🎓 <a href="clases/clase08-reorganizacion.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase08-reorganizacion.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 8 - Resolución
+
+- 🎓 <a href="clases/clase08-resolucion.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase08-resolucion.pdf" target="_blank">Descargar presentación en PDF</a>
+
 
 ## Evaluaciones
 
