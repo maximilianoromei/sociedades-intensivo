@@ -1,0 +1,1613 @@
+---
+title: "Clase 9 — Sociedades Personalistas"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Sociedades personalistas
+
+## Sociedad colectiva
+
+## Sociedad en comandita simple
+
+## Sociedad de capital e industria
+
+---
+
+# ¿Qué tienen de especial estas sociedades?
+
+En todos los tipos sociales existen socios.
+
+Sin embargo, en algunos de ellos **la persona del socio adquiere una importancia decisiva**.
+
+Esos son los denominados **tipos personalistas**.
+
+---
+
+# Punto de partida
+
+Todas las sociedades son sociedades de personas.
+
+No obstante, la doctrina utiliza la categoría **sociedades personalistas** con una finalidad didáctica.
+
+Su objetivo es destacar aquellos tipos en los cuales la identidad del socio posee especial relevancia.
+
+---
+
+# ¿Por qué importa quién es el socio?
+
+```{mermaid}
+flowchart TD
+
+A[Persona del socio]
+
+A --> B[Interesa a los terceros]
+
+A --> C[Interesa al mercado]
+
+A --> D[Incide sobre el régimen de responsabilidad]
+```
+
+---
+
+# La idea central
+
+En estos tipos sociales:
+
+- la participación del socio no resulta indiferente;
+- la identidad de los integrantes posee relevancia jurídica;
+- el régimen de responsabilidad coloca al socio en una situación de subsidiariedad respecto de las obligaciones sociales.
+
+---
+
+# ¿Qué explica esa importancia?
+
+Mientras en otros tipos sociales el protagonismo recae principalmente sobre el patrimonio social,
+
+en las sociedades personalistas la figura del socio continúa siendo un elemento esencial para quienes contratan con la sociedad.
+
+---
+
+# Sociedades personalistas
+
+La doctrina incluye dentro de esta categoría:
+
+- Sociedad colectiva.
+- Sociedad en comandita simple.
+- Sociedad de capital e industria.
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart LR
+
+A[Sociedades personalistas]
+
+A --> B[Sociedad colectiva]
+
+A --> C[Sociedad en comandita simple]
+
+A --> D[Sociedad de capital e industria]
+```
+
+---
+
+# Sociedad colectiva
+
+Es el tipo clásico de sociedad personalista.
+
+Representa históricamente la primera manifestación de la sociedad comercial organizada para desarrollar una actividad económica común.
+
+---
+
+# Evolución histórica
+
+Según explica Vitolo:
+
+- nace hacia fines del Medioevo;
+- constituye el prototipo histórico de las sociedades comerciales;
+- originalmente estos emprendimientos eran denominados **compañías**.
+
+---
+
+# El prototipo de sociedad
+
+La sociedad colectiva constituye el modelo clásico mediante el cual:
+
+- dos o más personas;
+- desarrollan conjuntamente una actividad comercial;
+- con el propósito de obtener y distribuir utilidades.
+
+---
+
+# ¿Por qué es una sociedad personalista?
+
+Porque se constituye teniendo especialmente en cuenta las condiciones personales de los socios.
+
+Las vicisitudes de éstos pueden repercutir directamente sobre la vida de la sociedad.
+
+---
+
+# Consecuencias
+
+```{mermaid}
+flowchart TD
+
+A[Condiciones personales del socio]
+
+A --> B[Muerte]
+
+A --> C[Crisis económica]
+
+B --> D[Pueden repercutir sobre la sociedad]
+
+C --> D
+```
+
+---
+
+# Un rasgo característico
+
+La responsabilidad asumida por los socios constituye uno de los principales motivos por los cuales este tipo social ha perdido importancia práctica.
+
+---
+
+# ¿Por qué hoy casi no se utiliza?
+
+Según el autor:
+
+- los socios responden subsidiaria, solidaria e ilimitadamente;
+- ello desalienta asumir riesgos empresariales;
+- dificulta reunir capitales importantes;
+- expone el patrimonio personal frente al fracaso del negocio.
+
+---
+
+# Evolución legislativa
+
+El Código de Comercio definía expresamente a la sociedad colectiva.
+
+La Ley 19.550 adoptó otra técnica legislativa.
+
+---
+
+# La opción de la Ley General de Sociedades
+
+La LGS:
+
+- no define la sociedad colectiva;
+- regula directamente el régimen de responsabilidad;
+- admite actuar mediante razón social o denominación social.
+
+---
+
+# Comenzamos por su principal característica
+
+## El régimen de responsabilidad de los socios
+
+---
+
+# La responsabilidad de los socios
+
+La característica más importante de la sociedad colectiva es el régimen de responsabilidad asumido por sus socios.
+
+---
+
+# Artículo 125 LGS
+
+> "Los socios contraen responsabilidad subsidiaria, ilimitada y solidaria, por las obligaciones sociales."
+
+Tres calificativos definen el régimen:
+
+- subsidiaria;
+- ilimitada;
+- solidaria.
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Responsabilidad del socio]
+
+A --> B[Subsidiaria]
+
+A --> C[Ilimitada]
+
+A --> D[Solidaria]
+```
+
+---
+
+# Responsabilidad subsidiaria
+
+El acreedor debe reclamar primero el pago a la sociedad.
+
+Sólo si el patrimonio social resulta insuficiente podrá dirigirse contra los socios.
+
+---
+
+# ¿Por qué es subsidiaria?
+
+La sociedad posee personalidad jurídica propia.
+
+Por ello:
+
+1. responde primero la sociedad;
+2. sólo después pueden ser perseguidos los socios.
+
+---
+
+# Ejemplo
+
+**Ejemplo**
+
+La sociedad adeuda $80.000.000.
+
+Posee bienes por $60.000.000.
+
+El acreedor ejecuta primero esos bienes.
+
+Recién por el saldo insoluto podrá reclamar a los socios.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart LR
+
+A[Deuda social]
+
+A --> B[Patrimonio de la sociedad]
+
+B --> C{¿Alcanza?}
+
+C -->|Sí| D[La deuda queda cancelada]
+
+C -->|No| E[Responden los socios]
+```
+
+---
+
+# Responsabilidad ilimitada
+
+No existe un límite cuantitativo predeterminado.
+
+Si el patrimonio social resulta insuficiente,
+
+los socios responden con todo su patrimonio personal.
+
+---
+
+# ¿Qué significa "ilimitada"?
+
+No responde únicamente el aporte efectuado.
+
+También queda comprometido el patrimonio personal del socio.
+
+---
+
+# Ejemplo
+
+**Ejemplo**
+
+Capital aportado:
+
+- Socio A: $5.000.000
+
+La deuda pendiente luego de ejecutar los bienes sociales asciende a:
+
+- $120.000.000
+
+El socio no responde sólo por su aporte.
+
+Responde con todo su patrimonio.
+
+---
+
+# Responsabilidad solidaria
+
+Cada socio puede ser demandado por la totalidad de la deuda.
+
+El acreedor no necesita dividir previamente su reclamo.
+
+---
+
+# Solidaridad
+
+```{mermaid}
+flowchart LR
+
+A[Acreedor]
+
+A --> B[Socio A]
+
+A --> C[Socio B]
+
+A --> D[Socio C]
+```
+
+Cada uno puede ser demandado por el total.
+
+---
+
+# ¿Qué ocurre si uno paga todo?
+
+El pago extingue la obligación frente al acreedor.
+
+Luego el socio que pagó podrá reclamar a los demás la parte que les corresponda.
+
+---
+
+# Las tres notas
+
+# Las tres notas
+
+```{mermaid}
+flowchart LR
+    A["Responsabilidad de los socios<br/>Art. 125 LGS"]
+
+    A --> B["Subsidiaria"]
+    A --> C["Ilimitada"]
+    A --> D["Solidaria"]
+
+    B --> B1["Primero responde<br/>el patrimonio social"]
+    C --> C1["El socio responde con<br/>todo su patrimonio personal"]
+    D --> D1["Cada socio responde<br/>por el total de la deuda"]
+```
+---
+
+# Un régimen excepcional
+
+La sociedad colectiva constituye una excepción dentro del sistema actual.
+
+La mayoría de los tipos societarios modernos limitan la responsabilidad de los socios.
+
+---
+
+# ¿Por qué perdió importancia?
+
+La responsabilidad:
+
+- subsidiaria;
+- ilimitada;
+- solidaria;
+
+hace que este tipo resulte poco atractivo para emprendimientos de cierta magnitud.
+
+---
+
+# Sin embargo...
+
+La sociedad colectiva conserva utilidad cuando existe:
+
+- fuerte confianza recíproca;
+- reducido número de socios;
+- estrecha vinculación personal.
+
+---
+
+# Beneficios reconocidos a los socios
+
+Aunque la responsabilidad es muy amplia,
+
+la ley reconoce mecanismos que atenúan sus efectos.
+
+Los principales son:
+
+- beneficio de excusión;
+
+---
+
+# Beneficio de excusión
+
+La responsabilidad de los socios es **subsidiaria**.
+
+Por ello, el acreedor debe intentar primero la ejecución del patrimonio social.
+
+---
+
+# ¿Qué es el beneficio de excusión?
+
+Es el derecho del socio a exigir que el acreedor persiga previamente los bienes de la sociedad.
+
+Sólo cuando éstos resulten insuficientes podrá dirigirse contra los socios.
+
+---
+
+# Fundamento
+
+El patrimonio social constituye la garantía primaria de los acreedores.
+
+El patrimonio personal de los socios actúa únicamente en forma subsidiaria.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart LR
+
+A[Acreedor]
+
+A --> B[Patrimonio social]
+
+B --> C{¿Alcanza?}
+
+C -->|Sí| D[La deuda queda satisfecha]
+
+C -->|No| E[Puede reclamar a los socios]
+```
+
+---
+
+# Ejemplo
+
+**Ejemplo**
+
+Una sociedad adeuda $150 millones.
+
+Posee bienes ejecutables por $110 millones.
+
+El acreedor debe ejecutar primero esos bienes.
+
+Sólo podrá reclamar a los socios los $40 millones restantes.
+
+---
+
+# ¿Puede el acreedor demandar directamente al socio?
+
+Sí.
+
+Pero el socio podrá oponer el beneficio de excusión para exigir que previamente se ejecuten los bienes sociales.
+
+---
+
+# Límites del beneficio
+
+El beneficio de excusión no elimina la responsabilidad.
+
+Únicamente determina el **orden** en que deben perseguirse los patrimonios.
+
+---
+
+# Idea principal
+
+```{mermaid}
+flowchart TD
+
+A[Beneficio de excusión]
+
+A --> B[Primero patrimonio social]
+
+B --> C[Después patrimonio de los socios]
+```
+
+---
+
+
+# Finalizado este tema...
+
+A continuación analizaremos:
+
+- las cláusulas que pretendan limitar la responsabilidad;
+- su eficacia frente a terceros;
+- el régimen previsto por la Ley General de Sociedades.
+
+---
+
+# Cláusulas limitativas de responsabilidad
+
+La ley admite que los socios incorporen pactos sobre su responsabilidad.
+
+Sin embargo,
+
+su eficacia no es la misma frente a los terceros.
+
+---
+
+# Regla general
+
+Las estipulaciones contractuales que limiten la responsabilidad producen efectos entre los socios.
+
+Pero no pueden perjudicar los derechos de los acreedores.
+
+---
+
+# ¿Por qué?
+
+Los terceros contrataron con un tipo social cuyo régimen legal de responsabilidad se encuentra determinado por la ley.
+
+Ese régimen no puede modificarse en su perjuicio mediante acuerdos privados.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Cláusula limitativa]
+
+A --> B[Relaciones internas]
+
+A --> C[Relaciones con terceros]
+
+B --> D[Puede producir efectos]
+
+C --> E[No es oponible]
+```
+
+---
+
+# Idea principal
+
+El contrato social puede organizar las relaciones entre los socios.
+
+No puede alterar el régimen legal de protección de los acreedores.
+
+---
+
+# Contrato constitutivo
+
+La sociedad colectiva nace mediante un contrato social.
+
+Como todo contrato de sociedad,
+
+debe reunir los requisitos previstos por la Ley General de Sociedades.
+
+---
+
+# Contenido del contrato
+
+Además de las cláusulas generales,
+
+el contrato debe adecuarse a las particularidades propias de la sociedad colectiva.
+
+---
+
+# Aportes
+
+Los socios realizan aportes destinados a la formación del patrimonio social.
+
+Ese patrimonio constituye la garantía inmediata de los acreedores.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart LR
+
+A[Socios]
+
+A --> B[Aportes]
+
+B --> C[Patrimonio social]
+
+C --> D[Actividad]
+
+D --> E[Obligaciones]
+```
+
+---
+
+# El patrimonio social
+
+Aunque los socios respondan subsidiariamente,
+
+la sociedad posee un patrimonio propio,
+
+distinto del patrimonio personal de cada socio.
+
+---
+
+# Identificación de la sociedad
+
+La ley permite utilizar:
+
+- razón social; o
+- denominación social.
+
+---
+
+# Razón social
+
+La razón social se integra con el nombre de uno o más socios.
+
+Permite identificar a la sociedad a través de sus integrantes.
+
+---
+
+# Denominación social
+
+La sociedad también puede adoptar una denominación social.
+
+En este caso,
+
+la identificación no depende necesariamente del nombre de los socios.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Nombre de la sociedad]
+
+A --> B[Razón social]
+
+A --> C[Denominación social]
+```
+
+---
+
+# Diferencia
+
+| Razón social | Denominación social |
+|--------------|---------------------|
+| Incluye el nombre de uno o más socios | No requiere el nombre de los socios |
+
+---
+
+# ¿Por qué es importante el nombre?
+
+El nombre identifica a la sociedad frente a terceros
+
+y permite distinguirla de los demás sujetos de derecho.
+
+---
+
+# Próximo tema
+
+## Administración de la sociedad colectiva
+
+---
+
+# Administración
+
+La administración de la sociedad colectiva constituye uno de los aspectos centrales de este tipo social.
+
+La ley reconoce un amplio margen para la autonomía de la voluntad.
+
+---
+
+# Regla general
+
+Los socios pueden establecer libremente:
+
+- quién administrará;
+- cómo ejercerá sus funciones;
+- cuáles serán sus facultades.
+
+Todo ello, dentro de los límites previstos por la ley.
+
+---
+
+# ¿Quién puede ser administrador?
+
+El contrato social puede designar:
+
+- uno o varios socios;
+- uno o varios terceros.
+
+La administración no queda necesariamente reservada a los socios.
+
+---
+
+# Formas de administración
+
+```{mermaid}
+flowchart TD
+
+A[Administración]
+
+A --> B[Administrador único]
+
+A --> C[Varios administradores]
+```
+
+---
+
+# Designación
+
+La designación del administrador puede efectuarse:
+
+- en el contrato constitutivo; o
+- con posterioridad, mediante la decisión correspondiente.
+
+---
+
+# Administrador designado en el contrato
+
+Cuando el administrador ha sido designado en el contrato social,
+
+su situación jurídica presenta particularidades respecto de su remoción.
+
+---
+
+# Remoción
+
+La remoción del administrador depende de la forma en que haya sido designado.
+
+No todas las designaciones reciben el mismo tratamiento.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Administrador]
+
+A --> B[Designado en el contrato]
+
+A --> C[Designado posteriormente]
+```
+
+---
+
+# Justa causa
+
+Cuando la ley exige justa causa,
+
+la remoción no puede fundarse en una mera pérdida de confianza.
+
+Debe existir un motivo jurídicamente suficiente.
+
+---
+
+# ¿Qué persigue este régimen?
+
+Equilibrar dos intereses:
+
+- la estabilidad de la administración;
+- la protección del interés social.
+
+---
+
+# Renuncia
+
+El administrador también puede renunciar a su cargo.
+
+La renuncia debe ejercerse de manera compatible con el interés de la sociedad.
+
+---
+
+# Límites a la renuncia
+
+La renuncia no debe provocar un perjuicio injustificado para la sociedad.
+
+Su ejercicio debe respetar las exigencias de la buena fe.
+
+---
+
+# Administración y representación
+
+```{mermaid}
+flowchart LR
+
+A[Administrador]
+
+A --> B[Gestiona]
+
+A --> C[Representa]
+
+B --> D[Sociedad]
+
+C --> D
+```
+
+---
+
+# Idea principal
+
+La administración constituye un instrumento para el funcionamiento de la sociedad.
+
+Debe ejercerse siempre en interés de ésta.
+
+---
+
+# Modificación del contrato social
+
+El contrato social puede modificarse.
+
+La ley establece el régimen aplicable para adoptar esas decisiones.
+
+---
+
+# Regla
+
+Las modificaciones contractuales requieren la decisión de los socios conforme al régimen legal y al contrato social.
+
+---
+
+# Próximo tema
+
+## La parte de interés
+
+---
+
+# La parte de interés
+
+En la sociedad colectiva la participación del socio recibe el nombre de **parte de interés**.
+
+Constituye la posición jurídica que cada socio posee dentro de la sociedad.
+
+---
+
+# Característica principal
+
+La parte de interés se encuentra estrechamente vinculada con la persona del socio.
+
+Ello constituye una manifestación del carácter personalista de este tipo social.
+
+---
+
+# Consecuencia
+
+La incorporación de un nuevo socio no resulta indiferente.
+
+La identidad de los integrantes constituye un elemento esencial de la sociedad.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Parte de interés]
+
+A --> B[Importa quién es el socio]
+
+B --> C[Carácter personalista]
+```
+
+---
+
+# Cesión de la parte de interés
+
+La transmisión de la parte de interés presenta un régimen más estricto que en las sociedades de capital.
+
+Ello responde a la importancia que reviste la persona del socio.
+
+---
+
+# ¿Por qué?
+
+Los restantes socios aceptaron asociarse con determinadas personas.
+
+No necesariamente desean incorporar a cualquier tercero.
+
+---
+
+# Idea central
+
+```{mermaid}
+flowchart LR
+
+A[Socio]
+
+A --> B[Parte de interés]
+
+B --> C[La identidad del socio importa]
+```
+
+---
+
+# Modificación subjetiva
+
+El ingreso, retiro o sustitución de socios puede afectar el funcionamiento de la sociedad.
+
+Por ello la ley establece un régimen específico.
+
+---
+
+# Mayorías
+
+La adopción de decisiones sociales se rige por las reglas previstas en:
+
+- la ley;
+- el contrato social.
+
+---
+
+# Autonomía de la voluntad
+
+Los socios pueden establecer en el contrato el régimen de mayorías.
+
+La ley actúa como marco regulatorio.
+
+---
+
+# Formación de la voluntad social
+
+```{mermaid}
+flowchart TD
+
+A[Socios]
+
+A --> B[Votación]
+
+B --> C[Decisión social]
+```
+
+---
+
+# Importancia de las mayorías
+
+Las reglas de votación permiten:
+
+- adoptar decisiones;
+- resolver conflictos;
+- asegurar el funcionamiento de la sociedad.
+
+---
+
+# Actos en competencia
+
+La ley regula especialmente la actuación de los socios en actividades que compitan con la sociedad.
+
+---
+
+# Fundamento
+
+El deber de lealtad exige que el socio no desarrolle conductas incompatibles con el interés social.
+
+---
+
+# Finalidad
+
+La prohibición busca evitar:
+
+- conflictos de intereses;
+- utilización indebida de información;
+- perjuicios para la sociedad.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Socio]
+
+A --> B[Deber de lealtad]
+
+B --> C[No competir con la sociedad]
+
+C --> D[Protección del interés social]
+```
+
+---
+
+# Síntesis de la sociedad colectiva
+
+```{mermaid}
+mindmap
+  root((Sociedad colectiva))
+    Personalista
+    Responsabilidad
+      Subsidiaria
+      Solidaria
+      Ilimitada
+    Administración
+    Parte de interés
+    Mayorías
+    Deber de lealtad
+```
+
+---
+
+# Lo que debemos recordar
+
+- Es el tipo personalista por excelencia.
+- La identidad de los socios resulta relevante.
+- Los socios responden subsidiaria, solidaria e ilimitadamente.
+- La parte de interés posee un régimen propio.
+- La administración y las mayorías pueden organizarse contractualmente.
+- El socio debe actuar con lealtad y evitar competir con la sociedad.
+
+---
+
+# Próximo tema
+
+# Sociedad en comandita simple
+
+---
+
+# Sociedad en comandita simple
+
+La sociedad en comandita simple combina dos categorías de socios.
+
+Cada una de ellas posee un régimen jurídico diferente.
+
+---
+
+# Dos clases de socios
+
+La ley distingue:
+
+- socios comanditados;
+- socios comanditarios.
+
+Ambos integran la misma sociedad.
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad en comandita simple]
+
+A --> B[Socios comanditados]
+
+A --> C[Socios comanditarios]
+```
+
+---
+
+# Socios comanditados
+
+Los socios comanditados asumen la dirección personal del emprendimiento.
+
+Su régimen de responsabilidad coincide con el de los socios de la sociedad colectiva.
+
+---
+
+# Responsabilidad de los comanditados
+
+Los socios comanditados responden:
+
+- subsidiariamente;
+- solidariamente;
+- ilimitadamente.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Socio comanditado]
+
+A --> B[Administra]
+
+A --> C[Responde subsidiariamente]
+
+A --> D[Responde solidariamente]
+
+A --> E[Responde ilimitadamente]
+```
+
+---
+
+# Socios comanditarios
+
+El socio comanditario participa en el capital de la sociedad.
+
+Su responsabilidad se encuentra limitada.
+
+---
+
+# Responsabilidad del comanditario
+
+El socio comanditario responde únicamente hasta el monto del capital comprometido.
+
+Su patrimonio personal, como regla, no queda alcanzado por las deudas sociales.
+
+---
+
+# Comparación inicial
+
+| Comanditado | Comanditario |
+|--------------|--------------|
+| Administra | No administra |
+| Responsabilidad ilimitada | Responsabilidad limitada |
+
+---
+
+# Fundamento de la diferencia
+
+La distinta responsabilidad responde al diverso papel que cumple cada categoría de socios dentro de la sociedad.
+
+---
+
+# La administración
+
+La administración corresponde a los socios comanditados.
+
+Ellos ejercen la conducción de la sociedad.
+
+---
+
+# ¿Puede administrar el comanditario?
+
+Como principio,
+
+la administración corresponde a los socios comanditados.
+
+La ley establece un régimen específico para preservar la diferencia entre ambas categorías.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart LR
+
+A[Comanditados]
+
+A --> B[Administración]
+
+C[Comanditarios]
+
+C -.-> D[Aporte de capital]
+```
+
+---
+
+# Razón de la regla
+
+Existe una relación entre:
+
+- poder de administración;
+- régimen de responsabilidad.
+
+Quien administra asume un régimen más intenso de responsabilidad.
+
+---
+
+# Capital y gestión
+
+```{mermaid}
+flowchart TD
+
+A[Comanditados]
+
+A --> B[Gestión]
+
+C[Comanditarios]
+
+C --> D[Capital]
+```
+
+---
+
+# Organización interna
+
+La sociedad en comandita simple combina:
+
+- un grupo encargado de administrar;
+- otro destinado principalmente a aportar capital.
+
+---
+
+# Ventaja del sistema
+
+Este tipo permite reunir:
+
+- personas dispuestas a administrar;
+- inversores que prefieren limitar su riesgo.
+
+---
+
+# Idea principal
+
+La sociedad en comandita simple procura equilibrar:
+
+- dirección personal del negocio;
+- aporte de capital;
+- distintos niveles de responsabilidad.
+
+---
+
+# Lo que debemos recordar
+
+- Existen dos categorías de socios.
+- Los comanditados administran.
+- Los comanditados responden subsidiaria, solidaria e ilimitadamente.
+- Los comanditarios poseen responsabilidad limitada.
+- La diferencia entre ambas categorías constituye la esencia del tipo social.
+
+---
+
+# Próximo tema
+
+## Denominación y razón social
+
+---
+
+# Denominación y razón social
+
+La identificación de la sociedad constituye un elemento esencial para su actuación frente a terceros.
+
+La Ley General de Sociedades prevé reglas específicas para la sociedad en comandita simple.
+
+---
+
+# ¿Cómo puede identificarse?
+
+La sociedad puede actuar mediante:
+
+- razón social; o
+- denominación social.
+
+---
+
+# Razón social
+
+Cuando se utiliza razón social,
+
+ésta debe integrarse conforme a las reglas previstas para este tipo societario.
+
+---
+
+# Particularidad
+
+La razón social refleja la estructura personalista de la sociedad.
+
+Por ello,
+
+no todos los socios pueden integrar libremente ese nombre.
+
+---
+
+# ¿Qué socios integran la razón social?
+
+La razón social se forma con el nombre de uno o más **socios comanditados**.
+
+Ellos son quienes asumen el régimen de responsabilidad propio de la administración.
+
+---
+
+# ¿Y los comanditarios?
+
+La ley establece consecuencias cuando el nombre del socio comanditario aparece en la razón social.
+
+Ello procura evitar confusión respecto del régimen de responsabilidad.
+
+---
+
+# Esquema
+
+```{mermaid}
+flowchart TD
+
+A[Razón social]
+
+A --> B[Nombre de comanditados]
+
+B --> C[Protección de terceros]
+```
+
+---
+
+# Fundamento
+
+El tercero debe conocer,
+
+a través del nombre de la sociedad,
+
+quiénes son los socios que asumen el régimen de responsabilidad correspondiente.
+
+---
+
+# Denominación social
+
+Como alternativa,
+
+la sociedad puede adoptar una denominación social,
+
+sin necesidad de utilizar el nombre de los socios.
+
+---
+
+# Esquema comparativo
+
+| Razón social | Denominación social |
+|--------------|---------------------|
+| Nombre de comanditados | Nombre de fantasía o denominación |
+
+---
+
+# Capital social
+
+La sociedad cuenta con un patrimonio propio,
+
+integrado mediante los aportes efectuados por sus socios.
+
+---
+
+# Aportes
+
+Los aportes pueden provenir de:
+
+- socios comanditados;
+- socios comanditarios.
+
+Ambos participan en la formación del patrimonio social.
+
+---
+
+# Diferencia esencial
+
+La diferencia entre ambas categorías de socios
+
+no depende del aporte,
+
+sino del régimen jurídico que la ley asigna a cada una.
+
+---
+
+# Administración y capital
+
+```{mermaid}
+flowchart LR
+
+A[Comanditados]
+
+A --> B[Administran]
+
+C[Comanditarios]
+
+C --> D[Aportan capital]
+
+B --> E[Sociedad]
+
+D --> E
+```
+
+---
+
+# Idea principal
+
+La sociedad en comandita simple distribuye funciones.
+
+No todos los socios cumplen el mismo papel dentro de la organización.
+
+---
+
+# Síntesis
+
+```{mermaid}
+mindmap
+  root((Comandita simple))
+    Dos clases de socios
+      Comanditados
+      Comanditarios
+    Administración
+      Comanditados
+    Responsabilidad
+      Ilimitada
+      Limitada
+    Razón social
+```
+
+---
+
+# Finaliza la sociedad en comandita simple
+
+A continuación estudiaremos el último tipo personalista previsto por la Ley General de Sociedades.
+
+# Sociedad de capital e industria
+
+---
+
+# Sociedad de capital e industria
+
+La sociedad de capital e industria reúne dos categorías de socios.
+
+Cada una realiza un aporte diferente y recibe un tratamiento jurídico propio.
+
+---
+
+# Dos categorías de socios
+
+La ley distingue entre:
+
+- socios capitalistas;
+- socios industriales.
+
+---
+
+# Esquema general
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad de capital e industria]
+
+A --> B[Socios capitalistas]
+
+A --> C[Socios industriales]
+```
+
+---
+
+# Socio capitalista
+
+El socio capitalista efectúa un aporte de capital.
+
+Su régimen de responsabilidad es el previsto para los socios de la sociedad colectiva.
+
+---
+
+# Responsabilidad del socio capitalista
+
+Los socios capitalistas responden:
+
+- subsidiariamente;
+- solidariamente;
+- ilimitadamente.
+
+---
+
+# Socio industrial
+
+El socio industrial no aporta capital.
+
+Su contribución consiste en su:
+
+- trabajo;
+- industria;
+- actividad personal.
+
+---
+
+# El aporte del socio industrial
+
+```{mermaid}
+flowchart LR
+
+A[Socio industrial]
+
+A --> B[Trabajo]
+
+A --> C[Conocimientos]
+
+A --> D[Actividad personal]
+```
+
+---
+
+# Diferencia esencial
+
+La diferencia entre ambas categorías no depende de la importancia económica del aporte.
+
+Depende de la naturaleza del aporte comprometido.
+
+---
+
+# Comparación
+
+| Socio capitalista | Socio industrial |
+|-------------------|------------------|
+| Aporta capital | Aporta trabajo o industria |
+| Responsabilidad de la colectiva | Régimen especial previsto por la ley |
+
+---
+
+# Finalidad del tipo
+
+Este tipo social permite asociar:
+
+- quien posee capital;
+- quien aporta trabajo o conocimientos.
+
+---
+
+# ¿Por qué existe este tipo?
+
+Facilita el desarrollo de emprendimientos en los cuales una persona dispone de recursos económicos y otra aporta su actividad personal.
+
+---
+
+# Organización
+
+```{mermaid}
+flowchart TD
+
+A[Capital]
+
+A --> C[Sociedad]
+
+B[Industria]
+
+B --> C
+```
+
+---
+
+# Participación del socio industrial
+
+El aporte del socio industrial integra el contrato social.
+
+No constituye una simple relación laboral con la sociedad.
+
+---
+
+# Idea principal
+
+El trabajo comprometido por el socio industrial constituye un verdadero aporte societario.
+
+---
+
+# Administración
+
+La administración de la sociedad se rige por las reglas establecidas para este tipo social y por lo previsto en el contrato.
+
+---
+
+# Razón social
+
+La identificación de la sociedad debe respetar las reglas previstas por la Ley General de Sociedades para este tipo.
+
+---
+
+# Síntesis
+
+```{mermaid}
+mindmap
+  root((Capital e industria))
+    Socio capitalista
+      Aporta capital
+      Responsabilidad amplia
+    Socio industrial
+      Aporta trabajo
+      Industria
+```
+
+---
+
+# Comparación de los tres tipos personalistas
+
+| Tipo | Categorías de socios | Rasgo principal |
+|------|----------------------|-----------------|
+| Sociedad colectiva | Una sola | Todos responden subsidiaria, solidaria e ilimitadamente |
+| Comandita simple | Comanditados y comanditarios | Diferente responsabilidad según la categoría |
+| Capital e industria | Capitalistas e industriales | Se distinguen por la naturaleza del aporte |
+
+---
+
+# Ideas principales de la clase
+
+- Las sociedades personalistas otorgan relevancia a la persona del socio.
+- La sociedad colectiva constituye el modelo clásico.
+- La comandita simple diferencia administradores e inversores.
+- La sociedad de capital e industria distingue entre aportes de capital y de trabajo.
+- Cada tipo posee un régimen propio de responsabilidad y organización.

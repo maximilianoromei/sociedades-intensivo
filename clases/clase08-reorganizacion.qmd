@@ -385,6 +385,33 @@ La transformación constituye una modificación de enorme trascendencia y justif
 
 ---
 
+# Acuerdo social
+
+El procedimiento comienza con la decisión de los socios.
+
+Según Vitolo:
+
+- La decision de los socios o el acuerdo tomado por medio de los érganos
+sociales resolviendo la transformacién -dependiendo ello del tipo social que
+abandona la sociedad-;
+- La confeccién de estados contables especiales para determinar la situacion
+patrimonial de la sociedad al momento de la transformacién y los derechos de
+los socios;
+- El otorgamiento del acto que instrumente la transformacion;
+- La publicidad del acto a través de avisos en el diario de publicaciones legales,
+- La inscripcion de la transformacion en el Registro Publico.
+
+---
+
+# Acuerdo de transformación
+
+El inciso 1° del articulo 77 sefiala que el primer paso necesario para que pueda
+darse una transformacion en una sociedad comercial es el acuerdo que dispone la
+transformacion, el cual debe tener caracter undnime, salvo pacto en contrario y lo
+dispuesto respecto de determinados tipos sociales.
+
+---
+
 # Segunda etapa
 
 ## Balance especial
@@ -667,7 +694,7 @@ Los socios que permanecen conservan las preferencias sobre las participaciones p
 # Esquema
 
 ```{mermaid}
-flowchart TD
+flowchart LR
 
 A[Transformación]
 
@@ -866,16 +893,11 @@ La Ley General de Sociedades reconoce ambas modalidades.
 
 ```{mermaid}
 flowchart TD
-
-A[Fusión]
-
-A --> B[Fusión propiamente dicha]
-
-A --> C[Fusión por absorción]
-
-B --> D[Nace una nueva sociedad]
-
-C --> E[Subsiste la sociedad absorbente]
+fusion[Fusión]
+fusion --> propia[Fusión propiamente dicha]
+fusion --> absorcion[Fusión por absorción]
+propia --> nueva[Nace una nueva sociedad]
+absorcion --> subsiste[Subsiste la sociedad absorbente]
 ```
 
 ---
