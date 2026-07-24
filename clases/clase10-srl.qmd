@@ -1,5 +1,5 @@
 ---
-title: "Clase 9 — SRL"
+title: "Clase 10 — SRL"
 subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
 author: "Prof. Maximiliano Lucas Romei"
 format:
@@ -28,1346 +28,2666 @@ execute:
 
 # Sociedad de Responsabilidad Limitada
 
-## Concepto
+## Objetivos
 
-La **Sociedad de Responsabilidad Limitada (SRL)** es un tipo societario pensado para pequeñas y medianas empresas.
+Al finalizar esta clase el estudiante deberá ser capaz de:
 
-Se caracteriza por combinar elementos propios de las sociedades personalistas con otros propios de las sociedades de capital.
-
-Los socios, en principio, **no responden por las deudas sociales**, sino únicamente hasta la integración de las cuotas que hubieran suscripto.
-
----
-
-# Origen de la SRL
-
-La SRL no existía en el Código de Comercio.
-
-Fue incorporada por la **Ley 11.645**, respondiendo al reclamo de los comerciantes que necesitaban un tipo societario más simple que la sociedad anónima y con responsabilidad limitada.
-
-Posteriormente, la **Ley 19.550** mantuvo el instituto y la **Ley 22.903** flexibilizó considerablemente su funcionamiento, ampliando el ámbito de la autonomía de la voluntad de los socios.
+- comprender la naturaleza jurídica de la SRL;
+- identificar los elementos tipificantes del tipo social;
+- explicar el procedimiento de constitución;
+- analizar el régimen del capital social y la responsabilidad de los socios;
+- comprender el funcionamiento de la gerencia y del órgano de gobierno;
+- interpretar la jurisprudencia más relevante sobre la materia.
 
 ---
 
-# ¿Por qué se dice que la SRL es un tipo mixto?
+# Evolución legislativa
 
-Según Vitolo, la SRL ocupa una posición intermedia entre las sociedades de personas y las sociedades de capital.
+La Sociedad de Responsabilidad Limitada fue incorporada al derecho argentino por la Ley 11.645, inspirada principalmente en el modelo alemán (*Gesellschaft mit beschränkter Haftung*).
 
-No puede ser considerada íntegramente una sociedad personalista ni tampoco una sociedad de capital.
+Posteriormente fue regulada por la Ley 19.550 (arts. 146 a 162), que la configuró como un tipo autónomo, con características propias y diferenciado tanto de las sociedades de personas como de las sociedades por acciones.
 
-Reúne características de ambos modelos.
+La reforma introducida por la Ley 22.903 profundizó la autonomía de la voluntad y flexibilizó considerablemente su funcionamiento interno.
+
+---
+
+# Finalidad económica de la SRL
+
+La SRL fue concebida para satisfacer las necesidades de pequeñas y medianas empresas que requieren:
+
+- limitación de la responsabilidad patrimonial de los socios;
+- una organización interna sencilla;
+- menor costo de funcionamiento que una sociedad anónima;
+- mayor estabilidad en la composición subjetiva de la sociedad.
+
+En palabras de **Vitolo**, constituye un tipo intermedio entre las sociedades personalistas y las sociedades de capital.
+
+---
+
+# Naturaleza jurídica
+
+La doctrina coincide en que la SRL no puede ser encuadrada plenamente dentro de ninguna de las clasificaciones tradicionales.
+
+Presenta simultáneamente caracteres propios de:
+
+- las sociedades de personas; y
+- las sociedades de capital.
+
+Por ello suele calificarse como un **tipo societario mixto**, cuya regulación combina elementos de ambos sistemas.
 
 ---
 
 # Rasgos personalistas
 
-La SRL conserva importantes notas personalistas.
+Entre los caracteres que aproximan la SRL a las sociedades de personas pueden mencionarse:
 
-Entre ellas:
+- importancia de la identidad de los socios;
+- posibilidad de limitar la transmisibilidad de las cuotas;
+- amplia autonomía contractual;
+- funcionamiento interno basado en relaciones de confianza.
 
-- importa quiénes son los socios;
-- la cesión de cuotas puede restringirse;
-- la modificación del elenco de socios modifica el contrato social;
-- existe amplia autonomía contractual.
+Estos elementos justifican que la modificación del elenco societario no sea completamente libre.
 
 ---
 
 # Rasgos capitalistas
 
-También presenta características propias de las sociedades de capital.
+La SRL incorpora, al mismo tiempo, características típicas de las sociedades de capital.
 
-Por ejemplo:
+Entre ellas:
 
-- responsabilidad limitada;
-- capital social como garantía de los acreedores;
-- patrimonio separado del de los socios.
+- personalidad jurídica diferenciada;
+- patrimonio separado;
+- responsabilidad limitada de los socios;
+- capital dividido en cuotas;
+- inexistencia de responsabilidad por las deudas sociales, salvo los supuestos expresamente previstos por la ley.
+
+La coexistencia de ambos grupos de caracteres explica la singularidad del tipo.
 
 ---
 
-# Caracteres principales
+# El artículo 146 de la Ley General de Sociedades
 
-La ley identifica tres notas esenciales:
+El artículo 146 establece los elementos tipificantes de la Sociedad de Responsabilidad Limitada.
 
-- el capital se divide en **cuotas**;
+De la norma surgen tres caracteres esenciales:
+
+- el capital se divide en cuotas;
 - los socios limitan su responsabilidad a la integración de las cuotas suscriptas;
-- el número de socios no puede superar los **50**.
+- el número de socios no puede exceder de cincuenta.
+
+Estos requisitos determinan la configuración legal del tipo y permiten distinguirlo de las restantes sociedades reguladas por la Ley General de Sociedades.
 
 ---
 
 # El límite de cincuenta socios
 
-Para Vitolo, el límite de cincuenta socios constituye un verdadero **elemento tipificante**.
+El límite máximo de cincuenta socios responde a la finalidad económica de la SRL.
 
-No es una simple exigencia cuantitativa.
+La ley reserva este tipo para organizaciones de dimensión relativamente reducida, donde continúe siendo relevante la persona del socio y resulte posible mantener un funcionamiento interno simplificado.
 
-Si la sociedad supera ese número deja de adecuarse al tipo SRL.
-
----
-
-# Consecuencia del exceso de socios
-
-Vitolo sostiene que una SRL con más de cincuenta socios se vuelve **atípica**.
-
-En consecuencia, queda comprendida dentro del régimen de la **Sección IV del Capítulo I de la LGS**.
-
-> Esta interpretación será objeto de análisis cuando estudiemos la Sección IV.
+Para **Vitolo**, la superación de ese límite constituye una alteración de un elemento tipificante del tipo societario.
 
 ---
 
-# Ejemplo
+# Procedimiento de constitución
 
-Una SRL se constituye con 40 socios.
+La constitución de una SRL no se agota en la celebración del contrato social.
 
-Con el paso del tiempo incorpora nuevos integrantes hasta alcanzar 55 socios.
+Comprende una sucesión ordenada de actos jurídicos que culminan con la inscripción registral.
 
-Aunque continúe funcionando normalmente, deja de cumplir uno de los requisitos tipificantes previstos para este tipo societario.
-
----
-
-# Caso
-
-**Caso**
-
-"Agroinsumos SRL" comienza con 18 socios.
-
-Luego de varias cesiones de cuotas alcanza un total de 53 integrantes.
-
-Nunca modifica su tipo societario.
-
-### Preguntas
-
-- ¿Qué requisito legal deja de cumplirse?
-- ¿Qué consecuencia atribuye Vitolo?
-- ¿La sociedad queda automáticamente disuelta?
-- ¿Qué régimen jurídico entiende aplicable?
+Cada una de estas etapas produce efectos propios y determina el nacimiento de distintos derechos y obligaciones para los socios y para la sociedad.
 
 ---
 
-# Ideas principales
+# Esquema general del procedimiento
 
-- La SRL es un tipo societario mixto.
-- Combina elementos personalistas y capitalistas.
-- El capital se divide en cuotas.
-- La responsabilidad de los socios es limitada.
-- No puede tener más de cincuenta socios.
-- Para Vitolo, superar ese límite determina la aplicación del régimen de la Sección IV.
-
----
-
-# Constitución de la SRL
-
-La SRL **solo puede constituirse por acto único**.
-
-A diferencia de la sociedad anónima, **no admite constitución sucesiva** mediante suscripción pública.
-
----
-
-# Forma del contrato constitutivo
-
-La SRL puede constituirse por:
-
-- instrumento público; o
-- instrumento privado.
-
-Si se utiliza instrumento privado, las firmas deben:
-
-- certificarse por escribano; o
-- ratificarse ante el organismo de contralor para su inscripción.
+```text
+Acuerdo constitutivo
+        ↓
+Contrato social
+        ↓
+Suscripción del capital
+        ↓
+Integración inicial
+        ↓
+Presentación al Registro Público
+        ↓
+Control de legalidad
+        ↓
+Inscripción
+        ↓
+Sociedad regularmente constituida
+```
 
 ---
 
-# Contenido del contrato
+# Primera etapa: acuerdo constitutivo
 
-Además de los requisitos generales del artículo 11 LGS, el contrato debe cumplir con las exigencias propias del tipo.
+La constitución de una SRL presupone la existencia de un acuerdo de voluntades destinado a crear una persona jurídica diferenciada de los socios.
 
-Entre ellas reviste especial importancia:
+A diferencia de la sociedad anónima, la SRL únicamente admite la **constitución por acto único**. La ley no contempla el procedimiento de constitución sucesiva mediante suscripción pública.
 
-- que la sociedad no tenga más de **50 socios**.
-
----
-
-# Capital social
-
-La Ley General de Sociedades **no establece un capital mínimo** para las SRL.
-
-Sin embargo, ello no significa que pueda fijarse cualquier monto.
-
-Para Vitolo, el capital debe encontrarse **razonablemente adecuado a la actividad que desarrollará la sociedad**.
+Desde ese momento nace el vínculo contractual entre los socios, aunque la sociedad todavía no haya adquirido personalidad regular.
 
 ---
 
-# Aportes
+# El contrato constitutivo
 
-Los aportes solamente pueden consistir en:
+El contrato social constituye el instrumento jurídico fundamental de la SRL.
 
-**Bienes determinados en propiedad**, susceptibles de ejecución forzada.
+Puede otorgarse:
 
-Por ello, las obligaciones de hacer no pueden integrar el capital social de una SRL.
+- por instrumento público; o
+- por instrumento privado con firmas certificadas o ratificadas ante la autoridad competente.
 
----
-
-# Integración de los aportes
-
-El régimen de integración depende de la naturaleza del aporte.
-
-## Aportes dinerarios
-
-- deben suscribirse íntegramente;
-- al constituirse la sociedad debe integrarse, como mínimo, el **25 %**;
-- el saldo puede integrarse dentro del plazo legal.
+La elección de la forma no modifica el contenido mínimo exigido por la Ley General de Sociedades ni el posterior control registral.
 
 ---
 
-# Aportes en especie
+# Contenido del contrato social
 
-Los aportes en especie deben integrarse **totalmente desde la constitución**.
+Además de los requisitos generales previstos por el artículo 11 de la Ley General de Sociedades, el contrato constitutivo debe contener las menciones propias del tipo regulado por los artículos 146 y siguientes.
 
-Su valuación deberá justificarse conforme al artículo 51 LGS.
+Entre ellas:
 
----
+- identificación de los socios;
+- denominación social;
+- domicilio;
+- objeto;
+- capital social;
+- cantidad y valor de las cuotas;
+- integración de los aportes;
+- organización de la gerencia;
+- reglas para la adopción de decisiones sociales.
 
-# Ejemplo
-
-Lucía y Martín constituyen una SRL dedicada al desarrollo de software.
-
-Lucía aporta $40.000.000 en dinero.
-
-Martín aporta un inmueble donde funcionará la empresa.
-
-Mientras Lucía podrá integrar inicialmente solo el porcentaje mínimo previsto por la ley, Martín deberá transferir íntegramente el inmueble al momento de la constitución.
-
----
-
-# Idea principal
-
-En la SRL no existe capital mínimo legal.
-
-Lo relevante es que el capital resulte **adecuado al objeto social** y que los aportes respeten el régimen de integración previsto por la Ley General de Sociedades.
+La omisión de alguno de estos extremos puede impedir la inscripción registral.
 
 ---
 
-# Integración de los aportes dinerarios
+# Suscripción del capital
 
-En la SRL, los aportes en dinero deben integrarse **como mínimo en un 25 %** al momento de la constitución.
+Celebrado el contrato, cada socio asume la obligación de realizar el aporte comprometido.
 
-El saldo debe completarse dentro del plazo máximo de **dos años**.
+La **suscripción** constituye el nacimiento de la obligación de aportar.
 
----
+Debe distinguirse de la **integración**, que consiste en el efectivo cumplimiento de esa obligación mediante la incorporación de bienes al patrimonio social.
 
-# ¿A favor de quién está establecido el plazo?
-
-Vitolo sostiene que el plazo de dos años está establecido **en beneficio de la sociedad y no del socio**.
-
-## ¿Por qué?
-
-Porque:
-
-- el interés social prevalece sobre el interés individual del socio;
-- el capital permite a la sociedad desarrollar su objeto;
-- el capital constituye la principal garantía de los acreedores.
-
-En consecuencia, si el contrato nada dice, **la sociedad puede exigir la integración del saldo en cualquier momento dentro de esos dos años**, siempre que no actúe de manera abusiva.
+Esta distinción resulta esencial para comprender el régimen de mora y las garantías previstas por el artículo 150.
 
 ---
 
-# Ejemplo
+# Integración de aportes dinerarios
 
-El contrato social establece un capital de $40.000.000.
+En los aportes en dinero, la Ley General de Sociedades establece un régimen escalonado.
 
-Juan suscribe cuotas por $10.000.000.
+Los socios deben:
 
-Integra inicialmente $2.500.000 (25 %).
+- suscribir íntegramente el capital comprometido;
+- integrar como mínimo el veinticinco por ciento (25 %) al momento de la constitución;
+- completar el saldo dentro del plazo máximo de dos años.
 
-Aunque el contrato no establezca un cronograma de pagos, la gerencia podrá exigir el saldo pendiente en cualquier momento dentro de los dos años siguientes.
+La ley fija un plazo máximo. El contrato social puede establecer un plazo menor.
+
+---
+
+# Naturaleza del plazo de integración
+
+La doctrina ha discutido la naturaleza del plazo de dos años previsto para completar la integración de los aportes dinerarios.
+
+Para **Vitolo**, el plazo no constituye un beneficio concedido al socio.
+
+Su finalidad consiste en permitir a la sociedad organizar racionalmente la integración del capital, preservando al mismo tiempo la garantía patrimonial de los acreedores.
+
+En consecuencia, la sociedad puede exigir la integración anticipada cuando ello resulte necesario y el contrato social así lo permita.
 
 ---
 
 # Integración de aportes en especie
 
-El régimen es diferente.
+Cuando el aporte consiste en bienes distintos del dinero, la integración debe efectuarse íntegramente desde la constitución.
 
-Los aportes en especie deben integrarse **íntegramente desde la constitución**.
+La solución responde a una razón funcional.
 
-No existe plazo para completar la integración.
+La sociedad necesita adquirir inmediatamente la titularidad del bien aportado para incorporarlo a su patrimonio y desarrollar el objeto social.
+
+Por ello la ley no admite un régimen escalonado semejante al previsto para los aportes dinerarios.
+
+---
+
+# MORA EN LA INTEGRACION DE LOS APORTES
+
+En el caso de incumplimiento en la integracion de los aportes correspondientes
+a la suscripcion de cuotas sociales, la mora opera en forma automatica y de ple-
+no derecho por el mero vencimiento del plazo que le hubiera sido otorgado o el
+plazo legal 
+
+---
+
+# MORA EN LA INTEGRACION DE LOS APORTES
+
+El socio que incurra en mora en la integracién de los aportes comprometidos
+debe resarcir los dafos e intereses que el incumplimiento hubiera generado -art.
+37, parrafo primero- y puede ser incluso excluido de la sociedad en decisién que
+debe cumplirse mas alla de que el socio afectado pueda recurrirla judicialmente
+-art. 37, parrafo segundo-.
+
+---
+
+# Garantia por sobrevaluacién de aportes en especie
+
+De alli que el articulo 150, en su parrafo segundo, dispone que la sobrevaluacion
+de los aportes en especie al tiempo de la constitucion o del aumento del capital hara
+solidaria e ilimitadamente responsables a los socios frente a los terceros por un plazo
+de cinco (5) afios contados a partir de la realizacion del aporte -art. 51, segundo
+parrafo-, garantia que no operara en aquellos casos en los cuales la valuacion se
+hubiera practicado judicialmente.
 
 ---
 
 # Valuación de los aportes en especie
 
-El valor de los bienes aportados puede justificarse mediante:
+La correcta valuación de los bienes aportados constituye uno de los mecanismos esenciales de protección del capital social.
 
-- el sistema previsto por el contrato;
+El contrato debe indicar los antecedentes utilizados para determinar el valor asignado al aporte.
+
+La valuación puede fundarse en:
+
 - precios de plaza;
-- valuación pericial.
+- pericias;
+- otros criterios objetivos previstos contractualmente.
 
-Además, el contrato debe indicar los antecedentes utilizados para justificar esa valuación.
-
----
-
-# ¿Por qué es tan importante la valuación?
-
-Porque en la SRL los socios no responden personalmente por las deudas sociales.
-
-Por ello, el capital social adquiere una función esencial como garantía de los acreedores.
-
-Una sobrevaluación ficticia puede hacer creer que la sociedad posee un patrimonio mayor al real.
+La finalidad consiste en evitar una integración ficticia del capital mediante bienes sobrevaluados.
 
 ---
 
-# Caso
 
-Pedro constituye una SRL aportando un inmueble.
+# Control registral
 
-En el contrato se le asigna un valor de $800.000.000.
+Concluida la etapa contractual, el instrumento constitutivo debe presentarse ante el Registro Público.
 
-Posteriormente se demuestra que al momento del aporte el inmueble valía solamente $350.000.000.
+La autoridad registral ejerce un **control de legalidad**, verificando:
 
-### Preguntas
+- la regularidad formal del instrumento;
+- el cumplimiento de los requisitos legales;
+- la adecuación del contrato al tipo elegido;
+- la existencia de los recaudos exigidos por la Ley General de Sociedades.
 
-- ¿Por qué resulta relevante la correcta valuación?
-- ¿Qué intereses procura proteger la ley?
-- ¿Qué responsabilidad podría generarse para los socios?
-
----
-
-# Ideas principales
-
-- Los aportes dinerarios se integran como mínimo en un 25 %.
-- El saldo debe completarse dentro de dos años.
-- Para Vitolo, ese plazo beneficia a la sociedad.
-- Los aportes en especie deben integrarse totalmente desde la constitución.
-- Su valuación resulta esencial para la protección de los acreedores.
+No se trata de un control de oportunidad o conveniencia, sino exclusivamente de legalidad.
 
 ---
 
-# Mora en la integración de los aportes
+# Inscripción registral
 
-Cuando un socio no integra el aporte comprometido dentro del plazo correspondiente, **la mora se produce automáticamente**.
+La inscripción constituye el último acto del procedimiento constitutivo.
 
-No es necesaria una intimación previa.
+A partir de ella, la sociedad adquiere la condición de sociedad regularmente constituida y queda plenamente sometida al régimen previsto para el tipo elegido.
 
-La mora opera **por el solo vencimiento del plazo legal o contractual**.
-
----
-
-# Consecuencias de la mora
-
-El socio moroso:
-
-- debe resarcir los daños e intereses ocasionados;
-- puede ser excluido de la sociedad;
-- continúa obligado a integrar el aporte comprometido.
-
-La exclusión no impide que posteriormente cuestione judicialmente la decisión.
+La inscripción también cumple una función de publicidad, permitiendo que terceros conozcan los elementos esenciales de la organización societaria.
 
 ---
 
-# ¿Puede la sociedad exigir el aporte a los demás socios?
+# Efectos de la inscripción
 
-No.
+La inscripción produce consecuencias de singular importancia.
 
-Vitolo distingue claramente dos situaciones.
+Entre ellas:
 
-## Frente a la sociedad
+- consolida la personalidad jurídica regular de la sociedad;
+- torna oponible frente a terceros el contrato social;
+- determina la aplicación íntegra del régimen correspondiente a la SRL;
+- otorga publicidad registral a los elementos esenciales de la organización societaria.
 
-La sociedad **solo puede reclamar al socio incumplidor**.
-
-No puede exigir la integración a los restantes socios.
-
----
-
-# ¿Cuándo responden los demás socios?
-
-La solidaridad prevista por el artículo 150 opera **frente a terceros**, no frente a la sociedad.
-
-Por ello:
-
-- la sociedad reclama únicamente al socio moroso;
-- los terceros, en cambio, pueden invocar la garantía prevista por el artículo 150.
-
-> Es una diferencia muy importante para el examen.
+La falta de inscripción impide alcanzar esos efectos y puede determinar la aplicación del régimen previsto para las sociedades no regularmente constituidas.
 
 ---
 
-# Ejemplo
+# Doctrina
 
-Tres socios constituyen una SRL.
+Para **Nissen**, la inscripción no crea el contrato de sociedad, sino que perfecciona la situación jurídica de la persona colectiva frente al ordenamiento y frente a terceros.
 
-Uno de ellos nunca completa la integración del capital.
+**Vitolo** distingue claramente entre el nacimiento del vínculo contractual entre los socios y la adquisición de la personalidad regular mediante la inscripción registral.
 
-La sociedad necesita esos fondos para desarrollar su actividad.
+Esta diferenciación explica por qué, antes de la inscripción, ya existen relaciones jurídicas entre los constituyentes, aunque la sociedad todavía no haya completado su proceso constitutivo.
 
-Podrá demandar **únicamente al socio incumplidor**.
-
-No puede exigirles ese importe a los otros socios.
+---
+# Jurisprudencia
 
 ---
 
-# Otras acciones de la sociedad
+## La inscripción registral como requisito de regularidad
 
-Además de reclamar judicialmente la integración, la sociedad puede:
-
-- exigir el cumplimiento del aporte;
-- ejecutar bienes del socio deudor;
-- incluso ejecutar otras cuotas sociales que el socio posea totalmente integradas.
+La Cámara Nacional de Apelaciones en lo Comercial ha señalado reiteradamente que la inscripción registral no constituye una mera formalidad administrativa, sino un requisito indispensable para la regularidad de la sociedad y para la oponibilidad de su organización frente a terceros.
 
 ---
 
-# Si la sociedad no actúa
+## La inscripción registral como requisito de regularidad
 
-Si la sociedad permanece inactiva frente al incumplimiento,
-
-**cualquier socio** puede promover judicialmente la exclusión del socio moroso conforme al artículo 91 LGS.
+La jurisprudencia destaca que el control registral persigue finalidades de seguridad jurídica y protección del tráfico comercial, evitando que ingresen al mercado sociedades cuyo contrato no satisfaga las exigencias legales.
 
 ---
 
-# Caso
+# El capital social
 
-Tres socios constituyen una SRL.
+El capital social constituye uno de los elementos esenciales de la Sociedad de Responsabilidad Limitada.
 
-Uno de ellos integra solamente el 25 % del aporte comprometido y, vencido el plazo, se niega a completar el saldo.
+Representa la suma de los aportes comprometidos por los socios y cumple una triple función:
 
-La sociedad nunca inicia acciones para cobrarle.
+- determina la participación de cada socio en la sociedad;
+- constituye el parámetro para el ejercicio de numerosos derechos societarios;
+- actúa como garantía indirecta de los acreedores sociales.
 
-Otro socio pretende excluirlo.
-
-### Preguntas
-
-- ¿Existe mora automática?
-- ¿Debe intimarse previamente?
-- ¿Puede la sociedad reclamar el aporte a los demás socios?
-- ¿Puede un socio pedir la exclusión del incumplidor?
+A diferencia del patrimonio, el capital permanece invariable hasta que sea modificado mediante el procedimiento legal correspondiente.
 
 ---
 
-# Ideas principales
+# Capital y patrimonio
 
-- La mora es automática.
-- El socio moroso responde por daños e intereses.
-- La sociedad solo puede reclamar al socio incumplidor.
-- La solidaridad del artículo 150 protege a los terceros.
-- Cualquier socio puede solicitar la exclusión cuando la sociedad permanece inactiva.
+Capital social y patrimonio no son conceptos equivalentes.
 
----
+El **capital** es una cifra jurídica fijada en el contrato social.
 
-# Garantía por la integración de los aportes
+El **patrimonio** representa el conjunto de bienes, derechos y obligaciones de la sociedad, cuyo valor varía constantemente como consecuencia del desarrollo de la actividad empresarial.
 
-La SRL limita la responsabilidad de los socios frente a las obligaciones sociales.
-
-Sin embargo, ello **no significa** que los socios queden completamente desvinculados del capital comprometido.
-
-El artículo 150 establece una garantía especial a favor de los terceros.
+Mientras el patrimonio refleja la realidad económica de la sociedad, el capital constituye una magnitud jurídica relativamente estable.
 
 ---
 
-# ¿Qué garantiza el artículo 150?
+# Funciones del capital social
 
-Los socios garantizan **solidaria e ilimitadamente frente a terceros** la integración de los aportes.
+La doctrina atribuye al capital social diversas funciones.
 
-Esto significa que, si alguno de los socios no integró el capital comprometido, los terceros pueden reclamar la integración a cualquiera de los socios.
+Las principales son:
 
----
+- función organizativa, al determinar la participación de los socios;
+- función de financiación inicial;
+- función de distribución de utilidades y pérdidas;
+- función de garantía frente a los acreedores.
 
-# ¿Qué puede hacer el tercero?
-
-El tercero puede:
-
-- reclamar la integración total del capital pendiente;
-- dirigirse contra cualquiera de los socios.
-
-No constituye defensa válida alegar:
-
-- que el socio ya integró completamente sus propias cuotas;
-- que otro socio fue quien incumplió.
+En la actualidad, la denominada función de garantía ha sido objeto de importantes críticas doctrinarias.
 
 ---
 
-# ¿Por qué existe esta garantía?
+# La función de garantía
 
-Porque el capital social constituye la principal garantía patrimonial de los acreedores.
+Tradicionalmente se sostuvo que el capital social ofrecía una garantía a los acreedores.
 
-Si los socios pudieran invocar el incumplimiento ajeno, el capital dejaría de cumplir esa función.
+Sin embargo, la doctrina moderna observa que dicha garantía es únicamente indirecta.
 
----
+El capital no constituye un fondo separado ni permanece inmovilizado dentro del patrimonio social.
 
-# Ejemplo
+Una vez realizados los aportes, los bienes pueden ser utilizados para el desarrollo del objeto social e incluso reemplazados por otros activos.
 
-Tres socios constituyen una SRL.
-
-Cada uno suscribe cuotas por $20.000.000.
-
-Uno de ellos nunca integra su aporte.
-
-La sociedad contrae una deuda con un proveedor y luego resulta insolvente.
-
-El proveedor podrá reclamar la integración pendiente a cualquiera de los socios.
-
-Posteriormente, quien pagó podrá ejercer las acciones de regreso que correspondan.
+Por ello, la verdadera garantía de los acreedores está dada por el patrimonio efectivamente existente al momento del cumplimiento de las obligaciones.
 
 ---
 
-# Garantía por la sobrevaluación de aportes en especie
+# La posición de Nissen
 
-La ley también protege a los terceros cuando los bienes aportados en especie fueron sobrevaluados.
+Nissen sostiene que el capital continúa desempeñando una función relevante como mecanismo de tutela de los terceros.
 
-Si un bien fue incorporado por un valor superior al real,
+Ello explica la existencia de normas destinadas a preservar su integridad, tales como:
 
-los socios responden **solidaria e ilimitadamente** frente a los terceros.
+- la obligación de integrar los aportes;
+- la prohibición de distribuir utilidades ficticias;
+- las reglas sobre reducción y aumento de capital;
+- las acciones de responsabilidad contra administradores.
 
----
-
-# Plazo de responsabilidad
-
-La responsabilidad por la sobrevaluación de aportes en especie dura **cinco años** contados desde la realización del aporte.
-
-La garantía no rige cuando la valuación fue realizada judicialmente.
+La protección legal no recae sobre una suma inmovilizada sino sobre la adecuada correspondencia entre capital declarado y patrimonio real.
 
 ---
 
-# ¿Por qué solo se sanciona la sobrevaluación?
+# La posición de Vitolo
 
-Porque únicamente la sobrevaluación perjudica a los acreedores.
+Vitolo entiende que la evolución del derecho societario ha relativizado la tradicional concepción del capital como garantía de los acreedores.
 
-Si el bien vale más de lo declarado,
+El verdadero centro de protección se desplaza hacia:
 
-el patrimonio real de la sociedad será superior al capital nominal y ningún tercero resulta engañado.
+- la responsabilidad de los administradores;
+- los deberes de información;
+- la conservación del patrimonio;
+- los mecanismos concursales;
+- la responsabilidad por infracapitalización cuando corresponda.
 
----
-
-# Caso
-
-Una maquinaria cuyo valor real era de $120.000.000 fue incorporada al capital social por un valor de $300.000.000.
-
-Dos años después la sociedad quiebra.
-
-Los acreedores descubren la diferencia.
-
-### Preguntas
-
-- ¿Existe responsabilidad de los socios?
-- ¿Qué interés protege el artículo 150?
-- ¿Durante cuánto tiempo puede hacerse valer esa garantía?
+Desde esta perspectiva, el capital conserva importancia jurídica, pero ya no constituye la única herramienta de protección del crédito.
 
 ---
 
-# Ideas principales
+# Capital mínimo
 
-- La responsabilidad limitada no elimina todas las garantías de los socios.
-- El artículo 150 protege a los terceros.
-- Los socios garantizan la integración de los aportes.
-- También responden por la sobrevaluación de aportes en especie.
-- La garantía por sobrevaluación dura cinco años.
+A diferencia de la sociedad anónima, la Ley General de Sociedades no establece un capital mínimo para la Sociedad de Responsabilidad Limitada.
+
+En consecuencia, los socios gozan de una amplia libertad para determinar el monto inicial del capital.
+
+No obstante, esa libertad encuentra un límite en el principio de adecuación al objeto social.
+
+Un capital manifiestamente insuficiente puede generar responsabilidad en determinados supuestos.
+
+---
+
+# Adecuación del capital al objeto
+
+Aunque la ley no exige un capital mínimo, ello no significa que cualquier capital resulte admisible.
+
+La doctrina sostiene que el capital debe guardar razonable relación con el objeto social y con la actividad que la sociedad pretende desarrollar.
+
+La infracapitalización puede constituir un indicio relevante para:
+
+- analizar la responsabilidad de los administradores;
+- examinar supuestos de abuso de la personalidad jurídica;
+- valorar la existencia de fraude frente a terceros.
+
+---
+
+# Las cuotas sociales
+
+En la SRL el capital se divide en **cuotas**, no en acciones.
+
+Cada cuota representa una fracción ideal del capital social y confiere a su titular la condición de socio.
+
+Las cuotas deben tener igual valor, el cual será de diez pesos ($10) o sus múltiplos, conforme al artículo 148 de la Ley General de Sociedades.
+
+La igualdad del valor nominal facilita la determinación de las participaciones sociales.
+
+---
+
+# Naturaleza jurídica de las cuotas
+
+Las cuotas sociales no son títulos valores ni valores negociables.
+
+Constituyen derechos de participación incorporados al contrato social.
+
+Por esa razón:
+
+- su transmisión se encuentra sometida al régimen previsto por la ley y por el contrato;
+- no circulan con la facilidad propia de las acciones;
+- la modificación de su titularidad suele requerir publicidad registral.
+
+Esta característica explica el carácter predominantemente cerrado de la SRL.
+
+---
+
+# Derechos derivados de las cuotas
+
+La titularidad de cuotas sociales atribuye a su titular un conjunto de derechos patrimoniales y políticos.
+
+Entre ellos:
+
+- participar en las utilidades;
+- participar en el patrimonio de liquidación;
+- intervenir en las decisiones sociales;
+- ejercer el derecho de información;
+- impugnar decisiones sociales cuando corresponda;
+- ejercer el derecho de preferencia en los supuestos previstos por la ley o el contrato.
+
+La extensión de estos derechos depende de la participación que cada socio tenga en el capital social.
 
 ---
 
 # Cuotas suplementarias
 
-Además de los aportes comprometidos al constituirse la sociedad, el contrato social puede prever la obligación de realizar **cuotas suplementarias**.
+El contrato social puede prever la existencia de cuotas suplementarias.
 
-No constituyen un aumento del capital social.
+Su finalidad consiste en facilitar futuros requerimientos de financiación sin necesidad de reformar el capital social en cada oportunidad.
 
-Su finalidad es proporcionar recursos adicionales a la sociedad.
+La exigibilidad de estas cuotas requiere:
 
----
+- previsión contractual expresa;
+- decisión adoptada por los socios conforme a las mayorías legales o contractuales;
+- respeto de los límites establecidos por el contrato.
 
-# ¿Cuándo pueden exigirse?
-
-Las cuotas suplementarias **solo pueden exigirse si el contrato social las prevé expresamente**.
-
-Si el contrato guarda silencio,
-
-la sociedad no puede imponerlas posteriormente a los socios.
+No constituyen aumentos automáticos del capital, sino obligaciones adicionales previamente aceptadas por los socios.
 
 ---
 
-# Límite legal
+# Naturaleza de las cuotas suplementarias
 
-La ley establece un límite.
+Las cuotas suplementarias constituyen un compromiso asumido desde el momento de la celebración del contrato social.
 
-Las cuotas suplementarias exigibles **no pueden superar, en conjunto, el capital social**.
+Su exigibilidad depende de una decisión posterior de los socios.
 
----
+La doctrina destaca que este mecanismo procura evitar reformas estatutarias reiteradas cuando la sociedad necesita recursos adicionales para el desarrollo de su actividad.
 
-# Decisión para hacerlas efectivas
-
-Aunque el contrato las autorice,
-
-su integración requiere una decisión de los socios.
-
-La resolución debe adoptarse con la mayoría prevista por la ley o por el contrato social.
+Por ello constituye una herramienta particularmente útil en sociedades cerradas.
 
 ---
 
-# Proporcionalidad
+# Jurisprudencia
 
-Como regla,
+## Infracapitalización y abuso de la personalidad jurídica
 
-las cuotas suplementarias deben exigirse **en proporción a las cuotas sociales de cada socio**.
+La jurisprudencia comercial ha señalado que la mera insuficiencia del capital social no autoriza, por sí sola, a desestimar la personalidad jurídica.
 
-De este modo se mantiene la relación de participación existente.
+Sin embargo, cuando la infracapitalización aparece acompañada por maniobras fraudulentas, confusión patrimonial o utilización abusiva de la sociedad, puede constituir un elemento relevante para responsabilizar a socios o administradores.
 
----
-
-# Ejemplo
-
-Una SRL tiene un capital de $100.000.000.
-
-El contrato autoriza cuotas suplementarias.
-
-La sociedad necesita fondos para adquirir nueva maquinaria.
-
-Los socios aprueban exigir cuotas suplementarias por $40.000.000.
-
-Cada socio deberá aportar en proporción a su participación.
+En estos casos, los tribunales analizan la realidad económica del caso concreto y no únicamente el monto nominal del capital social.
 
 ---
 
-# Diferencias con el aumento de capital
+# Integración del capital social
 
-## Cuotas suplementarias
+La obligación de aportar constituye uno de los deberes esenciales del socio.
 
-- requieren previsión contractual;
-- no modifican el capital social;
-- constituyen un mecanismo de financiamiento.
+Mediante la integración, los bienes comprometidos ingresan al patrimonio de la sociedad y pasan a formar parte de la prenda común de los acreedores.
 
-## Aumento de capital
+La ley distingue claramente entre:
 
-- modifica el capital social;
-- exige reforma contractual;
-- implica una nueva estructura patrimonial.
+- suscripción del aporte;
+- integración del aporte;
+- responsabilidad derivada del incumplimiento.
 
----
-
-# ¿Por qué prevé la ley este mecanismo?
-
-Permite obtener financiamiento rápidamente,
-
-sin necesidad de reformar el contrato cada vez que la sociedad necesita recursos transitorios.
-
-Es una herramienta especialmente útil en sociedades cerradas y familiares.
+Cada una de estas etapas posee consecuencias jurídicas propias.
 
 ---
 
-# Caso
+# Integración de aportes dinerarios
 
-Una SRL tiene un capital de $80.000.000.
+En los aportes en dinero, el artículo 149 de la Ley General de Sociedades admite una integración diferida.
 
-El contrato no menciona cuotas suplementarias.
+El régimen legal exige:
 
-Ante dificultades financieras, la mayoría decide exigir a todos los socios un aporte extraordinario.
+- integración mínima del veinticinco por ciento (25 %) al constituirse la sociedad;
+- integración del saldo dentro del plazo máximo de dos años.
 
-### Preguntas
+Nada impide que el contrato social establezca un porcentaje inicial superior o un plazo menor.
 
-- ¿Puede imponerse esa obligación?
-- ¿Es suficiente la decisión de la mayoría?
-- ¿Qué diferencia existe entre esta situación y un aumento de capital?
-
----
-
-# Ideas principales
-
-- Las cuotas suplementarias requieren previsión expresa en el contrato.
-- No aumentan el capital social.
-- Deben respetar el límite legal.
-- Como regla, se exigen proporcionalmente a las cuotas sociales.
-- Constituyen un mecanismo de financiamiento de la sociedad.
+La finalidad de la norma consiste en compatibilizar la formación del capital con las necesidades financieras de los socios.
 
 ---
 
-# Cesión de cuotas
+# Integración de aportes en especie
 
-Las cuotas sociales son, en principio, **libremente transmisibles**.
+El tratamiento de los aportes en especie responde a una lógica distinta.
 
-Sin embargo, el contrato social puede establecer limitaciones.
+Los bienes deben integrarse íntegramente al momento de la constitución.
 
-La ley procura compatibilizar:
+La razón es evidente: la sociedad sólo puede disponer del bien una vez incorporado efectivamente a su patrimonio.
 
-- la circulación de las cuotas;
-- la estabilidad de la sociedad.
+La integración diferida generaría incertidumbre respecto de la verdadera composición del activo social y debilitaría la protección de los acreedores.
 
 ---
 
-# Limitaciones contractuales
+# Mora del socio aportante
 
-El contrato puede establecer:
+El incumplimiento de la obligación de integrar el aporte coloca al socio en mora.
 
-- derecho de preferencia a favor de los socios;
-- derecho de preferencia a favor de la sociedad;
+La mora produce las consecuencias previstas por el derecho común y por la Ley General de Sociedades.
+
+Entre ellas:
+
+- exigibilidad judicial del aporte;
+- responsabilidad por daños y perjuicios;
+- intereses moratorios cuando correspondan;
+- demás consecuencias previstas por el contrato social.
+
+La obligación de aportar constituye un deber esencial derivado del contrato de sociedad.
+
+---
+
+# Naturaleza de la obligación de aportar
+
+La doctrina considera que la obligación de integrar el aporte no constituye una obligación accesoria.
+
+Por el contrario, representa una obligación principal cuya satisfacción resulta indispensable para:
+
+- la formación del patrimonio social;
+- la protección de los acreedores;
+- el normal funcionamiento de la sociedad.
+
+Para **Nissen**, la integración del aporte constituye la principal prestación asumida por el socio al incorporarse a la sociedad.
+
+---
+
+# Garantía solidaria del artículo 150
+
+Además de la obligación personal de integrar el aporte comprometido, el artículo 150 establece un régimen especial de garantía.
+
+Los socios garantizan solidaria e ilimitadamente frente a terceros:
+
+- la integración de los aportes;
+- la correcta valuación de los aportes en especie.
+
+Se trata de una responsabilidad excepcional, expresamente prevista por la ley, que procura preservar la efectiva composición del capital social.
+
+---
+
+# Fundamento del artículo 150
+
+La garantía prevista por el artículo 150 persigue una finalidad precisa.
+
+Los terceros contratan con la sociedad confiando en la realidad del capital informado registralmente.
+
+Si ese capital no ha sido efectivamente integrado o ha sido integrado mediante bienes artificialmente sobrevaluados, dicha confianza resulta defraudada.
+
+Por ello, la ley desplaza el riesgo hacia los socios, quienes son los responsables de la conformación inicial del patrimonio social.
+
+---
+
+# Alcance de la responsabilidad
+
+La responsabilidad prevista por el artículo 150 presenta características particulares.
+
+Es:
+
+- solidaria;
+- ilimitada;
+- legal;
+- excepcional;
+- dirigida exclusivamente a garantizar la efectiva integración del capital.
+
+No constituye una derogación del principio general de responsabilidad limitada propio de la SRL, sino una excepción expresamente establecida por la ley.
+
+---
+
+# Acción de regreso
+
+El socio que hubiera debido afrontar el pago como consecuencia de la garantía prevista por el artículo 150 conserva acción de regreso contra el socio incumplidor.
+
+La finalidad de la solidaridad consiste en proteger al tercero acreedor.
+
+Las relaciones internas entre los socios continúan rigiéndose por las reglas generales sobre distribución definitiva de la carga patrimonial.
+
+En consecuencia, quien soportó el pago podrá repetir contra quien incumplió la obligación originaria.
+
+---
+
+# Valuación de los aportes en especie
+
+La correcta valuación de los aportes en especie constituye uno de los aspectos centrales del régimen protector del capital.
+
+La sobrevaluación produce un efecto equivalente al incumplimiento parcial del aporte.
+
+Desde la perspectiva patrimonial:
+
+- el capital declarado permanece inalterado;
+- el patrimonio efectivo resulta inferior al informado.
+
+Por ello la ley extiende la garantía solidaria también a la valuación de los bienes aportados.
+
+---
+
+# Doctrina
+
+Para **Vitolo**, el artículo 150 no configura un supuesto de responsabilidad por las obligaciones sociales.
+
+La responsabilidad de los socios continúa siendo limitada.
+
+Lo que la ley garantiza es la efectiva existencia del capital comprometido como presupuesto mínimo para el funcionamiento de la sociedad y para la protección de los terceros.
+
+En igual sentido, **Nissen** señala que la solidaridad no altera el régimen general de la SRL, sino que asegura la seriedad de los aportes comprometidos por los constituyentes.
+
+---
+
+# Jurisprudencia
+
+## Alcance de la garantía del artículo 150
+
+La Cámara Nacional de Apelaciones en lo Comercial ha sostenido que la responsabilidad prevista en el artículo 150 posee un objeto específico.
+
+Su finalidad no consiste en transformar a los socios en deudores universales de las obligaciones sociales.
+
+La garantía queda circunscripta a la efectiva integración y valuación de los aportes comprometidos, sin extenderse a las restantes obligaciones asumidas por la sociedad frente a terceros.
+
+---
+
+# Jurisprudencia
+
+## Carga de la prueba
+
+La jurisprudencia también ha señalado que quien invoca la responsabilidad prevista por el artículo 150 debe acreditar:
+
+- la insuficiente integración del capital; o
+- la incorrecta valuación del aporte en especie; y
+- la vinculación entre ese incumplimiento y el perjuicio invocado.
+
+No toda insolvencia de la sociedad habilita automáticamente la aplicación del régimen excepcional previsto por la norma.
+
+---
+
+# La cesión de cuotas sociales
+
+A diferencia de las acciones de una sociedad anónima, las cuotas sociales no se encuentran destinadas a la libre circulación.
+
+La Ley General de Sociedades procura armonizar dos intereses:
+
+- el derecho del socio a transmitir su participación;
+- el interés de los restantes socios en preservar la composición personal de la sociedad.
+
+Por ello, el régimen legal admite restricciones a la transmisibilidad, pero no autoriza su prohibición absoluta.
+
+---
+
+# Principio general
+
+El artículo 152 establece como principio que las cuotas son libremente transmisibles.
+
+Sin embargo, esa libertad puede ser limitada mediante cláusulas del contrato social.
+
+Las restricciones estatutarias deben interpretarse restrictivamente, pues constituyen excepciones al principio general de transmisibilidad.
+
+La ley procura evitar que el socio quede definitivamente prisionero de la sociedad.
+
+---
+
+# Restricciones convencionales
+
+El contrato social puede establecer diversas limitaciones.
+
+Entre ellas:
+
+- derecho de preferencia de los restantes socios;
+- derecho de adquisición por la sociedad;
 - necesidad de autorización previa;
-- procedimientos especiales para la incorporación de terceros.
+- procedimientos de oposición;
+- mecanismos de determinación del precio.
 
-Estas limitaciones son válidas siempre que **no prohíban absolutamente la transmisión**.
+No obstante, tales restricciones no pueden importar una prohibición absoluta o permanente de transmitir las cuotas.
 
 ---
 
-# ¿Puede prohibirse vender las cuotas?
+# Finalidad del régimen legal
 
-No.
+Las restricciones previstas por la ley responden a la naturaleza de la SRL.
 
-Vitolo explica que una prohibición absoluta resultaría incompatible con el derecho de propiedad del socio.
+A diferencia de la sociedad anónima, donde predomina el capital invertido, en la SRL continúa siendo relevante la identidad del socio.
 
-Las restricciones son admisibles.
-
-La prohibición total no.
+Por ello, el legislador admite mecanismos destinados a evitar el ingreso de terceros cuya incorporación pueda alterar el equilibrio interno de la sociedad.
 
 ---
 
 # Procedimiento de cesión
 
-La cesión debe comunicarse a la gerencia.
+El procedimiento puede resumirse en las siguientes etapas:
 
-Mientras ello no ocurra,
+```text
+Acuerdo entre cedente y cesionario
+             ↓
+Comunicación a la gerencia
+             ↓
+Intervención de socios o sociedad
+(según contrato)
+             ↓
+Otorgamiento del instrumento
+             ↓
+Inscripción de la modificación
+             ↓
+Oponibilidad frente a terceros
+```
 
-la sociedad puede seguir considerando como socio al cedente.
+Cada una de estas etapas cumple una finalidad específica dentro del régimen de publicidad y protección de los socios.
+
+---
+
+# Comunicación a la gerencia
+
+Celebrado el acuerdo de cesión, corresponde comunicarlo a la gerencia.
+
+La comunicación permite poner en funcionamiento los mecanismos previstos por la ley o por el contrato social.
+
+Desde ese momento pueden ejercerse, entre otros:
+
+- derechos de preferencia;
+- procedimientos de oposición;
+- opciones de compra previstas estatutariamente.
+
+La gerencia cumple aquí una función de articulación entre el cedente y el resto de la organización societaria.
+
+---
+
+# Derecho de preferencia
+
+El derecho de preferencia constituye el mecanismo más frecuente de protección de la composición subjetiva de la SRL.
+
+Su finalidad consiste en permitir que los socios existentes adquieran las cuotas antes de que ingresen terceros.
+
+No constituye una prohibación de vender.
+
+Simplemente concede prioridad a quienes ya integran la sociedad.
+
+---
+
+# Oposición a la cesión
+
+La oposición no puede fundarse en motivos arbitrarios.
+
+La doctrina sostiene que debe responder a razones objetivas vinculadas al interés social o a las condiciones previstas por el contrato.
+
+Una oposición carente de fundamento razonable puede ser dejada sin efecto judicialmente.
+
+El control judicial evita que las restricciones contractuales sean utilizadas abusivamente.
+
+---
+
+# Determinación del precio
+
+Cuando los socios ejercen el derecho de preferencia, surge frecuentemente la cuestión relativa al precio.
+
+El contrato puede prever mecanismos objetivos para su determinación, tales como:
+
+- balances especiales;
+- valuaciones periciales;
+- fórmulas predeterminadas;
+- intervención de terceros independientes.
+
+La finalidad consiste en evitar que la discusión sobre el precio frustre el ejercicio del derecho de preferencia.
+
+---
+
+# Instrumentación de la cesión
+
+La cesión debe formalizarse mediante el instrumento correspondiente.
+
+Posteriormente resulta necesaria la modificación del contrato social en cuanto a la titularidad de las cuotas.
+
+La publicidad registral permite que terceros conozcan la nueva integración subjetiva de la sociedad.
+
+Hasta ese momento, la cesión puede producir efectos distintos entre las partes, frente a la sociedad y frente a terceros.
+
+---
+
+# Efectos entre las partes
+
+Entre cedente y cesionario, la cesión produce efectos desde la celebración del negocio jurídico, salvo pacto en contrario.
+
+Desde ese momento nacen las obligaciones recíprocas derivadas del contrato.
+
+No obstante, ello no significa que la sociedad quede inmediatamente obligada a reconocer al cesionario como nuevo socio.
+
+La eficacia interna y la eficacia externa responden a reglas diferentes.
 
 ---
 
 # Efectos frente a la sociedad
 
-La cesión produce efectos respecto de la sociedad:
+Frente a la sociedad, la cesión requiere el cumplimiento de las exigencias previstas por la ley y por el contrato.
 
-- desde que ésta toma conocimiento;
-- conforme al procedimiento previsto por la ley y el contrato.
+Hasta entonces, la sociedad puede continuar considerando socio al cedente.
 
-Hasta ese momento,
+Ello evita incertidumbres respecto de:
 
-el cedente continúa ejerciendo los derechos y soportando las obligaciones derivadas de su calidad de socio.
+- ejercicio del derecho de voto;
+- distribución de utilidades;
+- convocatoria a reuniones;
+- responsabilidad derivada de la condición de socio.
 
 ---
 
 # Efectos frente a terceros
 
-Para ser oponible a terceros,
+La inscripción registral cumple una función esencial de publicidad.
 
-la cesión debe inscribirse en el Registro Público.
+Una vez inscripta la modificación contractual, la cesión resulta oponible frente a terceros.
 
-La inscripción brinda publicidad y seguridad jurídica.
-
----
-
-# Ejemplo
-
-Pedro vende todas sus cuotas a Laura.
-
-Firman el contrato de cesión el 5 de marzo.
-
-La gerencia toma conocimiento el 20 de marzo.
-
-La inscripción registral se produce el 15 de abril.
-
-### ¿Cuándo produce efectos?
-
-- Entre cedente y cesionaria: desde el contrato.
-- Frente a la sociedad: desde que la gerencia toma conocimiento.
-- Frente a terceros: desde la inscripción registral.
+La publicidad registral protege tanto al cesionario como a quienes contratan con la sociedad, permitiéndoles conocer la composición actual del elenco societario.
 
 ---
 
-# ¿Por qué existen tres momentos distintos?
+# Doctrina
 
-Porque la ley protege intereses diferentes.
+Para **Vitolo**, el régimen de cesión de cuotas refleja el carácter híbrido de la SRL.
 
-- El contrato regula la relación entre las partes.
-- La comunicación protege a la sociedad.
-- La inscripción protege a los terceros.
+La ley reconoce la posibilidad de transmitir libremente la participación social, pero al mismo tiempo preserva el componente personal mediante mecanismos de preferencia y control.
 
----
-
-# Caso
-
-Una SRL tiene cuatro socios.
-
-Uno de ellos vende sus cuotas a un tercero.
-
-Nunca comunica la cesión a la gerencia.
-
-Pocos días después se celebra una reunión de socios.
-
-### Preguntas
-
-- ¿Puede votar el adquirente?
-- ¿Puede la sociedad seguir considerando socio al cedente?
-- ¿Qué finalidad cumple la comunicación a la gerencia?
-- ¿Qué importancia tiene la inscripción registral?
+**Nissen** destaca que la autonomía de la voluntad desempeña un papel decisivo en esta materia, pues corresponde al contrato determinar buena parte del procedimiento de transmisión.
 
 ---
 
-# Ideas principales
+# Jurisprudencia
 
-- Las cuotas son libremente transmisibles como regla.
-- El contrato puede establecer restricciones razonables.
-- No puede prohibirse absolutamente la cesión.
-- La comunicación a la gerencia produce efectos frente a la sociedad.
-- La inscripción registral hace oponible la cesión frente a terceros.
+## Restricciones estatutarias
 
----
+La Cámara Nacional de Apelaciones en lo Comercial ha sostenido reiteradamente que las cláusulas restrictivas de la cesión deben interpretarse de manera estricta.
 
-# Derecho de preferencia
+Al constituir excepciones al principio general de transmisibilidad, no pueden extenderse por analogía ni utilizarse para impedir indefinidamente la salida del socio.
 
-Es frecuente que el contrato social otorgue a los socios un **derecho de preferencia** para adquirir las cuotas que otro socio pretende vender.
-
-Su finalidad es evitar el ingreso de terceros no deseados.
+El control judicial procura compatibilizar la autonomía contractual con el derecho del socio a disponer de su participación.
 
 ---
 
-# ¿Cómo funciona?
+# Jurisprudencia
 
-Antes de vender sus cuotas a un tercero,
+## Abuso del derecho de preferencia
 
-el socio debe ofrecerlas a quienes tienen el derecho de preferencia,
+La jurisprudencia también ha considerado que el derecho de preferencia no puede ejercerse con finalidad obstructiva.
 
-respetando las condiciones previstas en el contrato.
+Cuando el mecanismo se utiliza únicamente para impedir la transmisión o para imponer condiciones irrazonables al socio cedente, los tribunales han admitido el control judicial de la conducta de los restantes socios.
 
-Si nadie ejerce ese derecho,
-
-podrá concretarse la venta al tercero.
+La buena fe y la prohibición del ejercicio abusivo de los derechos constituyen límites permanentes al funcionamiento del régimen previsto por el contrato social.
 
 ---
 
-# Finalidad
+# Muerte del socio
 
-El derecho de preferencia procura preservar el carácter personalista de la SRL.
+La muerte de un socio no produce, por sí sola, la disolución de la Sociedad de Responsabilidad Limitada.
 
-Los socios eligieron asociarse entre determinadas personas y pueden tener interés en mantener esa composición.
+El régimen aplicable depende, en primer término, de lo previsto en el contrato social.
 
----
-
-# Cláusulas de aprobación
-
-Además del derecho de preferencia,
-
-el contrato puede exigir que la cesión sea aprobada por:
-
-- la mayoría de los socios;
-- una mayoría agravada;
-- incluso la unanimidad, si así se hubiera pactado.
-
-Estas restricciones son válidas siempre que no hagan imposible la transmisión.
+El artículo 155 de la Ley General de Sociedades admite que los socios hayan pactado la incorporación de los herederos, solución que procura compatibilizar la continuidad de la empresa con la estabilidad de la composición societaria.
 
 ---
 
-# ¿Qué ocurre si la autorización es denegada?
+# Regla general
 
-La negativa no puede utilizarse arbitrariamente para impedir al socio salir de la sociedad.
+La muerte del socio produce la transmisión hereditaria de su patrimonio.
 
-Por ello, la ley establece mecanismos destinados a evitar un bloqueo absoluto de la cesión.
+Las cuotas sociales integran el acervo sucesorio y se transmiten a los herederos conforme a las reglas generales del derecho sucesorio.
 
-La restricción debe ser razonable y compatible con el derecho de propiedad del socio.
-
----
-
-# Precio de las cuotas
-
-Si existe controversia sobre el precio,
-
-éste podrá determinarse mediante el procedimiento previsto por la ley o por el contrato social.
-
-La finalidad es impedir que la discusión sobre el valor frustre el derecho de cesión.
+Sin embargo, el ingreso efectivo de los herederos como socios dependerá del régimen previsto por el contrato social y de las disposiciones específicas de la Ley General de Sociedades.
 
 ---
 
-# Ejemplo
+# Cláusula de incorporación de herederos
 
-María desea vender sus cuotas por $80.000.000.
+El artículo 155 dispone:
 
-El contrato establece un derecho de preferencia a favor de los restantes socios.
+> "Si el contrato previera la incorporación de los herederos del socio, el pacto será obligatorio para éstos y para los socios."
 
-La gerencia comunica la oferta.
+La incorporación no deriva automáticamente de la muerte.
 
-Dos socios manifiestan dentro del plazo previsto que desean adquirirlas por ese mismo precio.
+Deriva del contrato social, que obliga tanto a los socios sobrevivientes como a los sucesores del causante.
 
-En ese caso, María deberá venderles las cuotas a ellos y no al tercero.
-
----
-
-# Caso
-
-El contrato exige autorización de los socios para vender cuotas.
-
-Pedro encuentra un comprador.
-
-Los demás socios rechazan la autorización,
-
-pero tampoco compran las cuotas ni ofrecen una alternativa.
-
-### Preguntas
-
-- ¿Puede impedirse indefinidamente la cesión?
-- ¿Cuál es la finalidad del derecho de preferencia?
-- ¿Qué límites tienen las restricciones contractuales?
+La norma reconoce plena eficacia a este tipo de cláusulas.
 
 ---
 
-# Ideas principales
+# Acreditación de la calidad de heredero
 
-- La SRL admite restricciones a la cesión.
-- El derecho de preferencia protege el carácter personalista del tipo.
-- La autorización para ceder puede pactarse en el contrato.
-- Las restricciones deben ser razonables.
-- Nunca pueden transformarse en una prohibición absoluta de vender las cuotas.
+La incorporación no opera automáticamente con el fallecimiento.
 
----
+Los herederos deben acreditar su calidad mediante la documentación sucesoria correspondiente.
 
----
+Hasta ese momento:
 
-# Ejecución forzada de las cuotas
+- no ejercen directamente los derechos sociales;
+- tampoco pueden intervenir individualmente en la administración.
 
-Las cuotas sociales pueden ser objeto de ejecución por los acreedores personales del socio.
-
-Sin embargo,
-
-la ley procura compatibilizar el derecho del acreedor con la estabilidad de la sociedad.
+La sociedad necesita conocer quiénes son los verdaderos titulares de las cuotas para preservar la seguridad jurídica.
 
 ---
 
-# ¿Qué puede hacer el acreedor?
+# Representación de la sucesión
 
-Si obtiene el embargo y posterior ejecución de las cuotas,
+Mientras los herederos no acrediten su condición, el artículo 155 establece una solución específica.
 
-el acreedor podrá promover su venta.
+La representación de las cuotas corresponde al administrador de la sucesión.
 
-Pero deberá respetar las limitaciones previstas por la ley y por el contrato social.
+Este actúa en defensa del patrimonio hereditario y ejerce los derechos sociales hasta que los herederos puedan asumir personalmente esa posición jurídica.
 
----
-
-# Derecho de preferencia
-
-Antes de que las cuotas sean adjudicadas a un tercero,
-
-los socios o la sociedad pueden ejercer el derecho de preferencia si el contrato así lo prevé.
-
-De esta forma,
-
-se evita el ingreso compulsivo de personas ajenas a la sociedad.
+La finalidad consiste en evitar la paralización de la actividad societaria.
 
 ---
 
-# Finalidad del régimen
+# Funciones del administrador de la sucesión
 
-La ejecución no puede convertirse en un mecanismo para alterar arbitrariamente la composición personal de la SRL.
+Durante ese período, el administrador podrá ejercer los derechos inherentes a las cuotas.
 
-Por ello,
+Entre ellos:
 
-el interés del acreedor debe armonizarse con el interés social.
+- participar en las decisiones sociales;
+- percibir utilidades;
+- recibir información;
+- realizar los actos necesarios para la conservación del patrimonio hereditario.
 
----
-
-# Ejemplo
-
-Un socio mantiene una importante deuda personal.
-
-Uno de sus acreedores embarga las cuotas que posee en una SRL.
-
-Al iniciarse la ejecución,
-
-los restantes socios ejercen el derecho de preferencia previsto en el contrato.
-
-Las cuotas son adquiridas por ellos y no por un tercero extraño.
+Su actuación encuentra límites en el régimen sucesorio y en las facultades conferidas judicialmente.
 
 ---
 
-# Fallecimiento del socio
+# Restricciones a la transmisibilidad
 
-La muerte del socio **no produce necesariamente la disolución de la SRL**.
+Una vez incorporados, los herederos adquieren la condición de socios.
 
-Debe estarse a lo previsto en el contrato social.
+No obstante, el segundo párrafo del artículo 155 establece una regla especial.
 
----
+Las restricciones contractuales a la transmisibilidad de las cuotas resultan inoponibles durante los tres meses siguientes a la incorporación.
 
-# Cláusulas de incorporación de herederos
-
-El contrato puede establecer que,
-
-fallecido un socio,
-
-sus herederos ingresen a la sociedad.
-
-Acreditada su calidad,
-
-la incorporación se hace efectiva.
-
-Mientras tanto,
-
-los representa el administrador de la sucesión.
+La finalidad consiste en evitar que los herederos queden forzados a permanecer en una sociedad cuya integración no eligieron.
 
 ---
 
-# Cesión por los herederos
+# Fundamento de la inoponibilidad
 
-Una vez incorporados,
+La excepción responde a razones de equidad.
 
-los herederos pueden ceder las cuotas recibidas.
+El heredero accede a la condición de socio por efecto de la sucesión y no por una decisión negocial propia.
 
-Durante los **tres meses siguientes a su incorporación**,
+Por ello, la ley le concede un período durante el cual puede transmitir libremente su participación sin quedar sometido a las restricciones estatutarias.
 
-las limitaciones a la transmisibilidad son inoponibles.
-
-Sin embargo,
-
-la sociedad o los socios conservan un derecho de opción para adquirirlas por el mismo precio dentro del plazo legal.
+Se trata de una solución excepcional que procura facilitar la liquidación del patrimonio hereditario.
 
 ---
 
-# Caso
+# Derecho de opción de compra
 
-El contrato establece la incorporación de los herederos.
+La libertad reconocida a los herederos no es absoluta.
 
-Fallece uno de los socios.
+El artículo 155 concede a la sociedad o a los restantes socios un derecho de opción de compra.
 
-Dos meses después de ser incorporados,
+Dicha opción debe ejercerse:
 
-los herederos venden las cuotas a un tercero.
+- por el mismo precio;
+- dentro de los quince días;
+- contados desde la comunicación fehaciente del propósito de ceder.
 
-Los demás socios pretenden impedir la venta invocando una cláusula restrictiva del contrato.
-
-### Preguntas
-
-- ¿Resulta oponible esa restricción?
-- ¿Qué derecho conserva la sociedad?
-- ¿Cuál es el fundamento de este régimen?
+La gerencia debe comunicar inmediatamente esa circunstancia a los demás socios.
 
 ---
 
-# Ideas principales
+# Procedimiento previsto por el artículo 155
 
-- Las cuotas pueden ser ejecutadas por acreedores personales del socio.
-- Deben respetarse las limitaciones legales y contractuales.
-- La muerte del socio no disuelve necesariamente la SRL.
-- Los herederos pueden incorporarse si el contrato así lo prevé.
-- Durante tres meses, las restricciones a la cesión les resultan inoponibles, sin perjuicio del derecho de opción de compra de la sociedad o de los socios.
+```text
+Fallecimiento del socio
+          ↓
+Apertura de la sucesión
+          ↓
+Administrador de la sucesión
+          ↓
+Acreditación de herederos
+          ↓
+Incorporación como socios
+          ↓
+Tres meses de libre transmisibilidad
+          ↓
+Comunicación de la venta
+          ↓
+Opción de compra
+          ↓
+Cesión definitiva
+```
 
 ---
 
-# Administración de la SRL
+# Naturaleza del derecho de opción
 
-La administración de la sociedad corresponde a **uno o más gerentes**.
+El derecho previsto por el artículo 155 no constituye un derecho de preferencia general.
 
-Pueden ser:
+Se trata de un mecanismo excepcional.
 
-- socios; o
-- terceros.
+Su finalidad consiste en permitir que la sociedad o los socios conserven la composición subjetiva originalmente querida, sin desconocer el derecho de los herederos a disponer de las cuotas recibidas por sucesión.
 
-No existe obligación de que el gerente sea socio.
+La opción sólo puede ejercerse respetando estrictamente las condiciones legales.
+
+---
+
+# La posición de Nissen
+
+Nissen sostiene que el artículo 155 procura armonizar dos principios.
+
+Por un lado, la continuidad de la empresa y la estabilidad de la organización societaria.
+
+Por otro, la libertad de los herederos para disponer del patrimonio recibido por sucesión.
+
+La solución legal evita que cualquiera de esos intereses prevalezca de manera absoluta sobre el otro.
+
+---
+
+# La posición de Vitolo
+
+Vitolo destaca que el régimen constituye una excepción expresa al principio de obligatoriedad de las restricciones estatutarias.
+
+La inoponibilidad temporal prevista por la ley responde exclusivamente a la especial situación jurídica del heredero.
+
+Transcurridos los tres meses, recuperan plena eficacia las limitaciones previstas por el contrato social.
+
+---
+
+# Jurisprudencia
+
+## Alcance del artículo 155
+
+La Cámara Nacional de Apelaciones en lo Comercial ha señalado que el artículo 155 constituye un régimen especial destinado exclusivamente a la transmisión mortis causa.
+
+Las soluciones previstas por la norma no resultan aplicables por analogía a las cesiones voluntarias entre vivos.
+
+La finalidad del precepto consiste en resolver las particularidades derivadas del fenómeno sucesorio.
+
+---
+
+# Jurisprudencia
+
+## Interpretación restrictiva
+
+La jurisprudencia también ha sostenido que la opción de compra prevista por el artículo 155 debe ejercerse con estricto cumplimiento de los requisitos legales.
+
+Tratándose de una excepción al principio general de libre disposición del patrimonio hereditario, no admite interpretaciones extensivas ni el incumplimiento de los plazos fijados por la ley.
+
+---
+
+# La gerencia
+
+La administración de la Sociedad de Responsabilidad Limitada corresponde a uno o más gerentes, quienes constituyen el órgano de administración y representación de la sociedad.
+
+A diferencia de la sociedad anónima, la Ley General de Sociedades otorga una amplia libertad para diseñar la estructura de la gerencia, permitiendo adaptar su organización a las necesidades de cada empresa.
+
+El régimen legal parte de un principio de flexibilidad, dejando numerosas cuestiones libradas a la autonomía de la voluntad.
+
+---
+
+# Regulación legal
+
+La gerencia se encuentra regulada principalmente por los artículos 157 y 158 de la Ley General de Sociedades.
+
+Estas normas establecen:
+
+- quiénes pueden ser gerentes;
+- cómo son designados;
+- cuál es el alcance de sus facultades;
+- el régimen de representación;
+- las reglas sobre responsabilidad.
+
+En lo no previsto expresamente, resultan aplicables por analogía diversas normas relativas a los administradores de la sociedad anónima, siempre que sean compatibles con la estructura de la SRL.
+
+---
+
+# Naturaleza jurídica del gerente
+
+El gerente es un órgano de la sociedad.
+
+No actúa como mandatario de los socios.
+
+Tampoco representa intereses individuales.
+
+Su actuación se imputa directamente a la persona jurídica.
+
+Las consecuencias jurídicas de los actos realizados dentro de sus atribuciones recaen sobre la sociedad y no sobre el gerente en forma personal.
 
 ---
 
 # Designación
 
-Los gerentes pueden ser designados:
+La designación puede efectuarse:
 
-- en el contrato constitutivo; o
-- posteriormente, por decisión de los socios.
+- en el contrato constitutivo;
+- mediante reforma del contrato;
+- por decisión posterior de los socios.
 
-Cuando fueron designados en el contrato, su remoción presenta un régimen especial.
+La amplitud de opciones refleja la flexibilidad organizativa propia de la SRL.
+
+La ley no exige un procedimiento uniforme, permitiendo que el contrato adapte el mecanismo de designación a las necesidades de la empresa.
 
 ---
 
-# Gerencia individual
+# Procedimiento de designación
 
-La administración puede confiarse a un solo gerente.
+```text
+Decisión de los socios
+          ↓
+Aceptación del cargo
+          ↓
+Inscripción registral
+          ↓
+Publicidad
+          ↓
+Ejercicio de funciones
+```
 
-En ese supuesto,
+La aceptación del cargo resulta indispensable para el nacimiento de la relación orgánica.
 
-todas las facultades de administración y representación corresponden a esa persona.
+---
+
+# Gerente socio y gerente no socio
+
+El artículo 157 permite que la gerencia sea ejercida tanto por socios como por terceros.
+
+En consecuencia, pueden existir:
+
+- gerentes socios;
+- gerentes no socios.
+
+La ley no establece diferencias respecto del alcance de sus facultades ni de su responsabilidad.
+
+La condición de socio únicamente modifica la relación interna con la sociedad, pero no el régimen jurídico de la administración.
+
+---
+
+# Gerencia unipersonal
+
+La administración puede confiarse a un único gerente.
+
+Este sistema presenta ventajas evidentes:
+
+- rapidez en la toma de decisiones;
+- simplicidad organizativa;
+- menor costo de funcionamiento.
+
+Resulta especialmente frecuente en sociedades de reducido número de socios.
 
 ---
 
 # Gerencia plural
 
-También puede haber varios gerentes.
+También puede existir una pluralidad de gerentes.
 
-El contrato determinará la forma de actuación.
+El contrato social puede organizar esa pluralidad mediante distintos modelos.
+
+Entre ellos:
+
+- actuación indistinta;
+- actuación conjunta;
+- distribución funcional de competencias;
+- organización colegiada.
+
+La ley no impone una estructura determinada.
+
+---
+
+# Gerencia indistinta
+
+Cuando la gerencia es indistinta, cualquiera de los gerentes puede representar válidamente a la sociedad.
+
+Cada gerente posee la totalidad de las facultades de administración y representación.
+
+El tercero no necesita verificar la intervención de los restantes administradores.
+
+Este sistema privilegia la agilidad en el tráfico comercial.
+
+---
+
+# Gerencia conjunta
+
+En el régimen conjunto, los actos requieren la intervención simultánea de los gerentes designados.
+
+La representación sólo queda válidamente ejercida cuando concurren las firmas exigidas por el contrato.
+
+Este sistema aumenta el control interno, aunque reduce la rapidez operativa.
+
+---
+
+# Organización colegiada
+
+El contrato también puede establecer un verdadero órgano colegiado.
+
+En tal supuesto:
+
+- las decisiones se adoptan mediante deliberación;
+- rigen reglas de convocatoria;
+- existe formación de voluntad colectiva;
+- posteriormente se ejecuta la decisión adoptada.
+
+Aunque menos frecuente, este modelo resulta habitual en SRL de gran dimensión.
+
+---
+
+# Facultades de administración
+
+La gerencia ejerce todas las facultades necesarias para cumplir el objeto social.
+
+Ello comprende tanto:
+
+- actos de administración ordinaria;
+- como actos de administración extraordinaria,
+
+salvo las limitaciones establecidas por la ley o por el contrato social.
+
+Las restricciones internas no siempre resultan oponibles a terceros de buena fe.
+
+---
+
+# Representación de la sociedad
+
+La representación constituye una consecuencia necesaria de la función administrativa.
+
+Los actos celebrados por el gerente dentro del ámbito de sus atribuciones obligan directamente a la sociedad.
+
+El tercero contrata con la persona jurídica y no con el gerente.
+
+Por ello, la representación orgánica se diferencia claramente del mandato regulado por el Código Civil y Comercial.
+
+---
+
+# Limitaciones a las facultades
+
+El contrato social puede establecer limitaciones.
 
 Por ejemplo:
 
-- indistinta;
-- conjunta;
-- colegiada.
+- autorización previa para determinados actos;
+- límites económicos;
+- necesidad de actuación conjunta;
+- aprobación de los socios para ciertas operaciones.
+
+Estas restricciones tienen eficacia principalmente en las relaciones internas.
+
+Respecto de terceros, la cuestión dependerá de las reglas sobre representación orgánica y buena fe.
 
 ---
 
-# Facultades de los gerentes
+# Deber de diligencia
 
-Los gerentes representan a la sociedad frente a terceros.
+El gerente debe desempeñar sus funciones con la diligencia de un buen hombre de negocios.
 
-Sus actos obligan a la sociedad,
+Este estándar exige:
 
-aun cuando existan limitaciones internas que los terceros desconocían.
-
-La protección de la buena fe del tercero constituye un principio central del régimen.
-
----
-
-# Deberes del gerente
-
-Los gerentes deben desempeñar su cargo con:
-
+- actuación informada;
+- prudencia;
 - lealtad;
-- diligencia;
-- buena fe.
+- adecuada evaluación de riesgos;
+- protección del interés social.
 
-Su responsabilidad se rige por las normas aplicables a los administradores societarios.
+No se exige infalibilidad empresarial.
 
----
-
-# Remoción
-
-Los gerentes pueden ser removidos por decisión de los socios.
-
-Si fueron designados en el contrato social,
-
-la remoción puede requerir además la modificación del contrato y las mayorías correspondientes.
+Se exige una conducta profesional acorde con la función desempeñada.
 
 ---
 
-# Ejemplo
+# Deber de lealtad
 
-Una SRL tiene tres socios.
+La actuación del gerente debe orientarse exclusivamente al interés social.
 
-El contrato designa como gerente a uno de ellos.
+Ello implica:
 
-Años después,
+- evitar conflictos de interés;
+- abstenerse de aprovechar oportunidades sociales;
+- no competir deslealmente con la sociedad;
+- preservar la confidencialidad de la información obtenida por razón del cargo.
 
-la mayoría considera que administra deficientemente la empresa.
-
-Podrán decidir su remoción,
-
-respetando el régimen previsto por la ley y por el contrato.
-
----
-
-# Caso
-
-Una SRL tiene dos gerentes con actuación conjunta.
-
-Uno de ellos firma solo un contrato de importante valor.
-
-El tercero desconocía que debía intervenir también el otro gerente.
-
-### Preguntas
-
-- ¿Qué importancia tiene la forma de actuación prevista en el contrato?
-- ¿Qué protección recibe el tercero de buena fe?
-- ¿Qué consecuencias internas puede generar la actuación del gerente?
+La infracción de estos deberes puede generar responsabilidad personal.
 
 ---
 
-# Ideas principales
+# Responsabilidad de los gerentes
 
-- La SRL puede tener uno o varios gerentes.
-- Los gerentes pueden ser socios o terceros.
-- El contrato determina la forma de actuación.
-- Los gerentes representan a la sociedad frente a terceros.
-- Deben actuar con lealtad y diligencia y responden por el incumplimiento de esos deberes.
+El artículo 157 remite expresamente al régimen previsto para los directores de la sociedad anónima.
 
----
+En consecuencia, los gerentes responden por:
 
-# Fiscalización de la SRL
+- violación de la ley;
+- incumplimiento del contrato social;
+- abuso de facultades;
+- culpa en el desempeño del cargo.
 
-A diferencia de la sociedad anónima,
-
-la SRL **no está obligada, como regla, a contar con un órgano de fiscalización**.
-
-Ello responde a que se trata de un tipo pensado para sociedades cerradas.
+La responsabilidad es personal y se analiza según la conducta desplegada por cada administrador.
 
 ---
 
-# Fiscalización optativa
+# La posición de Nissen
 
-El contrato social puede establecer:
+Nissen sostiene que la remisión efectuada por el artículo 157 al régimen de la sociedad anónima no transforma al gerente en un director.
 
-- una sindicatura;
-- un consejo de vigilancia;
-- u otro mecanismo interno de control previsto por la ley.
+La remisión es funcional.
 
-En ese caso,
-
-se aplican las normas correspondientes de la sociedad anónima, en cuanto sean compatibles.
+Únicamente incorpora el sistema de responsabilidad, manteniéndose inalterada la naturaleza propia del órgano de administración de la SRL.
 
 ---
 
-# ¿Cuándo la sindicatura es obligatoria?
+# La posición de Vitolo
 
-La sindicatura será obligatoria cuando la SRL quede comprendida en el supuesto previsto por el artículo 299, inciso 2°, de la Ley General de Sociedades.
+Vitolo destaca que uno de los mayores atributos de la SRL reside en la flexibilidad de su organización administrativa.
 
-En ese caso,
+Mientras la sociedad anónima presenta una estructura fuertemente reglamentada, la SRL permite adaptar la gerencia a las necesidades concretas de la empresa.
 
-el régimen de fiscalización pasa a ser similar al de la sociedad anónima.
-
----
-
-# Derechos de información de los socios
-
-Aunque no exista sindicatura,
-
-los socios conservan importantes facultades de control.
-
-Pueden:
-
-- examinar libros y documentación social;
-- solicitar información a la gerencia;
-- controlar la marcha de los negocios sociales.
+Esta característica constituye una de las principales ventajas competitivas del tipo societario.
 
 ---
 
-# Finalidad
+# Jurisprudencia
 
-La ausencia de un órgano permanente de fiscalización
+## Responsabilidad de los gerentes
 
-no significa ausencia de control.
+La Cámara Nacional de Apelaciones en lo Comercial ha señalado reiteradamente que la responsabilidad de los gerentes no deriva del mero resultado dañoso.
 
-La ley reemplaza ese control institucional
+Resulta necesario acreditar:
 
-por un control ejercido directamente por los propios socios.
+- una conducta antijurídica;
+- culpa o dolo;
+- daño;
+- relación causal.
 
----
-
-# Ejemplo
-
-Una SRL tiene cuatro socios y no posee sindicatura.
-
-Uno de ellos sospecha que la gerencia realizó pagos injustificados.
-
-Podrá ejercer su derecho de información y revisar la documentación social.
+La administración empresaria supone necesariamente la asunción de riesgos, por lo que la responsabilidad no puede fundarse exclusivamente en el fracaso del negocio.
 
 ---
 
-# Diferencia con la sociedad anónima
+# Jurisprudencia
 
-## Sociedad Anónima
+## Diligencia del administrador
 
-- existe un régimen de fiscalización mucho más intenso;
-- en determinados supuestos la sindicatura resulta obligatoria.
+La jurisprudencia también ha destacado que el estándar del "buen hombre de negocios" constituye un parámetro objetivo.
 
-## Sociedad de Responsabilidad Limitada
+El gerente debe adoptar las decisiones que razonablemente habría tomado un administrador prudente colocado en circunstancias semejantes.
 
-- la regla es la inexistencia de sindicatura;
-- el control corresponde principalmente a los socios.
+La evaluación judicial no puede efectuarse con el beneficio de la retrospectiva, sino atendiendo a la información disponible al momento de la decisión.
 
 ---
 
-# Caso
+# Decisiones de los socios
 
-Una SRL no posee sindicatura.
+La voluntad social en la SRL se forma mediante las decisiones adoptadas por los socios conforme al procedimiento previsto por la Ley General de Sociedades y por el contrato social.
 
-Un socio solicita examinar los libros contables.
+A diferencia de la sociedad anónima, la ley no impone un sistema asambleario rígido.
 
-La gerencia se niega alegando que esa función corresponde únicamente al síndico.
+Predomina el principio de autonomía de la voluntad, permitiendo a los socios elegir mecanismos más simples de formación de la voluntad colectiva.
 
-### Preguntas
-
-- ¿Es correcto ese argumento?
-- ¿Qué facultades de control poseen los socios?
-- ¿Cuál es la finalidad del régimen legal?
+El régimen se encuentra regulado principalmente por los artículos 159 y 160 de la Ley General de Sociedades.
 
 ---
 
-# Ideas principales
+# Competencia de los socios
 
-- La SRL no posee sindicatura obligatoria como regla.
-- Puede establecerse voluntariamente en el contrato.
-- En ciertos supuestos legales la sindicatura es obligatoria.
-- Los socios conservan amplios derechos de información y control.
-- El control interno reemplaza, en gran medida, a la fiscalización permanente.
+Corresponde a los socios resolver todas aquellas materias que la ley o el contrato no atribuyan a la gerencia.
+
+Entre otras cuestiones:
+
+- aprobación de estados contables;
+- distribución de utilidades;
+- designación y remoción de gerentes;
+- modificación del contrato social;
+- aumentos y reducciones de capital;
+- transformación, fusión, escisión y disolución;
+- cualquier otra cuestión reservada por la ley o por el contrato.
+
+Las facultades de administración corresponden a la gerencia; las decisiones estructurales pertenecen a los socios.
 
 ---
 
-# Resoluciones de los socios
+# Sistemas de adopción de decisiones
 
-Las decisiones sociales son adoptadas por los socios reunidos en asamblea o mediante el procedimiento de consulta previsto por la ley.
+El artículo 159 admite tres mecanismos diferentes.
 
-El objetivo es facilitar el funcionamiento de sociedades con pocos integrantes.
+Los socios pueden decidir mediante:
+
+- reunión de socios;
+- consulta escrita;
+- declaración escrita.
+
+El contrato puede establecer cuál de estos mecanismos utilizar o prever distintos procedimientos según la naturaleza del asunto.
+
+Esta flexibilidad constituye una de las principales diferencias respecto del régimen de la sociedad anónima.
 
 ---
 
-# Formas de adoptar resoluciones
+# La reunión de socios
 
-Las decisiones pueden tomarse:
+La reunión constituye el sistema tradicional de formación de la voluntad social.
 
-- en reunión de socios;
-- mediante consulta a los socios por un procedimiento que permita dejar constancia escrita del voto.
+Implica la presencia simultánea de los socios para deliberar y votar.
 
-Este último mecanismo procura simplificar la adopción de decisiones.
+La Ley General de Sociedades no regula un procedimiento tan detallado como el previsto para las asambleas de la sociedad anónima.
+
+En consecuencia, adquieren especial importancia las disposiciones contenidas en el contrato social.
+
+---
+
+# Procedimiento de la reunión
+
+```text
+Convocatoria
+       ↓
+Información previa
+       ↓
+Reunión
+       ↓
+Deliberación
+       ↓
+Votación
+       ↓
+Acta
+       ↓
+Ejecución de la decisión
+```
+
+La regularidad del procedimiento asegura la validez de la decisión adoptada.
+
+---
+
+# Convocatoria
+
+Salvo disposición contractual diferente, corresponde a la gerencia efectuar la convocatoria.
+
+La convocatoria debe permitir que todos los socios:
+
+- conozcan el objeto de la reunión;
+- dispongan de tiempo suficiente para prepararse;
+- puedan ejercer adecuadamente su derecho de participación.
+
+El deber de información constituye una manifestación del principio de buena fe societaria.
+
+---
+
+# Información de los socios
+
+La decisión solamente puede ser libre cuando los socios cuentan con información suficiente.
+
+Por ello, antes de adoptar determinadas decisiones, la gerencia debe poner a disposición de los socios:
+
+- estados contables;
+- informes;
+- documentación respaldatoria;
+- antecedentes necesarios para comprender el asunto sometido a decisión.
+
+La omisión de información relevante puede afectar la validez de la decisión.
+
+---
+
+# Deliberación
+
+La deliberación constituye una etapa autónoma del procedimiento.
+
+Su finalidad consiste en permitir:
+
+- el intercambio de opiniones;
+- la formulación de observaciones;
+- la obtención de información adicional;
+- la formación consciente de la voluntad social.
+
+No constituye una mera formalidad.
+
+Representa una garantía del adecuado funcionamiento del órgano de gobierno.
+
+---
+
+# Votación
+
+Concluida la deliberación corresponde proceder a la votación.
+
+Cada socio ejerce el derecho de voto conforme a su participación en el capital, salvo disposición legal o contractual diferente.
+
+Las mayorías exigidas dependerán de:
+
+- la naturaleza de la decisión;
+- las reglas previstas por la ley;
+- las cláusulas del contrato social.
+
+---
+
+# Documentación
+
+Toda decisión debe quedar adecuadamente documentada.
+
+Las actas cumplen diversas funciones:
+
+- acreditan la existencia de la decisión;
+- permiten controlar la regularidad del procedimiento;
+- facilitan la publicidad cuando corresponda;
+- constituyen un importante medio de prueba.
+
+La correcta confección del acta integra el procedimiento de formación de la voluntad social.
+
+---
+
+# Consulta escrita
+
+El artículo 159 admite la adopción de decisiones mediante consulta escrita.
+
+Este procedimiento elimina la necesidad de una reunión física.
+
+La gerencia remite la consulta a los socios, quienes manifiestan su voluntad por escrito dentro del plazo previsto.
+
+El sistema resulta especialmente útil en sociedades con pocos socios o con integrantes radicados en distintos lugares.
+
+---
+
+# Procedimiento de la consulta escrita
+
+```text
+Remisión de la consulta
+          ↓
+Recepción por los socios
+          ↓
+Análisis de la propuesta
+          ↓
+Respuesta escrita
+          ↓
+Cómputo de votos
+          ↓
+Documentación de la decisión
+```
+
+La consulta debe formularse de manera suficientemente clara para permitir una respuesta consciente.
+
+---
+
+# Declaración escrita
+
+La tercera modalidad prevista por el artículo 159 consiste en la declaración escrita.
+
+En este supuesto los socios manifiestan directamente y por escrito su voluntad concordante respecto de una determinada decisión.
+
+No existe una consulta previa formulada por la gerencia.
+
+La decisión nace a partir de las declaraciones coincidentes de los socios.
+
+---
+
+# Diferencias entre consulta y declaración escrita
+
+Aunque ambos mecanismos prescinden de la reunión, presentan diferencias relevantes.
+
+**Consulta escrita**
+
+- existe una propuesta previa;
+- los socios responden a esa propuesta;
+- la decisión surge del cómputo de las respuestas.
+
+**Declaración escrita**
+
+- no existe consulta;
+- los socios expresan directamente su voluntad;
+- la decisión surge de declaraciones concordantes.
 
 ---
 
 # Mayorías
 
-Como regla,
+Las mayorías constituyen un requisito esencial para la validez de las decisiones.
 
-cada cuota da derecho a **un voto**.
+La Ley General de Sociedades distingue entre:
 
-Las resoluciones se adoptan por las mayorías previstas en la ley o en el contrato social, según la materia de que se trate.
+- decisiones ordinarias;
+- decisiones que implican modificación del contrato social;
+- otros supuestos para los cuales establece mayorías especiales.
+
+El contrato puede exigir mayorías superiores, siempre que no suprima el funcionamiento del órgano de gobierno.
 
 ---
 
 # Modificación del contrato social
 
-Las reformas del contrato requieren mayorías agravadas.
+Las reformas contractuales requieren el cumplimiento de un procedimiento agravado.
 
-Ello responde a la importancia de las decisiones que alteran la organización de la sociedad.
+En términos generales comprende:
 
-El contrato puede exigir mayorías superiores a las legales.
+```text
+Propuesta
+      ↓
+Decisión de los socios
+      ↓
+Instrumentación
+      ↓
+Inscripción registral
+      ↓
+Oponibilidad
+```
+
+La reforma produce efectos plenos una vez cumplidos los requisitos de publicidad previstos por la ley.
 
 ---
 
-# Actas
+# La posición de Vitolo
 
-Las resoluciones adoptadas deben documentarse en las actas correspondientes.
+Vitolo destaca que el artículo 159 constituye una de las mayores manifestaciones de la flexibilidad organizativa propia de la SRL.
 
-Las actas constituyen el medio de prueba de las decisiones sociales y permiten controlar la regularidad del funcionamiento de la sociedad.
+La posibilidad de adoptar decisiones sin necesidad de celebrar reuniones reduce costos, simplifica el funcionamiento de la sociedad y facilita la continuidad de la actividad empresarial.
+
+Sin embargo, esa simplificación no elimina la necesidad de respetar las garantías mínimas del procedimiento deliberativo.
 
 ---
 
-# Derecho de voto
+# La posición de Nissen
 
-Como principio,
+Para Nissen, la libertad organizativa reconocida por el artículo 159 no autoriza a prescindir de los principios generales que gobiernan la formación de la voluntad social.
 
-todos los socios tienen derecho a participar en las decisiones sociales.
+Cualquiera sea el mecanismo utilizado, deben preservarse:
 
-El voto constituye uno de los principales derechos políticos derivados de la titularidad de cuotas sociales.
+- el derecho de información;
+- la igualdad entre los socios;
+- la adecuada documentación de las decisiones;
+- el respeto de las mayorías legales y contractuales.
+
+Sólo de ese modo puede afirmarse que la voluntad expresada corresponde verdaderamente a la sociedad.
+
+---
+
+# Mayorías ordinarias
+
+El artículo 160 distingue el régimen de mayorías según la naturaleza de la decisión sometida a consideración de los socios.
+
+Como principio general, las resoluciones que no importan modificación del contrato social se adoptan por mayoría del capital presente o representado, salvo que el contrato establezca una mayoría diferente.
+
+La finalidad de la norma consiste en facilitar el funcionamiento cotidiano de la sociedad sin exigir consensos excesivos.
+
+---
+
+# Mayorías para modificar el contrato social
+
+Las decisiones que implican modificación del contrato constitutivo reciben un tratamiento más estricto.
+
+Como regla general, requieren el voto favorable de socios que representen más de la mitad del capital social.
+
+El contrato puede exigir mayorías superiores.
+
+No obstante, la autonomía de la voluntad encuentra un límite en la prohibición de tornar imposible la modificación del contrato o paralizar el funcionamiento de la sociedad.
+
+---
+
+# Unanimidad
+
+La unanimidad únicamente resulta exigible cuando:
+
+- la ley lo establece expresamente; o
+- el contrato social así lo dispone.
+
+La doctrina entiende que las cláusulas de unanimidad deben interpretarse restrictivamente, pues pueden dificultar gravemente el funcionamiento de la sociedad y favorecer conductas obstruccionistas por parte de socios minoritarios.
+
+---
+
+# Cómputo de las mayorías
+
+La correcta determinación de las mayorías exige identificar previamente:
+
+- el capital social;
+- los socios con derecho a voto;
+- la existencia de abstenciones;
+- los eventuales conflictos de intereses.
+
+La verificación de estos extremos constituye una etapa indispensable del procedimiento decisorio.
+
+Un error en el cómputo puede afectar la validez de toda la decisión.
 
 ---
 
 # Conflicto de intereses
 
-El socio debe ejercer su derecho de voto de buena fe.
+El socio debe ejercer el derecho de voto conforme al interés social.
 
-Cuando exista un conflicto entre su interés personal y el interés social,
+Cuando exista un conflicto de intereses particularmente intenso entre el interés del socio y el interés de la sociedad, la doctrina entiende aplicables, en lo pertinente, los principios generales que rigen la materia societaria.
 
-la ley impone determinadas limitaciones para proteger a la sociedad.
-
----
-
-# Ejemplo
-
-Una SRL debe decidir la compra de un inmueble perteneciente a uno de sus socios.
-
-Ese socio tiene un interés personal directo en la operación.
-
-La ley establece un régimen destinado a evitar que dicho interés perjudique a la sociedad.
+La finalidad consiste en preservar la formación regular de la voluntad social y evitar decisiones adoptadas en beneficio exclusivamente individual.
 
 ---
 
-# Caso
+# Ejecución de las decisiones
 
-Una SRL integrada por cinco socios decide modificar el contrato social.
+Una vez válidamente adoptada la resolución corresponde a la gerencia ejecutar lo decidido por los socios.
 
-Tres socios votan afirmativamente.
+La gerencia no puede revisar el mérito o la conveniencia de la decisión.
 
-Los dos restantes se oponen.
+Su función consiste en:
 
-### Preguntas
-
-- ¿Qué mayoría exige la ley?
-- ¿Puede el contrato establecer una mayoría superior?
-- ¿Por qué las reformas del contrato tienen un régimen distinto al de las decisiones ordinarias?
+- cumplir la voluntad social;
+- realizar los actos necesarios para su implementación;
+- efectuar las inscripciones que correspondan;
+- otorgar los instrumentos necesarios para producir sus efectos.
 
 ---
 
-# Ideas principales
+# Inscripción de determinadas decisiones
 
-- Las resoluciones pueden adoptarse en reunión o mediante consulta escrita.
-- Cada cuota otorga, como regla, un voto.
-- Las reformas del contrato requieren mayorías agravadas.
-- Las decisiones deben documentarse en actas.
-- El derecho de voto debe ejercerse conforme al interés social.
+No todas las resoluciones requieren publicidad registral.
+
+Sin embargo, determinadas decisiones deben inscribirse en el Registro Público.
+
+Entre ellas, habitualmente:
+
+- modificaciones del contrato social;
+- designación y cese de gerentes cuando corresponda;
+- aumento o reducción de capital;
+- transformación;
+- fusión;
+- escisión;
+- disolución y designación de liquidadores.
+
+La inscripción permite su oponibilidad frente a terceros.
+
+---
+
+# Conservación de la documentación social
+
+La sociedad debe conservar la documentación relativa a las decisiones adoptadas.
+
+Ello comprende, según el mecanismo utilizado:
+
+- actas de reunión;
+- consultas escritas;
+- respuestas emitidas por los socios;
+- declaraciones escritas;
+- documentación respaldatoria.
+
+La adecuada conservación documental facilita el control interno, la actividad registral y la eventual revisión judicial.
+
+---
+
+# Nulidad e impugnación de decisiones sociales
+
+Las decisiones adoptadas con violación de:
+
+- la ley;
+- el contrato social;
+- las reglas esenciales del procedimiento;
+- o los principios generales que gobiernan la formación de la voluntad social,
+
+pueden ser objeto de impugnación judicial.
+
+En materia de SRL resulta aplicable el régimen previsto para la impugnación de resoluciones sociales, con las adaptaciones derivadas de la estructura propia del tipo.
+
+---
+
+# La posición de Nissen
+
+Nissen sostiene que la simplificación procedimental introducida por el artículo 159 no implica una reducción de las garantías de los socios.
+
+Por el contrario, cuanto más flexible es el procedimiento de formación de la voluntad social, mayor importancia adquieren:
+
+- el derecho de información;
+- la adecuada documentación;
+- la transparencia del procedimiento;
+- el respeto de las mayorías legales.
+
+Estos elementos constituyen el verdadero presupuesto de legitimidad de las decisiones sociales.
+
+---
+
+# La posición de Vitolo
+
+Vitolo destaca que el régimen de los artículos 159 y 160 refleja una opción legislativa clara.
+
+La ley abandona el formalismo propio de las asambleas de la sociedad anónima y privilegia mecanismos compatibles con la realidad de las pequeñas y medianas empresas.
+
+Ello permite reducir costos de funcionamiento sin sacrificar la seguridad jurídica, siempre que se respeten las garantías esenciales del procedimiento.
+
+---
+
+# Transición
+
+Hasta aquí se ha analizado el funcionamiento de los órganos sociales y el procedimiento de formación de la voluntad de los socios.
+
+Resta examinar el último aspecto estructural de la Sociedad de Responsabilidad Limitada: el régimen de fiscalización previsto por la Ley General de Sociedades.
+
+---
+
+# Fiscalización en la SRL
+
+La Sociedad de Responsabilidad Limitada no posee, como regla general, un órgano permanente de fiscalización.
+
+La Ley General de Sociedades parte de una solución diversa a la prevista para la sociedad anónima.
+
+Mientras en esta última el control interno adquiere una relevancia estructural, la SRL privilegia la simplicidad organizativa y reduce los costos de funcionamiento.
+
+La fiscalización queda, principalmente, en manos de los propios socios.
+
+---
+
+# Sistemas de fiscalización
+
+La Ley General de Sociedades admite tres modalidades de control:
+
+- fiscalización ejercida directamente por los socios;
+- fiscalización mediante sindicatura;
+- consejo de vigilancia, cuando corresponda.
+
+El sistema aplicable dependerá de las características de la sociedad y de las previsiones contenidas en el contrato social.
+
+---
+
+# Fiscalización directa por los socios
+
+La regla general consiste en que los propios socios controlen la actuación de la gerencia.
+
+Este control comprende, entre otras facultades:
+
+- examinar la documentación social;
+- solicitar información;
+- controlar los estados contables;
+- verificar la gestión de los administradores;
+- promover las acciones de responsabilidad cuando correspondan.
+
+La fiscalización constituye un verdadero derecho político del socio.
+
+---
+
+# Derecho de información
+
+El derecho de información representa el principal instrumento de control dentro de la SRL.
+
+Sin información suficiente resulta imposible ejercer adecuadamente:
+
+- el derecho de voto;
+- el control de la administración;
+- la aprobación de los estados contables;
+- las acciones de responsabilidad.
+
+La información constituye el presupuesto necesario para la formación consciente de la voluntad social.
+
+---
+
+# Alcance del derecho de información
+
+El socio puede examinar:
+
+- libros sociales;
+- libros contables;
+- documentación respaldatoria;
+- estados contables;
+- informes elaborados por la gerencia;
+- demás antecedentes vinculados con la administración.
+
+El ejercicio de este derecho debe realizarse de buena fe y sin entorpecer el funcionamiento normal de la empresa.
+
+---
+
+# Límites al derecho de información
+
+El derecho de información no posee carácter absoluto.
+
+Su ejercicio encuentra límites derivados de:
+
+- la buena fe;
+- el interés social;
+- la confidencialidad de determinada información;
+- la prohibición del ejercicio abusivo del derecho.
+
+La finalidad del instituto consiste en controlar la administración, no en obstaculizarla.
+
+---
+
+# Sindicatura facultativa
+
+El contrato social puede establecer la existencia de una sindicatura.
+
+En tal supuesto resultan aplicables, en lo pertinente, las disposiciones previstas para la sindicatura de la sociedad anónima.
+
+La creación de este órgano suele responder a sociedades de mayor complejidad o con un número elevado de socios.
+
+---
+
+# Fiscalización obligatoria
+
+La fiscalización deja de ser optativa cuando la SRL queda comprendida en alguno de los supuestos previstos por el artículo 299 de la Ley General de Sociedades.
+
+En tales casos:
+
+- la sindicatura pasa a ser obligatoria;
+- se aplican las reglas correspondientes al régimen de fiscalización permanente previsto para las sociedades anónimas.
+
+La finalidad consiste en reforzar el control de sociedades cuya actividad posee especial trascendencia económica.
+
+---
+
+# Procedimiento de control
+
+```text
+Gestión de la gerencia
+          ↓
+Acceso a la información
+          ↓
+Control por los socios
+          ↓
+Observaciones
+          ↓
+Decisión de los socios
+          ↓
+Eventuales acciones de responsabilidad
+```
+
+El sistema procura corregir irregularidades antes de que produzcan un perjuicio definitivo para la sociedad.
+
+---
+
+# Relación entre fiscalización y responsabilidad
+
+El adecuado funcionamiento del sistema de control reduce significativamente el riesgo de responsabilidad de los administradores.
+
+Una fiscalización eficaz permite:
+
+- detectar irregularidades tempranamente;
+- corregir decisiones inconvenientes;
+- preservar el patrimonio social;
+- proteger los intereses de socios y acreedores.
+
+La fiscalización constituye un mecanismo preventivo más que sancionatorio.
+
+---
+
+---
+
+# La posición de Nissen
+
+Nissen destaca que la ausencia de un órgano permanente de fiscalización no implica ausencia de control.
+
+El legislador trasladó esa función a los propios socios, quienes conservan amplias facultades para supervisar la actuación de la gerencia.
+
+La eficacia del sistema depende del ejercicio efectivo del derecho de información.
+
+---
+
+# La posición de Vitolo
+
+Para Vitolo, el régimen de fiscalización constituye otra manifestación de la flexibilidad propia de la SRL.
+
+La ley evita imponer estructuras costosas a sociedades de reducida dimensión, permitiendo que cada organización adopte los mecanismos de control más adecuados para su realidad económica.
+
+La fiscalización obligatoria queda reservada para supuestos expresamente previstos por la ley.
+
+---
+
+# Cierre de la clase
+
+La Sociedad de Responsabilidad Limitada constituye el tipo societario más flexible previsto por la Ley General de Sociedades.
+
+Su régimen procura compatibilizar:
+
+- la limitación de la responsabilidad de los socios;
+- la simplicidad organizativa;
+- la autonomía de la voluntad;
+- la protección de socios y terceros.
+
+La adecuada comprensión del procedimiento de constitución, funcionamiento, administración y fiscalización resulta indispensable para interpretar correctamente la lógica del tipo societario.
+
+---
+
+# Jurisprudencia
+## Exclusión del socio moroso y restitución de los aportes
+
+### Giri, Héctor Daniel c/ Policía Particular F.P.I. S.R.L. y otros s/ ordinario
+
+**Cámara Nacional de Apelaciones en lo Comercial, Sala D**
+
+---
+
+# Contexto
+
+El caso analiza las consecuencias del incumplimiento del deber de integrar los aportes comprometidos al constituirse una SRL y los efectos patrimoniales de la exclusión del socio moroso.
+
+---
+
+# Los hechos
+
+Al constituirse la sociedad:
+
+- el actor suscribió **14.500 cuotas sociales**;
+- integró únicamente el **25 %** de su aporte;
+- el contrato social establecía que el **75 % restante** debía integrarse dentro de los **180 días**.
+
+Vencido dicho plazo, el aporte nunca fue completado.
+
+---
+
+# El conflicto
+
+Los restantes socios resolvieron excluir al actor por incumplimiento de su obligación de integrar el capital.
+
+El socio promovió demanda cuestionando esa decisión y reclamando la devolución del valor de los aportes que ya había efectuado.
+
+---
+
+# La cuestión jurídica
+
+La Cámara debía resolver dos cuestiones:
+
+- si la exclusión del socio había sido válida;
+- si el socio excluido perdía definitivamente el dinero ya aportado.
+
+---
+
+# Fundamentos de la Cámara
+
+El tribunal recordó que el aporte constituye una obligación esencial del contrato de sociedad.
+
+Cuando el contrato fija un plazo para integrar el capital, el vencimiento produce automáticamente la mora del socio incumplidor.
+
+Frente a esa situación, la sociedad puede excluir al socio conforme al artículo 37 de la Ley General de Sociedades.
+
+---
+
+# La decisión
+
+La Cámara confirmó la validez de la exclusión del socio por falta de integración del aporte comprometido.
+
+Sin embargo, consideró que ello no implicaba la pérdida automática de todo derecho económico derivado de la participación societaria.
+
+---
+
+# Los aportes ya realizados
+
+La sentencia sostuvo que el socio excluido conserva el derecho a obtener el valor económico correspondiente a los aportes efectivamente realizados, practicadas las compensaciones que correspondan.
+
+La exclusión pone fin a la relación societaria, pero no autoriza a la sociedad a apropiarse sin causa de los aportes ya integrados.
+
+---
+
+# Importancia del fallo
+
+El precedente distingue claramente dos consecuencias del incumplimiento:
+
+- la **exclusión** del socio moroso como sanción societaria;
+- la **liquidación de su participación**, que debe respetar sus derechos patrimoniales.
+
+---
+
+# Enseñanza para la clase
+
+El artículo 37 LGS no implica una confiscación de los aportes realizados.
+
+El socio que incumple puede ser excluido, pero mantiene el derecho a percibir el valor patrimonial de su participación conforme al régimen legal y a las compensaciones que correspondan.
+
+---
+
+# Idea principal
+
+**La falta de integración del aporte habilita la exclusión del socio, pero no extingue automáticamente sus derechos económicos sobre los aportes ya efectivamente integrados.**
+
+---
+
+# Fuente
+
+**Giri, Héctor Daniel c/ Policía Particular F.P.I. S.R.L. y otros s/ ordinario**
+
+CNCom., Sala D.
+
+Resumen disponible en:
+
+https://abogados.com.ar/index.php/ordenan-la-devolucion-de-aportes-realizados-por-un-socio-excluido/5557
+
+---
+
+# Jurisprudencia de la SRL
+
+## Travaglini c/ Facciuto
+
+**CNCom., Sala D, 23 de septiembre de 2008**
+
+Un caso sobre:
+
+- adquisición de cuotas propias;
+- legitimación del socio;
+- administración de la SRL;
+- rendición de cuentas;
+- derecho de información.
+
+[Texto del fallo y comentario de Favier Dubois](https://studylib.es/doc/5723562/la-compra-de-propias-cuotas-por-la-s.r.l.--la-demanda)
+
+---
+
+# La sociedad involucrada
+
+La controversia se desarrolló dentro de **Italvira S.R.L.**
+
+Francisco Héctor Travaglini era socio de la sociedad.
+
+Héctor Osvaldo Facciuto era también socio y había asumido, según los actores, el control y manejo de los fondos y bienes sociales.
+
+El conflicto no era solamente contable.
+
+Antes de decidir si Facciuto debía informar sobre su gestión, era necesario determinar si Travaglini todavía conservaba la calidad de socio.
+
+---
+
+# La pretensión de los actores
+
+Francisco Travaglini y otros actores promovieron una demanda de **rendición de cuentas** contra Facciuto.
+
+Sostuvieron que el demandado había:
+
+- asumido unilateralmente la administración;
+- manejado durante un período prolongado los fondos sociales;
+- controlado los bienes de Italvira S.R.L.;
+- omitido brindar una explicación suficiente sobre su gestión.
+
+La pretensión buscaba que Facciuto rindiera cuentas de la administración desarrollada.
+
+---
+
+# La defensa de Facciuto
+
+Facciuto opuso una excepción de **falta de legitimación activa**.
+
+Su argumento fue el siguiente:
+
+> Travaglini había cedido la totalidad de sus cuotas y, por lo tanto, había dejado de ser socio.
+
+Como prueba de esa supuesta cesión se presentaron recibos que documentaban pagos efectuados en relación con las cuotas sociales.
+
+Si la cesión era válida, Travaglini ya no podía ejercer los derechos propios de un socio.
+
+---
+
+# La situación de los restantes actores
+
+También participaron en la demanda Romina Paula y Ariel Matías Travaglini.
+
+Lo hicieron como sucesores de Haydée Amalia de la Merced, esposa de Francisco Travaglini.
+
+La cuestión sucesoria dependía también de la validez de la supuesta transmisión:
+
+- si Travaglini había cedido válidamente las cuotas;
+- ellas no habrían integrado el patrimonio ganancial;
+- ni, por consiguiente, el acervo sucesorio de su esposa.
+
+La legitimación de todos los actores quedaba vinculada al mismo problema inicial.
+
+---
+
+# La decisión de primera instancia
+
+El juez de primera instancia consideró suficientemente acreditada la cesión.
+
+Entendió que Travaglini había transferido la totalidad de sus cuotas el 7 de agosto de 2000.
+
+Por ello:
+
+- admitió la excepción de falta de legitimación activa;
+- consideró que Travaglini había perdido su calidad de socio;
+- extendió esa conclusión a los sucesores de su esposa;
+- rechazó la demanda de rendición de cuentas.
+
+La sentencia trató los recibos presentados como prueba suficiente de la transferencia.
+
+---
+
+# Primera cuestión ante la Cámara
+
+## ¿Los recibos probaban una cesión válida?
+
+La Cámara examinó quién había adquirido las cuotas y qué forma jurídica había asumido la operación.
+
+Los recibos no reflejaban claramente una compraventa entre Travaglini y Facciuto.
+
+Quien aparecía realizando los pagos era la propia **Italvira S.R.L.**
+
+En consecuencia, la operación no podía ser analizada como una simple cesión entre socios.
+
+El verdadero interrogante era otro:
+
+> ¿Podía la SRL adquirir sus propias cuotas mediante el simple pago documentado en recibos?
+
+---
+
+# La adquisición de cuotas propias
+
+La adquisición de sus propias cuotas por una SRL no constituye una compraventa ordinaria.
+
+Afecta elementos centrales de la estructura societaria:
+
+- composición del capital;
+- participación de los socios;
+- garantía de los acreedores;
+- derechos políticos;
+- distribución futura de utilidades;
+- eventual reducción del capital.
+
+Por ello, la Cámara consideró que se trata de un **acto societario complejo**.
+
+No basta la voluntad aislada de un gerente ni la expedición de simples recibos.
+
+---
+
+# Los mecanismos admitidos
+
+La adquisición de cuotas propias puede resultar admisible cuando se articula mediante alguno de los mecanismos reconocidos por la ley.
+
+Por ejemplo:
+
+- ejercicio por la sociedad de un derecho de preferencia previsto contractualmente;
+- adquisición con utilidades líquidas y realizadas;
+- utilización de reservas disponibles;
+- reducción regular del capital social.
+
+En cualquiera de esos supuestos deben respetarse las reglas orgánicas, contables y registrales correspondientes.
+
+La operación no puede consumarse de manera informal.
+
+---
+
+# Los recibos no bastaban
+
+Los documentos presentados acreditaban pagos.
+
+Pero no acreditaban por sí solos:
+
+- una decisión válida de los socios;
+- una cláusula contractual que autorizara la adquisición;
+- el ejercicio regular de un derecho de preferencia;
+- una reducción de capital;
+- el origen de los fondos empleados;
+- el destino jurídico de las cuotas adquiridas.
+
+La Cámara concluyó que los recibos no demostraban una cesión societariamente válida.
+
+Por eso rechazó la defensa de falta de legitimación activa.
+
+---
+
+# Consecuencia sobre la calidad de socio
+
+Al no haberse probado una transmisión válida, Travaglini no había perdido su condición de socio.
+
+Por lo tanto:
+
+- conservaba sus derechos políticos;
+- conservaba sus derechos patrimoniales;
+- podía ejercer las facultades de información y control;
+- tenía legitimación para cuestionar la actuación del administrador.
+
+La Cámara revocó, en este punto, el fundamento empleado por la primera instancia.
+
+---
+
+# La segunda cuestión
+
+## ¿Podía el socio exigir una rendición de cuentas?
+
+Superado el problema de la legitimación, todavía quedaba por resolver la pretensión principal.
+
+Travaglini seguía siendo socio.
+
+Pero ello no significaba necesariamente que pudiera exigir al gerente una rendición de cuentas conforme al régimen general del mandato.
+
+La Cámara distinguió entre:
+
+- la rendición de cuentas propia de una relación entre mandante y mandatario;
+- y el sistema orgánico de información y control de una sociedad regular.
+
+---
+
+# El administrador no es mandatario del socio
+
+El gerente administra y representa a la sociedad.
+
+No administra individualmente bienes pertenecientes a cada socio.
+
+Por ello:
+
+- no es mandatario particular de los socios;
+- no debe rendir cuentas directamente a cada uno según las reglas del mandato;
+- debe informar su gestión mediante los mecanismos previstos por el derecho societario.
+
+La sociedad es un sujeto distinto de sus integrantes.
+
+La estructura orgánica desplaza la relación bilateral propia del mandato.
+
+---
+
+# El mecanismo societario de información
+
+En las sociedades regularmente constituidas, la gestión se exterioriza principalmente mediante:
+
+- contabilidad;
+- libros sociales;
+- estados contables;
+- memoria e informes, cuando correspondan;
+- consideración de los balances;
+- aprobación o impugnación de la gestión;
+- ejercicio del derecho de información;
+- acciones de responsabilidad o remoción.
+
+Estos mecanismos cumplen una función semejante a la rendición de cuentas, pero adaptada a la organización societaria.
+
+---
+
+# La decisión de la Cámara
+
+La Cámara adoptó una solución dividida.
+
+Por un lado:
+
+> rechazó la excepción de falta de legitimación activa.
+
+Los recibos no acreditaban una adquisición válida de las cuotas por la SRL y Travaglini mantenía la calidad de socio.
+
+Por otro lado:
+
+> confirmó el rechazo de la demanda de rendición de cuentas.
+
+La pretensión elegida no era la vía adecuada dentro de una sociedad regularmente constituida.
+
+---
+
+# Resultado final
+
+El fallo no le dio la razón íntegramente a ninguna de las posiciones.
+
+## Facciuto no logró demostrar
+
+- que Travaglini hubiera cedido válidamente sus cuotas;
+- que hubiera perdido la condición de socio;
+- que careciera de legitimación para controlar la gestión.
+
+## Travaglini no logró obtener
+
+- una condena tradicional de rendición de cuentas;
+- porque debía utilizar los mecanismos societarios específicos.
+
+El resultado distingue claramente entre **tener un derecho** y **haber elegido la acción adecuada para ejercerlo**.
+
+---
+
+# El artículo 55 LGS
+
+El artículo 55 reconoce a los socios facultades individuales de control cuando no existe sindicatura.
+
+El socio puede:
+
+- examinar libros y papeles sociales;
+- solicitar informes a los administradores;
+- conocer la situación patrimonial;
+- verificar el desarrollo de la gestión.
+
+La Cámara destacó que este derecho de información no desaparecía por el mero transcurso del tiempo.
+
+Podía ejercerse mientras subsistiera la sociedad.
+
+---
+
+# Información y prescripción
+
+Favier Dubois destaca una consecuencia importante del fallo.
+
+El derecho individual de información y control:
+
+- no se agota en un ejercicio económico determinado;
+- no depende de la previa aprobación de balances;
+- puede ponerse en funcionamiento durante toda la vida de la sociedad;
+- subsiste hasta la cancelación de la matrícula.
+
+Otra cuestión será la prescripción de eventuales acciones patrimoniales o de responsabilidad derivadas de la información obtenida.
+
+---
+
+# La lectura de Favier Dubois
+
+Favier Dubois padre e hijo identifican tres doctrinas centrales.
+
+### Primera
+
+La adquisición de cuotas propias por una SRL es un acto societario complejo.
+
+### Segunda
+
+La rendición de cuentas tradicional no es, como regla, la vía adecuada contra el administrador de una sociedad regular.
+
+### Tercera
+
+La improcedencia de esa acción no elimina el derecho individual de información y control del socio.
+
+La solución debe evitar que el rechazo procesal deje al socio sin protección efectiva.
+
+---
+
+# ¿Puede una SRL comprar sus propias cuotas?
+
+No existe una libertad general para que la sociedad adquiera sus propias participaciones.
+
+La operación debe responder a una causa societaria legítima y cumplir un procedimiento regular.
+
+Debe examinarse:
+
+1. si el contrato reconoce un derecho de preferencia a la sociedad;
+2. si existen utilidades o reservas disponibles;
+3. si se resolvió una reducción de capital;
+4. si intervino el órgano de gobierno;
+5. si se protegió a los acreedores;
+6. qué destino tendrán las cuotas adquiridas.
+
+Sin estos recaudos, la adquisición compromete la integridad del capital.
+
+---
+
+# Relación con los artículos 153 y 154
+
+El artículo 153 permite que el contrato reconozca un derecho de preferencia a la propia sociedad.
+
+Pero la adquisición solamente puede realizarse:
+
+- con utilidades líquidas y realizadas;
+- con reservas disponibles;
+- o mediante reducción de capital.
+
+El artículo 154 complementa el sistema regulando el ejercicio de la preferencia y las controversias sobre el precio.
+
+El fallo muestra que esas exigencias no pueden ser reemplazadas por acuerdos informales.
+
+---
+
+# Relación con el capital social
+
+La compra de cuotas por la propia sociedad puede generar una salida de fondos sin ingreso de un activo independiente.
+
+La sociedad paga utilizando su patrimonio y recibe participaciones representativas de su propio capital.
+
+Por ello existe riesgo de:
+
+- distribución encubierta de fondos;
+- afectación de la garantía de los acreedores;
+- reducción irregular del capital;
+- alteración de las participaciones sociales.
+
+La formalidad del procedimiento protege tanto a socios como a terceros.
+
+---
+
+# Relación con la gerencia
+
+El gerente no puede decidir por sí mismo la adquisición de cuotas propias cuando la operación modifica la estructura interna de la sociedad.
+
+Debe distinguirse:
+
+- la administración ordinaria de la empresa;
+- de las decisiones que afectan el capital y la composición societaria.
+
+La adquisición de cuotas propias pertenece al segundo ámbito.
+
+Requiere intervención de los socios y cumplimiento de las reglas legales y contractuales.
+
+---
+
+# Rendición de cuentas y balances
+
+El rechazo de la rendición de cuentas no significa que el gerente pueda actuar sin control.
+
+Significa que la explicación de su gestión debe canalizarse mediante:
+
+- presentación de estados contables;
+- acceso a documentación;
+- consideración por los socios;
+- impugnación de balances;
+- remoción del gerente;
+- acción de responsabilidad.
+
+La solución preserva la estructura orgánica sin suprimir la tutela del socio.
+
+---
+
+# Crítica posible al criterio
+
+La doctrina tradicional rechaza la rendición de cuentas entre socios y administradores de una sociedad regular.
+
+Sin embargo, puede surgir un problema práctico:
+
+> ¿qué sucede cuando el gerente no lleva contabilidad, no confecciona balances y niega toda información?
+
+Una aplicación rígida del criterio podría dejar al socio atrapado:
+
+- no puede exigir rendición de cuentas;
+- pero tampoco accede a los mecanismos societarios que deberían reemplazarla.
+
+Por eso el derecho de información debe recibir una tutela judicial efectiva.
+
+---
+
+# La acción adecuada
+
+Según las circunstancias, el socio podría solicitar:
+
+- exhibición de libros y documentación;
+- cumplimiento del derecho de información;
+- convocatoria a reunión de socios;
+- confección y presentación de estados contables;
+- impugnación de resoluciones;
+- remoción judicial del gerente;
+- intervención judicial;
+- acción social o individual de responsabilidad.
+
+La elección depende de la irregularidad concreta que se pretenda corregir.
+
+---
+
+# Importancia del fallo
+
+“Travaglini” permite conectar varios institutos que suelen estudiarse por separado:
+
+- cuotas sociales;
+- adquisición por la sociedad;
+- capital social;
+- legitimación del socio;
+- gerencia;
+- información;
+- contabilidad;
+- acciones societarias.
+
+Su enseñanza principal es metodológica:
+
+> un conflicto societario no puede resolverse recurriendo automáticamente a las categorías de los contratos bilaterales.
+
+Debe respetarse la organización propia de la persona jurídica.
+
+---
+
+# Regla práctica del caso
+
+Ante una supuesta compra de cuotas por la propia SRL, debe verificarse:
+
+```text
+¿Existe autorización contractual?
+            ↓
+¿Intervino el órgano de gobierno?
+            ↓
+¿Hay utilidades o reservas disponibles?
+            ↓
+¿Se resolvió una reducción de capital?
+            ↓
+¿Se protegió a los acreedores?
+            ↓
+¿Se documentó e inscribió correctamente?
+```
+
+La existencia de pagos o recibos no reemplaza este procedimiento.
+
+---
+
+# Resolución para examen
+
+Ante la pregunta:
+
+> ¿Travaglini había perdido la calidad de socio?
+
+La respuesta es **no**, porque los recibos no demostraban una adquisición válida de sus cuotas por la propia SRL.
+
+Ante la pregunta:
+
+> ¿Correspondía ordenar una rendición de cuentas?
+
+La respuesta también es **no**, porque en una sociedad regular la información y el control se canalizan por los mecanismos societarios.
+
+Travaglini conservaba sus derechos de socio, pero había utilizado una vía inadecuada.
+
+---
+
+# Doctrina final
+
+El fallo permite formular cuatro conclusiones:
+
+1. La SRL no adquiere válidamente sus propias cuotas mediante simples recibos.
+2. La adquisición requiere un procedimiento societario complejo.
+3. El gerente no es mandatario individual de los socios.
+4. El rechazo de la rendición de cuentas no elimina el derecho permanente de información y control.
+
+---
+
+# Fuentes
+
+- CNCom., Sala D, **“Travaglini, Francisco Héctor y otros c/ Facciuto, Héctor Osvaldo s/ ordinario”**, 23/9/2008.
+- Cita SAIJ: **FA08971982**.
+- Cita elDial: **AA4D60**.
+- Favier Dubois, Eduardo M. (p.) y Favier Dubois, Eduardo M. (h.), **“La compra de propias cuotas por la S.R.L., la demanda y el derecho de información del socio en un caso judicial”**.
+
+[Comentario de Favier Dubois y desarrollo del caso](https://studylib.es/doc/5723562/la-compra-de-propias-cuotas-por-la-s.r.l.--la-demanda)
+
+[Referencia del fallo en elDial](https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=20621)
