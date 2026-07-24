@@ -149,6 +149,12 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/clase09-sociedades-personalistas.pdf" target="_blank">Descargar presentación en PDF</a>
 
+### Clase 10 - SRL
+
+- 🎓 <a href="clases/clase10-srl.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase10-srl.pdf" target="_blank">Descargar presentación en PDF</a>
+
 ## Evaluaciones
 
 📊 **Calificaciones de la cursada**
