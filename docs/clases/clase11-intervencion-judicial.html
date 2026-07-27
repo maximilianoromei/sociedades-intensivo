@@ -1,0 +1,1914 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.38">
+
+  <meta name="author" content="Prof.&nbsp;Maximiliano Lucas Romei">
+  <title>Sociedades Civiles y Comerciales – Clase 11 — Intervención Judicial</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; font-weight: bold; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Clase 11 — Intervención Judicial</h1>
+  <p class="subtitle">Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Prof.&nbsp;Maximiliano Lucas Romei 
+</div>
+</div>
+</div>
+
+</section>
+<section id="intervención-judicial-de-sociedades" class="slide level1">
+<h1>Intervención judicial de sociedades</h1>
+<h2 id="naturaleza-procedimiento-y-alcances">Naturaleza, procedimiento y alcances</h2>
+<h3 id="arts.-113-a-117-lgs">Arts. 113 a 117 LGS</h3>
+</section>
+<section id="la-administración-societaria-como-presupuesto-del-instituto" class="slide level1">
+<h1>La administración societaria como presupuesto del instituto</h1>
+<p>La intervención judicial constituye uno de los mecanismos más intensos de tutela del interés social previstos por la Ley General de Sociedades.</p>
+<p>Su existencia sólo puede comprenderse si previamente se advierte una característica propia de la organización societaria: la administración de la sociedad se encuentra confiada a un órgano que actúa con autonomía funcional y cuyos actos son considerados jurídicamente actos de la propia persona jurídica.</p>
+<p>Los administradores no son mandatarios de los socios.</p>
+<p>Son órganos de la sociedad.</p>
+<p>Por ello:</p>
+<ul>
+<li>ejercen la gestión ordinaria del patrimonio social;</li>
+<li>representan a la sociedad frente a terceros;</li>
+<li>adoptan decisiones sin requerir autorización permanente de los socios.</li>
+</ul>
+<p>Esta autonomía resulta indispensable para el funcionamiento dinámico de la empresa.</p>
+<p>Sin embargo, la misma autonomía que permite administrar eficazmente puede transformarse en una fuente de graves abusos cuando quienes ejercen la administración utilizan sus facultades en perjuicio de la sociedad o de los socios.</p>
+<p>Precisamente para esos supuestos aparece la intervención judicial.</p>
+<p>Ninguno de los tres autores presenta al instituto como un mecanismo de revisión general de la gestión empresaria.</p>
+<p>Por el contrario, todos parten de una idea común:</p>
+<blockquote>
+<p>la intervención judicial constituye una excepción al principio de autonomía de los órganos sociales.</p>
+</blockquote>
+</section>
+<section id="por-qué-existe-la-intervención-judicial" class="slide level1">
+<h1>¿Por qué existe la intervención judicial?</h1>
+<p>Vitolo parte de una idea especialmente interesante.</p>
+<p>La administración posee un amplio margen de discrecionalidad.</p>
+<p>No todo acto inconveniente autoriza la intervención del juez.</p>
+<p>Los administradores pueden equivocarse.</p>
+<p>Pueden adoptar negocios riesgosos.</p>
+<p>Pueden realizar inversiones que luego resulten desacertadas.</p>
+<p>Nada de ello justifica, por sí solo, la intromisión judicial.</p>
+<p>Lo relevante no es el desacierto económico.</p>
+<p>Lo relevante es la utilización ilegítima de las facultades de administración.</p>
+<p>La ley procura evitar que actos u omisiones de los administradores produzcan un daño grave antes de que el órgano de gobierno pueda reaccionar.</p>
+<p>Como explica Vitolo, el control natural de la administración corresponde a los socios.</p>
+<p>Pero ese control muchas veces llega demasiado tarde.</p>
+<p>Cuando la asamblea finalmente decide remover a los administradores, el perjuicio puede haberse consumado.</p>
+<p>La intervención judicial aparece entonces como un remedio urgente destinado a impedir que la sentencia de remoción llegue cuando el daño ya resulta irreversible. :contentReference<span data-index="0">oaicite:0</span></p>
+</section>
+<section id="concepto" class="slide level1">
+<h1>Concepto</h1>
+<p>Nissen define la intervención judicial como una típica medida cautelar societaria prevista por los arts. 113 a 117 de la Ley General de Sociedades.</p>
+<p>Su finalidad consiste en impedir que, mientras tramita la acción de remoción, los administradores continúen ejerciendo libremente una administración que ha sido seriamente cuestionada.</p>
+<p>No constituye una sanción.</p>
+<p>No implica adelantar opinión sobre la responsabilidad definitiva del administrador.</p>
+<p>Su función consiste exclusivamente en preservar el interés social durante la tramitación del proceso principal.</p>
+<p>Por ello la intervención judicial presenta cuatro notas esenciales:</p>
+<ul>
+<li>es una medida cautelar;</li>
+<li>tiene carácter instrumental;</li>
+<li>posee duración transitoria;</li>
+<li>depende, como regla, de una acción principal de remoción. :contentReference<span data-index="1">oaicite:1</span></li>
+</ul>
+</section>
+<section id="finalidad-inmediata-del-instituto" class="slide level1">
+<h1>Finalidad inmediata del instituto</h1>
+<p>La intervención judicial persigue evitar que el proceso principal pierda utilidad.</p>
+<p>Si el administrador continúa ejerciendo normalmente sus funciones durante varios años de litigio puede:</p>
+<ul>
+<li>celebrar nuevos contratos;</li>
+<li>disponer de bienes sociales;</li>
+<li>alterar la documentación;</li>
+<li>ocultar operaciones;</li>
+<li>profundizar el perjuicio denunciado.</li>
+</ul>
+<p>Cuando finalmente recaiga sentencia removiéndolo, esa decisión podría resultar prácticamente inútil.</p>
+<p>Por ello la medida cautelar no protege únicamente el patrimonio social.</p>
+<p>También protege:</p>
+<ul>
+<li>el normal funcionamiento de la sociedad;</li>
+<li>el ejercicio de los derechos políticos de los socios;</li>
+<li>la regularidad institucional del ente.</li>
+</ul>
+<p>Nissen destaca expresamente que el peligro grave no debe limitarse al patrimonio sino que comprende cualquier situación que comprometa el funcionamiento de la sociedad o vulnere derechos fundamentales del socio. :contentReference<span data-index="2">oaicite:2</span></p>
+</section>
+<section id="naturaleza-jurídica" class="slide level1">
+<h1>Naturaleza jurídica</h1>
+<p>Existe consenso doctrinario en considerar que la intervención judicial posee naturaleza cautelar.</p>
+<p>Ello implica varias consecuencias jurídicas.</p>
+<p>Primero.</p>
+<p>No decide definitivamente el conflicto.</p>
+<p>Segundo.</p>
+<p>Subsiste únicamente mientras resulte necesaria.</p>
+<p>Tercero.</p>
+<p>Debe fundarse en una situación de urgencia.</p>
+<p>Cuarto.</p>
+<p>Debe existir una acción principal cuya eficacia pretende asegurar.</p>
+<p>Gebhardt explica que la medida posee carácter asegurativo.</p>
+<p>Su finalidad consiste en evitar que la sentencia que eventualmente remueva al administrador llegue cuando los socios ya hayan sufrido el perjuicio cuya prevención justificó el proceso.</p>
+<p>En otras palabras:</p>
+<p>la intervención no reemplaza la sentencia.</p>
+<p>Hace posible que la sentencia conserve utilidad práctica. :contentReference<span data-index="3">oaicite:3</span></p>
+</section>
+<section id="carácter-excepcional" class="slide level1">
+<h1>Carácter excepcional</h1>
+<p>Los tres autores coinciden en que la intervención judicial constituye un instituto excepcional.</p>
+<p>La administración corresponde naturalmente a los órganos previstos por el contrato social.</p>
+<p>No al juez.</p>
+<p>La intervención supone que un órgano estatal penetre transitoriamente en el funcionamiento interno de una persona jurídica privada.</p>
+<p>Esa circunstancia explica que la ley exija requisitos especialmente rigurosos para su procedencia.</p>
+<p>Ahora bien, a partir de este punto aparecen diferencias doctrinarias.</p>
+<p>Gebhardt acepta que el carácter excepcional justifica una apreciación particularmente prudente del instituto.</p>
+<p>Vitolo también reconoce esa excepcionalidad, aunque critica los excesos jurisprudenciales.</p>
+<p>Nissen adopta una posición mucho más crítica.</p>
+<p>Entiende que el denominado “criterio restrictivo” previsto por el art. 114 ha generado una indebida resistencia judicial para utilizar un instrumento que muchas veces constituye el único medio eficaz para proteger a la sociedad frente a administradores infieles.</p>
+</section>
+<section class="slide level1">
+
+</section>
+<section id="la-intervención-judicial-y-la-acción-de-remoción" class="slide level1">
+<h1>La intervención judicial y la acción de remoción</h1>
+<p>Uno de los aspectos más importantes del régimen consiste en comprender que la intervención judicial no constituye, como regla, una acción autónoma.</p>
+<p>El proceso principal es la <strong>acción de remoción del administrador</strong>.</p>
+<p>La intervención aparece únicamente para asegurar que esa acción conserve eficacia durante su tramitación.</p>
+<p>El legislador parte de una idea sencilla.</p>
+<p>Si quien administra continúa ejerciendo plenamente sus facultades mientras se desarrolla el proceso de remoción, puede producirse exactamente aquello que el actor pretende evitar:</p>
+<ul>
+<li>agravamiento del perjuicio;</li>
+<li>desaparición de documentación;</li>
+<li>ocultamiento de pruebas;</li>
+<li>celebración de nuevos actos dañosos;</li>
+<li>frustración del funcionamiento normal de la sociedad.</li>
+</ul>
+<p>Por ello la intervención judicial no constituye el objeto principal del litigio.</p>
+<p>Constituye la tutela cautelar del objeto principal.</p>
+<p>Los tres autores coinciden en este punto.</p>
+<p>Nissen afirma expresamente que la demanda de remoción constituye un trámite esencial para solicitar la intervención judicial, pues esta última apunta únicamente al reemplazo temporario del órgano de administración mientras se sustancia el proceso principal. :contentReference<span data-index="0">oaicite:0</span></p>
+<p>Vitolo desarrolla la misma idea señalando que la accesoriedad no deriva simplemente de la naturaleza cautelar de la medida, sino de la imposibilidad jurídica de solicitarla autónomamente. La acción de remoción constituye el verdadero proceso de conocimiento; la intervención sólo preserva la eficacia de la futura sentencia. :contentReference<span data-index="1">oaicite:1</span></p>
+</section>
+<section id="la-intervención-judicial-siempre-requiere-una-acción-de-remoción" class="slide level1">
+<h1>¿La intervención judicial siempre requiere una acción de remoción?</h1>
+<p>Aquí aparece uno de los aportes doctrinarios más interesantes.</p>
+<p>La respuesta legal parecería ser afirmativa.</p>
+<p>Sin embargo, tanto Nissen como Vitolo sostienen que existen situaciones excepcionales en las cuales la intervención judicial resulta procedente aun sin la promoción previa de la acción de remoción.</p>
+<p>No porque desaparezca su naturaleza cautelar.</p>
+<p>Sino porque el problema deja de ser la permanencia del administrador y pasa a ser la supervivencia misma de la sociedad.</p>
+<p>Los ejemplos más importantes son:</p>
+<ul>
+<li>acefalía absoluta del órgano de administración;</li>
+<li>desaparición total de los administradores;</li>
+<li>fallecimiento simultáneo de quienes administraban;</li>
+<li>imposibilidad material de funcionamiento de los órganos sociales.</li>
+</ul>
+<p>En esos casos ya no existe un administrador cuya remoción pueda perseguirse.</p>
+<p>Sin embargo, la sociedad continúa necesitando un órgano que la represente para evitar su paralización.</p>
+<p>Nissen sostiene que, frente a estos supuestos extraordinarios, la jurisprudencia ha admitido la intervención como medida autosatisfactiva. :contentReference<span data-index="2">oaicite:2</span></p>
+<p>Vitolo arriba a idéntica conclusión al analizar los supuestos de vacancia total de la administración y de la fiscalización. :contentReference<span data-index="3">oaicite:3</span></p>
+</section>
+<section id="la-lógica-del-procedimiento" class="slide level1">
+<h1>La lógica del procedimiento</h1>
+<p>El procedimiento previsto por los arts. 113 y siguientes responde a una secuencia lógica.</p>
+<p>No comienza con el pedido cautelar.</p>
+<p>Comienza mucho antes.</p>
+<p>El legislador procura evitar que todo conflicto societario termine inmediatamente judicializado.</p>
+<p>Por ello exige que el socio recurra previamente a los mecanismos internos de solución previstos por la ley y por el contrato.</p>
+<p>Sólo cuando esos mecanismos fracasan aparece la jurisdicción.</p>
+<p>La secuencia normal es la siguiente.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource text number-lines code-with-copy"><code class="sourceCode"><span id="cb1-1"><a></a>Conflicto societario</span>
+<span id="cb1-2"><a></a></span>
+<span id="cb1-3"><a></a>        │</span>
+<span id="cb1-4"><a></a>        ▼</span>
+<span id="cb1-5"><a></a></span>
+<span id="cb1-6"><a></a>Actos u omisiones del administrador</span>
+<span id="cb1-7"><a></a></span>
+<span id="cb1-8"><a></a>        │</span>
+<span id="cb1-9"><a></a>        ▼</span>
+<span id="cb1-10"><a></a></span>
+<span id="cb1-11"><a></a>Utilización de los remedios internos</span>
+<span id="cb1-12"><a></a></span>
+<span id="cb1-13"><a></a>        │</span>
+<span id="cb1-14"><a></a>        ▼</span>
+<span id="cb1-15"><a></a></span>
+<span id="cb1-16"><a></a>Persistencia del peligro grave</span>
+<span id="cb1-17"><a></a></span>
+<span id="cb1-18"><a></a>        │</span>
+<span id="cb1-19"><a></a>        ▼</span>
+<span id="cb1-20"><a></a></span>
+<span id="cb1-21"><a></a>Promoción de la acción de remoción</span>
+<span id="cb1-22"><a></a></span>
+<span id="cb1-23"><a></a>        │</span>
+<span id="cb1-24"><a></a>        ▼</span>
+<span id="cb1-25"><a></a></span>
+<span id="cb1-26"><a></a>Pedido cautelar de intervención</span>
+<span id="cb1-27"><a></a></span>
+<span id="cb1-28"><a></a>        │</span>
+<span id="cb1-29"><a></a>        ▼</span>
+<span id="cb1-30"><a></a></span>
+<span id="cb1-31"><a></a>Resolución judicial</span>
+<span id="cb1-32"><a></a></span>
+<span id="cb1-33"><a></a>        │</span>
+<span id="cb1-34"><a></a>        ▼</span>
+<span id="cb1-35"><a></a></span>
+<span id="cb1-36"><a></a>Designación del tipo de intervención</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
+<p>La intervención judicial constituye, por lo tanto, el último eslabón de una cadena de mecanismos de protección.</p>
+</section>
+<section id="primer-requisito-legitimación-activa" class="slide level1">
+<h1>Primer requisito: legitimación activa</h1>
+<p>La ley comienza delimitando quién puede pedir una medida tan intensa.</p>
+<p>No cualquier tercero.</p>
+<p>No cualquier acreedor.</p>
+<p>No cualquier interesado.</p>
+<p>Como regla general, el art. 114 exige acreditar la calidad de socio.</p>
+<p>La razón es evidente.</p>
+<p>La intervención importa una profunda injerencia en el funcionamiento de una persona jurídica privada.</p>
+<p>Sólo quien posee un interés societario directo puede solicitar semejante medida.</p>
+<p>Nissen observa que esta solución legal resulta insuficiente.</p>
+<p>Considera que también debería encontrarse legitimada la sindicatura cuando advierta maniobras gravemente perjudiciales para el patrimonio social.</p>
+<p>Incluso sostiene que, tratándose de sociedades unipersonales, el síndico debería tener el deber de solicitar judicialmente la intervención frente a administraciones fraudulentas del socio único. :contentReference<span data-index="4">oaicite:4</span></p>
+</section>
+<section id="la-posición-de-vitolo-sobre-la-legitimación" class="slide level1">
+<h1>La posición de Vitolo sobre la legitimación</h1>
+<p>Vitolo desarrolla la cuestión con mayor amplitud.</p>
+<p>Distingue diversos sujetos legitimados.</p>
+<h2 id="a-los-socios">a) Los socios</h2>
+<p>Constituyen el legitimado natural.</p>
+<p>Deben acreditar su calidad de tales conforme al tipo societario correspondiente.</p>
+<p>En las sociedades regularmente constituidas ello normalmente no ofrece dificultades.</p>
+<p>En las sociedades de hecho o irregulares podrá acreditarse por cualquier medio probatorio admitido por el derecho común. :contentReference<span data-index="5">oaicite:5</span></p>
+</section>
+<section id="puede-solicitarla-la-sindicatura" class="slide level1">
+<h1>¿Puede solicitarla la sindicatura?</h1>
+<p>La respuesta legal no es sencilla.</p>
+<p>El art. 114 no menciona al síndico.</p>
+<p>Sin embargo, Vitolo entiende que no debe descartarse totalmente su legitimación.</p>
+<p>Mientras la administración funcione normalmente, el síndico no reemplaza a los socios.</p>
+<p>Pero cuando existe:</p>
+<ul>
+<li>vacancia absoluta;</li>
+<li>imposibilidad de funcionamiento;</li>
+<li>ausencia de administradores;</li>
+<li>incapacidad;</li>
+<li>fallecimiento;</li>
+<li>paralización de los órganos sociales,</li>
+</ul>
+<p>la sindicatura puede encontrarse obligada a actuar para evitar la desaparición práctica de la sociedad.</p>
+<p>Vitolo fundamenta esta solución en las funciones institucionales del órgano de fiscalización y en el art. 258 LGS, que le reconoce determinadas atribuciones frente a la vacancia administrativa. :contentReference<span data-index="6">oaicite:6</span></p>
+<p>Nissen arriba prácticamente a la misma conclusión, aunque desde una perspectiva crítica respecto del texto legal. :contentReference<span data-index="7">oaicite:7</span></p>
+</section>
+<section id="la-legitimación-de-la-autoridad-de-contralor" class="slide level1">
+<h1>La legitimación de la autoridad de contralor</h1>
+<p>Existe un segundo supuesto legal.</p>
+<p>La intervención también puede ser promovida por la autoridad estatal de fiscalización.</p>
+<p>Aquí cambia completamente el fundamento.</p>
+<p>Ya no se tutela exclusivamente el interés social.</p>
+<p>Se protege el interés público.</p>
+<p>Por ello el art. 303 LGS autoriza a la autoridad de control a solicitar judicialmente la intervención de determinadas sociedades cuando existan resoluciones violatorias de la ley, del estatuto o del interés público.</p>
+<p>Especialmente:</p>
+<ul>
+<li>sociedades comprendidas en el régimen del art. 299;</li>
+<li>sociedades con oferta pública;</li>
+<li>entidades que captan ahorro público;</li>
+<li>sociedades sometidas a fiscalización permanente.</li>
+</ul>
+<p>Vitolo destaca que, en estos casos, la intervención no procura únicamente preservar a los socios.</p>
+<p>Procura también preservar la confianza del público y la regularidad del mercado. :contentReference<span data-index="8">oaicite:8</span></p>
+<p>Gebhardt coincide en que la autoridad administrativa nunca puede intervenir directamente una sociedad.</p>
+<p>Sólo puede requerir que lo haga el Poder Judicial, respetando la división constitucional de poderes.</p>
+</section>
+<section id="segundo-requisito-la-existencia-de-peligro-grave" class="slide level1">
+<h1>Segundo requisito: la existencia de peligro grave</h1>
+<p>No alcanza con demostrar que existe un conflicto societario.</p>
+<p>Tampoco basta acreditar diferencias personales entre socios.</p>
+<p>Ni siquiera resulta suficiente probar la existencia de irregularidades administrativas.</p>
+<p>La ley exige algo más.</p>
+<p>Exige que tales actos u omisiones coloquen a la sociedad en una situación de <strong>peligro grave</strong>.</p>
+<p>Este requisito constituye el verdadero eje del instituto.</p>
+<p>La intervención judicial sólo se justifica cuando la permanencia del administrador durante el trámite del proceso puede ocasionar un perjuicio de entidad suficiente para tornar ilusoria la futura sentencia de remoción.</p>
+<p>Por esa razón el juez no analiza únicamente la ilegalidad de la conducta.</p>
+<p>Analiza, sobre todo, la intensidad del riesgo que dicha conducta proyecta sobre la vida de la sociedad.</p>
+<p>:contentReference<span data-index="0">oaicite:0</span></p>
+</section>
+<section id="qué-significa-peligro-grave" class="slide level1">
+<h1>¿Qué significa “peligro grave”?</h1>
+<p>La expresión utilizada por el art. 113 es deliberadamente amplia.</p>
+<p>No existe una enumeración legal de conductas.</p>
+<p>La valoración queda librada al juez.</p>
+<p>Sin embargo, la doctrina ha construido algunos criterios relativamente estables.</p>
+<p>No cualquier incumplimiento configura peligro grave.</p>
+<p>Debe tratarse de una situación capaz de comprometer seriamente:</p>
+<ul>
+<li>el patrimonio social;</li>
+<li>el funcionamiento de la administración;</li>
+<li>la regularidad institucional;</li>
+<li>los derechos esenciales de los socios.</li>
+</ul>
+<p>Nissen critica las interpretaciones excesivamente patrimonialistas.</p>
+<p>Sostiene que el peligro grave no debe limitarse al riesgo económico.</p>
+<p>También comprende toda afectación relevante del funcionamiento de la sociedad o de los derechos fundamentales de los socios.</p>
+<p>En otras palabras, una sociedad puede encontrarse en peligro aun cuando su patrimonio permanezca intacto.</p>
+<p>:contentReference<span data-index="1">oaicite:1</span></p>
+</section>
+<section id="la-ampliación-del-concepto-realizada-por-vitolo" class="slide level1">
+<h1>La ampliación del concepto realizada por Vitolo</h1>
+<p>Vitolo desarrolla todavía más esta idea.</p>
+<p>A su juicio, la finalidad del instituto no consiste exclusivamente en evitar pérdidas patrimoniales.</p>
+<p>La protección comprende también la preservación del correcto funcionamiento de los órganos sociales.</p>
+<p>Por ello sostiene que pueden justificar la intervención situaciones como:</p>
+<ul>
+<li>frustración permanente de los derechos políticos de la minoría;</li>
+<li>utilización abusiva de las mayorías;</li>
+<li>paralización deliberada de los órganos sociales;</li>
+<li>exclusión sistemática de determinados socios del funcionamiento societario.</li>
+</ul>
+<p>La lesión puede recaer directamente sobre los derechos societarios sin que exista todavía un daño económico inmediato.</p>
+<p>Esperar a que aparezca el perjuicio patrimonial equivaldría, muchas veces, a tornar inútil la tutela cautelar.</p>
+<p>:contentReference<span data-index="2">oaicite:2</span></p>
+</section>
+<section id="la-diferencia-entre-ilegalidad-y-peligro" class="slide level1">
+<h1>La diferencia entre ilegalidad y peligro</h1>
+<p>Es importante distinguir dos conceptos que frecuentemente aparecen confundidos.</p>
+<p>No toda ilegalidad produce peligro grave.</p>
+<p>Y no todo peligro grave deriva necesariamente de una conducta manifiestamente ilícita.</p>
+<p>Puede existir una administración técnicamente válida pero absolutamente paralizada.</p>
+<p>Puede existir una administración incapaz de adoptar decisiones esenciales.</p>
+<p>Puede existir una acefalía completa.</p>
+<p>En esos supuestos el problema no consiste tanto en la ilicitud de los actos como en la imposibilidad práctica de funcionamiento de la sociedad.</p>
+<p>Por ello la intervención judicial no constituye un mecanismo sancionatorio.</p>
+<p>Constituye un instrumento preventivo.</p>
+<p>Su finalidad consiste en impedir que la situación existente continúe agravándose.</p>
+</section>
+<section id="casos-que-la-jurisprudencia-ha-considerado-configurativos-del-peligro-grave" class="slide level1">
+<h1>Casos que la jurisprudencia ha considerado configurativos del peligro grave</h1>
+<p>Nissen realiza una extensa recopilación jurisprudencial particularmente útil para comprender cómo ha sido interpretado el instituto.</p>
+<p>Los tribunales han admitido la intervención, entre otros supuestos, cuando existía:</p>
+<ul>
+<li>condena penal de los administradores;</li>
+<li>enfrentamiento irreconciliable entre dos grupos titulares del 50 % del capital;</li>
+<li>abandono de la administración;</li>
+<li>subfacturación sistemática;</li>
+<li>confección de balances falsos;</li>
+<li>retención indebida de acciones para impedir el ejercicio de derechos políticos;</li>
+<li>administración de hecho ejercida por quien desplazó al órgano regularmente constituido;</li>
+<li>enajenación de bienes sociales a precio vil;</li>
+<li>incumplimiento deliberado de decisiones asamblearias;</li>
+<li>desaparición de libros sociales;</li>
+<li>grave atraso de la contabilidad;</li>
+<li>existencia simultánea de dos órganos de administración enfrentados entre sí.</li>
+</ul>
+<p>Obsérvese que muchas de estas situaciones no implican todavía un daño económico consumado.</p>
+<p>Lo determinante es el riesgo cierto que proyectan sobre la continuidad y regularidad del funcionamiento societario.</p>
+<p>:contentReference<span data-index="3">oaicite:3</span></p>
+</section>
+<section id="tercer-requisito-agotamiento-de-los-remedios-internos" class="slide level1">
+<h1>Tercer requisito: agotamiento de los remedios internos</h1>
+<p>Probablemente éste sea el requisito que mejor refleja el carácter excepcional del instituto.</p>
+<p>La ley no autoriza al socio a acudir inmediatamente al juez.</p>
+<p>Antes debe intentar solucionar el conflicto dentro de la propia organización societaria.</p>
+<p>La intervención judicial aparece únicamente cuando esos mecanismos han fracasado.</p>
+<p>La lógica es sencilla.</p>
+<p>Mientras la sociedad pueda resolver el problema utilizando sus propios órganos, el Poder Judicial debe permanecer al margen.</p>
+<p>Sólo cuando el funcionamiento interno demuestra ser insuficiente para corregir la situación resulta legítima la intervención jurisdiccional.</p>
+</section>
+<section id="qué-significa-agotar-los-remedios-internos" class="slide level1">
+<h1>¿Qué significa agotar los remedios internos?</h1>
+<p>No existe una fórmula única.</p>
+<p>Dependerá del tipo societario y del conflicto planteado.</p>
+<p>Sin embargo, Nissen identifica como ejemplos típicos:</p>
+<ul>
+<li>formular denuncias ante la sindicatura;</li>
+<li>requerir la convocatoria de la asamblea;</li>
+<li>utilizar los mecanismos previstos por el contrato social;</li>
+<li>intentar que los propios órganos sociales remuevan al administrador cuestionado.</li>
+</ul>
+<p>La idea central consiste en demostrar que el conflicto fue planteado institucionalmente y que esos mecanismos resultaron ineficaces.</p>
+<p>Sólo entonces queda habilitada la tutela cautelar.</p>
+<p>:contentReference<span data-index="4">oaicite:4</span></p>
+</section>
+<section id="la-explicación-de-vitolo" class="slide level1">
+<h1>La explicación de Vitolo</h1>
+<p>Vitolo desarrolla este requisito desde una perspectiva funcional.</p>
+<p>Afirma que la intervención judicial constituye <strong>el último recurso</strong> del socio.</p>
+<p>No el primero.</p>
+<p>El socio debe demostrar que intentó impedir la continuación del acto dañoso utilizando las herramientas previstas por la ley y por el contrato.</p>
+<p>La intervención sólo aparece cuando esas herramientas ya no permiten evitar el perjuicio.</p>
+<p>En consecuencia, el proceso judicial no sustituye el funcionamiento de la sociedad.</p>
+<p>Lo presupone.</p>
+<p>Y sólo interviene cuando dicho funcionamiento ha fracasado.</p>
+<p>:contentReference<span data-index="5">oaicite:5</span></p>
+</section>
+<section id="la-flexibilización-jurisprudencial" class="slide level1">
+<h1>La flexibilización jurisprudencial</h1>
+<p>La exigencia de agotar los remedios internos no posee carácter absoluto.</p>
+<p>La propia jurisprudencia ha comprendido que, en determinados supuestos, exigir ese requisito implicaría privar completamente al socio de tutela judicial.</p>
+<p>Nissen menciona dos situaciones paradigmáticas.</p>
+<p>La primera.</p>
+<p>Cuando el accionista carece del porcentaje accionario necesario para convocar la asamblea.</p>
+<p>La segunda.</p>
+<p>Cuando tampoco reúne la participación mínima exigida para requerir la actuación de la sindicatura.</p>
+<p>En tales hipótesis, exigir el agotamiento previo equivaldría a imponer un requisito imposible de cumplir.</p>
+<p>Por ello los tribunales han admitido directamente la intervención judicial.</p>
+<p>:contentReference<span data-index="6">oaicite:6</span></p>
+</section>
+<section id="la-posición-de-vitolo-sobre-la-flexibilización" class="slide level1">
+<h1>La posición de Vitolo sobre la flexibilización</h1>
+<p>Vitolo comparte esa solución.</p>
+<p>Explica que el agotamiento de los remedios internos deja de ser exigible cuando la participación del socio torna manifiestamente inútil cualquier intento de obtener una decisión favorable dentro de la sociedad.</p>
+<p>No tendría sentido exigir:</p>
+<ul>
+<li>convocatoria de una asamblea imposible de obtener;</li>
+<li>votaciones inevitablemente perdidas;</li>
+<li>intimaciones destinadas al fracaso.</li>
+</ul>
+<p>La ley no puede imponer actos inútiles.</p>
+<p>Por ello corresponde analizar cada caso concreto.</p>
+<p>La verdadera finalidad del requisito consiste en impedir la judicialización prematura de conflictos societarios.</p>
+<p>No en impedir el acceso a la tutela judicial efectiva.</p>
+<p>:contentReference<span data-index="7">oaicite:7</span></p>
+</section>
+<section id="el-procedimiento-hasta-este-momento" class="slide level1">
+<h1>El procedimiento hasta este momento</h1>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode numberSource text number-lines code-with-copy"><code class="sourceCode"><span id="cb2-1"><a></a>Administración irregular</span>
+<span id="cb2-2"><a></a></span>
+<span id="cb2-3"><a></a>        │</span>
+<span id="cb2-4"><a></a>        ▼</span>
+<span id="cb2-5"><a></a></span>
+<span id="cb2-6"><a></a>Existencia de peligro grave</span>
+<span id="cb2-7"><a></a></span>
+<span id="cb2-8"><a></a>        │</span>
+<span id="cb2-9"><a></a>        ▼</span>
+<span id="cb2-10"><a></a></span>
+<span id="cb2-11"><a></a>Intento de solución mediante</span>
+<span id="cb2-12"><a></a>los órganos societarios</span>
+<span id="cb2-13"><a></a></span>
+<span id="cb2-14"><a></a>        │</span>
+<span id="cb2-15"><a></a>        ▼</span>
+<span id="cb2-16"><a></a></span>
+<span id="cb2-17"><a></a>Fracaso de los remedios internos</span>
+<span id="cb2-18"><a></a></span>
+<span id="cb2-19"><a></a>        │</span>
+<span id="cb2-20"><a></a>        ▼</span>
+<span id="cb2-21"><a></a></span>
+<span id="cb2-22"><a></a>Acción judicial de remoción</span>
+<span id="cb2-23"><a></a></span>
+<span id="cb2-24"><a></a>        │</span>
+<span id="cb2-25"><a></a>        ▼</span>
+<span id="cb2-26"><a></a></span>
+<span id="cb2-27"><a></a>Solicitud cautelar</span>
+<span id="cb2-28"><a></a>de intervención</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Hasta aquí todavía no existe intervención.</p>
+<p>Recién una vez acreditados estos presupuestos el juez pasa a examinar:</p>
+<ul>
+<li>la verosimilitud del derecho;</li>
+<li>el peligro en la demora;</li>
+<li>la clase de intervención adecuada;</li>
+<li>la contracautela;</li>
+<li>el alcance concreto de las facultades del interventor.</li>
+</ul>
+</section>
+<section class="slide level1">
+
+</section>
+<section id="la-decisión-judicial" class="slide level1">
+<h1>La decisión judicial</h1>
+<p>Superada la etapa relativa a la legitimación, la existencia de peligro grave y el agotamiento de los remedios internos, el juez debe resolver si corresponde intervenir la administración de la sociedad.</p>
+<p>Esta decisión no se limita a responder “sí” o “no”.</p>
+<p>Existe una segunda cuestión, muchas veces más importante.</p>
+<p>En caso de admitir la medida:</p>
+<p><strong>¿con qué intensidad debe intervenirse la administración?</strong></p>
+<p>La respuesta surge del art. 115 LGS.</p>
+<p>La ley no establece una única modalidad de intervención.</p>
+<p>Prevé una verdadera graduación de la injerencia judicial.</p>
+<p>El principio que inspira todo el sistema puede resumirse del siguiente modo:</p>
+<blockquote>
+<p>el juez debe escoger siempre la medida menos invasiva que resulte suficiente para neutralizar el peligro acreditado.</p>
+</blockquote>
+<p>Esta idea atraviesa las tres obras.</p>
+<p>La intervención nunca constituye un castigo para el administrador.</p>
+<p>Es una medida funcional destinada exclusivamente a eliminar el riesgo mientras tramita el proceso principal.</p>
+<p>:contentReference<span data-index="0">oaicite:0</span> :contentReference<span data-index="1">oaicite:1</span></p>
+</section>
+<section id="el-principio-de-proporcionalidad" class="slide level1">
+<h1>El principio de proporcionalidad</h1>
+<p>La intensidad de la intervención debe guardar relación con la gravedad de los hechos acreditados.</p>
+<p>No sería razonable desplazar completamente a un directorio cuando el único problema consiste en obtener determinada información contable.</p>
+<p>Tampoco sería suficiente limitarse a designar un veedor cuando existen maniobras fraudulentas que exigen impedir inmediatamente que el administrador continúe disponiendo del patrimonio social.</p>
+<p>Por ello la ley estructura una escala de intervención creciente.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode numberSource text number-lines code-with-copy"><code class="sourceCode"><span id="cb3-1"><a></a>Menor intensidad</span>
+<span id="cb3-2"><a></a>        │</span>
+<span id="cb3-3"><a></a>        ▼</span>
+<span id="cb3-4"><a></a></span>
+<span id="cb3-5"><a></a>Veedor</span>
+<span id="cb3-6"><a></a></span>
+<span id="cb3-7"><a></a>        │</span>
+<span id="cb3-8"><a></a></span>
+<span id="cb3-9"><a></a>Coadministrador</span>
+<span id="cb3-10"><a></a></span>
+<span id="cb3-11"><a></a>        │</span>
+<span id="cb3-12"><a></a></span>
+<span id="cb3-13"><a></a>Administrador judicial</span>
+<span id="cb3-14"><a></a></span>
+<span id="cb3-15"><a></a>        ▼</span>
+<span id="cb3-16"><a></a>Mayor intensidad</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Cada escalón implica una restricción mayor sobre las facultades del órgano natural de administración.</p>
+</section>
+<section id="el-veedor" class="slide level1">
+<h1>El veedor</h1>
+<p>El veedor constituye la forma menos intensa de intervención.</p>
+<p>No administra.</p>
+<p>No representa a la sociedad.</p>
+<p>No reemplaza a los administradores.</p>
+<p>Su función consiste únicamente en observar, investigar e informar.</p>
+<p>Es, por decirlo de alguna manera, los “ojos del juez” dentro de la sociedad.</p>
+<p>La administración continúa funcionando normalmente.</p>
+<p>Los administradores conservan todas sus atribuciones.</p>
+<p>Lo único que cambia es que un funcionario judicial controla determinadas actividades y comunica sus conclusiones al tribunal.</p>
+<p>Por ello suele afirmarse que la veeduría constituye una intervención <strong>informativa</strong>, no <strong>administrativa</strong>.</p>
+</section>
+<section id="cuándo-corresponde-designar-un-veedor" class="slide level1">
+<h1>¿Cuándo corresponde designar un veedor?</h1>
+<p>Los tres autores coinciden en que la veeduría resulta adecuada cuando todavía existen dudas acerca de la verdadera magnitud de las irregularidades denunciadas.</p>
+<p>Gebhardt explica que el juez puede optar por esta solución cuando aún no existe suficiente certeza sobre la verosimilitud del derecho o sobre la gravedad de los hechos invocados.</p>
+<p>Antes de desplazar administradores legítimamente designados, resulta prudente obtener una visión objetiva del funcionamiento societario.</p>
+<p>El veedor cumple precisamente esa finalidad.</p>
+<p>:contentReference<span data-index="2">oaicite:2</span></p>
+</section>
+<section id="supuestos-típicos-de-veeduría" class="slide level1">
+<h1>Supuestos típicos de veeduría</h1>
+<p>Nissen identifica algunos casos en los cuales la jurisprudencia ha recurrido habitualmente a esta modalidad.</p>
+<p>Entre ellos:</p>
+<ul>
+<li>negativa sistemática de información al socio;</li>
+<li>irregularidades contables;</li>
+<li>atraso significativo de la contabilidad;</li>
+<li>necesidad de verificar determinadas operaciones;</li>
+<li>necesidad de conocer la verdadera situación económica de la sociedad;</li>
+<li>investigación de hechos específicos denunciados por el actor.</li>
+</ul>
+<p>En todos estos supuestos el problema principal consiste en conocer qué está ocurriendo realmente dentro de la sociedad.</p>
+<p>Todavía no aparece acreditada una situación que justifique el desplazamiento del órgano de administración.</p>
+<p>Por ello el juez comienza con la medida menos intensa.</p>
+<p>:contentReference<span data-index="3">oaicite:3</span></p>
+</section>
+<section id="facultades-del-veedor" class="slide level1">
+<h1>Facultades del veedor</h1>
+<p>Las facultades del veedor dependen exclusivamente de la resolución judicial que lo designa.</p>
+<p>No existe un catálogo legal.</p>
+<p>El juez debe delimitarlas expresamente.</p>
+<p>Generalmente comprenderán:</p>
+<ul>
+<li>examinar documentación;</li>
+<li>asistir a reuniones del directorio o de la gerencia;</li>
+<li>controlar determinadas operaciones;</li>
+<li>requerir información;</li>
+<li>inspeccionar libros y registros;</li>
+<li>producir informes periódicos.</li>
+</ul>
+<p>Lo que nunca hace el veedor es sustituir la voluntad del órgano de administración.</p>
+<p>No vota.</p>
+<p>No representa a la sociedad.</p>
+<p>No celebra contratos.</p>
+<p>No obliga jurídicamente al ente.</p>
+<p>Su función termina donde comienza la administración.</p>
+</section>
+<section id="el-informe-del-veedor" class="slide level1">
+<h1>El informe del veedor</h1>
+<p>El informe constituye el verdadero producto de la actuación del veedor.</p>
+<p>Ese informe puede conducir a tres escenarios diferentes.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode numberSource text number-lines code-with-copy"><code class="sourceCode"><span id="cb4-1"><a></a>Informe favorable</span>
+<span id="cb4-2"><a></a></span>
+<span id="cb4-3"><a></a>        │</span>
+<span id="cb4-4"><a></a></span>
+<span id="cb4-5"><a></a>No existen irregularidades</span>
+<span id="cb4-6"><a></a>↓</span>
+<span id="cb4-7"><a></a>Se levanta la medida</span>
+<span id="cb4-8"><a></a></span>
+<span id="cb4-9"><a></a></span>
+<span id="cb4-10"><a></a>Informe parcialmente favorable</span>
+<span id="cb4-11"><a></a></span>
+<span id="cb4-12"><a></a>        │</span>
+<span id="cb4-13"><a></a></span>
+<span id="cb4-14"><a></a>Persisten dudas</span>
+<span id="cb4-15"><a></a>↓</span>
+<span id="cb4-16"><a></a>Continúa la veeduría</span>
+<span id="cb4-17"><a></a></span>
+<span id="cb4-18"><a></a></span>
+<span id="cb4-19"><a></a>Informe desfavorable</span>
+<span id="cb4-20"><a></a></span>
+<span id="cb4-21"><a></a>        │</span>
+<span id="cb4-22"><a></a></span>
+<span id="cb4-23"><a></a>Se verifican irregularidades graves</span>
+<span id="cb4-24"><a></a>↓</span>
+<span id="cb4-25"><a></a>Puede disponerse una</span>
+<span id="cb4-26"><a></a>coadministración o una</span>
+<span id="cb4-27"><a></a>administración judicial</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
+<p>La veeduría funciona muchas veces como una etapa previa a una intervención más intensa.</p>
+</section>
+<section id="el-coadministrador" class="slide level1">
+<h1>El coadministrador</h1>
+<p>La segunda modalidad prevista por el art. 115 consiste en la designación de un coadministrador.</p>
+<p>Aquí la situación cambia sustancialmente.</p>
+<p>El órgano natural de administración continúa existiendo.</p>
+<p>No es desplazado.</p>
+<p>Pero deja de administrar solo.</p>
+<p>A partir de ese momento la gestión pasa a desarrollarse conjuntamente con el funcionario judicial.</p>
+<p>Existe, entonces, una verdadera administración compartida.</p>
+</section>
+<section id="naturaleza-de-la-coadministración" class="slide level1">
+<h1>Naturaleza de la coadministración</h1>
+<p>La coadministración no implica vigilancia.</p>
+<p>Implica gestión.</p>
+<p>El coadministrador participa activamente en la administración de la sociedad.</p>
+<p>Vitolo explica que el órgano natural continúa ejerciendo sus funciones, pero ya no puede actuar aisladamente.</p>
+<p>En determinados actos será necesaria la intervención del funcionario judicial.</p>
+<p>Incluso podrá requerirse su consentimiento para obligar válidamente a la sociedad.</p>
+<p>La administración deja de ser exclusiva del órgano estatutario para convertirse en una administración conjunta.</p>
+<p>:contentReference<span data-index="4">oaicite:4</span></p>
+</section>
+<section id="cuándo-corresponde-la-coadministración" class="slide level1">
+<h1>¿Cuándo corresponde la coadministración?</h1>
+<p>La coadministración constituye una solución intermedia.</p>
+<p>Procede cuando:</p>
+<ul>
+<li>las irregularidades aparecen suficientemente acreditadas;</li>
+<li>el riesgo es importante;</li>
+<li>pero todavía no resulta imprescindible desplazar completamente a los administradores.</li>
+</ul>
+<p>Vitolo ofrece un ejemplo particularmente ilustrativo.</p>
+<p>La designación del coadministrador resulta adecuada cuando los derechos de la minoría han sido seriamente afectados, aunque el patrimonio social todavía no aparezca comprometido.</p>
+<p>En esos casos el desplazamiento total podría resultar excesivo.</p>
+<p>Pero la mera vigilancia también sería insuficiente.</p>
+<p>La solución razonable consiste en compartir la administración.</p>
+<p>:contentReference<span data-index="5">oaicite:5</span></p>
+</section>
+<section id="el-administrador-judicial" class="slide level1">
+<h1>El administrador judicial</h1>
+<p>La tercera modalidad constituye la máxima intensidad de intervención prevista por la ley.</p>
+<p>Aquí desaparece toda coexistencia.</p>
+<p>Los administradores naturales son desplazados.</p>
+<p>Quien pasa a ejercer efectivamente la administración es el administrador judicial designado por el juez.</p>
+<p>Nos encontramos frente a una sustitución provisoria del órgano de administración.</p>
+<p>No se trata simplemente de controlar.</p>
+<p>No se trata de acompañar.</p>
+<p>Se trata de reemplazar.</p>
+</section>
+<section id="cuándo-procede-el-desplazamiento-del-administrador" class="slide level1">
+<h1>¿Cuándo procede el desplazamiento del administrador?</h1>
+<p>La sustitución total constituye una medida extrema.</p>
+<p>Sólo procede cuando el juez considera que la permanencia de los administradores representa un peligro inmediato para la sociedad.</p>
+<p>Los tres autores utilizan expresiones semejantes.</p>
+<p>Debe existir una situación de excepcional gravedad.</p>
+<p>Vitolo menciona especialmente:</p>
+<ul>
+<li>maniobras fraudulentas;</li>
+<li>delitos cometidos en perjuicio de la sociedad;</li>
+<li>riesgo inmediato para el patrimonio social.</li>
+</ul>
+<p>En esos casos el interés protegido por la cautelar exige impedir que el administrador continúe actuando.</p>
+<p>:contentReference<span data-index="6">oaicite:6</span></p>
+</section>
+<section id="las-facultades-del-administrador-judicial" class="slide level1">
+<h1>Las facultades del administrador judicial</h1>
+<p>El administrador judicial asume exactamente las funciones que antes correspondían al órgano desplazado.</p>
+<p>No administra conforme a su propio criterio.</p>
+<p>Administra conforme:</p>
+<ul>
+<li>al contrato social;</li>
+<li>al estatuto;</li>
+<li>a la Ley General de Sociedades;</li>
+<li>y a las limitaciones fijadas por el juez.</li>
+</ul>
+<p>No se convierte en propietario de la empresa.</p>
+<p>No reemplaza a la asamblea.</p>
+<p>No altera la estructura orgánica de la sociedad.</p>
+<p>Simplemente ocupa, de manera transitoria, el lugar del administrador cuya continuidad fue considerada incompatible con la preservación del interés social.</p>
+</section>
+<section id="el-deber-del-juez-de-precisar-las-facultades" class="slide level1">
+<h1>El deber del juez de precisar las facultades</h1>
+<p>Existe un aspecto sobre el cual los tres autores insisten particularmente.</p>
+<p>El juez no puede limitarse a decir:</p>
+<blockquote>
+<p>“desígnase interventor”.</p>
+</blockquote>
+<p>Debe definir con precisión:</p>
+<ul>
+<li>cuál es la modalidad elegida;</li>
+<li>cuáles son sus atribuciones;</li>
+<li>cuáles son sus límites;</li>
+<li>cuánto tiempo durará la medida.</li>
+</ul>
+<p>El art. 115 exige expresamente que la resolución judicial determine las facultades concretas del interventor y el plazo de actuación.</p>
+<p>Ello responde a la naturaleza excepcional del instituto.</p>
+<p>Cuanto más intensa resulta la injerencia estatal en la vida societaria, mayor debe ser la precisión con la cual se delimitan sus alcances.</p>
+</section>
+<section id="la-duración-de-la-intervención-judicial" class="slide level1">
+<h1>La duración de la intervención judicial</h1>
+<p>La intervención judicial no constituye una modificación permanente de la organización societaria.</p>
+<p>Su propia naturaleza cautelar impide conferirle estabilidad.</p>
+<p>Por ello el art. 115 LGS exige que, al decretar la medida, el juez determine expresamente el plazo durante el cual el interventor ejercerá sus funciones.</p>
+<p>La fijación del plazo no constituye un aspecto accesorio de la resolución.</p>
+<p>Es uno de sus elementos esenciales.</p>
+<p>La razón es sencilla.</p>
+<p>La intervención importa una alteración excepcional del funcionamiento de los órganos sociales.</p>
+<p>Esa alteración sólo puede mantenerse durante el tiempo estrictamente necesario para preservar la eficacia del proceso principal.</p>
+<p>La administración debe volver cuanto antes a sus órganos naturales.</p>
+<p>:contentReference<span data-index="0">oaicite:0</span></p>
+</section>
+<section id="puede-prorrogarse-la-intervención" class="slide level1">
+<h1>¿Puede prorrogarse la intervención?</h1>
+<p>La respuesta es afirmativa.</p>
+<p>Sin embargo, la prórroga no opera automáticamente.</p>
+<p>El juez no puede extender la medida por mera prudencia ni porque el juicio principal continúe pendiente.</p>
+<p>La prolongación exige una nueva valoración judicial.</p>
+<p>Gebhardt destaca que el art. 115 condiciona la prórroga a la realización de una información sumaria que permita verificar la persistencia de las circunstancias que justificaron originalmente la medida.</p>
+<p>La excepcionalidad del instituto obliga al juez a controlar periódicamente si continúa existiendo el peligro cuya neutralización motivó la intervención.</p>
+<p>La cautelar no puede transformarse en un régimen permanente de administración judicial.</p>
+<p>:contentReference<span data-index="1">oaicite:1</span></p>
+</section>
+<section id="el-principio-de-temporalidad" class="slide level1">
+<h1>El principio de temporalidad</h1>
+<p>La exigencia de fijar un plazo refleja un principio más amplio.</p>
+<p>Toda intervención judicial debe responder a una necesidad concreta, actual y transitoria.</p>
+<p>No existe en nuestro derecho la posibilidad de que una sociedad quede indefinidamente administrada por funcionarios judiciales.</p>
+<p>La administración judicial constituye un remedio de emergencia.</p>
+<p>No un nuevo sistema de gobierno societario.</p>
+<p>Por ello el juez debe revisar permanentemente:</p>
+<ul>
+<li>si persiste el peligro grave;</li>
+<li>si continúan verificándose los presupuestos de procedencia;</li>
+<li>si la intensidad de la medida sigue siendo proporcionada;</li>
+<li>o si corresponde reducirla o dejarla sin efecto.</li>
+</ul>
+</section>
+<section id="la-contracautela" class="slide level1">
+<h1>La contracautela</h1>
+<p>La intervención judicial constituye una medida cautelar.</p>
+<p>Como toda cautelar, puede ocasionar perjuicios si finalmente se demuestra que fue solicitada sin derecho.</p>
+<p>La sustitución o limitación de los administradores puede afectar:</p>
+<ul>
+<li>la marcha normal de los negocios;</li>
+<li>la imagen comercial de la empresa;</li>
+<li>la continuidad de determinadas operaciones;</li>
+<li>la confianza de clientes y proveedores.</li>
+</ul>
+<p>Por ello el art. 116 impone al solicitante la obligación de prestar contracautela.</p>
+<p>La finalidad de esta garantía consiste en asegurar la reparación de los daños que eventualmente pudiera ocasionar una intervención indebidamente obtenida.</p>
+<p>No protege al peticionante.</p>
+<p>Protege a la sociedad intervenida.</p>
+</section>
+<section id="fundamento-de-la-contracautela" class="slide level1">
+<h1>Fundamento de la contracautela</h1>
+<p>La contracautela constituye la contrapartida del carácter urgente de las medidas cautelares.</p>
+<p>Como la intervención puede decretarse antes de que exista una sentencia definitiva e incluso antes de escuchar a la contraparte, el ordenamiento procura equilibrar esa situación imponiendo al actor una garantía suficiente.</p>
+<p>El sistema busca armonizar dos intereses igualmente legítimos.</p>
+<p>Por un lado:</p>
+<p>la necesidad de impedir que continúe un daño grave.</p>
+<p>Por otro:</p>
+<p>la necesidad de evitar que una medida cautelar infundada ocasione perjuicios irreparables a la sociedad.</p>
+<p>Nissen recuerda que este requisito deriva de los principios generales que gobiernan todas las medidas precautorias.</p>
+<p>:contentReference<span data-index="2">oaicite:2</span></p>
+</section>
+<section id="formas-que-puede-asumir-la-contracautela" class="slide level1">
+<h1>Formas que puede asumir la contracautela</h1>
+<p>La ley no establece una modalidad única.</p>
+<p>Corresponde al juez determinar cuál resulta adecuada según las circunstancias del caso.</p>
+<p>Gebhardt menciona distintas posibilidades.</p>
+<p>Puede tratarse de:</p>
+<ul>
+<li>garantía real;</li>
+<li>caución personal;</li>
+<li>caución juratoria cuando el solicitante acredita reconocida solvencia.</li>
+</ul>
+<p>Además señala una práctica particularmente frecuente en materia societaria.</p>
+<p>El embargo de las propias acciones o cuotas sociales pertenecientes al socio peticionante.</p>
+<p>La finalidad consiste en afectar precisamente el bien que representa su interés económico dentro de la sociedad, asegurando así la eventual reparación de daños.</p>
+<p>:contentReference<span data-index="3">oaicite:3</span></p>
+</section>
+<section id="la-graduación-de-la-contracautela" class="slide level1">
+<h1>La graduación de la contracautela</h1>
+<p>La garantía no posee un monto uniforme.</p>
+<p>Debe guardar proporción con la entidad de la medida concedida.</p>
+<p>Cuanto más intensa resulte la intervención, mayor podrá ser la contracautela exigida.</p>
+<p>Gebhardt identifica especialmente tres factores que el juez debe ponderar.</p>
+<ul>
+<li>la clase de intervención decretada;</li>
+<li>su duración;</li>
+<li>la magnitud económica de la empresa.</li>
+</ul>
+<p>No genera los mismos riesgos una simple veeduría informativa durante treinta días que el desplazamiento completo del directorio de una gran sociedad anónima.</p>
+<p>La caución debe reflejar esas diferencias.</p>
+<p>:contentReference<span data-index="4">oaicite:4</span></p>
+</section>
+<section id="la-posición-de-nissen" class="slide level1">
+<h1>La posición de Nissen</h1>
+<p>Nissen arriba a conclusiones semejantes.</p>
+<p>Destaca que la contracautela debe fijarse considerando:</p>
+<ul>
+<li>las circunstancias concretas del caso;</li>
+<li>los posibles perjuicios derivados de la medida;</li>
+<li>las costas procesales.</li>
+</ul>
+<p>Subraya asimismo que la jurisprudencia ha aceptado reiteradamente como garantía suficiente el embargo de las acciones o participaciones sociales del propio peticionante, valuadas conforme al patrimonio neto de la sociedad.</p>
+<p>La solución presenta una ventaja evidente.</p>
+<p>El bien afectado mantiene una relación directa con el conflicto societario cuya tutela se pretende.</p>
+<p>:contentReference<span data-index="5">oaicite:5</span></p>
+</section>
+<section id="los-recursos" class="slide level1">
+<h1>Los recursos</h1>
+<p>La resolución que concede o rechaza la intervención judicial no queda firme automáticamente.</p>
+<p>El sistema reconoce el recurso de apelación.</p>
+<p>La revisión comprende no sólo la procedencia misma de la intervención.</p>
+<p>También alcanza a los aspectos accesorios de la medida.</p>
+<p>Gebhardt enumera expresamente algunos de ellos.</p>
+<p>Puede apelarse:</p>
+<ul>
+<li>la procedencia o improcedencia de la intervención;</li>
+<li>la clase de intervención elegida;</li>
+<li>las facultades atribuidas al interventor;</li>
+<li>el plazo fijado por el juez;</li>
+<li>la contracautela exigida.</li>
+</ul>
+<p>La amplitud del recurso resulta lógica.</p>
+<p>Todos esos aspectos determinan la intensidad concreta de la injerencia estatal sobre la administración societaria.</p>
+<p>:contentReference<span data-index="6">oaicite:6</span></p>
+</section>
+<section id="por-qué-la-intervención-puede-decretarse-sin-escuchar-previamente-a-la-sociedad" class="slide level1">
+<h1>¿Por qué la intervención puede decretarse sin escuchar previamente a la sociedad?</h1>
+<p>Una de las características más particulares del instituto consiste en que la resolución cautelar puede dictarse <strong>inaudita parte</strong>.</p>
+<p>Es decir.</p>
+<p>Sin conferir previamente traslado a la sociedad.</p>
+<p>Ello constituye una excepción al principio general de bilateralidad del proceso.</p>
+<p>La explicación se encuentra en la propia naturaleza cautelar de la medida.</p>
+<p>Si antes de intervenir fuera obligatorio comunicar el pedido a los administradores cuestionados, éstos podrían aprovechar ese lapso para:</p>
+<ul>
+<li>ocultar documentación;</li>
+<li>disponer de bienes sociales;</li>
+<li>modificar registros;</li>
+<li>frustrar la eficacia de la futura sentencia.</li>
+</ul>
+<p>Por ello la urgencia justifica el diferimiento temporal del contradictorio.</p>
+<p>Vitolo explica que precisamente ésa es la razón por la cual la ley admite el dictado inmediato de la medida, aun cuando ello implique postergar momentáneamente el ejercicio del derecho de defensa.</p>
+<p>:contentReference<span data-index="7">oaicite:7</span></p>
+</section>
+<section id="el-equilibrio-entre-urgencia-y-defensa" class="slide level1">
+<h1>El equilibrio entre urgencia y defensa</h1>
+<p>La posibilidad de resolver inaudita parte no significa que desaparezca el derecho de defensa.</p>
+<p>Simplemente se modifica el momento en que podrá ejercerse.</p>
+<p>El procedimiento responde a una lógica característica de todas las medidas cautelares.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode numberSource text number-lines code-with-copy"><code class="sourceCode"><span id="cb5-1"><a></a>Pedido cautelar</span>
+<span id="cb5-2"><a></a></span>
+<span id="cb5-3"><a></a>        │</span>
+<span id="cb5-4"><a></a></span>
+<span id="cb5-5"><a></a>Resolución inmediata</span>
+<span id="cb5-6"><a></a></span>
+<span id="cb5-7"><a></a>        │</span>
+<span id="cb5-8"><a></a></span>
+<span id="cb5-9"><a></a>Cumplimiento de la medida</span>
+<span id="cb5-10"><a></a></span>
+<span id="cb5-11"><a></a>        │</span>
+<span id="cb5-12"><a></a></span>
+<span id="cb5-13"><a></a>Notificación</span>
+<span id="cb5-14"><a></a></span>
+<span id="cb5-15"><a></a>        │</span>
+<span id="cb5-16"><a></a></span>
+<span id="cb5-17"><a></a>Impugnación mediante apelación</span>
+<span id="cb5-18"><a></a></span>
+<span id="cb5-19"><a></a>        │</span>
+<span id="cb5-20"><a></a></span>
+<span id="cb5-21"><a></a>Revisión por la Cámara</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></div>
+<p>De esta manera el ordenamiento procura compatibilizar dos valores constitucionales.</p>
+<p>La eficacia de la tutela cautelar.</p>
+<p>Y el derecho de defensa de la sociedad intervenida.</p>
+<pre><code>---
+
+# El denominado "criterio restrictivo"
+
+Probablemente ninguna expresión del régimen de la intervención judicial haya generado tanta discusión doctrinaria como la contenida en el art. 114 LGS, cuando dispone que:
+
+&gt; "...el juez apreciará la procedencia de la intervención con criterio restrictivo."
+
+La norma parece sencilla.
+
+Sin embargo, inmediatamente aparecen varias preguntas.
+
+- ¿Qué significa exactamente "criterio restrictivo"?
+- ¿Debe restringirse la legitimación?
+- ¿Deben agravarse los requisitos cautelares?
+- ¿Implica una presunción favorable a la administración?
+- ¿Puede el juez negar la medida aun cuando concurran todos los presupuestos legales?
+
+Las respuestas ofrecidas por la doctrina no son uniformes.
+
+Mientras Gebhardt acepta el criterio legal como una consecuencia natural de la excepcionalidad del instituto, Nissen cuestiona duramente la utilización que de esa cláusula ha realizado la jurisprudencia.
+
+Vitolo ocupa una posición intermedia.
+
+---
+
+# El fundamento del criterio restrictivo
+
+La explicación clásica parte de un dato institucional.
+
+Las sociedades comerciales son personas jurídicas privadas.
+
+Su administración corresponde exclusivamente a los órganos previstos por:
+
+- la ley;
+- el contrato constitutivo;
+- el estatuto.
+
+La intervención judicial implica sustituir, limitar o controlar esos órganos mediante una decisión estatal.
+
+Desde esta perspectiva, la intervención supone una excepción al principio de autonomía de la voluntad y al sistema orgánico diseñado por los propios socios.
+
+Por ello la ley exige prudencia.
+
+No porque procure proteger a los administradores.
+
+Sino porque procura preservar el normal funcionamiento de la persona jurídica frente a interferencias estatales innecesarias.
+
+---
+
+# La posición de Gebhardt
+
+Gebhardt interpreta el criterio restrictivo como una consecuencia directa del carácter excepcional de la medida.
+
+A su juicio, la intervención judicial constituye una injerencia extraordinaria del Poder Judicial en la administración de un patrimonio privado.
+
+Precisamente por esa razón:
+
+- deben acreditarse rigurosamente sus presupuestos;
+- la prueba del peligro grave debe resultar convincente;
+- el juez debe seleccionar siempre la modalidad menos invasiva posible.
+
+Sin embargo, Gebhardt no sostiene que el criterio restrictivo autorice al juez a negar arbitrariamente la medida.
+
+La restricción se refiere a la valoración de sus presupuestos.
+
+No implica desconocer la finalidad preventiva perseguida por la ley.
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
+# La crítica de Nissen
+
+Nissen desarrolla una crítica particularmente severa.
+
+Afirma que buena parte de la jurisprudencia ha utilizado la expresión "criterio restrictivo" como un verdadero argumento automático para rechazar intervenciones.
+
+Según esta interpretación judicial, bastaría recordar el carácter excepcional del instituto para denegar prácticamente cualquier pedido.
+
+Nissen considera que esa práctica desnaturaliza completamente el régimen legal.
+
+La ley incorporó la intervención precisamente para proteger a la sociedad frente a administraciones gravemente irregulares.
+
+Si el juez exige un grado de certeza prácticamente equivalente al de la sentencia definitiva, la tutela cautelar pierde toda utilidad.
+
+Cuando finalmente recaiga sentencia, el perjuicio cuya prevención justificaba la medida ya se habrá consumado.
+
+Por ello sostiene que el criterio restrictivo no puede convertirse en un obstáculo para la tutela judicial efectiva.
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# El verdadero alcance de la crítica de Nissen
+
+Es importante advertir que Nissen no propone eliminar los requisitos legales.
+
+No sostiene que toda denuncia deba dar lugar a una intervención.
+
+Su crítica apunta a otro fenómeno.
+
+La jurisprudencia, invocando el carácter excepcional del instituto, terminó exigiendo:
+
+- una prueba prácticamente definitiva;
+- una acreditación absoluta del daño;
+- una certeza incompatible con la naturaleza cautelar del procedimiento.
+
+Ello produce una contradicción evidente.
+
+Las medidas cautelares existen precisamente porque todavía no existe certeza definitiva.
+
+Lo único exigible es una verosimilitud suficiente acompañada por un peligro concreto de frustración del derecho.
+
+Exigir mucho más equivale, en los hechos, a hacer desaparecer la tutela cautelar.
+
+---
+
+# La posición de Vitolo
+
+Vitolo comparte varias de las observaciones formuladas por Nissen, aunque adopta un enfoque más moderado.
+
+Reconoce que la intervención judicial constituye una medida excepcional.
+
+Pero advierte que esa excepcionalidad no debe confundirse con una presunción favorable a la administración.
+
+La verdadera excepcionalidad deriva únicamente del respeto por la organización interna de la sociedad.
+
+Cuando esa organización deja de cumplir adecuadamente su función y aparece comprometido el interés social, la intervención deja de ser una intromisión indebida para convertirse en un mecanismo de protección previsto expresamente por la ley.
+
+En consecuencia, el criterio restrictivo no significa interpretar restrictivamente la tutela.
+
+Significa interpretar rigurosamente los hechos.
+
+:contentReference[oaicite:2]{index=2}
+
+---
+
+# La interpretación sistemática del art. 114
+
+Analizando conjuntamente a los tres autores puede extraerse una conclusión relativamente uniforme.
+
+El criterio restrictivo no constituye un requisito autónomo.
+
+No es un presupuesto adicional.
+
+Los verdaderos requisitos siguen siendo los establecidos por la ley:
+
+- legitimación;
+- acción de remoción;
+- peligro grave;
+- agotamiento de los remedios internos;
+- presupuestos cautelares generales.
+
+La restricción aparece únicamente al momento de valorar esos requisitos.
+
+No habilita al juez a crear exigencias nuevas.
+
+Tampoco autoriza a rechazar la medida invocando únicamente su carácter excepcional.
+
+---
+
+# La intervención solicitada por la autoridad de contralor
+
+Hasta ahora el análisis estuvo centrado en la intervención promovida por un socio.
+
+Sin embargo, la Ley General de Sociedades contempla otro supuesto.
+
+La intervención requerida por la autoridad estatal de fiscalización.
+
+El fundamento ya no reside exclusivamente en la protección del interés social.
+
+Aquí aparece comprometido también el interés público.
+
+Especialmente cuando se trata de sociedades sometidas a fiscalización permanente, entidades que captan ahorro público o sociedades cuya actividad posee especial trascendencia económica.
+
+En estos casos la autoridad administrativa puede solicitar judicialmente la intervención.
+
+Nunca disponerla directamente.
+
+---
+
+# ¿Por qué la autoridad administrativa no puede intervenir por sí misma?
+
+La respuesta deriva directamente del principio de división de poderes.
+
+La intervención judicial importa restringir las facultades de administración de una persona jurídica privada.
+
+Una decisión de esa naturaleza sólo puede ser adoptada por un órgano jurisdiccional independiente.
+
+Ni la IGJ ni ningún otro organismo administrativo pueden desplazar administradores mediante un acto administrativo.
+
+Su función consiste únicamente en promover la actuación judicial cuando advierten circunstancias que justifican la medida.
+
+Gebhardt insiste especialmente sobre este aspecto.
+
+La administración pública controla.
+
+Pero únicamente el Poder Judicial puede intervenir.
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# La intervención societaria y los códigos procesales
+
+Vitolo dedica varias páginas a distinguir la intervención prevista por la Ley General de Sociedades de otras formas de intervención reguladas por los códigos procesales.
+
+La diferencia no es meramente terminológica.
+
+Responde a finalidades completamente distintas.
+
+Los códigos procesales regulan, entre otras figuras:
+
+- el interventor informante;
+- el interventor recaudador;
+- el administrador judicial de bienes.
+
+Su finalidad consiste normalmente en asegurar la eficacia de un proceso patrimonial.
+
+La Ley General de Sociedades, en cambio, regula una intervención institucional.
+
+No procura únicamente conservar bienes.
+
+Procura preservar el funcionamiento regular de una organización societaria.
+
+Por ello ambas figuras no deben confundirse, aunque compartan ciertos rasgos cautelares.
+
+:contentReference[oaicite:4]{index=4}
+
+---
+
+# Síntesis integral del procedimiento
+
+```text
+Irregularidades en la administración
+
+            │
+
+            ▼
+
+Peligro grave para la sociedad
+
+            │
+
+            ▼
+
+Agotamiento de los remedios internos
+
+            │
+
+            ▼
+
+Acción principal de remoción
+
+            │
+
+            ▼
+
+Solicitud cautelar
+
+            │
+
+            ▼
+
+Verificación de los requisitos
+cautelares
+
+            │
+
+            ▼
+
+Resolución judicial
+
+            │
+
+            ├──────────────┐
+            │              │
+            ▼              ▼
+
+Rechazo         Admisión
+
+                       │
+
+                       ▼
+
+Designación de:
+
+• Veedor
+• Coadministrador
+• Administrador judicial
+
+                       │
+
+                       ▼
+
+Fijación de:
+
+• facultades
+• plazo
+• contracautela
+
+                       │
+
+                       ▼
+
+Ejecución de la medida
+
+                       │
+
+                       ▼
+
+Apelación
+
+                       │
+
+                       ▼
+
+Sentencia en la acción
+de remoción
+
+                       │
+
+                       ▼
+
+Cese de la intervención</code></pre>
+</section>
+<section id="conclusiones-doctrinarias" class="slide level1">
+<h1>Conclusiones doctrinarias</h1>
+<p>Los tres autores parten de un mismo presupuesto.</p>
+<p>La administración corresponde naturalmente a los órganos sociales.</p>
+<p>La intervención judicial constituye una excepción.</p>
+<p>Sin embargo, difieren en el alcance práctico de esa excepcionalidad.</p>
+<p><strong>Gebhardt</strong> enfatiza el respeto por la autonomía societaria y la necesidad de aplicar rigurosamente los presupuestos legales.</p>
+<p><strong>Vitolo</strong> procura equilibrar la autonomía privada con la tutela efectiva del interés social, destacando el carácter funcional de la medida y distinguiendo cuidadosamente las distintas modalidades de intervención.</p>
+<p><strong>Nissen</strong>, finalmente, dirige su principal crítica contra la jurisprudencia que, invocando el llamado criterio restrictivo, termina vaciando de contenido un instrumento cautelar cuya razón de ser consiste precisamente en impedir que el daño se consume antes de la sentencia definitiva.</p>
+<p>La lectura conjunta de las tres posiciones permite advertir que la intervención judicial no constituye un mecanismo de sustitución permanente de la administración societaria.</p>
+<p>Es un remedio excepcional, transitorio y esencialmente cautelar, cuya finalidad consiste en preservar la utilidad práctica de la acción de remoción y asegurar el normal funcionamiento de la sociedad mientras el conflicto principal obtiene una solución definitiva.</p>
+</section>
+<section id="jurisprudencia" class="slide level1">
+<h1>Jurisprudencia</h1>
+<h2 id="cncom.-sala-f-viscomi-salvador-antonio-c-monte-olivia-s.r.l.-y-otro-s-ordinario-s-incidente-art.-250">CNCom., Sala F, <em>Viscomi, Salvador Antonio c/ Monte Olivia S.R.L. y otro s/ ordinario s/ incidente art. 250</em></h2>
+<h3 id="de-noviembre-de-2016">1 de noviembre de 2016</h3>
+<blockquote>
+<p><strong>Lectura del fallo completo:</strong></p>
+<p>https://aldiaargentina.microjuris.com/2017/03/21/intervencion-judicial-de-la-sociedad-de-responsabilidad-limitada-en-grado-de-coadministracion/</p>
+</blockquote>
+</section>
+<section id="los-hechos" class="slide level1">
+<h1>Los hechos</h1>
+<p>Monte Olivia S.R.L. era una sociedad integrada únicamente por <strong>dos socios</strong>, cada uno titular del <strong>50 % del capital social</strong>.</p>
+<p>Ambos ejercían la administración del ente.</p>
+<p>Con el transcurso del tiempo la relación entre ellos se deterioró profundamente, generando un conflicto permanente que comenzó a trasladarse al funcionamiento institucional de la sociedad.</p>
+<p>Las reuniones de socios dejaron de instrumentarse correctamente, los estados contables no pudieron aprobarse regularmente y comenzaron a advertirse importantes irregularidades en la documentación societaria.</p>
+<p>Frente a esa situación, uno de los socios solicitó judicialmente la <strong>intervención de la sociedad</strong>.</p>
+</section>
+<section id="la-intervención-inicial-designación-de-un-veedor" class="slide level1">
+<h1>La intervención inicial: designación de un veedor</h1>
+<p>Antes de disponer una medida más intensa, el juez de primera instancia optó por designar un <strong>veedor judicial</strong>.</p>
+<p>La finalidad de esa medida era obtener una visión objetiva del funcionamiento de la sociedad.</p>
+<p>El veedor debía:</p>
+<ul>
+<li>revisar los libros sociales;</li>
+<li>controlar la documentación;</li>
+<li>verificar el funcionamiento de los órganos;</li>
+<li>informar al tribunal acerca de las irregularidades denunciadas.</li>
+</ul>
+<p>Su informe resultó determinante para la resolución posterior de la Cámara.</p>
+</section>
+<section id="las-irregularidades-detectadas" class="slide level1">
+<h1>Las irregularidades detectadas</h1>
+<p>El informe del veedor reveló un funcionamiento institucional seriamente deteriorado.</p>
+<p>Entre otras circunstancias comprobó:</p>
+<ul>
+<li>ausencia de firmas de los socios gerentes en diversas actas sociales;</li>
+<li>irregular aprobación de los estados contables de varios ejercicios;</li>
+<li>falta de constancia fehaciente del sentido del voto de cada socio;</li>
+<li>deficiente instrumentación de las reuniones sociales;</li>
+<li>desacuerdo permanente respecto de decisiones esenciales para la marcha de la sociedad.</li>
+</ul>
+<p>Para la Cámara estas circunstancias evidenciaban un verdadero <strong>funcionamiento irregular del órgano de gobierno</strong>, capaz de afectar el interés social.</p>
+</section>
+<section id="los-problemas-jurídicos" class="slide level1">
+<h1>Los problemas jurídicos</h1>
+<p>La Sala F debía resolver cuatro cuestiones centrales.</p>
+<ul>
+<li><p>¿Las irregularidades comprobadas justificaban agravar la intervención pasando de una simple veeduría a una coadministración?</p></li>
+<li><p>¿Debía exigirse al actor el agotamiento previo de la vía intrasocietaria prevista por el art. 114 LGS?</p></li>
+<li><p>¿La acción de remoción constituía un presupuesto indispensable para disponer la intervención judicial?</p></li>
+<li><p>¿Cuál era la medida menos gravosa que permitía proteger adecuadamente a la sociedad?</p></li>
+</ul>
+</section>
+<section id="el-agotamiento-de-la-vía-intrasocietaria" class="slide level1">
+<h1>El agotamiento de la vía intrasocietaria</h1>
+<p>Este constituye uno de los aspectos más importantes del fallo.</p>
+<p>Los demandados sostenían que el actor debía intentar previamente solucionar el conflicto mediante los mecanismos internos de la sociedad.</p>
+<p>La Cámara rechazó ese argumento.</p>
+<p>Explicó que la sociedad estaba integrada únicamente por <strong>dos socios titulares del 50 % del capital cada uno</strong>.</p>
+<p>Ninguno poseía mayoría suficiente para adoptar decisiones.</p>
+<p>Toda resolución requería necesariamente el acuerdo del otro.</p>
+<p>En consecuencia, exigir el agotamiento de la vía societaria significaba imponer un requisito de imposible cumplimiento.</p>
+<p>Por ello concluyó que, en estas circunstancias excepcionales, el requisito del art. 114 debía interpretarse razonablemente.</p>
+</section>
+<section id="la-acción-de-remoción" class="slide level1">
+<h1>La acción de remoción</h1>
+<p>Otro aspecto especialmente novedoso del precedente consiste en que la Cámara sostuvo que <strong>no resultaba imprescindible promover previamente una acción de remoción</strong>.</p>
+<p>El Tribunal entendió que la comprobación de un funcionamiento irregular del ente bastaba para justificar la medida cautelar.</p>
+<p>La determinación definitiva de responsabilidades debía reservarse para el proceso principal.</p>
+<p>La intervención perseguía una finalidad diferente.</p>
+<p>Su objetivo consistía en impedir que la situación continuara agravándose mientras el conflicto obtenía una solución definitiva.</p>
+<p>Esta interpretación flexibiliza la lectura tradicional de los arts. 113 y siguientes de la Ley General de Sociedades.</p>
+</section>
+<section id="la-solución-adoptada" class="slide level1">
+<h1>La solución adoptada</h1>
+<p>La Cámara confirmó la resolución de primera instancia.</p>
+<p>Mantuvo la intervención judicial en grado de <strong>coadministración</strong>.</p>
+<p>No desplazó a los gerentes.</p>
+<p>Éstos conservaron sus cargos.</p>
+<p>Sin embargo, dejaron de administrar en forma exclusiva y debieron ejercer sus funciones conjuntamente con el funcionario judicial designado.</p>
+<p>La Cámara entendió que:</p>
+<ul>
+<li>la simple veeduría ya no resultaba suficiente para neutralizar el peligro;</li>
+<li>el desplazamiento total de los administradores todavía aparecía como una medida excesiva.</li>
+</ul>
+<p>Por ello optó por una solución intermedia.</p>
+</section>
+<section id="los-fundamentos-de-la-cámara" class="slide level1">
+<h1>Los fundamentos de la Cámara</h1>
+<p>La Sala F destacó que la intervención judicial debe orientarse principalmente a proteger <strong>el interés de la sociedad</strong>.</p>
+<p>El Tribunal afirmó que el juez debe encontrar un equilibrio entre dos valores.</p>
+<p>Por un lado, evitar una injerencia injustificada en la administración de una persona jurídica privada.</p>
+<p>Por otro, impedir que el conflicto interno termine paralizando el funcionamiento de la sociedad.</p>
+<p>En una de las afirmaciones más importantes del fallo sostuvo que el juez no debe:</p>
+<blockquote>
+<p>“esperar que el ente se desmorone para nombrarle judicialmente un administrador.”</p>
+</blockquote>
+<p>Esta idea refleja claramente el carácter preventivo de la intervención judicial.</p>
+</section>
+<section id="doctrina-que-surge-del-precedente" class="slide level1">
+<h1>Doctrina que surge del precedente</h1>
+<p>Este fallo constituye uno de los precedentes más importantes de la Cámara Nacional de Apelaciones en lo Comercial sobre los arts. 113 a 117 LGS.</p>
+<p>Su relevancia radica en que:</p>
+<ul>
+<li>coloca en el centro de la decisión el <strong>interés social</strong>;</li>
+<li>flexibiliza el requisito del agotamiento de los remedios intrasocietarios cuando éstos resultan objetivamente imposibles;</li>
+<li>admite la intervención cautelar aun sin exigir, en las circunstancias del caso, una acción formal de remoción;</li>
+<li>aplica el principio de proporcionalidad al elegir la <strong>coadministración</strong> como medida menos invasiva que permitía proteger adecuadamente el funcionamiento de la sociedad.</li>
+</ul>
+<p>El precedente constituye, por ello, una excelente aplicación práctica de las construcciones doctrinarias desarrolladas por <strong>Gebhardt, Nissen y Vitolo</strong> respecto de la finalidad cautelar de la intervención judicial y de la tutela del interés social.</p>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': false,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1600,
+
+        height: 900,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 4.0e-2,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copiado");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copiado");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

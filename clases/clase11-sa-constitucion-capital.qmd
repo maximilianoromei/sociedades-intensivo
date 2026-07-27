@@ -1,0 +1,2243 @@
+---
+title: "Clase 11 — SA - Constitucion y Capital"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Sociedad Anónima
+## Constitución y Capital Social
+
+**Ley General de Sociedades**
+
+Arts. 163 a 206
+
+---
+
+# La sociedad anónima
+
+La sociedad anónima constituye el tipo societario diseñado para organizar emprendimientos que requieren importantes concentraciones de capital.
+
+A diferencia de las sociedades personalistas, la identidad de los accionistas resulta, en principio, secundaria.
+
+Lo verdaderamente relevante es el capital aportado.
+
+Ello explica las dos notas características que surgen del art. 163 LGS:
+
+- el capital se encuentra dividido en acciones;
+- los accionistas limitan su responsabilidad a la integración de las acciones suscriptas.
+
+Esta estructura facilita la incorporación de nuevos inversores, la circulación de las acciones y la continuidad de la empresa con independencia de las personas que integran el capital social.
+
+---
+
+# La función económica de la sociedad anónima
+
+Históricamente, la sociedad anónima nació como un instrumento destinado a financiar empresas que excedían ampliamente la capacidad económica de un solo comerciante.
+
+Grandes expediciones marítimas, compañías coloniales, bancos, ferrocarriles y posteriormente industrias requirieron la posibilidad de reunir aportes provenientes de numerosos inversores.
+
+Por ello, la sociedad anónima representa el modelo típico de las sociedades de capital.
+
+Como destaca Nissen, constituye el principal instrumento de concentración de capitales para el desarrollo de empresas de gran envergadura. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Sociedad de personas vs. sociedad de capital
+
+En las sociedades de personas predomina la figura del socio.
+
+En la sociedad anónima predomina el capital.
+
+Consecuencias:
+
+- la participación se representa mediante acciones;
+- la transmisión de la calidad de accionista es, como principio, libre;
+- la muerte de un accionista no afecta la continuidad de la sociedad;
+- la responsabilidad personal del accionista queda limitada al aporte comprometido.
+
+Esta desvinculación entre empresa y persona explica el enorme desarrollo económico de este tipo societario.
+
+---
+
+# ¿Qué es el capital social?
+
+El capital social es una **cifra jurídica**.
+
+No es una cuenta bancaria.
+
+No es el dinero existente en caja.
+
+No es el patrimonio de la sociedad.
+
+Representa el valor nominal de los aportes comprometidos por los accionistas al constituirse la sociedad o como consecuencia de posteriores aumentos de capital.
+
+Constituye una referencia permanente para determinar:
+
+- la participación de cada accionista;
+- sus derechos políticos;
+- sus derechos económicos;
+- diversos límites previstos por la Ley General de Sociedades.
+
+---
+
+# Capital social y patrimonio
+
+Uno de los errores más frecuentes consiste en identificar capital con patrimonio.
+
+Son conceptos completamente diferentes.
+
+**Capital**
+
+- Es una cifra jurídica.
+- Permanece invariable hasta que exista una decisión formal de modificarlo.
+
+**Patrimonio**
+
+- Es una realidad económica.
+- Cambia todos los días según los resultados de la empresa.
+
+El patrimonio puede ser mayor, igual o menor que el capital social.
+
+---
+
+# Ejemplo
+
+Supongamos la siguiente sociedad.
+
+| Concepto | Importe |
+|----------:|--------:|
+| Capital social | $100.000.000 |
+| Activo | $420.000.000 |
+| Pasivo | $170.000.000 |
+
+Entonces:
+
+**Patrimonio Neto**
+
+Activo − Pasivo
+
+= $250.000.000
+
+La sociedad mantiene un capital de **$100.000.000**.
+
+Sin embargo, su patrimonio asciende a **$250.000.000**.
+
+El capital no cambia porque la empresa haya ganado dinero.
+
+Para modificar el capital es necesaria una decisión societaria adoptada conforme a la ley.
+
+---
+
+# Segundo ejemplo
+
+Ahora imaginemos una crisis.
+
+| Concepto | Importe |
+|----------:|--------:|
+| Capital social | $100.000.000 |
+| Activo | $110.000.000 |
+| Pasivo | $90.000.000 |
+
+Patrimonio Neto:
+
+$20.000.000
+
+El capital continúa siendo **$100.000.000**.
+
+Pero el patrimonio cayó a **$20.000.000**.
+
+La pérdida patrimonial no modifica automáticamente el capital social.
+
+Podrá originar posteriormente una reducción de capital o incluso otras consecuencias previstas por la ley, pero el capital permanece inalterado mientras no exista una decisión formal que lo modifique.
+
+---
+
+# Funciones del capital social
+
+El capital cumple múltiples funciones.
+
+## Función organizativa
+
+Determina la participación de cada accionista.
+
+## Función política
+
+Sirve de base para calcular derechos de voto y de preferencia.
+
+## Función financiera
+
+Proporciona los recursos iniciales para desarrollar el objeto social.
+
+## Función de garantía
+
+Constituye una referencia patrimonial destinada a brindar protección a los acreedores sociales, aunque la doctrina moderna relativiza esta función.
+
+---
+
+# Ejemplo de participación accionaria
+
+Capital social:
+
+**$120.000.000**
+
+Tres accionistas realizan los siguientes aportes.
+
+| Accionista | Aporte |
+|-----------|--------:|
+| Ana | $60.000.000 |
+| Bruno | $36.000.000 |
+| Carla | $24.000.000 |
+
+Participación accionaria:
+
+- Ana → 50 %
+- Bruno → 30 %
+- Carla → 20 %
+
+Si el estatuto establece una acción = un voto,
+
+la participación política coincidirá exactamente con la participación en el capital.
+
+---
+
+# Formación del capital social
+
+La constitución del capital social no se produce en un único momento.
+
+La Ley General de Sociedades distingue claramente tres etapas:
+
+1. **Determinación del capital** en el acto constitutivo.
+
+2. **Suscripción** de las acciones por los accionistas.
+
+3. **Integración** de los aportes comprometidos.
+
+Estas tres etapas pueden coincidir en el tiempo o desarrollarse parcialmente de manera sucesiva, según la forma y naturaleza de los aportes.
+
+---
+
+# Suscripción e integración
+
+La ley diferencia dos conceptos que suelen confundirse.
+
+## Suscripción
+
+Es el compromiso jurídico asumido por el accionista.
+
+El socio se obliga a aportar una determinada suma o un determinado bien.
+
+## Integración
+
+Consiste en el cumplimiento efectivo de esa obligación.
+
+Es decir,
+
+el momento en que el aporte ingresa efectivamente al patrimonio de la sociedad.
+
+En consecuencia,
+
+toda acción integrada fue previamente suscripta,
+
+pero no toda acción suscripta se encuentra necesariamente integrada.
+
+---
+
+# Ejemplo
+
+La sociedad se constituye con un capital de
+
+**$200.000.000**
+
+Cuatro accionistas suscriben:
+
+| Accionista | Capital suscripto |
+|------------|------------------:|
+| Ana | $80.000.000 |
+| Bruno | $60.000.000 |
+| Carla | $40.000.000 |
+| Diego | $20.000.000 |
+
+El capital quedó totalmente **suscripto**.
+
+Sin embargo, todavía resta analizar cuánto fue efectivamente integrado.
+
+---
+
+# Ejemplo de integración
+
+Supongamos ahora que todos los aportes son en dinero.
+
+La ley exige integrar, como mínimo, el **25 %** al momento de la constitución.
+
+Entonces:
+
+| Accionista | Suscribió | Integró |
+|------------|----------:|---------:|
+| Ana | $80.000.000 | $20.000.000 |
+| Bruno | $60.000.000 | $15.000.000 |
+| Carla | $40.000.000 | $10.000.000 |
+| Diego | $20.000.000 | $5.000.000 |
+
+Capital suscripto:
+
+**$200.000.000**
+
+Capital efectivamente integrado:
+
+**$50.000.000**
+
+Saldo pendiente de integración:
+
+**$150.000.000**
+
+---
+
+# ¿Qué ocurre con el saldo pendiente?
+
+La obligación asumida por el accionista continúa vigente.
+
+El saldo deberá integrarse dentro del plazo previsto por la ley y por el estatuto.
+
+Mientras ello no ocurra,
+
+la sociedad conserva un crédito contra ese accionista.
+
+Desde el punto de vista patrimonial:
+
+- el dinero efectivamente aportado integra el activo;
+
+- el saldo pendiente constituye también un derecho de crédito de la sociedad frente al accionista.
+
+---
+
+# Ejemplo contable simplificado
+
+Capital suscripto:
+
+**$200.000.000**
+
+Integración inicial:
+
+**$50.000.000**
+
+En el activo encontramos:
+
+- Caja: $50.000.000
+- Crédito contra accionistas: $150.000.000
+
+En el patrimonio neto:
+
+Capital social:
+
+**$200.000.000**
+
+Por ello se afirma que el capital quedó íntegramente suscripto, aunque sólo se encuentre parcialmente integrado.
+
+---
+
+# Los aportes
+
+Los accionistas pueden efectuar aportes:
+
+- en dinero;
+- en especie.
+
+La diferencia tiene importantes consecuencias jurídicas.
+
+Los aportes dinerarios pueden integrarse parcialmente al constituirse la sociedad.
+
+Los aportes en especie, por el contrario, deben encontrarse totalmente integrados desde el inicio.
+
+Ello procura evitar que la sociedad aparezca dotada de bienes cuya efectiva incorporación resulte incierta.
+
+---
+
+# Ejemplo de aporte dinerario
+
+Capital social:
+
+**$100.000.000**
+
+Todos los aportes son en efectivo.
+
+Los accionistas integran únicamente el mínimo legal.
+
+| Capital | $100.000.000 |
+|---------:|-------------:|
+| Integrado | $25.000.000 |
+| Pendiente | $75.000.000 |
+
+La sociedad nace válidamente.
+
+Los accionistas continúan obligados a integrar el saldo restante dentro del plazo legal.
+
+---
+
+# Ejemplo de aporte en especie
+
+Ana aporta un inmueble valuado en
+
+**$80.000.000**
+
+Bruno aporta maquinaria valuada en
+
+**$20.000.000**
+
+Capital social:
+
+**$100.000.000**
+
+En este supuesto ambos bienes deben encontrarse totalmente incorporados al patrimonio social desde el momento de la constitución.
+
+No sería admisible que Ana entregara solamente una cuarta parte del inmueble y prometiera integrar el resto más adelante.
+
+---
+
+# ¿Por qué la ley exige esa diferencia?
+
+La razón es sencilla.
+
+El dinero pendiente puede reclamarse fácilmente al accionista.
+
+En cambio,
+
+los bienes aportados en especie requieren:
+
+- individualización;
+- valuación;
+- tradición o inscripción cuando corresponda.
+
+La integración inmediata evita incertidumbres respecto del verdadero patrimonio inicial de la sociedad y protege tanto a los acreedores como a los restantes accionistas.
+
+---
+
+# Principios que gobiernan el capital social
+
+Todo el régimen legal del capital descansa sobre algunos principios fundamentales.
+
+- **Determinación**: el capital debe expresarse mediante una cifra precisa.
+
+- **Suscripción íntegra**: todo el capital debe encontrarse totalmente suscripto al momento de la constitución.
+
+- **Integración mínima**: los aportes dinerarios admiten integración parcial dentro de los límites legales.
+
+- **Integración total de los aportes en especie**: deben incorporarse completamente desde el inicio.
+
+Estos principios permiten comprender todo el régimen posterior relativo a aumentos, reducciones y tutela del capital social.
+
+---
+
+# Valuación de los aportes
+
+Cuando el aporte consiste en dinero, no existe dificultad.
+
+El problema aparece cuando el accionista aporta bienes.
+
+Por ejemplo:
+
+- un inmueble;
+- una maquinaria;
+- un automóvil;
+- una patente;
+- una marca;
+- un establecimiento comercial.
+
+En todos estos casos resulta indispensable determinar cuál es el verdadero valor del aporte.
+
+De ello dependerá:
+
+- el monto del capital social;
+- la participación del accionista;
+- la protección de los acreedores.
+
+---
+
+# ¿Por qué es tan importante la valuación?
+
+Supongamos que un inmueble vale realmente
+
+**$150.000.000**
+
+pero los socios acuerdan asignarle un valor de
+
+**$300.000.000**.
+
+Formalmente la sociedad parecería tener un capital muy superior al patrimonio efectivamente incorporado.
+
+Los terceros creerán contratar con una sociedad mucho más solvente de lo que realmente es.
+
+Por ello la ley exige mecanismos de valuación que eviten la sobrevaloración de los aportes.
+
+---
+
+# Ejemplo
+
+Tres accionistas constituyen una sociedad.
+
+| Accionista | Bien aportado | Valor real |
+|------------|---------------|-----------:|
+| Ana | Dinero | $80.000.000 |
+| Bruno | Inmueble | $120.000.000 |
+| Carla | Maquinaria | $100.000.000 |
+
+Capital social:
+
+**$300.000.000**
+
+Participación:
+
+- Ana → 26,67 %
+- Bruno → 40 %
+- Carla → 33,33 %
+
+La correcta valuación determina tanto la participación societaria como la verdadera garantía patrimonial frente a terceros.
+
+---
+
+# ¿Qué sucede si el bien fue sobrevaluado?
+
+Supongamos ahora que la maquinaria de Carla vale realmente
+
+**$40.000.000**
+
+pero fue incorporada al capital por
+
+**$100.000.000**.
+
+La sociedad aparenta poseer:
+
+Capital:
+
+**$300.000.000**
+
+Sin embargo, el patrimonio real asciende solamente a
+
+**$240.000.000**
+
+Existe una diferencia ficticia de
+
+**$60.000.000**
+
+Esa diferencia perjudica tanto a los restantes accionistas como a los acreedores sociales.
+
+---
+
+# Ejemplo comparativo
+
+## Valuación correcta
+
+| Bien | Valor |
+|------|-------:|
+| Dinero | $80.000.000 |
+| Inmueble | $120.000.000 |
+| Maquinaria | $100.000.000 |
+
+Capital:
+
+**$300.000.000**
+
+---
+
+## Valuación incorrecta
+
+| Bien | Valor real | Valor asignado |
+|------|-----------:|---------------:|
+| Dinero | $80.000.000 | $80.000.000 |
+| Inmueble | $120.000.000 | $120.000.000 |
+| Maquinaria | $40.000.000 | $100.000.000 |
+
+Capital aparente:
+
+**$300.000.000**
+
+Capital económico real:
+
+**$240.000.000**
+
+---
+
+# El principio de realidad del capital
+
+El capital social debe reflejar aportes efectivamente existentes.
+
+No puede integrarse mediante bienes inexistentes.
+
+Tampoco mediante bienes deliberadamente sobrevaluados.
+
+El objetivo consiste en impedir que la cifra del capital se transforme en una mera apariencia destinada a generar una falsa imagen de solvencia.
+
+Como sostiene Nissen, el beneficio de la responsabilidad limitada presupone necesariamente la existencia de un capital adecuado para el cumplimiento del objeto social. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Capital nominal y patrimonio real
+
+Supongamos la siguiente situación.
+
+Capital social:
+
+**$500.000.000**
+
+Los bienes efectivamente aportados valen:
+
+**$320.000.000**
+
+La sociedad comienza su actividad con un déficit patrimonial de
+
+**$180.000.000**
+
+Desde el punto de vista jurídico el capital figura como $500.000.000.
+
+Desde el punto de vista económico, sin embargo, nunca existió ese capital.
+
+Por ello la correcta valuación constituye uno de los mecanismos fundamentales de tutela del capital social.
+
+---
+
+# Infracapitalización
+
+También puede ocurrir el fenómeno inverso.
+
+Los bienes están correctamente valuados.
+
+Sin embargo,
+
+el capital resulta manifiestamente insuficiente para desarrollar el objeto social.
+
+## Ejemplo
+
+Una sociedad pretende construir un edificio de veinte pisos.
+
+Capital social:
+
+**$5.000.000**
+
+Activo necesario para iniciar la obra:
+
+**$2.500.000.000**
+
+Aunque el capital haya sido correctamente integrado,
+
+resulta evidente que la sociedad nace insuficientemente capitalizada.
+
+Esta situación ha sido especialmente criticada por Nissen al analizar el régimen del capital mínimo legal. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Capital mínimo y capital adecuado
+
+No debe confundirse el capital mínimo previsto por la ley con el capital realmente necesario para desarrollar el objeto social.
+
+El capital mínimo constituye únicamente un requisito legal para la constitución.
+
+El capital adecuado depende del emprendimiento concreto.
+
+No requiere el mismo capital una sociedad destinada a:
+
+- prestar servicios de consultoría;
+
+que otra destinada a:
+
+- construir rutas;
+- explotar una aerolínea;
+- fabricar automóviles;
+- operar un banco.
+
+La suficiencia del capital debe apreciarse siempre en función del objeto social.
+
+---
+
+# Ideas principales
+
+La regulación de los aportes persigue un objetivo muy claro.
+
+Garantizar que el capital social refleje una verdadera realidad patrimonial.
+
+Por ello:
+
+- los aportes deben ser susceptibles de valoración económica;
+- los aportes en especie requieren una adecuada valuación;
+- la sobrevaluación perjudica a socios y acreedores;
+- el capital debe guardar razonable relación con el objeto social.
+
+Sobre estos principios se construyen posteriormente las normas relativas a aumentos, reducciones y protección del capital social.
+
+---
+
+# Variaciones del capital social
+
+El capital social no permanece necesariamente inalterado durante toda la vida de la sociedad.
+
+Las necesidades económicas de la empresa pueden exigir:
+
+- incorporar nuevos recursos;
+- absorber pérdidas;
+- reorganizar la estructura patrimonial.
+
+Por ello, la Ley General de Sociedades regula dos grandes mecanismos:
+
+- **aumento de capital**;
+- **reducción de capital**.
+
+En ambos casos no basta una modificación contable.
+
+La variación requiere una decisión adoptada por el órgano competente y el cumplimiento de las formalidades previstas por la ley.
+
+---
+
+# ¿Por qué aumentar el capital?
+
+El aumento del capital puede responder a múltiples finalidades.
+
+Entre las más frecuentes se encuentran:
+
+- financiar nuevos proyectos;
+- ampliar la capacidad productiva;
+- incorporar nuevos accionistas;
+- fortalecer el patrimonio de la sociedad;
+- cumplir exigencias regulatorias;
+- adecuar el capital al crecimiento de la empresa.
+
+No todo aumento responde a una situación de crisis.
+
+Muchas veces constituye simplemente una herramienta de expansión empresarial.
+
+---
+
+# Primer ejemplo
+
+Capital actual:
+
+**$100.000.000**
+
+Dividido en
+
+**100.000 acciones**
+
+Valor nominal:
+
+**$1.000** cada una.
+
+Los accionistas son:
+
+| Accionista | Acciones | Participación |
+|------------|----------:|--------------:|
+| Ana | 60.000 | 60 % |
+| Bruno | 25.000 | 25 % |
+| Carla | 15.000 | 15 % |
+
+La sociedad necesita construir una nueva planta industrial cuyo costo asciende a
+
+**$50.000.000**
+
+Por ello decide aumentar el capital.
+
+---
+
+# El aumento de capital
+
+La asamblea aprueba emitir
+
+**50.000 acciones nuevas**
+
+de valor nominal
+
+**$1.000**
+
+Capital anterior:
+
+$100.000.000
+
+Capital nuevo:
+
+$150.000.000
+
+La pregunta inmediata es:
+
+**¿Quién tiene derecho a suscribir esas nuevas acciones?**
+
+---
+
+# Derecho de preferencia
+
+La ley protege a los accionistas existentes.
+
+Como principio,
+
+cada accionista tiene derecho a suscribir una cantidad de acciones suficiente para mantener su porcentaje de participación.
+
+Este derecho recibe el nombre de
+
+## Derecho de preferencia
+
+Su finalidad consiste en evitar la dilución involuntaria del accionista.
+
+---
+
+# Ejemplo
+
+Se emiten
+
+**50.000 acciones nuevas**
+
+Ana posee el
+
+**60 %**
+
+Entonces tiene derecho a suscribir
+
+60 % × 50.000
+
+=
+
+**30.000 acciones**
+
+Bruno podrá suscribir
+
+12.500 acciones.
+
+Carla
+
+7.500 acciones.
+
+Si todos ejercen el derecho,
+
+sus porcentajes permanecerán exactamente iguales.
+
+---
+
+# ¿Qué ocurre si un accionista no ejerce su derecho?
+
+Supongamos que Carla decide no suscribir ninguna acción.
+
+Ana suscribe sus 30.000 acciones.
+
+Bruno suscribe sus 12.500.
+
+Quedan vacantes
+
+7.500 acciones.
+
+Esas acciones podrán ser suscriptas conforme al régimen legal y estatutario.
+
+Aquí aparece otro instituto.
+
+---
+
+# Derecho de acrecer
+
+El derecho de acrecer permite que quienes ejercieron íntegramente su derecho de preferencia puedan suscribir también las acciones que otros accionistas no adquirieron.
+
+Su finalidad es doble.
+
+- facilitar la colocación total de las acciones emitidas;
+
+- evitar el ingreso innecesario de terceros cuando los propios accionistas desean realizar el aporte.
+
+---
+
+# Ejemplo
+
+Carla renuncia a sus
+
+7.500 acciones.
+
+Ana y Bruno manifiestan interés en adquirirlas.
+
+Si ambas ejercen el derecho de acrecer,
+
+esas acciones se distribuirán entre ellos según el régimen previsto por la ley y el estatuto.
+
+Como consecuencia,
+
+Carla disminuirá su porcentaje de participación.
+
+Ana y Bruno lo incrementarán.
+
+---
+
+# Dilución del accionista
+
+Supongamos que Carla no suscribe ninguna acción.
+
+El capital pasa a estar representado por
+
+150.000 acciones.
+
+Carla continúa teniendo
+
+15.000 acciones.
+
+Ahora su participación será
+
+15.000 / 150.000
+
+=
+
+**10 %**
+
+No perdió acciones.
+
+Lo que disminuyó fue el porcentaje que representan dentro del nuevo capital.
+
+Este fenómeno recibe el nombre de
+
+## Dilución.
+
+---
+
+# Comparación
+
+## Antes del aumento
+
+| Accionista | Participación |
+|------------|--------------:|
+| Ana | 60 % |
+| Bruno | 25 % |
+| Carla | 15 % |
+
+---
+
+## Después del aumento (Carla no suscribe)
+
+| Accionista | Participación |
+|------------|--------------:|
+| Ana | 60 % (mantiene) |
+| Bruno | 30 % (aumenta por acrecer) |
+| Carla | 10 % (se diluye) |
+
+La finalidad del derecho de preferencia consiste precisamente en evitar esta pérdida de participación cuando el accionista desea mantenerla.
+
+---
+
+# La prima de emisión
+
+Las nuevas acciones no necesariamente deben emitirse por su valor nominal.
+
+Muchas veces la sociedad ha incrementado considerablemente su patrimonio.
+
+Si las nuevas acciones se emitieran únicamente por su valor nominal,
+
+los nuevos accionistas ingresarían beneficiándose del patrimonio acumulado por los antiguos.
+
+Para evitar esa situación,
+
+la ley admite la emisión con
+
+## Prima de emisión.
+
+---
+
+# Ejemplo
+
+Capital social:
+
+$100.000.000
+
+Patrimonio neto:
+
+$400.000.000
+
+Cada acción tiene un valor nominal de
+
+$1.000
+
+Pero su valor económico es mucho mayor.
+
+La sociedad decide emitir nuevas acciones por
+
+**$4.000**
+
+de los cuales:
+
+- Valor nominal → $1.000
+
+- Prima de emisión → $3.000
+
+De esta manera,
+
+el nuevo accionista paga el verdadero valor económico de su ingreso a la sociedad.
+
+---
+
+## Caso práctico — Prima de emisión
+
+### Caso
+
+**Innovación Farmacéutica S.A.** fue constituida hace diez años con un capital social de **$100.000.000**, representado por **100.000 acciones ordinarias** de valor nominal **$1.000** cada una.
+
+Gracias a los buenos resultados obtenidos, la sociedad incrementó considerablemente su patrimonio. Al cierre del último ejercicio presenta el siguiente patrimonio neto:
+
+- Capital social: **$100.000.000**
+- Reserva legal: **$20.000.000**
+- Reservas facultativas: **$180.000.000**
+- Resultados no asignados: **$150.000.000**
+
+**Patrimonio neto total: $450.000.000**
+
+La sociedad decide aumentar el capital mediante la emisión de **20.000 nuevas acciones** para incorporar a un inversor estratégico.
+
+El valor nominal de cada acción continúa siendo de **$1.000**.
+
+La asamblea resuelve que el nuevo accionista deberá pagar:
+
+- Valor nominal: **$1.000** por acción.
+- Prima de emisión: **$2.500** por acción.
+
+En consecuencia, el nuevo inversor desembolsa **$3.500** por cada acción suscripta.
+
+---
+
+## Solución
+
+La decisión de emitir acciones con **prima de emisión** resulta razonable y compatible con el principio de igualdad entre los accionistas.
+
+Si las acciones nuevas se emitieran únicamente a su valor nominal ($1.000), el nuevo inversor ingresaría a una sociedad cuyo patrimonio neto es muy superior al capital social pagando un importe significativamente inferior al valor económico real de su participación.
+
+En efecto, aunque el capital asciende a **$100.000.000**, el patrimonio neto es de **$450.000.000**. Existe, por lo tanto, un importante valor acumulado generado por la actividad de la sociedad y financiado por los accionistas originales.
+
+La **prima de emisión** evita que ese valor preexistente sea transferido gratuitamente al nuevo accionista y preserva la igualdad patrimonial entre los socios antiguos y el nuevo inversor.
+
+En este caso:
+
+- el **valor nominal** integra el capital social;
+- la **prima de emisión no integra el capital**, sino que se incorpora al patrimonio neto como una cuenta separada (generalmente dentro de las reservas o del aporte irrevocable según el tratamiento contable aplicable).
+
+De esta manera, el nuevo accionista paga un precio más cercano al verdadero valor económico de la sociedad, evitando una dilución injustificada de la participación patrimonial de los accionistas preexistentes.
+
+---
+
+# Ideas principales
+
+El aumento del capital constituye una herramienta esencial para financiar el crecimiento de la empresa.
+
+Durante ese procedimiento la ley procura equilibrar distintos intereses.
+
+- facilitar el ingreso de nuevos recursos;
+
+- proteger la posición de los accionistas existentes;
+
+- evitar diluciones indebidas;
+
+- preservar la igualdad entre accionistas;
+
+- impedir el enriquecimiento injustificado de quienes ingresan posteriormente al capital social.
+
+En la próxima sección analizaremos el fenómeno inverso:
+
+**la reducción del capital social**, sus clases y la tutela de los acreedores.
+
+---
+
+# La reducción del capital social
+
+Así como la sociedad puede necesitar aumentar su capital,
+
+también puede resultar conveniente o necesario reducirlo.
+
+La reducción no implica necesariamente una crisis.
+
+Puede obedecer a distintas finalidades.
+
+Entre ellas:
+
+- absorber pérdidas acumuladas;
+- devolver aportes a los accionistas;
+- adecuar el capital a las necesidades reales de la empresa;
+- reorganizar la estructura patrimonial.
+
+No toda reducción significa que la sociedad esté en dificultades económicas.
+
+---
+
+# Clases de reducción
+
+La doctrina distingue dos grandes categorías.
+
+## Reducción voluntaria
+
+La sociedad decide disminuir su capital por razones de conveniencia empresarial.
+
+Generalmente implica devolución de aportes o liberación de integraciones pendientes.
+
+---
+
+## Reducción obligatoria
+
+La ley impone la necesidad de adecuar el capital cuando las pérdidas han disminuido significativamente el patrimonio social.
+
+En este supuesto la reducción procura sincerar la verdadera situación patrimonial de la sociedad.
+
+---
+
+# Ejemplo de reducción por pérdidas
+
+Supongamos la siguiente situación.
+
+| Concepto | Importe |
+|----------|---------:|
+| Capital social | $300.000.000 |
+| Activo | $180.000.000 |
+| Pasivo | $140.000.000 |
+
+Patrimonio Neto:
+
+**$40.000.000**
+
+Sin embargo,
+
+el capital continúa siendo
+
+**$300.000.000**
+
+Existe una enorme diferencia entre la realidad económica y la cifra jurídica del capital.
+
+---
+
+# ¿Qué busca la reducción?
+
+La sociedad decide reducir el capital.
+
+Capital anterior:
+
+**$300.000.000**
+
+Nuevo capital:
+
+**$40.000.000**
+
+Obsérvese que no ingresó ni salió dinero.
+
+Tampoco cambiaron los bienes de la empresa.
+
+Lo único que cambió fue la cifra jurídica del capital,
+
+que ahora refleja adecuadamente el patrimonio existente.
+
+---
+
+# Antes y después
+
+## Antes
+
+Activo
+
+$180.000.000
+
+Pasivo
+
+$140.000.000
+
+Patrimonio Neto
+
+$40.000.000
+
+Capital
+
+$300.000.000
+
+---
+
+## Después
+
+Activo
+
+$180.000.000
+
+Pasivo
+
+$140.000.000
+
+Patrimonio Neto
+
+$40.000.000
+
+Capital
+
+$40.000.000
+
+La reducción no produjo ninguna modificación económica.
+
+Simplemente eliminó un capital ficticio.
+
+---
+
+# Reducción con devolución de aportes
+
+Existe otro supuesto.
+
+La sociedad posee un patrimonio ampliamente superior al capital y considera excesivos los recursos aportados.
+
+Ejemplo.
+
+Capital:
+
+$200.000.000
+
+Patrimonio Neto:
+
+$700.000.000
+
+La empresa no necesita mantener un capital tan elevado.
+
+La asamblea decide reducirlo a
+
+$150.000.000
+
+y devolver
+
+$50.000.000
+
+a los accionistas.
+
+Aquí sí existe una efectiva salida de bienes del patrimonio social.
+
+---
+
+# Ejemplo
+
+Ana posee el 60 % del capital.
+
+Bruno el 40 %.
+
+La sociedad devuelve
+
+$50.000.000
+
+Entonces:
+
+Ana recibe
+
+$30.000.000
+
+Bruno recibe
+
+$20.000.000
+
+Ambos conservan exactamente el mismo porcentaje de participación.
+
+Lo único que disminuye es el monto del capital.
+
+---
+
+# ¿Por qué la ley protege a los acreedores?
+
+Cuando la reducción implica devolución de aportes,
+
+el patrimonio de la sociedad disminuye.
+
+En consecuencia,
+
+los acreedores contarán con menos bienes para cobrar sus créditos.
+
+Por ello la ley establece un procedimiento especial destinado a permitir que los acreedores formulen oposición cuando la reducción pueda afectar sus derechos.
+
+La tutela deja de centrarse en los accionistas y pasa a proteger principalmente a los terceros.
+
+---
+
+# Ejemplo
+
+Antes de la reducción.
+
+Activo:
+
+$500.000.000
+
+Pasivo:
+
+$150.000.000
+
+Capital:
+
+$250.000.000
+
+La sociedad pretende devolver
+
+$180.000.000
+
+a los accionistas.
+
+Después de esa devolución,
+
+el patrimonio disponible para responder frente a los acreedores disminuiría considerablemente.
+
+Precisamente por ello la ley les concede mecanismos de protección.
+
+---
+
+# Aumento y reducción comparados
+
+| Aumento | Reducción |
+|---------|-----------|
+| Ingresan recursos | Pueden salir recursos |
+| Crece el capital | Disminuye el capital |
+| Puede incorporarse nuevos accionistas | No necesariamente cambia la composición accionaria |
+| Puede generar dilución | Generalmente mantiene los porcentajes |
+| Protege principalmente a los accionistas mediante el derecho de preferencia | Protege principalmente a los acreedores mediante el derecho de oposición |
+
+---
+
+# Caso integrador
+
+La sociedad "Construcciones del Sur S.A." presenta la siguiente situación.
+
+Capital social:
+
+**$100.000.000**
+
+Patrimonio Neto:
+
+**$450.000.000**
+
+Cinco años después decide ampliar su actividad.
+
+La asamblea aumenta el capital a
+
+**$180.000.000**
+
+Dos años más tarde vende una unidad de negocios y considera excesivo el capital comprometido.
+
+Decide reducirlo a
+
+**$140.000.000**
+
+Preguntas para analizar.
+
+- ¿Por qué fue conveniente aumentar el capital inicialmente?
+
+- ¿Por qué la posterior reducción no implica necesariamente una crisis?
+
+- ¿Qué intereses tutela la ley en cada uno de esos procedimientos?
+
+---
+
+# Ideas principales
+
+Las variaciones del capital social responden a necesidades cambiantes de la empresa.
+
+El aumento procura incorporar nuevos recursos o fortalecer el patrimonio.
+
+La reducción busca adecuar la cifra jurídica del capital a la realidad económica o devolver recursos que ya no resultan necesarios.
+
+En ambos casos la Ley General de Sociedades procura equilibrar tres intereses fundamentales:
+
+- el interés de la sociedad;
+- los derechos de los accionistas;
+- la protección de los acreedores sociales.
+
+Con estos institutos queda completo el régimen básico del capital social en la sociedad anónima.
+
+---
+
+# Capital, patrimonio y valor de las acciones
+
+Hasta ahora vimos que el capital y el patrimonio son conceptos distintos.
+
+Sin embargo, esa diferencia tiene una consecuencia práctica inmediata.
+
+El valor de una acción no necesariamente coincide con su valor nominal.
+
+Para comprender esta cuestión es necesario distinguir distintos conceptos de valor.
+
+---
+
+# Un mismo ejemplo
+
+Supongamos la siguiente sociedad.
+
+Capital social:
+
+**$100.000.000**
+
+Representado por
+
+**100.000 acciones**
+
+Valor nominal:
+
+**$1.000**
+
+Al cierre del ejercicio presenta el siguiente balance.
+
+| Concepto | Importe |
+|----------|---------:|
+| Activo | $600.000.000 |
+| Pasivo | $250.000.000 |
+
+Patrimonio Neto:
+
+**$350.000.000**
+
+---
+
+# Primer dato
+
+Cada acción tiene un
+
+## Valor nominal
+
+de
+
+**$1.000**
+
+Ese importe surge exclusivamente del capital social.
+
+No depende del patrimonio.
+
+No depende de las ganancias.
+
+No depende del mercado.
+
+Simplemente resulta de dividir el capital por la cantidad de acciones emitidas.
+
+---
+
+# Segundo dato
+
+Ahora calculemos el
+
+## Valor patrimonial proporcional (VPP)
+
+Patrimonio Neto
+
+$350.000.000
+
+Cantidad de acciones
+
+100.000
+
+Entonces:
+
+VPP
+
+=
+
+$350.000.000 ÷ 100.000
+
+=
+
+**$3.500 por acción**
+
+---
+
+# Comparación
+
+Cada acción presenta ahora dos valores diferentes.
+
+| Concepto | Valor |
+|----------|-------:|
+| Valor nominal | $1.000 |
+| Valor patrimonial proporcional | $3.500 |
+
+Las acciones siguen teniendo un valor nominal de $1.000.
+
+Pero cada una representa una porción del patrimonio cuyo valor asciende a $3.500.
+
+---
+
+# ¿Por qué ocurre esta diferencia?
+
+Porque durante la vida de la sociedad pueden acumularse:
+
+- utilidades;
+- reservas;
+- revalorización de activos;
+- resultados no distribuidos.
+
+Todo ello incrementa el patrimonio.
+
+Sin modificar el capital social.
+
+Por eso el valor económico de la acción suele separarse de su valor nominal.
+
+---
+
+# Tercer dato
+
+Supongamos ahora que la sociedad cotiza en Bolsa.
+
+Las acciones se negocian a
+
+**$4.800**
+
+Ese importe constituye el
+
+## Valor de mercado
+
+Depende de factores completamente distintos.
+
+- expectativas futuras;
+- rentabilidad;
+- riesgo;
+- oferta y demanda.
+
+Puede ser superior o inferior al valor patrimonial.
+
+---
+
+# Cuatro valores distintos
+
+La misma acción puede presentar simultáneamente.
+
+| Tipo de valor | Importe |
+|---------------|---------:|
+| Valor nominal | $1.000 |
+| Valor patrimonial proporcional | $3.500 |
+| Valor de mercado | $4.800 |
+| Valor de liquidación | Dependerá del resultado final de la liquidación |
+
+No existe contradicción.
+
+Cada uno responde a finalidades completamente distintas.
+
+---
+
+# Ejemplo de liquidación
+
+La sociedad decide disolverse.
+
+Durante la liquidación logra vender todos sus bienes.
+
+Activo realizado:
+
+$620.000.000
+
+Pasivo cancelado:
+
+$240.000.000
+
+Saldo final para distribuir:
+
+**$380.000.000**
+
+Cada acción recibirá
+
+$380.000.000 ÷ 100.000
+
+=
+
+**$3.800**
+
+Ese importe constituye el valor efectivo obtenido en la liquidación.
+
+---
+
+# ¿Cuál de estos valores utiliza la ley?
+
+Depende del instituto.
+
+Por ejemplo:
+
+- el capital social utiliza el valor nominal;
+
+- la valuación de participaciones para determinados supuestos puede apoyarse en el patrimonio;
+
+- la cotización bursátil responde al mercado;
+
+- la liquidación dependerá del producido final de realización de los bienes.
+
+No existe un único valor correcto.
+
+Cada instituto jurídico utiliza el que mejor responde a su finalidad.
+
+---
+
+# Caso integrador
+
+Ana posee
+
+10.000 acciones.
+
+Capital:
+
+$100.000.000
+
+Patrimonio Neto:
+
+$350.000.000
+
+Cotización bursátil:
+
+$4.800
+
+Entonces:
+
+Participación política:
+
+**10 %**
+
+Valor nominal de su participación:
+
+$10.000.000
+
+Valor patrimonial proporcional:
+
+$35.000.000
+
+Valor bursátil aproximado:
+
+$48.000.000
+
+La misma participación societaria admite distintas valuaciones según el criterio utilizado.
+
+---
+
+# Ideas principales
+
+Al estudiar las acciones es indispensable distinguir cuatro conceptos.
+
+- Capital social.
+- Valor nominal.
+- Patrimonio neto.
+- Valor económico de la participación.
+
+Confundir estos conceptos suele conducir a errores en temas tan diversos como:
+
+- derecho de receso;
+- prima de emisión;
+- valuación de acciones;
+- exclusión de socios;
+- reorganizaciones societarias;
+- liquidación de la sociedad.
+
+Comprender estas diferencias permite interpretar correctamente todo el régimen patrimonial de la sociedad anónima.
+
+---
+
+# Constitución de la sociedad anónima
+
+La sociedad anónima es una sociedad **formal**.
+
+No basta el acuerdo entre los futuros accionistas.
+
+Su constitución requiere el cumplimiento de una serie de requisitos legales destinados a proteger:
+
+- a los propios accionistas;
+- a los futuros acreedores;
+- al tráfico comercial.
+
+La omisión de alguno de estos requisitos puede impedir la inscripción de la sociedad o generar responsabilidad para quienes actúan durante el período de formación.
+
+---
+
+# Forma instrumental
+
+La constitución debe instrumentarse mediante escritura pública.
+
+En ella deben constar, entre otras cuestiones:
+
+- identidad de los accionistas;
+- denominación social;
+- domicilio;
+- objeto;
+- duración;
+- capital social;
+- clases de acciones;
+- integración de los aportes;
+- designación de las autoridades.
+
+La escritura constituye el instrumento básico de organización de la sociedad.
+
+---
+
+# El estatuto
+
+El estatuto funciona como la "constitución" de la sociedad.
+
+Regula las principales reglas de funcionamiento.
+
+Entre otras materias establece:
+
+- el objeto social;
+- el capital;
+- las clases de acciones;
+- el funcionamiento de los órganos;
+- las mayorías;
+- la distribución de utilidades;
+- las restricciones estatutarias permitidas por la ley.
+
+Una vez inscripto, resulta obligatorio para la sociedad, los accionistas y los órganos sociales.
+
+---
+
+# Ejemplo
+
+Tres emprendedores constituyen
+
+**Tecnología Aplicada S.A.**
+
+El estatuto establece:
+
+- Capital: $120.000.000
+
+- 120.000 acciones ordinarias de $1.000
+
+- Directorio integrado por tres miembros
+
+- Duración: 99 años
+
+- Objeto: desarrollo de software para entidades financieras
+
+A partir de ese estatuto se organizará toda la vida societaria.
+
+---
+
+# Constitución por acto único
+
+Es el sistema utilizado prácticamente en la totalidad de las sociedades anónimas.
+
+Todos los accionistas:
+
+- celebran simultáneamente el acto constitutivo;
+- suscriben la totalidad del capital;
+- designan las autoridades;
+- aprueban el estatuto.
+
+Luego se solicita la inscripción registral.
+
+La sociedad comienza su existencia regular una vez producida esa inscripción.
+
+---
+
+# Constitución sucesiva
+
+La Ley General de Sociedades también contempla la constitución mediante suscripción pública.
+
+En este sistema:
+
+- primero se promueve la constitución;
+- luego se invita al público a suscribir acciones;
+- finalmente se celebra la asamblea constitutiva.
+
+Su utilización práctica es actualmente excepcional.
+
+La enorme mayoría de las sociedades anónimas argentinas se constituyen por acto único.
+
+---
+
+# La sociedad en formación
+
+Entre la firma del acto constitutivo y la inscripción registral existe un período intermedio.
+
+Durante ese lapso la sociedad aún no se encuentra regularmente constituida.
+
+Sin embargo, muchas veces resulta necesario comenzar ciertas actividades.
+
+Por ejemplo:
+
+- alquilar un inmueble;
+- contratar empleados;
+- adquirir equipamiento;
+- abrir cuentas bancarias.
+
+La ley regula específicamente este período para proteger tanto a terceros como a los futuros accionistas.
+
+---
+
+# Ejemplo
+
+Los socios firman la escritura el
+
+**1 de marzo.**
+
+La inscripción se obtiene el
+
+**15 de abril.**
+
+El día
+
+**10 de marzo**
+
+celebran un contrato de locación por cinco años.
+
+Pregunta.
+
+¿Quién responde frente al locador si finalmente la sociedad nunca llega a inscribirse?
+
+Precisamente este tipo de situaciones explica la regulación de la sociedad en formación.
+
+---
+
+# Sociedad en formación
+
+Durante este período debe distinguirse:
+
+- actos indispensables para obtener la inscripción;
+
+- actos necesarios para iniciar normalmente la actividad prevista;
+
+- actos extraordinarios o ajenos al objeto social.
+
+La imputación de responsabilidad dependerá de la naturaleza del acto y del régimen previsto por la Ley General de Sociedades.
+
+---
+
+# La inscripción registral
+
+La inscripción posee una enorme trascendencia jurídica.
+
+Con ella la sociedad adquiere su condición de sociedad regularmente constituida.
+
+Desde ese momento:
+
+- actúa plenamente bajo el tipo elegido;
+- consolida la separación patrimonial respecto de los accionistas;
+- comienza a regir plenamente el sistema de responsabilidad propio de la sociedad anónima.
+
+Por ello suele afirmarse que la inscripción cumple una función constitutiva respecto de la regularidad de la sociedad.
+
+---
+
+# Sociedad Anónima Unipersonal (SAU)
+
+La reforma introducida por la Ley 26.994 incorporó la posibilidad de constituir sociedades anónimas con un único accionista.
+
+La SAU constituye una excepción al principio histórico de pluralidad.
+
+Sin embargo, la ley establece un régimen especialmente estricto destinado a proteger a los terceros.
+
+---
+
+# Particularidades de la SAU
+
+Entre otras exigencias especiales:
+
+- un único accionista desde el origen;
+- debe constituirse exclusivamente como sociedad anónima;
+- integración total del capital al momento de la constitución;
+- fiscalización estatal permanente;
+- sindicatura obligatoria.
+
+El legislador buscó compensar los riesgos derivados de la unipersonalidad mediante mayores controles.
+
+---
+
+# Modificaciones posteriores del estatuto
+
+La vida de la sociedad no termina con la inscripción.
+
+Con frecuencia será necesario modificar el estatuto.
+
+Por ejemplo:
+
+- aumentar o reducir el capital;
+- modificar el objeto;
+- cambiar la denominación;
+- trasladar el domicilio;
+- crear nuevas clases de acciones;
+- modificar el régimen de administración.
+
+Estas reformas requieren nuevamente el cumplimiento de los procedimientos previstos por la ley.
+
+---
+
+# Caso integrador
+
+Cuatro profesionales constituyen una sociedad anónima destinada al desarrollo de software.
+
+Durante la escritura fijan:
+
+- Capital: $200.000.000.
+
+- 200.000 acciones ordinarias.
+
+- Directorio de tres miembros.
+
+Una semana después alquilan oficinas y compran equipamiento.
+
+La inscripción registral se obtiene cuarenta días más tarde.
+
+Preguntas para analizar.
+
+- ¿Qué actos pueden realizar durante la etapa de formación?
+
+- ¿Qué finalidad cumple la inscripción?
+
+- ¿Cuándo comienza a funcionar plenamente el régimen de responsabilidad propio de la sociedad anónima?
+
+---
+
+# Conclusiones
+
+La sociedad anónima constituye el principal instrumento jurídico de organización de empresas de capital.
+
+Su régimen gira alrededor de tres grandes ejes.
+
+- Constitución formal mediante escritura e inscripción.
+
+- Capital social como instrumento de organización y garantía.
+
+- Protección equilibrada de accionistas, acreedores y terceros.
+
+Comprender estos principios permite interpretar correctamente el régimen de las acciones, los órganos sociales, las modificaciones estatutarias y las operaciones de reorganización que serán desarrolladas en las clases siguientes.
+
+---
+
+# ¿Qué representa una acción?
+
+Hasta ahora analizamos el capital social como una cifra jurídica.
+
+Sin embargo, ese capital se encuentra dividido en partes iguales.
+
+Cada una de esas partes recibe el nombre de
+
+## Acción
+
+La acción representa la unidad mínima en que se divide el capital de una sociedad anónima.
+
+---
+
+# La acción como medida de participación
+
+Supongamos:
+
+Capital social
+
+**$100.000.000**
+
+Dividido en
+
+**100.000 acciones**
+
+Valor nominal
+
+**$1.000**
+
+Quien adquiere:
+
+- 1 acción participa en el 0,001 % del capital.
+
+- 10.000 acciones participa en el 10 %.
+
+- 60.000 acciones participa en el 60 %.
+
+La acción mide la participación del accionista dentro de la sociedad.
+
+---
+
+# ¿Qué derechos otorga una acción?
+
+Cada acción incorpora un conjunto de derechos.
+
+Entre ellos:
+
+- participar en las asambleas;
+
+- votar;
+
+- percibir dividendos;
+
+- ejercer el derecho de preferencia;
+
+- participar en la liquidación.
+
+En consecuencia,
+
+la acción no representa solamente dinero.
+
+Representa una posición jurídica dentro de la sociedad.
+
+---
+
+# Ejemplo
+
+Capital:
+
+$120.000.000
+
+120.000 acciones.
+
+Ana posee
+
+24.000 acciones.
+
+Entonces:
+
+Participación:
+
+20 %
+
+Si la asamblea distribuye dividendos por
+
+$36.000.000
+
+Ana tendrá derecho a percibir
+
+20 %
+
+=
+
+$7.200.000
+
+La acción determina tanto derechos políticos como económicos.
+
+---
+
+# Las acciones no son todas iguales
+
+La Ley General de Sociedades admite distintas clases de acciones.
+
+Por ejemplo:
+
+- acciones ordinarias;
+
+- acciones preferidas;
+
+- distintas categorías con derechos especiales.
+
+Todas representan una participación en el capital,
+
+pero no necesariamente confieren exactamente los mismos derechos.
+
+Su estudio será desarrollado al analizar el régimen jurídico de las acciones.
+
+---
+
+# Integrando los conceptos
+
+Una sociedad presenta la siguiente situación.
+
+Capital:
+
+$200.000.000
+
+200.000 acciones
+
+Valor nominal:
+
+$1.000
+
+Patrimonio Neto:
+
+$500.000.000
+
+Ana posee
+
+50.000 acciones.
+
+Entonces:
+
+- Participación política: **25 %**
+
+- Valor nominal de su participación: **$50.000.000**
+
+- Valor patrimonial proporcional: **$125.000.000**
+
+La acción constituye el nexo entre el capital social y los derechos del accionista.
+
+---
+
+# Síntesis general de la clase
+
+Durante esta clase analizamos cuatro grandes cuestiones.
+
+## Constitución
+
+- escritura pública;
+- estatuto;
+- inscripción;
+- sociedad en formación;
+- SAU.
+
+## Capital social
+
+- concepto;
+- funciones;
+- principios.
+
+## Variaciones
+
+- aumento;
+- reducción;
+- tutela de accionistas y acreedores.
+
+## Acción
+
+- unidad de participación en el capital;
+- fuente de derechos políticos y económicos.
+
+En la próxima clase estudiaremos el régimen jurídico de las acciones y los órganos de la sociedad anónima.
+
+---
+
+# Principios del capital social
+
+El régimen del capital social se encuentra construido sobre una serie de principios destinados a proteger tanto a los accionistas como a los acreedores.
+
+Entre los principales pueden mencionarse:
+
+- determinación;
+- unidad;
+- estabilidad;
+- efectividad;
+- intangibilidad.
+
+Estos principios permiten interpretar la mayor parte de las normas relativas al capital social.
+
+---
+
+# Determinación
+
+El capital debe encontrarse determinado desde la constitución de la sociedad.
+
+No puede existir un capital indeterminado o librado a decisiones futuras.
+
+La cifra debe surgir claramente del estatuto.
+
+## Ejemplo
+
+No sería válido establecer:
+
+> "El capital será el que oportunamente decidan los accionistas."
+
+En cambio, sí resulta válido:
+
+Capital social:
+
+**$200.000.000**
+
+dividido en
+
+200.000 acciones de valor nominal $1.000.
+
+---
+
+# Unidad
+
+El capital social constituye una única cifra jurídica.
+
+No existen "capitales distintos" para cada accionista.
+
+Todos los aportes se incorporan al patrimonio de la sociedad.
+
+## Ejemplo
+
+Ana aporta
+
+$80.000.000
+
+Bruno aporta
+
+$120.000.000
+
+No existen dos capitales.
+
+Existe un único capital social de
+
+**$200.000.000**.
+
+---
+
+# Estabilidad
+
+El capital permanece invariable hasta que sea modificado mediante los procedimientos previstos por la ley.
+
+Las ganancias no aumentan automáticamente el capital.
+
+Las pérdidas tampoco lo reducen automáticamente.
+
+## Ejemplo
+
+Capital:
+
+$150.000.000
+
+La sociedad obtiene ganancias por
+
+$90.000.000
+
+El patrimonio aumenta.
+
+El capital continúa siendo
+
+$150.000.000
+
+---
+
+# Efectividad
+
+El capital debe corresponder a aportes reales.
+
+No puede integrarse mediante bienes inexistentes.
+
+Tampoco mediante créditos ilusorios o bienes deliberadamente sobrevaluados.
+
+## Ejemplo
+
+Una maquinaria vale realmente
+
+$30.000.000
+
+No puede aportarse diciendo que vale
+
+$90.000.000
+
+porque el capital dejaría de reflejar la realidad patrimonial.
+
+---
+
+# Intangibilidad
+
+La sociedad no puede devolver libremente el capital a los accionistas.
+
+Mientras existan acreedores,
+
+el capital constituye una referencia patrimonial cuya disminución exige el cumplimiento de requisitos legales.
+
+Por ello la reducción de capital se encuentra especialmente regulada por la Ley General de Sociedades.
+
+---
+
+# Caso integrador
+
+La sociedad posee:
+
+Capital:
+
+$500.000.000
+
+Patrimonio:
+
+$900.000.000
+
+La asamblea decide distribuir
+
+$350.000.000
+
+a los accionistas.
+
+Pregunta.
+
+¿Puede hacerlo libremente?
+
+La respuesta dependerá de distinguir:
+
+- distribución de utilidades;
+- devolución de aportes;
+- reducción de capital;
+- tutela de los acreedores.
+
+Los principios del capital social permiten resolver correctamente este tipo de situaciones.

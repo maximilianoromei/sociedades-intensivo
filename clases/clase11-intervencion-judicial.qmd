@@ -1,0 +1,1836 @@
+---
+title: "Clase 11 — Intervención Judicial"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Intervención judicial de sociedades
+## Naturaleza, procedimiento y alcances
+### Arts. 113 a 117 LGS
+
+---
+
+# La administración societaria como presupuesto del instituto
+
+La intervención judicial constituye uno de los mecanismos más intensos de tutela del interés social previstos por la Ley General de Sociedades.
+
+Su existencia sólo puede comprenderse si previamente se advierte una característica propia de la organización societaria: la administración de la sociedad se encuentra confiada a un órgano que actúa con autonomía funcional y cuyos actos son considerados jurídicamente actos de la propia persona jurídica.
+
+Los administradores no son mandatarios de los socios.
+
+Son órganos de la sociedad.
+
+Por ello:
+
+- ejercen la gestión ordinaria del patrimonio social;
+- representan a la sociedad frente a terceros;
+- adoptan decisiones sin requerir autorización permanente de los socios.
+
+Esta autonomía resulta indispensable para el funcionamiento dinámico de la empresa.
+
+Sin embargo, la misma autonomía que permite administrar eficazmente puede transformarse en una fuente de graves abusos cuando quienes ejercen la administración utilizan sus facultades en perjuicio de la sociedad o de los socios.
+
+Precisamente para esos supuestos aparece la intervención judicial.
+
+Ninguno de los tres autores presenta al instituto como un mecanismo de revisión general de la gestión empresaria.
+
+Por el contrario, todos parten de una idea común:
+
+> la intervención judicial constituye una excepción al principio de autonomía de los órganos sociales.
+
+---
+
+# ¿Por qué existe la intervención judicial?
+
+Vitolo parte de una idea especialmente interesante.
+
+La administración posee un amplio margen de discrecionalidad.
+
+No todo acto inconveniente autoriza la intervención del juez.
+
+Los administradores pueden equivocarse.
+
+Pueden adoptar negocios riesgosos.
+
+Pueden realizar inversiones que luego resulten desacertadas.
+
+Nada de ello justifica, por sí solo, la intromisión judicial.
+
+Lo relevante no es el desacierto económico.
+
+Lo relevante es la utilización ilegítima de las facultades de administración.
+
+La ley procura evitar que actos u omisiones de los administradores produzcan un daño grave antes de que el órgano de gobierno pueda reaccionar.
+
+Como explica Vitolo, el control natural de la administración corresponde a los socios.
+
+Pero ese control muchas veces llega demasiado tarde.
+
+Cuando la asamblea finalmente decide remover a los administradores, el perjuicio puede haberse consumado.
+
+La intervención judicial aparece entonces como un remedio urgente destinado a impedir que la sentencia de remoción llegue cuando el daño ya resulta irreversible. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Concepto
+
+Nissen define la intervención judicial como una típica medida cautelar societaria prevista por los arts. 113 a 117 de la Ley General de Sociedades.
+
+Su finalidad consiste en impedir que, mientras tramita la acción de remoción, los administradores continúen ejerciendo libremente una administración que ha sido seriamente cuestionada.
+
+No constituye una sanción.
+
+No implica adelantar opinión sobre la responsabilidad definitiva del administrador.
+
+Su función consiste exclusivamente en preservar el interés social durante la tramitación del proceso principal.
+
+Por ello la intervención judicial presenta cuatro notas esenciales:
+
+- es una medida cautelar;
+- tiene carácter instrumental;
+- posee duración transitoria;
+- depende, como regla, de una acción principal de remoción. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Finalidad inmediata del instituto
+
+La intervención judicial persigue evitar que el proceso principal pierda utilidad.
+
+Si el administrador continúa ejerciendo normalmente sus funciones durante varios años de litigio puede:
+
+- celebrar nuevos contratos;
+- disponer de bienes sociales;
+- alterar la documentación;
+- ocultar operaciones;
+- profundizar el perjuicio denunciado.
+
+Cuando finalmente recaiga sentencia removiéndolo, esa decisión podría resultar prácticamente inútil.
+
+Por ello la medida cautelar no protege únicamente el patrimonio social.
+
+También protege:
+
+- el normal funcionamiento de la sociedad;
+- el ejercicio de los derechos políticos de los socios;
+- la regularidad institucional del ente.
+
+Nissen destaca expresamente que el peligro grave no debe limitarse al patrimonio sino que comprende cualquier situación que comprometa el funcionamiento de la sociedad o vulnere derechos fundamentales del socio. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Naturaleza jurídica
+
+Existe consenso doctrinario en considerar que la intervención judicial posee naturaleza cautelar.
+
+Ello implica varias consecuencias jurídicas.
+
+Primero.
+
+No decide definitivamente el conflicto.
+
+Segundo.
+
+Subsiste únicamente mientras resulte necesaria.
+
+Tercero.
+
+Debe fundarse en una situación de urgencia.
+
+Cuarto.
+
+Debe existir una acción principal cuya eficacia pretende asegurar.
+
+Gebhardt explica que la medida posee carácter asegurativo.
+
+Su finalidad consiste en evitar que la sentencia que eventualmente remueva al administrador llegue cuando los socios ya hayan sufrido el perjuicio cuya prevención justificó el proceso.
+
+En otras palabras:
+
+la intervención no reemplaza la sentencia.
+
+Hace posible que la sentencia conserve utilidad práctica. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Carácter excepcional
+
+Los tres autores coinciden en que la intervención judicial constituye un instituto excepcional.
+
+La administración corresponde naturalmente a los órganos previstos por el contrato social.
+
+No al juez.
+
+La intervención supone que un órgano estatal penetre transitoriamente en el funcionamiento interno de una persona jurídica privada.
+
+Esa circunstancia explica que la ley exija requisitos especialmente rigurosos para su procedencia.
+
+Ahora bien, a partir de este punto aparecen diferencias doctrinarias.
+
+Gebhardt acepta que el carácter excepcional justifica una apreciación particularmente prudente del instituto.
+
+Vitolo también reconoce esa excepcionalidad, aunque critica los excesos jurisprudenciales.
+
+Nissen adopta una posición mucho más crítica.
+
+Entiende que el denominado "criterio restrictivo" previsto por el art. 114 ha generado una indebida resistencia judicial para utilizar un instrumento que muchas veces constituye el único medio eficaz para proteger a la sociedad frente a administradores infieles. 
+
+---
+
+---
+
+# La intervención judicial y la acción de remoción
+
+Uno de los aspectos más importantes del régimen consiste en comprender que la intervención judicial no constituye, como regla, una acción autónoma.
+
+El proceso principal es la **acción de remoción del administrador**.
+
+La intervención aparece únicamente para asegurar que esa acción conserve eficacia durante su tramitación.
+
+El legislador parte de una idea sencilla.
+
+Si quien administra continúa ejerciendo plenamente sus facultades mientras se desarrolla el proceso de remoción, puede producirse exactamente aquello que el actor pretende evitar:
+
+- agravamiento del perjuicio;
+- desaparición de documentación;
+- ocultamiento de pruebas;
+- celebración de nuevos actos dañosos;
+- frustración del funcionamiento normal de la sociedad.
+
+Por ello la intervención judicial no constituye el objeto principal del litigio.
+
+Constituye la tutela cautelar del objeto principal.
+
+Los tres autores coinciden en este punto.
+
+Nissen afirma expresamente que la demanda de remoción constituye un trámite esencial para solicitar la intervención judicial, pues esta última apunta únicamente al reemplazo temporario del órgano de administración mientras se sustancia el proceso principal. :contentReference[oaicite:0]{index=0}
+
+Vitolo desarrolla la misma idea señalando que la accesoriedad no deriva simplemente de la naturaleza cautelar de la medida, sino de la imposibilidad jurídica de solicitarla autónomamente. La acción de remoción constituye el verdadero proceso de conocimiento; la intervención sólo preserva la eficacia de la futura sentencia. :contentReference[oaicite:1]{index=1}
+
+---
+
+# ¿La intervención judicial siempre requiere una acción de remoción?
+
+Aquí aparece uno de los aportes doctrinarios más interesantes.
+
+La respuesta legal parecería ser afirmativa.
+
+Sin embargo, tanto Nissen como Vitolo sostienen que existen situaciones excepcionales en las cuales la intervención judicial resulta procedente aun sin la promoción previa de la acción de remoción.
+
+No porque desaparezca su naturaleza cautelar.
+
+Sino porque el problema deja de ser la permanencia del administrador y pasa a ser la supervivencia misma de la sociedad.
+
+Los ejemplos más importantes son:
+
+- acefalía absoluta del órgano de administración;
+- desaparición total de los administradores;
+- fallecimiento simultáneo de quienes administraban;
+- imposibilidad material de funcionamiento de los órganos sociales.
+
+En esos casos ya no existe un administrador cuya remoción pueda perseguirse.
+
+Sin embargo, la sociedad continúa necesitando un órgano que la represente para evitar su paralización.
+
+Nissen sostiene que, frente a estos supuestos extraordinarios, la jurisprudencia ha admitido la intervención como medida autosatisfactiva. :contentReference[oaicite:2]{index=2}
+
+Vitolo arriba a idéntica conclusión al analizar los supuestos de vacancia total de la administración y de la fiscalización. :contentReference[oaicite:3]{index=3}
+
+---
+
+# La lógica del procedimiento
+
+El procedimiento previsto por los arts. 113 y siguientes responde a una secuencia lógica.
+
+No comienza con el pedido cautelar.
+
+Comienza mucho antes.
+
+El legislador procura evitar que todo conflicto societario termine inmediatamente judicializado.
+
+Por ello exige que el socio recurra previamente a los mecanismos internos de solución previstos por la ley y por el contrato.
+
+Sólo cuando esos mecanismos fracasan aparece la jurisdicción.
+
+La secuencia normal es la siguiente.
+
+```text
+Conflicto societario
+
+        │
+        ▼
+
+Actos u omisiones del administrador
+
+        │
+        ▼
+
+Utilización de los remedios internos
+
+        │
+        ▼
+
+Persistencia del peligro grave
+
+        │
+        ▼
+
+Promoción de la acción de remoción
+
+        │
+        ▼
+
+Pedido cautelar de intervención
+
+        │
+        ▼
+
+Resolución judicial
+
+        │
+        ▼
+
+Designación del tipo de intervención
+```
+
+La intervención judicial constituye, por lo tanto, el último eslabón de una cadena de mecanismos de protección.
+
+---
+
+# Primer requisito: legitimación activa
+
+La ley comienza delimitando quién puede pedir una medida tan intensa.
+
+No cualquier tercero.
+
+No cualquier acreedor.
+
+No cualquier interesado.
+
+Como regla general, el art. 114 exige acreditar la calidad de socio.
+
+La razón es evidente.
+
+La intervención importa una profunda injerencia en el funcionamiento de una persona jurídica privada.
+
+Sólo quien posee un interés societario directo puede solicitar semejante medida.
+
+Nissen observa que esta solución legal resulta insuficiente.
+
+Considera que también debería encontrarse legitimada la sindicatura cuando advierta maniobras gravemente perjudiciales para el patrimonio social.
+
+Incluso sostiene que, tratándose de sociedades unipersonales, el síndico debería tener el deber de solicitar judicialmente la intervención frente a administraciones fraudulentas del socio único. :contentReference[oaicite:4]{index=4}
+
+---
+
+# La posición de Vitolo sobre la legitimación
+
+Vitolo desarrolla la cuestión con mayor amplitud.
+
+Distingue diversos sujetos legitimados.
+
+## a) Los socios
+
+Constituyen el legitimado natural.
+
+Deben acreditar su calidad de tales conforme al tipo societario correspondiente.
+
+En las sociedades regularmente constituidas ello normalmente no ofrece dificultades.
+
+En las sociedades de hecho o irregulares podrá acreditarse por cualquier medio probatorio admitido por el derecho común. :contentReference[oaicite:5]{index=5}
+
+---
+
+# ¿Puede solicitarla la sindicatura?
+
+La respuesta legal no es sencilla.
+
+El art. 114 no menciona al síndico.
+
+Sin embargo, Vitolo entiende que no debe descartarse totalmente su legitimación.
+
+Mientras la administración funcione normalmente, el síndico no reemplaza a los socios.
+
+Pero cuando existe:
+
+- vacancia absoluta;
+- imposibilidad de funcionamiento;
+- ausencia de administradores;
+- incapacidad;
+- fallecimiento;
+- paralización de los órganos sociales,
+
+la sindicatura puede encontrarse obligada a actuar para evitar la desaparición práctica de la sociedad.
+
+Vitolo fundamenta esta solución en las funciones institucionales del órgano de fiscalización y en el art. 258 LGS, que le reconoce determinadas atribuciones frente a la vacancia administrativa. :contentReference[oaicite:6]{index=6}
+
+Nissen arriba prácticamente a la misma conclusión, aunque desde una perspectiva crítica respecto del texto legal. :contentReference[oaicite:7]{index=7}
+
+---
+
+# La legitimación de la autoridad de contralor
+
+Existe un segundo supuesto legal.
+
+La intervención también puede ser promovida por la autoridad estatal de fiscalización.
+
+Aquí cambia completamente el fundamento.
+
+Ya no se tutela exclusivamente el interés social.
+
+Se protege el interés público.
+
+Por ello el art. 303 LGS autoriza a la autoridad de control a solicitar judicialmente la intervención de determinadas sociedades cuando existan resoluciones violatorias de la ley, del estatuto o del interés público.
+
+Especialmente:
+
+- sociedades comprendidas en el régimen del art. 299;
+- sociedades con oferta pública;
+- entidades que captan ahorro público;
+- sociedades sometidas a fiscalización permanente.
+
+Vitolo destaca que, en estos casos, la intervención no procura únicamente preservar a los socios.
+
+Procura también preservar la confianza del público y la regularidad del mercado. :contentReference[oaicite:8]{index=8}
+
+Gebhardt coincide en que la autoridad administrativa nunca puede intervenir directamente una sociedad.
+
+Sólo puede requerir que lo haga el Poder Judicial, respetando la división constitucional de poderes.
+
+---
+
+# Segundo requisito: la existencia de peligro grave
+
+No alcanza con demostrar que existe un conflicto societario.
+
+Tampoco basta acreditar diferencias personales entre socios.
+
+Ni siquiera resulta suficiente probar la existencia de irregularidades administrativas.
+
+La ley exige algo más.
+
+Exige que tales actos u omisiones coloquen a la sociedad en una situación de **peligro grave**.
+
+Este requisito constituye el verdadero eje del instituto.
+
+La intervención judicial sólo se justifica cuando la permanencia del administrador durante el trámite del proceso puede ocasionar un perjuicio de entidad suficiente para tornar ilusoria la futura sentencia de remoción.
+
+Por esa razón el juez no analiza únicamente la ilegalidad de la conducta.
+
+Analiza, sobre todo, la intensidad del riesgo que dicha conducta proyecta sobre la vida de la sociedad.
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
+# ¿Qué significa "peligro grave"?
+
+La expresión utilizada por el art. 113 es deliberadamente amplia.
+
+No existe una enumeración legal de conductas.
+
+La valoración queda librada al juez.
+
+Sin embargo, la doctrina ha construido algunos criterios relativamente estables.
+
+No cualquier incumplimiento configura peligro grave.
+
+Debe tratarse de una situación capaz de comprometer seriamente:
+
+- el patrimonio social;
+- el funcionamiento de la administración;
+- la regularidad institucional;
+- los derechos esenciales de los socios.
+
+Nissen critica las interpretaciones excesivamente patrimonialistas.
+
+Sostiene que el peligro grave no debe limitarse al riesgo económico.
+
+También comprende toda afectación relevante del funcionamiento de la sociedad o de los derechos fundamentales de los socios.
+
+En otras palabras, una sociedad puede encontrarse en peligro aun cuando su patrimonio permanezca intacto.
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# La ampliación del concepto realizada por Vitolo
+
+Vitolo desarrolla todavía más esta idea.
+
+A su juicio, la finalidad del instituto no consiste exclusivamente en evitar pérdidas patrimoniales.
+
+La protección comprende también la preservación del correcto funcionamiento de los órganos sociales.
+
+Por ello sostiene que pueden justificar la intervención situaciones como:
+
+- frustración permanente de los derechos políticos de la minoría;
+- utilización abusiva de las mayorías;
+- paralización deliberada de los órganos sociales;
+- exclusión sistemática de determinados socios del funcionamiento societario.
+
+La lesión puede recaer directamente sobre los derechos societarios sin que exista todavía un daño económico inmediato.
+
+Esperar a que aparezca el perjuicio patrimonial equivaldría, muchas veces, a tornar inútil la tutela cautelar.
+
+:contentReference[oaicite:2]{index=2}
+
+---
+
+# La diferencia entre ilegalidad y peligro
+
+Es importante distinguir dos conceptos que frecuentemente aparecen confundidos.
+
+No toda ilegalidad produce peligro grave.
+
+Y no todo peligro grave deriva necesariamente de una conducta manifiestamente ilícita.
+
+Puede existir una administración técnicamente válida pero absolutamente paralizada.
+
+Puede existir una administración incapaz de adoptar decisiones esenciales.
+
+Puede existir una acefalía completa.
+
+En esos supuestos el problema no consiste tanto en la ilicitud de los actos como en la imposibilidad práctica de funcionamiento de la sociedad.
+
+Por ello la intervención judicial no constituye un mecanismo sancionatorio.
+
+Constituye un instrumento preventivo.
+
+Su finalidad consiste en impedir que la situación existente continúe agravándose.
+
+---
+
+# Casos que la jurisprudencia ha considerado configurativos del peligro grave
+
+Nissen realiza una extensa recopilación jurisprudencial particularmente útil para comprender cómo ha sido interpretado el instituto.
+
+Los tribunales han admitido la intervención, entre otros supuestos, cuando existía:
+
+- condena penal de los administradores;
+- enfrentamiento irreconciliable entre dos grupos titulares del 50 % del capital;
+- abandono de la administración;
+- subfacturación sistemática;
+- confección de balances falsos;
+- retención indebida de acciones para impedir el ejercicio de derechos políticos;
+- administración de hecho ejercida por quien desplazó al órgano regularmente constituido;
+- enajenación de bienes sociales a precio vil;
+- incumplimiento deliberado de decisiones asamblearias;
+- desaparición de libros sociales;
+- grave atraso de la contabilidad;
+- existencia simultánea de dos órganos de administración enfrentados entre sí.
+
+Obsérvese que muchas de estas situaciones no implican todavía un daño económico consumado.
+
+Lo determinante es el riesgo cierto que proyectan sobre la continuidad y regularidad del funcionamiento societario.
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# Tercer requisito: agotamiento de los remedios internos
+
+Probablemente éste sea el requisito que mejor refleja el carácter excepcional del instituto.
+
+La ley no autoriza al socio a acudir inmediatamente al juez.
+
+Antes debe intentar solucionar el conflicto dentro de la propia organización societaria.
+
+La intervención judicial aparece únicamente cuando esos mecanismos han fracasado.
+
+La lógica es sencilla.
+
+Mientras la sociedad pueda resolver el problema utilizando sus propios órganos, el Poder Judicial debe permanecer al margen.
+
+Sólo cuando el funcionamiento interno demuestra ser insuficiente para corregir la situación resulta legítima la intervención jurisdiccional.
+
+---
+
+# ¿Qué significa agotar los remedios internos?
+
+No existe una fórmula única.
+
+Dependerá del tipo societario y del conflicto planteado.
+
+Sin embargo, Nissen identifica como ejemplos típicos:
+
+- formular denuncias ante la sindicatura;
+- requerir la convocatoria de la asamblea;
+- utilizar los mecanismos previstos por el contrato social;
+- intentar que los propios órganos sociales remuevan al administrador cuestionado.
+
+La idea central consiste en demostrar que el conflicto fue planteado institucionalmente y que esos mecanismos resultaron ineficaces.
+
+Sólo entonces queda habilitada la tutela cautelar.
+
+:contentReference[oaicite:4]{index=4}
+
+---
+
+# La explicación de Vitolo
+
+Vitolo desarrolla este requisito desde una perspectiva funcional.
+
+Afirma que la intervención judicial constituye **el último recurso** del socio.
+
+No el primero.
+
+El socio debe demostrar que intentó impedir la continuación del acto dañoso utilizando las herramientas previstas por la ley y por el contrato.
+
+La intervención sólo aparece cuando esas herramientas ya no permiten evitar el perjuicio.
+
+En consecuencia, el proceso judicial no sustituye el funcionamiento de la sociedad.
+
+Lo presupone.
+
+Y sólo interviene cuando dicho funcionamiento ha fracasado.
+
+:contentReference[oaicite:5]{index=5}
+
+---
+
+# La flexibilización jurisprudencial
+
+La exigencia de agotar los remedios internos no posee carácter absoluto.
+
+La propia jurisprudencia ha comprendido que, en determinados supuestos, exigir ese requisito implicaría privar completamente al socio de tutela judicial.
+
+Nissen menciona dos situaciones paradigmáticas.
+
+La primera.
+
+Cuando el accionista carece del porcentaje accionario necesario para convocar la asamblea.
+
+La segunda.
+
+Cuando tampoco reúne la participación mínima exigida para requerir la actuación de la sindicatura.
+
+En tales hipótesis, exigir el agotamiento previo equivaldría a imponer un requisito imposible de cumplir.
+
+Por ello los tribunales han admitido directamente la intervención judicial.
+
+:contentReference[oaicite:6]{index=6}
+
+---
+
+# La posición de Vitolo sobre la flexibilización
+
+Vitolo comparte esa solución.
+
+Explica que el agotamiento de los remedios internos deja de ser exigible cuando la participación del socio torna manifiestamente inútil cualquier intento de obtener una decisión favorable dentro de la sociedad.
+
+No tendría sentido exigir:
+
+- convocatoria de una asamblea imposible de obtener;
+- votaciones inevitablemente perdidas;
+- intimaciones destinadas al fracaso.
+
+La ley no puede imponer actos inútiles.
+
+Por ello corresponde analizar cada caso concreto.
+
+La verdadera finalidad del requisito consiste en impedir la judicialización prematura de conflictos societarios.
+
+No en impedir el acceso a la tutela judicial efectiva.
+
+:contentReference[oaicite:7]{index=7}
+
+---
+
+# El procedimiento hasta este momento
+
+```text
+Administración irregular
+
+        │
+        ▼
+
+Existencia de peligro grave
+
+        │
+        ▼
+
+Intento de solución mediante
+los órganos societarios
+
+        │
+        ▼
+
+Fracaso de los remedios internos
+
+        │
+        ▼
+
+Acción judicial de remoción
+
+        │
+        ▼
+
+Solicitud cautelar
+de intervención
+```
+
+Hasta aquí todavía no existe intervención.
+
+Recién una vez acreditados estos presupuestos el juez pasa a examinar:
+
+- la verosimilitud del derecho;
+- el peligro en la demora;
+- la clase de intervención adecuada;
+- la contracautela;
+- el alcance concreto de las facultades del interventor.
+
+---
+
+---
+
+# La decisión judicial
+
+Superada la etapa relativa a la legitimación, la existencia de peligro grave y el agotamiento de los remedios internos, el juez debe resolver si corresponde intervenir la administración de la sociedad.
+
+Esta decisión no se limita a responder "sí" o "no".
+
+Existe una segunda cuestión, muchas veces más importante.
+
+En caso de admitir la medida:
+
+**¿con qué intensidad debe intervenirse la administración?**
+
+La respuesta surge del art. 115 LGS.
+
+La ley no establece una única modalidad de intervención.
+
+Prevé una verdadera graduación de la injerencia judicial.
+
+El principio que inspira todo el sistema puede resumirse del siguiente modo:
+
+> el juez debe escoger siempre la medida menos invasiva que resulte suficiente para neutralizar el peligro acreditado.
+
+Esta idea atraviesa las tres obras.
+
+La intervención nunca constituye un castigo para el administrador.
+
+Es una medida funcional destinada exclusivamente a eliminar el riesgo mientras tramita el proceso principal.
+
+:contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+---
+
+# El principio de proporcionalidad
+
+La intensidad de la intervención debe guardar relación con la gravedad de los hechos acreditados.
+
+No sería razonable desplazar completamente a un directorio cuando el único problema consiste en obtener determinada información contable.
+
+Tampoco sería suficiente limitarse a designar un veedor cuando existen maniobras fraudulentas que exigen impedir inmediatamente que el administrador continúe disponiendo del patrimonio social.
+
+Por ello la ley estructura una escala de intervención creciente.
+
+```text
+Menor intensidad
+        │
+        ▼
+
+Veedor
+
+        │
+
+Coadministrador
+
+        │
+
+Administrador judicial
+
+        ▼
+Mayor intensidad
+```
+
+Cada escalón implica una restricción mayor sobre las facultades del órgano natural de administración.
+
+---
+
+# El veedor
+
+El veedor constituye la forma menos intensa de intervención.
+
+No administra.
+
+No representa a la sociedad.
+
+No reemplaza a los administradores.
+
+Su función consiste únicamente en observar, investigar e informar.
+
+Es, por decirlo de alguna manera, los "ojos del juez" dentro de la sociedad.
+
+La administración continúa funcionando normalmente.
+
+Los administradores conservan todas sus atribuciones.
+
+Lo único que cambia es que un funcionario judicial controla determinadas actividades y comunica sus conclusiones al tribunal.
+
+Por ello suele afirmarse que la veeduría constituye una intervención **informativa**, no **administrativa**.
+
+---
+
+# ¿Cuándo corresponde designar un veedor?
+
+Los tres autores coinciden en que la veeduría resulta adecuada cuando todavía existen dudas acerca de la verdadera magnitud de las irregularidades denunciadas.
+
+Gebhardt explica que el juez puede optar por esta solución cuando aún no existe suficiente certeza sobre la verosimilitud del derecho o sobre la gravedad de los hechos invocados.
+
+Antes de desplazar administradores legítimamente designados, resulta prudente obtener una visión objetiva del funcionamiento societario.
+
+El veedor cumple precisamente esa finalidad.
+
+:contentReference[oaicite:2]{index=2}
+
+---
+
+# Supuestos típicos de veeduría
+
+Nissen identifica algunos casos en los cuales la jurisprudencia ha recurrido habitualmente a esta modalidad.
+
+Entre ellos:
+
+- negativa sistemática de información al socio;
+- irregularidades contables;
+- atraso significativo de la contabilidad;
+- necesidad de verificar determinadas operaciones;
+- necesidad de conocer la verdadera situación económica de la sociedad;
+- investigación de hechos específicos denunciados por el actor.
+
+En todos estos supuestos el problema principal consiste en conocer qué está ocurriendo realmente dentro de la sociedad.
+
+Todavía no aparece acreditada una situación que justifique el desplazamiento del órgano de administración.
+
+Por ello el juez comienza con la medida menos intensa.
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# Facultades del veedor
+
+Las facultades del veedor dependen exclusivamente de la resolución judicial que lo designa.
+
+No existe un catálogo legal.
+
+El juez debe delimitarlas expresamente.
+
+Generalmente comprenderán:
+
+- examinar documentación;
+- asistir a reuniones del directorio o de la gerencia;
+- controlar determinadas operaciones;
+- requerir información;
+- inspeccionar libros y registros;
+- producir informes periódicos.
+
+Lo que nunca hace el veedor es sustituir la voluntad del órgano de administración.
+
+No vota.
+
+No representa a la sociedad.
+
+No celebra contratos.
+
+No obliga jurídicamente al ente.
+
+Su función termina donde comienza la administración.
+
+---
+
+# El informe del veedor
+
+El informe constituye el verdadero producto de la actuación del veedor.
+
+Ese informe puede conducir a tres escenarios diferentes.
+
+```text
+Informe favorable
+
+        │
+
+No existen irregularidades
+↓
+Se levanta la medida
+
+
+Informe parcialmente favorable
+
+        │
+
+Persisten dudas
+↓
+Continúa la veeduría
+
+
+Informe desfavorable
+
+        │
+
+Se verifican irregularidades graves
+↓
+Puede disponerse una
+coadministración o una
+administración judicial
+```
+
+La veeduría funciona muchas veces como una etapa previa a una intervención más intensa.
+
+---
+
+# El coadministrador
+
+La segunda modalidad prevista por el art. 115 consiste en la designación de un coadministrador.
+
+Aquí la situación cambia sustancialmente.
+
+El órgano natural de administración continúa existiendo.
+
+No es desplazado.
+
+Pero deja de administrar solo.
+
+A partir de ese momento la gestión pasa a desarrollarse conjuntamente con el funcionario judicial.
+
+Existe, entonces, una verdadera administración compartida.
+
+---
+
+# Naturaleza de la coadministración
+
+La coadministración no implica vigilancia.
+
+Implica gestión.
+
+El coadministrador participa activamente en la administración de la sociedad.
+
+Vitolo explica que el órgano natural continúa ejerciendo sus funciones, pero ya no puede actuar aisladamente.
+
+En determinados actos será necesaria la intervención del funcionario judicial.
+
+Incluso podrá requerirse su consentimiento para obligar válidamente a la sociedad.
+
+La administración deja de ser exclusiva del órgano estatutario para convertirse en una administración conjunta.
+
+:contentReference[oaicite:4]{index=4}
+
+---
+
+# ¿Cuándo corresponde la coadministración?
+
+La coadministración constituye una solución intermedia.
+
+Procede cuando:
+
+- las irregularidades aparecen suficientemente acreditadas;
+- el riesgo es importante;
+- pero todavía no resulta imprescindible desplazar completamente a los administradores.
+
+Vitolo ofrece un ejemplo particularmente ilustrativo.
+
+La designación del coadministrador resulta adecuada cuando los derechos de la minoría han sido seriamente afectados, aunque el patrimonio social todavía no aparezca comprometido.
+
+En esos casos el desplazamiento total podría resultar excesivo.
+
+Pero la mera vigilancia también sería insuficiente.
+
+La solución razonable consiste en compartir la administración.
+
+:contentReference[oaicite:5]{index=5}
+
+---
+
+# El administrador judicial
+
+La tercera modalidad constituye la máxima intensidad de intervención prevista por la ley.
+
+Aquí desaparece toda coexistencia.
+
+Los administradores naturales son desplazados.
+
+Quien pasa a ejercer efectivamente la administración es el administrador judicial designado por el juez.
+
+Nos encontramos frente a una sustitución provisoria del órgano de administración.
+
+No se trata simplemente de controlar.
+
+No se trata de acompañar.
+
+Se trata de reemplazar.
+
+---
+
+# ¿Cuándo procede el desplazamiento del administrador?
+
+La sustitución total constituye una medida extrema.
+
+Sólo procede cuando el juez considera que la permanencia de los administradores representa un peligro inmediato para la sociedad.
+
+Los tres autores utilizan expresiones semejantes.
+
+Debe existir una situación de excepcional gravedad.
+
+Vitolo menciona especialmente:
+
+- maniobras fraudulentas;
+- delitos cometidos en perjuicio de la sociedad;
+- riesgo inmediato para el patrimonio social.
+
+En esos casos el interés protegido por la cautelar exige impedir que el administrador continúe actuando.
+
+:contentReference[oaicite:6]{index=6}
+
+---
+
+# Las facultades del administrador judicial
+
+El administrador judicial asume exactamente las funciones que antes correspondían al órgano desplazado.
+
+No administra conforme a su propio criterio.
+
+Administra conforme:
+
+- al contrato social;
+- al estatuto;
+- a la Ley General de Sociedades;
+- y a las limitaciones fijadas por el juez.
+
+No se convierte en propietario de la empresa.
+
+No reemplaza a la asamblea.
+
+No altera la estructura orgánica de la sociedad.
+
+Simplemente ocupa, de manera transitoria, el lugar del administrador cuya continuidad fue considerada incompatible con la preservación del interés social.
+
+---
+
+# El deber del juez de precisar las facultades
+
+Existe un aspecto sobre el cual los tres autores insisten particularmente.
+
+El juez no puede limitarse a decir:
+
+> "desígnase interventor".
+
+Debe definir con precisión:
+
+- cuál es la modalidad elegida;
+- cuáles son sus atribuciones;
+- cuáles son sus límites;
+- cuánto tiempo durará la medida.
+
+El art. 115 exige expresamente que la resolución judicial determine las facultades concretas del interventor y el plazo de actuación.
+
+Ello responde a la naturaleza excepcional del instituto.
+
+Cuanto más intensa resulta la injerencia estatal en la vida societaria, mayor debe ser la precisión con la cual se delimitan sus alcances.
+
+---
+
+# La duración de la intervención judicial
+
+La intervención judicial no constituye una modificación permanente de la organización societaria.
+
+Su propia naturaleza cautelar impide conferirle estabilidad.
+
+Por ello el art. 115 LGS exige que, al decretar la medida, el juez determine expresamente el plazo durante el cual el interventor ejercerá sus funciones.
+
+La fijación del plazo no constituye un aspecto accesorio de la resolución.
+
+Es uno de sus elementos esenciales.
+
+La razón es sencilla.
+
+La intervención importa una alteración excepcional del funcionamiento de los órganos sociales.
+
+Esa alteración sólo puede mantenerse durante el tiempo estrictamente necesario para preservar la eficacia del proceso principal.
+
+La administración debe volver cuanto antes a sus órganos naturales.
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
+# ¿Puede prorrogarse la intervención?
+
+La respuesta es afirmativa.
+
+Sin embargo, la prórroga no opera automáticamente.
+
+El juez no puede extender la medida por mera prudencia ni porque el juicio principal continúe pendiente.
+
+La prolongación exige una nueva valoración judicial.
+
+Gebhardt destaca que el art. 115 condiciona la prórroga a la realización de una información sumaria que permita verificar la persistencia de las circunstancias que justificaron originalmente la medida.
+
+La excepcionalidad del instituto obliga al juez a controlar periódicamente si continúa existiendo el peligro cuya neutralización motivó la intervención.
+
+La cautelar no puede transformarse en un régimen permanente de administración judicial.
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# El principio de temporalidad
+
+La exigencia de fijar un plazo refleja un principio más amplio.
+
+Toda intervención judicial debe responder a una necesidad concreta, actual y transitoria.
+
+No existe en nuestro derecho la posibilidad de que una sociedad quede indefinidamente administrada por funcionarios judiciales.
+
+La administración judicial constituye un remedio de emergencia.
+
+No un nuevo sistema de gobierno societario.
+
+Por ello el juez debe revisar permanentemente:
+
+- si persiste el peligro grave;
+- si continúan verificándose los presupuestos de procedencia;
+- si la intensidad de la medida sigue siendo proporcionada;
+- o si corresponde reducirla o dejarla sin efecto.
+
+---
+
+# La contracautela
+
+La intervención judicial constituye una medida cautelar.
+
+Como toda cautelar, puede ocasionar perjuicios si finalmente se demuestra que fue solicitada sin derecho.
+
+La sustitución o limitación de los administradores puede afectar:
+
+- la marcha normal de los negocios;
+- la imagen comercial de la empresa;
+- la continuidad de determinadas operaciones;
+- la confianza de clientes y proveedores.
+
+Por ello el art. 116 impone al solicitante la obligación de prestar contracautela.
+
+La finalidad de esta garantía consiste en asegurar la reparación de los daños que eventualmente pudiera ocasionar una intervención indebidamente obtenida.
+
+No protege al peticionante.
+
+Protege a la sociedad intervenida.
+
+---
+
+# Fundamento de la contracautela
+
+La contracautela constituye la contrapartida del carácter urgente de las medidas cautelares.
+
+Como la intervención puede decretarse antes de que exista una sentencia definitiva e incluso antes de escuchar a la contraparte, el ordenamiento procura equilibrar esa situación imponiendo al actor una garantía suficiente.
+
+El sistema busca armonizar dos intereses igualmente legítimos.
+
+Por un lado:
+
+la necesidad de impedir que continúe un daño grave.
+
+Por otro:
+
+la necesidad de evitar que una medida cautelar infundada ocasione perjuicios irreparables a la sociedad.
+
+Nissen recuerda que este requisito deriva de los principios generales que gobiernan todas las medidas precautorias.
+
+:contentReference[oaicite:2]{index=2}
+
+---
+
+# Formas que puede asumir la contracautela
+
+La ley no establece una modalidad única.
+
+Corresponde al juez determinar cuál resulta adecuada según las circunstancias del caso.
+
+Gebhardt menciona distintas posibilidades.
+
+Puede tratarse de:
+
+- garantía real;
+- caución personal;
+- caución juratoria cuando el solicitante acredita reconocida solvencia.
+
+Además señala una práctica particularmente frecuente en materia societaria.
+
+El embargo de las propias acciones o cuotas sociales pertenecientes al socio peticionante.
+
+La finalidad consiste en afectar precisamente el bien que representa su interés económico dentro de la sociedad, asegurando así la eventual reparación de daños.
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# La graduación de la contracautela
+
+La garantía no posee un monto uniforme.
+
+Debe guardar proporción con la entidad de la medida concedida.
+
+Cuanto más intensa resulte la intervención, mayor podrá ser la contracautela exigida.
+
+Gebhardt identifica especialmente tres factores que el juez debe ponderar.
+
+- la clase de intervención decretada;
+- su duración;
+- la magnitud económica de la empresa.
+
+No genera los mismos riesgos una simple veeduría informativa durante treinta días que el desplazamiento completo del directorio de una gran sociedad anónima.
+
+La caución debe reflejar esas diferencias.
+
+:contentReference[oaicite:4]{index=4}
+
+---
+
+# La posición de Nissen
+
+Nissen arriba a conclusiones semejantes.
+
+Destaca que la contracautela debe fijarse considerando:
+
+- las circunstancias concretas del caso;
+- los posibles perjuicios derivados de la medida;
+- las costas procesales.
+
+Subraya asimismo que la jurisprudencia ha aceptado reiteradamente como garantía suficiente el embargo de las acciones o participaciones sociales del propio peticionante, valuadas conforme al patrimonio neto de la sociedad.
+
+La solución presenta una ventaja evidente.
+
+El bien afectado mantiene una relación directa con el conflicto societario cuya tutela se pretende.
+
+:contentReference[oaicite:5]{index=5}
+
+---
+
+# Los recursos
+
+La resolución que concede o rechaza la intervención judicial no queda firme automáticamente.
+
+El sistema reconoce el recurso de apelación.
+
+La revisión comprende no sólo la procedencia misma de la intervención.
+
+También alcanza a los aspectos accesorios de la medida.
+
+Gebhardt enumera expresamente algunos de ellos.
+
+Puede apelarse:
+
+- la procedencia o improcedencia de la intervención;
+- la clase de intervención elegida;
+- las facultades atribuidas al interventor;
+- el plazo fijado por el juez;
+- la contracautela exigida.
+
+La amplitud del recurso resulta lógica.
+
+Todos esos aspectos determinan la intensidad concreta de la injerencia estatal sobre la administración societaria.
+
+:contentReference[oaicite:6]{index=6}
+
+---
+
+# ¿Por qué la intervención puede decretarse sin escuchar previamente a la sociedad?
+
+Una de las características más particulares del instituto consiste en que la resolución cautelar puede dictarse **inaudita parte**.
+
+Es decir.
+
+Sin conferir previamente traslado a la sociedad.
+
+Ello constituye una excepción al principio general de bilateralidad del proceso.
+
+La explicación se encuentra en la propia naturaleza cautelar de la medida.
+
+Si antes de intervenir fuera obligatorio comunicar el pedido a los administradores cuestionados, éstos podrían aprovechar ese lapso para:
+
+- ocultar documentación;
+- disponer de bienes sociales;
+- modificar registros;
+- frustrar la eficacia de la futura sentencia.
+
+Por ello la urgencia justifica el diferimiento temporal del contradictorio.
+
+Vitolo explica que precisamente ésa es la razón por la cual la ley admite el dictado inmediato de la medida, aun cuando ello implique postergar momentáneamente el ejercicio del derecho de defensa.
+
+:contentReference[oaicite:7]{index=7}
+
+---
+
+# El equilibrio entre urgencia y defensa
+
+La posibilidad de resolver inaudita parte no significa que desaparezca el derecho de defensa.
+
+Simplemente se modifica el momento en que podrá ejercerse.
+
+El procedimiento responde a una lógica característica de todas las medidas cautelares.
+
+```text
+Pedido cautelar
+
+        │
+
+Resolución inmediata
+
+        │
+
+Cumplimiento de la medida
+
+        │
+
+Notificación
+
+        │
+
+Impugnación mediante apelación
+
+        │
+
+Revisión por la Cámara
+```
+
+De esta manera el ordenamiento procura compatibilizar dos valores constitucionales.
+
+La eficacia de la tutela cautelar.
+
+Y el derecho de defensa de la sociedad intervenida.
+
+```
+---
+
+# El denominado "criterio restrictivo"
+
+Probablemente ninguna expresión del régimen de la intervención judicial haya generado tanta discusión doctrinaria como la contenida en el art. 114 LGS, cuando dispone que:
+
+> "...el juez apreciará la procedencia de la intervención con criterio restrictivo."
+
+La norma parece sencilla.
+
+Sin embargo, inmediatamente aparecen varias preguntas.
+
+- ¿Qué significa exactamente "criterio restrictivo"?
+- ¿Debe restringirse la legitimación?
+- ¿Deben agravarse los requisitos cautelares?
+- ¿Implica una presunción favorable a la administración?
+- ¿Puede el juez negar la medida aun cuando concurran todos los presupuestos legales?
+
+Las respuestas ofrecidas por la doctrina no son uniformes.
+
+Mientras Gebhardt acepta el criterio legal como una consecuencia natural de la excepcionalidad del instituto, Nissen cuestiona duramente la utilización que de esa cláusula ha realizado la jurisprudencia.
+
+Vitolo ocupa una posición intermedia.
+
+---
+
+# El fundamento del criterio restrictivo
+
+La explicación clásica parte de un dato institucional.
+
+Las sociedades comerciales son personas jurídicas privadas.
+
+Su administración corresponde exclusivamente a los órganos previstos por:
+
+- la ley;
+- el contrato constitutivo;
+- el estatuto.
+
+La intervención judicial implica sustituir, limitar o controlar esos órganos mediante una decisión estatal.
+
+Desde esta perspectiva, la intervención supone una excepción al principio de autonomía de la voluntad y al sistema orgánico diseñado por los propios socios.
+
+Por ello la ley exige prudencia.
+
+No porque procure proteger a los administradores.
+
+Sino porque procura preservar el normal funcionamiento de la persona jurídica frente a interferencias estatales innecesarias.
+
+---
+
+# La posición de Gebhardt
+
+Gebhardt interpreta el criterio restrictivo como una consecuencia directa del carácter excepcional de la medida.
+
+A su juicio, la intervención judicial constituye una injerencia extraordinaria del Poder Judicial en la administración de un patrimonio privado.
+
+Precisamente por esa razón:
+
+- deben acreditarse rigurosamente sus presupuestos;
+- la prueba del peligro grave debe resultar convincente;
+- el juez debe seleccionar siempre la modalidad menos invasiva posible.
+
+Sin embargo, Gebhardt no sostiene que el criterio restrictivo autorice al juez a negar arbitrariamente la medida.
+
+La restricción se refiere a la valoración de sus presupuestos.
+
+No implica desconocer la finalidad preventiva perseguida por la ley.
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
+# La crítica de Nissen
+
+Nissen desarrolla una crítica particularmente severa.
+
+Afirma que buena parte de la jurisprudencia ha utilizado la expresión "criterio restrictivo" como un verdadero argumento automático para rechazar intervenciones.
+
+Según esta interpretación judicial, bastaría recordar el carácter excepcional del instituto para denegar prácticamente cualquier pedido.
+
+Nissen considera que esa práctica desnaturaliza completamente el régimen legal.
+
+La ley incorporó la intervención precisamente para proteger a la sociedad frente a administraciones gravemente irregulares.
+
+Si el juez exige un grado de certeza prácticamente equivalente al de la sentencia definitiva, la tutela cautelar pierde toda utilidad.
+
+Cuando finalmente recaiga sentencia, el perjuicio cuya prevención justificaba la medida ya se habrá consumado.
+
+Por ello sostiene que el criterio restrictivo no puede convertirse en un obstáculo para la tutela judicial efectiva.
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# El verdadero alcance de la crítica de Nissen
+
+Es importante advertir que Nissen no propone eliminar los requisitos legales.
+
+No sostiene que toda denuncia deba dar lugar a una intervención.
+
+Su crítica apunta a otro fenómeno.
+
+La jurisprudencia, invocando el carácter excepcional del instituto, terminó exigiendo:
+
+- una prueba prácticamente definitiva;
+- una acreditación absoluta del daño;
+- una certeza incompatible con la naturaleza cautelar del procedimiento.
+
+Ello produce una contradicción evidente.
+
+Las medidas cautelares existen precisamente porque todavía no existe certeza definitiva.
+
+Lo único exigible es una verosimilitud suficiente acompañada por un peligro concreto de frustración del derecho.
+
+Exigir mucho más equivale, en los hechos, a hacer desaparecer la tutela cautelar.
+
+---
+
+# La posición de Vitolo
+
+Vitolo comparte varias de las observaciones formuladas por Nissen, aunque adopta un enfoque más moderado.
+
+Reconoce que la intervención judicial constituye una medida excepcional.
+
+Pero advierte que esa excepcionalidad no debe confundirse con una presunción favorable a la administración.
+
+La verdadera excepcionalidad deriva únicamente del respeto por la organización interna de la sociedad.
+
+Cuando esa organización deja de cumplir adecuadamente su función y aparece comprometido el interés social, la intervención deja de ser una intromisión indebida para convertirse en un mecanismo de protección previsto expresamente por la ley.
+
+En consecuencia, el criterio restrictivo no significa interpretar restrictivamente la tutela.
+
+Significa interpretar rigurosamente los hechos.
+
+:contentReference[oaicite:2]{index=2}
+
+---
+
+# La interpretación sistemática del art. 114
+
+Analizando conjuntamente a los tres autores puede extraerse una conclusión relativamente uniforme.
+
+El criterio restrictivo no constituye un requisito autónomo.
+
+No es un presupuesto adicional.
+
+Los verdaderos requisitos siguen siendo los establecidos por la ley:
+
+- legitimación;
+- acción de remoción;
+- peligro grave;
+- agotamiento de los remedios internos;
+- presupuestos cautelares generales.
+
+La restricción aparece únicamente al momento de valorar esos requisitos.
+
+No habilita al juez a crear exigencias nuevas.
+
+Tampoco autoriza a rechazar la medida invocando únicamente su carácter excepcional.
+
+---
+
+# La intervención solicitada por la autoridad de contralor
+
+Hasta ahora el análisis estuvo centrado en la intervención promovida por un socio.
+
+Sin embargo, la Ley General de Sociedades contempla otro supuesto.
+
+La intervención requerida por la autoridad estatal de fiscalización.
+
+El fundamento ya no reside exclusivamente en la protección del interés social.
+
+Aquí aparece comprometido también el interés público.
+
+Especialmente cuando se trata de sociedades sometidas a fiscalización permanente, entidades que captan ahorro público o sociedades cuya actividad posee especial trascendencia económica.
+
+En estos casos la autoridad administrativa puede solicitar judicialmente la intervención.
+
+Nunca disponerla directamente.
+
+---
+
+# ¿Por qué la autoridad administrativa no puede intervenir por sí misma?
+
+La respuesta deriva directamente del principio de división de poderes.
+
+La intervención judicial importa restringir las facultades de administración de una persona jurídica privada.
+
+Una decisión de esa naturaleza sólo puede ser adoptada por un órgano jurisdiccional independiente.
+
+Ni la IGJ ni ningún otro organismo administrativo pueden desplazar administradores mediante un acto administrativo.
+
+Su función consiste únicamente en promover la actuación judicial cuando advierten circunstancias que justifican la medida.
+
+Gebhardt insiste especialmente sobre este aspecto.
+
+La administración pública controla.
+
+Pero únicamente el Poder Judicial puede intervenir.
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# La intervención societaria y los códigos procesales
+
+Vitolo dedica varias páginas a distinguir la intervención prevista por la Ley General de Sociedades de otras formas de intervención reguladas por los códigos procesales.
+
+La diferencia no es meramente terminológica.
+
+Responde a finalidades completamente distintas.
+
+Los códigos procesales regulan, entre otras figuras:
+
+- el interventor informante;
+- el interventor recaudador;
+- el administrador judicial de bienes.
+
+Su finalidad consiste normalmente en asegurar la eficacia de un proceso patrimonial.
+
+La Ley General de Sociedades, en cambio, regula una intervención institucional.
+
+No procura únicamente conservar bienes.
+
+Procura preservar el funcionamiento regular de una organización societaria.
+
+Por ello ambas figuras no deben confundirse, aunque compartan ciertos rasgos cautelares.
+
+:contentReference[oaicite:4]{index=4}
+
+---
+
+# Síntesis integral del procedimiento
+
+```text
+Irregularidades en la administración
+
+            │
+
+            ▼
+
+Peligro grave para la sociedad
+
+            │
+
+            ▼
+
+Agotamiento de los remedios internos
+
+            │
+
+            ▼
+
+Acción principal de remoción
+
+            │
+
+            ▼
+
+Solicitud cautelar
+
+            │
+
+            ▼
+
+Verificación de los requisitos
+cautelares
+
+            │
+
+            ▼
+
+Resolución judicial
+
+            │
+
+            ├──────────────┐
+            │              │
+            ▼              ▼
+
+Rechazo         Admisión
+
+                       │
+
+                       ▼
+
+Designación de:
+
+• Veedor
+• Coadministrador
+• Administrador judicial
+
+                       │
+
+                       ▼
+
+Fijación de:
+
+• facultades
+• plazo
+• contracautela
+
+                       │
+
+                       ▼
+
+Ejecución de la medida
+
+                       │
+
+                       ▼
+
+Apelación
+
+                       │
+
+                       ▼
+
+Sentencia en la acción
+de remoción
+
+                       │
+
+                       ▼
+
+Cese de la intervención
+```
+
+---
+
+# Conclusiones doctrinarias
+
+Los tres autores parten de un mismo presupuesto.
+
+La administración corresponde naturalmente a los órganos sociales.
+
+La intervención judicial constituye una excepción.
+
+Sin embargo, difieren en el alcance práctico de esa excepcionalidad.
+
+**Gebhardt** enfatiza el respeto por la autonomía societaria y la necesidad de aplicar rigurosamente los presupuestos legales.
+
+**Vitolo** procura equilibrar la autonomía privada con la tutela efectiva del interés social, destacando el carácter funcional de la medida y distinguiendo cuidadosamente las distintas modalidades de intervención.
+
+**Nissen**, finalmente, dirige su principal crítica contra la jurisprudencia que, invocando el llamado criterio restrictivo, termina vaciando de contenido un instrumento cautelar cuya razón de ser consiste precisamente en impedir que el daño se consume antes de la sentencia definitiva.
+
+La lectura conjunta de las tres posiciones permite advertir que la intervención judicial no constituye un mecanismo de sustitución permanente de la administración societaria.
+
+Es un remedio excepcional, transitorio y esencialmente cautelar, cuya finalidad consiste en preservar la utilidad práctica de la acción de remoción y asegurar el normal funcionamiento de la sociedad mientras el conflicto principal obtiene una solución definitiva.
+
+---
+
+# Jurisprudencia
+## CNCom., Sala F, *Viscomi, Salvador Antonio c/ Monte Olivia S.R.L. y otro s/ ordinario s/ incidente art. 250*
+### 1 de noviembre de 2016
+
+> **Lectura del fallo completo:**
+>
+> https://aldiaargentina.microjuris.com/2017/03/21/intervencion-judicial-de-la-sociedad-de-responsabilidad-limitada-en-grado-de-coadministracion/
+
+---
+
+# Los hechos
+
+Monte Olivia S.R.L. era una sociedad integrada únicamente por **dos socios**, cada uno titular del **50 % del capital social**.
+
+Ambos ejercían la administración del ente.
+
+Con el transcurso del tiempo la relación entre ellos se deterioró profundamente, generando un conflicto permanente que comenzó a trasladarse al funcionamiento institucional de la sociedad.
+
+Las reuniones de socios dejaron de instrumentarse correctamente, los estados contables no pudieron aprobarse regularmente y comenzaron a advertirse importantes irregularidades en la documentación societaria.
+
+Frente a esa situación, uno de los socios solicitó judicialmente la **intervención de la sociedad**.
+
+---
+
+# La intervención inicial: designación de un veedor
+
+Antes de disponer una medida más intensa, el juez de primera instancia optó por designar un **veedor judicial**.
+
+La finalidad de esa medida era obtener una visión objetiva del funcionamiento de la sociedad.
+
+El veedor debía:
+
+- revisar los libros sociales;
+- controlar la documentación;
+- verificar el funcionamiento de los órganos;
+- informar al tribunal acerca de las irregularidades denunciadas.
+
+Su informe resultó determinante para la resolución posterior de la Cámara.
+
+---
+
+# Las irregularidades detectadas
+
+El informe del veedor reveló un funcionamiento institucional seriamente deteriorado.
+
+Entre otras circunstancias comprobó:
+
+- ausencia de firmas de los socios gerentes en diversas actas sociales;
+- irregular aprobación de los estados contables de varios ejercicios;
+- falta de constancia fehaciente del sentido del voto de cada socio;
+- deficiente instrumentación de las reuniones sociales;
+- desacuerdo permanente respecto de decisiones esenciales para la marcha de la sociedad.
+
+Para la Cámara estas circunstancias evidenciaban un verdadero **funcionamiento irregular del órgano de gobierno**, capaz de afectar el interés social.
+
+---
+
+# Los problemas jurídicos
+
+La Sala F debía resolver cuatro cuestiones centrales.
+
+- ¿Las irregularidades comprobadas justificaban agravar la intervención pasando de una simple veeduría a una coadministración?
+
+- ¿Debía exigirse al actor el agotamiento previo de la vía intrasocietaria prevista por el art. 114 LGS?
+
+- ¿La acción de remoción constituía un presupuesto indispensable para disponer la intervención judicial?
+
+- ¿Cuál era la medida menos gravosa que permitía proteger adecuadamente a la sociedad?
+
+---
+
+# El agotamiento de la vía intrasocietaria
+
+Este constituye uno de los aspectos más importantes del fallo.
+
+Los demandados sostenían que el actor debía intentar previamente solucionar el conflicto mediante los mecanismos internos de la sociedad.
+
+La Cámara rechazó ese argumento.
+
+Explicó que la sociedad estaba integrada únicamente por **dos socios titulares del 50 % del capital cada uno**.
+
+Ninguno poseía mayoría suficiente para adoptar decisiones.
+
+Toda resolución requería necesariamente el acuerdo del otro.
+
+En consecuencia, exigir el agotamiento de la vía societaria significaba imponer un requisito de imposible cumplimiento.
+
+Por ello concluyó que, en estas circunstancias excepcionales, el requisito del art. 114 debía interpretarse razonablemente.
+
+---
+
+# La acción de remoción
+
+Otro aspecto especialmente novedoso del precedente consiste en que la Cámara sostuvo que **no resultaba imprescindible promover previamente una acción de remoción**.
+
+El Tribunal entendió que la comprobación de un funcionamiento irregular del ente bastaba para justificar la medida cautelar.
+
+La determinación definitiva de responsabilidades debía reservarse para el proceso principal.
+
+La intervención perseguía una finalidad diferente.
+
+Su objetivo consistía en impedir que la situación continuara agravándose mientras el conflicto obtenía una solución definitiva.
+
+Esta interpretación flexibiliza la lectura tradicional de los arts. 113 y siguientes de la Ley General de Sociedades.
+
+---
+
+# La solución adoptada
+
+La Cámara confirmó la resolución de primera instancia.
+
+Mantuvo la intervención judicial en grado de **coadministración**.
+
+No desplazó a los gerentes.
+
+Éstos conservaron sus cargos.
+
+Sin embargo, dejaron de administrar en forma exclusiva y debieron ejercer sus funciones conjuntamente con el funcionario judicial designado.
+
+La Cámara entendió que:
+
+- la simple veeduría ya no resultaba suficiente para neutralizar el peligro;
+- el desplazamiento total de los administradores todavía aparecía como una medida excesiva.
+
+Por ello optó por una solución intermedia.
+
+---
+
+# Los fundamentos de la Cámara
+
+La Sala F destacó que la intervención judicial debe orientarse principalmente a proteger **el interés de la sociedad**.
+
+El Tribunal afirmó que el juez debe encontrar un equilibrio entre dos valores.
+
+Por un lado, evitar una injerencia injustificada en la administración de una persona jurídica privada.
+
+Por otro, impedir que el conflicto interno termine paralizando el funcionamiento de la sociedad.
+
+En una de las afirmaciones más importantes del fallo sostuvo que el juez no debe:
+
+> "esperar que el ente se desmorone para nombrarle judicialmente un administrador."
+
+Esta idea refleja claramente el carácter preventivo de la intervención judicial.
+
+---
+
+# Doctrina que surge del precedente
+
+Este fallo constituye uno de los precedentes más importantes de la Cámara Nacional de Apelaciones en lo Comercial sobre los arts. 113 a 117 LGS.
+
+Su relevancia radica en que:
+
+- coloca en el centro de la decisión el **interés social**;
+- flexibiliza el requisito del agotamiento de los remedios intrasocietarios cuando éstos resultan objetivamente imposibles;
+- admite la intervención cautelar aun sin exigir, en las circunstancias del caso, una acción formal de remoción;
+- aplica el principio de proporcionalidad al elegir la **coadministración** como medida menos invasiva que permitía proteger adecuadamente el funcionamiento de la sociedad.
+
+El precedente constituye, por ello, una excelente aplicación práctica de las construcciones doctrinarias desarrolladas por **Gebhardt, Nissen y Vitolo** respecto de la finalidad cautelar de la intervención judicial y de la tutela del interés social.
+

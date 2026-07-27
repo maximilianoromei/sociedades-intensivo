@@ -155,6 +155,30 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/clase10-srl.pdf" target="_blank">Descargar presentación en PDF</a>
 
+### Clase 11 - Intervención Judicial
+
+- 🎓 <a href="clases/clase11-intervencion-judicial.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase11-intervencion-judicial.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 11 - Procedimientos IGJ
+
+- 🎓 <a href="clases/clase11-procedimientos-rg.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase11-procedimientos-rg.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 11 - SA - Capital, Constitución.
+
+- 🎓 <a href="clases/clase11-sa-constitucion-capital.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase11-sa-constitucion-capital.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 12 - SA - Naturaleza - Acciones.
+
+- 🎓 <a href="clases/clase12-sa-naturaleza-acciones.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase12-sa-naturaleza-acciones.pdf" target="_blank">Descargar presentación en PDF</a>
+
 ## Evaluaciones
 
 📊 **Calificaciones de la cursada**

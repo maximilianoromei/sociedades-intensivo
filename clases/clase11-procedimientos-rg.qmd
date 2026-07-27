@@ -1,0 +1,1175 @@
+---
+title: "Clase 11 — SA - Procedimientos"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Inscripción y variaciones del capital social  
+## Procedimiento conforme a la RG IGJ 7/2015
+
+> **Ámbito:** sociedades por acciones sujetas al contralor de la Inspección General de Justicia.
+>
+> La guía distingue entre:
+>
+> - constitución e inscripción inicial;
+> - modificación del estatuto;
+> - aumento de capital;
+> - reducción obligatoria;
+> - reducción voluntaria;
+> - reducción a cero y aumento simultáneo.
+
+---
+
+# 1. Reglas generales de presentación
+
+## 1.1. Inicio del trámite
+
+El trámite se inicia mediante la presentación de:
+
+1. formulario de actuación correspondiente;
+2. comprobante de pago de la tasa;
+3. instrumento que contiene el acto registrable;
+4. dictamen de precalificación profesional;
+5. publicaciones legales, cuando correspondan;
+6. documentación contable y certificaciones exigidas para el acto;
+7. declaración jurada sobre beneficiario final y demás declaraciones requeridas.
+
+La presentación debe identificar un domicilio electrónico o correo electrónico para las notificaciones del trámite.
+
+---
+
+## 1.2. Instrumento inscribible
+
+El acto puede constar en:
+
+- escritura pública;
+- instrumento privado con firmas certificadas;
+- testimonio, copia certificada o documentación auténtica, según el acto.
+
+Cuando se presenta un instrumento privado, las firmas deben encontrarse certificadas por escribano público u otro funcionario habilitado.
+
+Si el acto fue otorgado por escritura pública, se presenta su primer testimonio.
+
+---
+
+## 1.3. Dictamen de precalificación profesional
+
+Los trámites registrales comprendidos en el régimen de precalificación deben acompañarse con un dictamen suscripto por:
+
+- abogado;
+- escribano;
+- contador público, en las materias propias de su incumbencia.
+
+El profesional debe:
+
+- encontrarse matriculado;
+- indicar nombre, apellido, matrícula y datos de contacto;
+- firmar el dictamen;
+- expedirse sobre la legalidad formal del acto;
+- individualizar la documentación examinada;
+- verificar el cumplimiento de los requisitos legales y reglamentarios;
+- informar si existen observaciones o impedimentos registrales.
+
+El dictamen no reemplaza la documentación obligatoria: la controla, individualiza y precalifica.
+
+---
+
+## 1.4. Contenido mínimo del dictamen
+
+El dictamen debe expedirse, según el trámite, sobre:
+
+1. legalidad del acto;
+2. competencia del órgano que lo resolvió;
+3. regularidad de la convocatoria;
+4. quórum y mayorías;
+5. legitimación de quienes comparecen;
+6. cumplimiento del estatuto;
+7. transcripción del acta en el libro correspondiente;
+8. individualización de los libros y folios utilizados;
+9. publicaciones efectuadas;
+10. cumplimiento del derecho de preferencia;
+11. existencia de oposiciones;
+12. integración del capital;
+13. correspondencia entre el capital anterior, el aumento o reducción y el capital resultante;
+14. correcta redacción del texto ordenado del estatuto;
+15. vigencia de la sociedad y situación registral de sus autoridades.
+
+La RG 7/2015 establece la precalificación profesional obligatoria y exige que el dictamen se pronuncie expresamente sobre los requisitos propios de cada inscripción. :contentReference[oaicite:0]{index=0}
+
+---
+
+# 2. Plazos del procedimiento registral
+
+## 2.1. Cómputo
+
+Los plazos administrativos se computan en días hábiles administrativos, salvo disposición expresa en contrario.
+
+El día de presentación no se computa cuando el plazo comienza a correr desde el día siguiente.
+
+---
+
+## 2.2. Plazos ordinarios de calificación
+
+Desde el inicio de las actuaciones, la IGJ prevé los siguientes plazos de tramitación:
+
+| Tipo de trámite | Plazo |
+|---|---:|
+| Trámite que requiere un dictamen de precalificación | 10 días hábiles |
+| Trámite que requiere dos dictámenes profesionales | 15 días hábiles |
+| Transformación, fusión, escisión y subsanación | 20 días hábiles |
+
+Los plazos se computan siempre que:
+
+- la documentación esté completa;
+- se encuentren abonadas las tasas;
+- no existan observaciones;
+- no resulte necesaria documentación adicional;
+- no sea necesaria la intervención de otro organismo.
+
+La RG 7/2015 contempla estos plazos dentro del procedimiento registral con precalificación profesional. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 2.3. Observaciones
+
+Cuando la IGJ formula observaciones:
+
+1. las notifica al interesado;
+2. suspende la conclusión del trámite;
+3. exige su contestación y la documentación complementaria;
+4. vuelve a calificar el acto presentado.
+
+La contestación debe responder concretamente cada observación.
+
+Cuando se modifica el instrumento original, debe acompañarse:
+
+- instrumento complementario;
+- acta rectificativa;
+- escritura complementaria;
+- nuevo dictamen profesional, cuando la modificación altere los extremos precalificados.
+
+---
+
+## 2.4. Trámite urgente
+
+Puede solicitarse la modalidad de **trámite urgente**, sujeta al pago del arancel diferencial.
+
+En esta modalidad:
+
+- la inscripción puede obtenerse dentro de las setenta y dos horas;
+- la documentación debe presentarse completa;
+- deben haberse cumplido previamente las publicaciones;
+- no debe existir impedimento registral;
+- las observaciones deben contestarse dentro del plazo especial previsto para esta modalidad.
+
+La existencia de observaciones impide que la inscripción se produzca automáticamente dentro de las setenta y dos horas.
+
+---
+
+# 3. Constitución e inscripción inicial de una sociedad anónima
+
+## 3.1. Decisión constitutiva
+
+Los fundadores deben acordar:
+
+- denominación;
+- domicilio;
+- sede social;
+- objeto;
+- duración;
+- capital;
+- clases de acciones;
+- administración;
+- fiscalización;
+- cierre del ejercicio;
+- reglas de funcionamiento de las asambleas.
+
+La sociedad anónima debe constituirse por **instrumento público**.
+
+---
+
+## 3.2. Control previo de denominación
+
+Antes de otorgar el instrumento constitutivo puede solicitarse la reserva de denominación.
+
+Debe verificarse que la denominación:
+
+- no sea idéntica o confundible con otra registrada;
+- no induzca a error;
+- contenga la expresión “Sociedad Anónima” o “S.A.”;
+- en el caso de una sociedad anónima unipersonal, contenga “S.A.U.”.
+
+La reserva no equivale a inscripción ni reconoce un derecho definitivo sobre la denominación.
+
+---
+
+## 3.3. Instrumento constitutivo
+
+El instrumento debe contener los recaudos del artículo 11 LGS y las cláusulas propias del tipo.
+
+Debe individualizar:
+
+1. accionistas fundadores;
+2. denominación;
+3. domicilio y sede;
+4. objeto;
+5. plazo de duración;
+6. capital social;
+7. acciones emitidas;
+8. suscripción de cada accionista;
+9. integración inicial;
+10. composición del directorio;
+11. sindicatura o comisión fiscalizadora, cuando corresponda;
+12. fecha de cierre del ejercicio;
+13. reglas sobre asambleas;
+14. aceptación de cargos;
+15. garantía de los administradores;
+16. domicilio especial de administradores y fiscalizadores.
+
+---
+
+## 3.4. Capital inicial
+
+El capital debe:
+
+- respetar el mínimo legal;
+- estar totalmente suscripto;
+- encontrarse integrado conforme a la naturaleza de los aportes.
+
+### Aportes en dinero
+
+Debe integrarse, como mínimo, el porcentaje exigido legalmente.
+
+La integración puede acreditarse mediante:
+
+- depósito bancario;
+- constancia notarial;
+- manifestación y acreditación en la escritura, según el mecanismo admitido.
+
+### Aportes no dinerarios
+
+Deben integrarse totalmente al constituirse la sociedad.
+
+La documentación debe acreditar:
+
+- propiedad del bien;
+- valuación;
+- transferencia;
+- inexistencia de restricciones incompatibles;
+- inscripción registral preventiva o definitiva, cuando corresponda.
+
+La RG 7/2015 regula la acreditación de aportes dinerarios y no dinerarios y exige documentación específica según la naturaleza del bien aportado. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 3.5. Publicación
+
+Debe efectuarse la publicación prevista por el artículo 10 LGS.
+
+El aviso debe contener, entre otros datos:
+
+- identidad de los socios;
+- fecha del instrumento;
+- denominación;
+- domicilio;
+- objeto;
+- duración;
+- capital;
+- administración;
+- fiscalización;
+- representación;
+- cierre del ejercicio.
+
+Se acompaña el texto original de la publicación o la constancia emitida por el medio correspondiente.
+
+---
+
+## 3.6. Designación de autoridades
+
+Debe acreditarse:
+
+- designación de directores;
+- designación de síndicos, cuando corresponda;
+- aceptación de cargos;
+- constitución de garantías;
+- domicilio especial;
+- declaración sobre incompatibilidades e inhabilidades;
+- declaración jurada sobre condición de persona expuesta políticamente.
+
+---
+
+## 3.7. Documentación para la inscripción
+
+La presentación debe contener:
+
+1. primer testimonio de la escritura constitutiva;
+2. formulario de constitución;
+3. reserva de denominación, cuando se hubiera solicitado;
+4. publicación del artículo 10 LGS;
+5. constancia de integración del capital;
+6. documentación de aportes no dinerarios;
+7. dictamen de precalificación;
+8. aceptación de cargos;
+9. garantías de directores;
+10. declaraciones juradas;
+11. comprobante de pago de tasa;
+12. documentación sobre beneficiario final;
+13. texto del estatuto;
+14. constancia de sede social, cuando no conste en el estatuto.
+
+Los requisitos de inscripción de la constitución se encuentran enumerados por la RG 7/2015 para las sociedades por acciones. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 3.8. Inscripción
+
+Superado el control:
+
+1. la IGJ dicta la resolución de conformidad administrativa;
+2. ordena la inscripción;
+3. inscribe el instrumento en el Registro Público;
+4. entrega el testimonio inscripto;
+5. individualiza los libros obligatorios, cuando corresponda.
+
+La personalidad jurídica se encuentra plenamente regularizada mediante la inscripción registral.
+
+---
+
+# 4. Modificación del estatuto
+
+## 4.1. Decisión social
+
+La modificación debe ser resuelta por la asamblea competente.
+
+Como regla, corresponde a la **asamblea extraordinaria**, con:
+
+- convocatoria regular;
+- publicación de avisos;
+- quórum legal o estatutario;
+- mayoría exigida;
+- tratamiento expreso del punto en el orden del día.
+
+No puede inscribirse una modificación que no haya sido incluida suficientemente en el orden del día.
+
+---
+
+## 4.2. Acta de asamblea
+
+El acta debe consignar:
+
+1. fecha, hora y lugar;
+2. carácter de la asamblea;
+3. forma de convocatoria;
+4. accionistas presentes;
+5. capital presente;
+6. quórum;
+7. tratamiento de cada punto;
+8. resultado de la votación;
+9. texto de la reforma aprobada;
+10. autorizaciones para tramitar la inscripción.
+
+---
+
+## 4.3. Documentación registral
+
+Debe acompañarse:
+
+1. escritura pública o instrumento correspondiente que transcriba la resolución;
+2. acta de directorio que convocó la asamblea;
+3. avisos de convocatoria, salvo asamblea unánime;
+4. acta de asamblea;
+5. registro de asistencia;
+6. publicación del artículo 10 LGS, cuando corresponda;
+7. dictamen de precalificación;
+8. texto ordenado del estatuto;
+9. tasa correspondiente;
+10. formulario del trámite.
+
+La reforma puede instrumentarse mediante transcripción completa de las actas o mediante escritura que individualice los libros, folios y datos esenciales, según las condiciones de la RG.
+
+La RG 7/2015 regula los requisitos generales de las reformas estatutarias y la acreditación de las actas y libros de los que surgen. :contentReference[oaicite:4]{index=4}
+
+---
+
+## 4.4. Texto ordenado
+
+Cuando la reforma altera una cláusula del estatuto, debe acompañarse el texto ordenado resultante.
+
+El texto ordenado debe:
+
+- incorporar la modificación;
+- mantener las cláusulas no reformadas;
+- eliminar textos sustituidos;
+- guardar correspondencia con las inscripciones anteriores;
+- estar firmado y certificado según corresponda.
+
+---
+
+## 4.5. Efecto de la reforma
+
+La decisión es obligatoria internamente desde su adopción, sin perjuicio de que su oponibilidad frente a terceros y plena eficacia registral se producen con la inscripción.
+
+---
+
+# 5. Aumento del capital social
+
+## 5.1. Determinación previa
+
+Debe establecerse si el aumento:
+
+- se encuentra dentro del quíntuplo autorizado por el estatuto;
+- excede el quíntuplo;
+- requiere reforma del estatuto;
+- se realiza con aportes dinerarios;
+- se realiza con aportes no dinerarios;
+- se integra por capitalización de créditos;
+- se integra por capitalización de reservas;
+- se integra por capitalización de aportes irrevocables;
+- contempla prima de emisión;
+- suspende o limita el derecho de preferencia.
+
+---
+
+# 6. Aumento de capital sin reforma del estatuto
+
+## 6.1. Supuesto
+
+No hay reforma estatutaria cuando el estatuto autoriza elevar el capital hasta el quíntuplo y el aumento se mantiene dentro de ese límite.
+
+Aunque no se reforme la cláusula estatutaria, el aumento debe inscribirse.
+
+---
+
+## 6.2. Decisión de la asamblea
+
+La asamblea debe resolver:
+
+1. monto del aumento;
+2. cantidad de acciones;
+3. clase y características;
+4. valor nominal;
+5. precio de emisión;
+6. existencia de prima;
+7. forma de integración;
+8. plazo de suscripción;
+9. ejercicio del derecho de preferencia;
+10. ejercicio del derecho de acrecer;
+11. destino de las acciones no suscriptas;
+12. delegaciones al directorio.
+
+---
+
+## 6.3. Publicaciones
+
+Debe acompañarse:
+
+1. publicación de convocatoria a asamblea, salvo asamblea unánime;
+2. publicación del artículo 188 LGS, cuando corresponda;
+3. publicación del artículo 194 LGS para el ejercicio de los derechos de preferencia y acrecer;
+4. publicación relativa a la limitación o suspensión del derecho de preferencia, si se hubiera decidido.
+
+La publicación debe identificar:
+
+- monto del aumento;
+- acciones ofrecidas;
+- condiciones de emisión;
+- plazo para ejercer la preferencia;
+- lugar y modalidad de suscripción.
+
+---
+
+## 6.4. Documentación registral
+
+Se presenta:
+
+1. instrumento que transcribe el acta de directorio convocante;
+2. acta de asamblea;
+3. registro de asistencia;
+4. publicaciones;
+5. dictamen de precalificación;
+6. formulario del trámite;
+7. comprobante de pago;
+8. documentación sobre integración;
+9. certificación contable, cuando corresponda;
+10. nuevo texto del artículo del estatuto, si el aumento implicara reforma.
+
+La RG 7/2015 exige para el aumento, entre otros recaudos, instrumento auténtico, publicaciones, dictamen profesional y formulario con la información relativa al capital suscripto e integrado. :contentReference[oaicite:5]{index=5}
+
+---
+
+# 7. Aumento de capital con reforma del estatuto
+
+## 7.1. Supuestos
+
+Existe reforma cuando:
+
+- el aumento excede el quíntuplo;
+- el estatuto no contiene autorización para aumentar dentro del quíntuplo;
+- se modifica la cifra estatutaria del capital;
+- se altera la estructura de clases de acciones prevista en el estatuto;
+- se modifican derechos estatutarios vinculados con las acciones.
+
+---
+
+## 7.2. Requisitos adicionales
+
+Además de la documentación del aumento sin reforma, debe acompañarse:
+
+1. texto de la cláusula estatutaria reformada;
+2. texto ordenado del estatuto;
+3. publicación del artículo 10 LGS;
+4. cumplimiento de los recaudos generales de reforma;
+5. acreditación de las mayorías especiales, si correspondieran.
+
+---
+
+# 8. Integración del aumento
+
+## 8.1. Aportes en dinero
+
+La integración debe acreditarse mediante el formulario y la certificación correspondiente.
+
+El monto integrado debe guardar relación con:
+
+- capital anterior;
+- capital aumentado;
+- capital resultante;
+- porcentaje legal mínimo;
+- plazo pendiente para completar la integración.
+
+---
+
+## 8.2. Aportes no dinerarios
+
+Deben integrarse totalmente.
+
+La presentación debe incluir:
+
+1. individualización del bien;
+2. titularidad;
+3. valuación;
+4. criterio aplicado;
+5. inventario;
+6. documentación de transferencia;
+7. certificación contable;
+8. inscripción registral, cuando corresponda;
+9. inexistencia de gravámenes o detalle de los existentes.
+
+La RG exige que los aportes no dinerarios sean integrados en su totalidad y que se acompañen los elementos justificativos de su existencia, titularidad y valuación. :contentReference[oaicite:6]{index=6}
+
+---
+
+## 8.3. Capitalización de créditos
+
+Debe acompañarse certificación contable que indique:
+
+- origen del crédito;
+- titular;
+- monto;
+- registración contable;
+- exigibilidad;
+- moneda;
+- inexistencia de cancelación previa;
+- correspondencia con los libros sociales.
+
+Si el crédito pertenece a un tercero que se incorpora como accionista, debe acreditarse también la suscripción de las acciones y su consentimiento.
+
+---
+
+## 8.4. Capitalización de reservas y cuentas patrimoniales
+
+Puede capitalizarse:
+
+- reserva facultativa;
+- reserva estatutaria;
+- ajuste de capital;
+- saldo de cuentas de capital;
+- otras cuentas susceptibles de capitalización.
+
+La certificación contable debe informar:
+
+1. origen de la cuenta;
+2. saldo;
+3. disponibilidad;
+4. aprobación por el órgano competente;
+5. registración en los estados contables;
+6. inexistencia de afectación incompatible.
+
+---
+
+## 8.5. Capitalización de aportes irrevocables
+
+Debe acreditarse:
+
+- ingreso efectivo de los fondos;
+- decisión de aceptación;
+- registración contable;
+- identidad del aportante;
+- moneda y monto;
+- condiciones del aporte;
+- decisión de capitalización;
+- emisión de las acciones correspondientes.
+
+La RG 7/2015 contiene requisitos específicos para la capitalización de aportes irrevocables, incluyendo documentación sobre el aporte, su registración y las condiciones de restitución o capitalización. :contentReference[oaicite:7]{index=7}
+
+---
+
+# 9. Emisión con prima
+
+## 9.1. Decisión
+
+La prima debe surgir expresamente de la resolución asamblearia.
+
+Debe indicarse:
+
+- valor nominal;
+- prima por acción;
+- precio total de emisión;
+- fundamento de la prima;
+- destino contable;
+- forma de integración.
+
+---
+
+## 9.2. Justificación del valor
+
+Para la inscripción, la IGJ puede requerir elementos que permitan controlar la razonabilidad de la prima.
+
+La RG contempla como antecedentes:
+
+1. balance general correspondiente al último ejercicio, si no tiene una antigüedad superior a seis meses;
+
+2. balance especial, si el último balance excede esa antigüedad;
+
+3. informe del directorio que explique:
+   - criterios de valuación;
+   - situación patrimonial;
+   - valor económico de las acciones;
+   - fundamentos de la prima;
+
+4. dictamen de precalificación;
+
+5. transcripción del balance en el libro correspondiente.
+
+La finalidad es evitar que el valor de emisión carezca de relación razonable con la situación patrimonial de la sociedad.
+
+La RG regula específicamente la inscripción de emisiones con prima y los elementos necesarios para justificar su valor. :contentReference[oaicite:8]{index=8}
+
+---
+
+# 10. Derecho de preferencia y de acrecer
+
+## 10.1. Regla
+
+Los accionistas tienen derecho a suscribir las nuevas acciones en proporción a su participación.
+
+También poseen derecho de acrecer respecto de las acciones que otros accionistas no suscriban.
+
+---
+
+## 10.2. Acreditación
+
+El dictamen debe informar:
+
+- publicación realizada;
+- fecha de inicio del plazo;
+- fecha de vencimiento;
+- suscripciones recibidas;
+- ejercicio del derecho de acrecer;
+- renuncias;
+- acciones remanentes;
+- adjudicación final.
+
+---
+
+## 10.3. Suspensión o limitación
+
+La suspensión o limitación sólo puede aprobarse cuando se cumplen los presupuestos legales.
+
+El acta y el dictamen deben expresar:
+
+- interés social que la justifica;
+- características de la emisión;
+- destinatarios;
+- necesidad de la medida;
+- mayoría especial;
+- inexistencia de una afectación arbitraria de los accionistas.
+
+---
+
+# 11. Inscripción del aumento
+
+## 11.1. Control final
+
+Antes de solicitar la inscripción debe verificarse:
+
+- coincidencia entre la resolución y la documentación contable;
+- cumplimiento de publicaciones;
+- vencimiento de los plazos de preferencia;
+- integración mínima;
+- correcta emisión de acciones;
+- respeto del quíntuplo;
+- existencia o inexistencia de reforma;
+- inscripción de autoridades vigentes;
+- vigencia de la sociedad.
+
+---
+
+## 11.2. Efecto registral
+
+Inscripto el aumento:
+
+- se actualiza la cifra registral del capital;
+- se incorpora la reforma estatutaria, si la hubo;
+- se habilita la emisión definitiva de las acciones;
+- se mantiene separada la prima de emisión respecto del capital nominal.
+
+---
+
+# 12. Reducción del capital social
+
+Debe distinguirse entre:
+
+1. reducción obligatoria por pérdidas;
+2. reducción voluntaria;
+3. reducción por amortización de acciones;
+4. reducción a cero con aumento simultáneo.
+
+---
+
+# 13. Requisitos comunes a toda reducción
+
+La presentación debe contener:
+
+1. instrumento público o privado auténtico que transcriba:
+   - acta de directorio;
+   - acta de asamblea;
+   - registro de asistencia;
+
+2. balance general o especial;
+
+3. informe del órgano de fiscalización, cuando exista;
+
+4. informe del directorio;
+
+5. dictamen de precalificación;
+
+6. publicación del artículo 10 LGS;
+
+7. texto ordenado del estatuto;
+
+8. formulario y tasa;
+
+9. detalle del capital:
+   - anterior;
+   - monto reducido;
+   - capital resultante.
+
+La RG 7/2015 exige para toda reducción la transcripción de las decisiones sociales y la presentación de documentación contable que permita verificar el capital anterior y el resultante. :contentReference[oaicite:9]{index=9}
+
+---
+
+# 14. Reducción obligatoria por pérdidas
+
+## 14.1. Presupuesto
+
+Procede cuando las pérdidas insumen las reservas y una proporción legalmente relevante del capital.
+
+No existe devolución de aportes a los accionistas.
+
+Su finalidad es adecuar la cifra nominal del capital a la situación patrimonial real.
+
+---
+
+## 14.2. Balance
+
+Debe presentarse:
+
+- balance del ejercicio;
+- o balance especial de reducción.
+
+Debe contener:
+
+- activo;
+- pasivo;
+- patrimonio neto;
+- pérdidas acumuladas;
+- reservas absorbidas;
+- capital anterior;
+- capital resultante.
+
+---
+
+## 14.3. Informe del órgano de administración
+
+Debe explicar:
+
+- origen de las pérdidas;
+- cuantía;
+- afectación de reservas;
+- necesidad de reducir;
+- criterio aplicado;
+- modalidad técnica de reducción;
+- capital resultante.
+
+---
+
+## 14.4. Procedimiento
+
+1. confección del balance;
+2. reunión de directorio;
+3. convocatoria a asamblea extraordinaria;
+4. aprobación del balance;
+5. absorción de reservas;
+6. aprobación de la reducción;
+7. reforma del estatuto;
+8. publicación;
+9. dictamen;
+10. presentación ante la IGJ;
+11. inscripción.
+
+Al no existir restitución de aportes, no se aplica el régimen de oposición de acreedores propio de la reducción voluntaria.
+
+---
+
+# 15. Reducción voluntaria
+
+## 15.1. Concepto
+
+Existe cuando la sociedad decide disminuir voluntariamente su capital y puede producirse una restitución patrimonial a los accionistas.
+
+Por afectar la garantía común de los acreedores, está sujeta a mayores controles.
+
+---
+
+## 15.2. Estado de situación patrimonial
+
+Debe acompañarse un estado de situación patrimonial confeccionado a la fecha de la reducción.
+
+Debe incluir:
+
+- activo;
+- pasivo;
+- patrimonio neto;
+- capital anterior;
+- monto de reducción;
+- capital resultante;
+- sumas que se restituyen;
+- identificación de acreedores;
+- explicación de la suficiencia patrimonial posterior.
+
+Debe estar firmado por el representante legal y contar con certificación de contador público.
+
+---
+
+## 15.3. Informe del órgano de fiscalización
+
+Si la sociedad tiene sindicatura o comisión fiscalizadora, debe presentarse su informe.
+
+Debe pronunciarse sobre:
+
+- razonabilidad de la reducción;
+- situación patrimonial;
+- protección de los acreedores;
+- legalidad de la operación;
+- suficiencia del patrimonio remanente.
+
+---
+
+## 15.4. Publicación y oposición de acreedores
+
+Deben efectuarse las publicaciones previstas por los artículos 204 y 83, inciso 3, LGS.
+
+### Secuencia
+
+1. publicación de la reducción durante tres días;
+
+2. desde la última publicación comienza el plazo de quince días para que los acreedores formulen oposición;
+
+3. los acreedores anteriores a la última publicación pueden oponerse;
+
+4. la sociedad debe:
+   - desinteresarlos;
+   - garantizar suficientemente sus créditos;
+   - o esperar la resolución de la controversia;
+
+5. no puede ejecutarse la reducción hasta el vencimiento de los plazos legales y el tratamiento de las oposiciones.
+
+El aviso debe informar:
+
+- denominación;
+- sede;
+- datos de inscripción;
+- capital anterior;
+- monto de la reducción;
+- capital resultante;
+- importe a restituir;
+- mecanismo de oposición.
+
+---
+
+## 15.5. Certificación profesional
+
+Debe acompañarse una certificación que informe:
+
+- publicaciones efectuadas;
+- fechas;
+- vencimiento del plazo;
+- existencia o inexistencia de oposiciones;
+- identidad de los acreedores oponentes;
+- monto de sus créditos;
+- forma en que fueron desinteresados o garantizados.
+
+La RG exige expresamente acreditar el cumplimiento del régimen de oposición de acreedores y la inexistencia de impedimentos para ejecutar la reducción. :contentReference[oaicite:10]{index=10}
+
+---
+
+## 15.6. Procedimiento completo
+
+1. confección del estado patrimonial;
+2. informe del directorio;
+3. informe de sindicatura;
+4. convocatoria a asamblea extraordinaria;
+5. aprobación de la reducción;
+6. reforma de la cláusula de capital;
+7. publicación del artículo 10 LGS;
+8. publicaciones de oposición;
+9. espera del plazo de quince días;
+10. tratamiento de oposiciones;
+11. certificación contable;
+12. dictamen de precalificación;
+13. presentación ante la IGJ;
+14. inscripción;
+15. recién entonces, ejecución definitiva de la restitución, cuando corresponda.
+
+---
+
+# 16. Reducción por amortización de acciones
+
+Cuando la reducción deriva de la amortización total de acciones, debe acreditarse:
+
+- previsión estatutaria;
+- decisión de la asamblea;
+- criterio de selección;
+- igualdad de trato;
+- rescate o amortización;
+- anulación de títulos;
+- monto aplicado;
+- capital resultante;
+- reforma del estatuto;
+- publicaciones y protección de acreedores, cuando corresponda.
+
+El dictamen debe informar que el procedimiento no produjo una discriminación arbitraria entre accionistas.
+
+---
+
+# 17. Reducción a cero y aumento simultáneo
+
+## 17.1. Operación acordeón
+
+La reducción del capital a cero no debe inscribirse como un acto aislado cuando ello implique la disolución de la sociedad.
+
+Debe resolverse simultáneamente:
+
+1. reducción del capital a cero;
+2. absorción de pérdidas;
+3. aumento del capital;
+4. suscripción del nuevo capital;
+5. integración;
+6. reforma del estatuto.
+
+La RG 7/2015 exige que la reducción a cero y el aumento simultáneo sean tratados como una operación unitaria. :contentReference[oaicite:11]{index=11}
+
+---
+
+## 17.2. Protección de accionistas
+
+Debe respetarse:
+
+- derecho de preferencia;
+- derecho de acrecer;
+- igualdad entre accionistas;
+- información suficiente;
+- justificación de la necesidad de la operación.
+
+No puede utilizarse la reducción a cero como mecanismo para excluir arbitrariamente a determinados accionistas.
+
+---
+
+# 18. Modificación de la cláusula de capital
+
+Toda variación del capital implica la modificación de la cláusula estatutaria cuando altera la cifra contenida en el estatuto.
+
+Debe acompañarse:
+
+- texto anterior;
+- texto aprobado;
+- capital previo;
+- variación;
+- capital resultante;
+- texto ordenado.
+
+En la SRL, toda variación del capital implica necesariamente modificación contractual.
+
+En la sociedad anónima, debe distinguirse el aumento dentro del quíntuplo —que puede no exigir reforma— del aumento que excede ese límite.
+
+La RG recoge esta diferencia y exige el cumplimiento de los requisitos propios de la modificación cuando la variación altera el contrato o estatuto. :contentReference[oaicite:12]{index=12}
+
+---
+
+# 19. Lista de control — Constitución
+
+- [ ] Reserva de denominación.
+- [ ] Escritura constitutiva.
+- [ ] Estatuto completo.
+- [ ] Capital totalmente suscripto.
+- [ ] Integración mínima dineraria.
+- [ ] Integración total de aportes no dinerarios.
+- [ ] Publicación del artículo 10 LGS.
+- [ ] Designación de autoridades.
+- [ ] Aceptación de cargos.
+- [ ] Garantías.
+- [ ] Domicilios especiales.
+- [ ] Declaraciones juradas.
+- [ ] Beneficiario final.
+- [ ] Dictamen de precalificación.
+- [ ] Formulario.
+- [ ] Tasa.
+- [ ] Presentación.
+- [ ] Contestación de observaciones.
+- [ ] Inscripción.
+
+---
+
+# 20. Lista de control — Reforma estatutaria
+
+- [ ] Acta de directorio convocante.
+- [ ] Avisos de convocatoria.
+- [ ] Registro de asistencia.
+- [ ] Acta de asamblea.
+- [ ] Quórum y mayoría.
+- [ ] Texto de la cláusula reformada.
+- [ ] Texto ordenado.
+- [ ] Publicación del artículo 10.
+- [ ] Dictamen.
+- [ ] Formulario.
+- [ ] Tasa.
+- [ ] Inscripción.
+
+---
+
+# 21. Lista de control — Aumento de capital
+
+- [ ] Determinar si está dentro del quíntuplo.
+- [ ] Determinar si hay reforma.
+- [ ] Acta de directorio.
+- [ ] Convocatoria.
+- [ ] Registro de asistencia.
+- [ ] Acta de asamblea.
+- [ ] Monto y condiciones de emisión.
+- [ ] Derecho de preferencia.
+- [ ] Derecho de acrecer.
+- [ ] Publicaciones.
+- [ ] Integración.
+- [ ] Certificación contable.
+- [ ] Documentación de aportes.
+- [ ] Prima de emisión, cuando exista.
+- [ ] Dictamen.
+- [ ] Texto ordenado, si corresponde.
+- [ ] Formulario.
+- [ ] Tasa.
+- [ ] Inscripción.
+
+---
+
+# 22. Lista de control — Reducción obligatoria
+
+- [ ] Balance general o especial.
+- [ ] Pérdidas verificadas.
+- [ ] Absorción previa de reservas.
+- [ ] Informe del directorio.
+- [ ] Informe de sindicatura.
+- [ ] Asamblea extraordinaria.
+- [ ] Reforma estatutaria.
+- [ ] Publicación.
+- [ ] Dictamen.
+- [ ] Texto ordenado.
+- [ ] Formulario.
+- [ ] Tasa.
+- [ ] Inscripción.
+
+---
+
+# 23. Lista de control — Reducción voluntaria
+
+- [ ] Estado de situación patrimonial.
+- [ ] Certificación contable.
+- [ ] Informe del directorio.
+- [ ] Informe de sindicatura.
+- [ ] Asamblea extraordinaria.
+- [ ] Reforma estatutaria.
+- [ ] Publicación del artículo 10.
+- [ ] Publicaciones de oposición durante tres días.
+- [ ] Vencimiento del plazo de quince días.
+- [ ] Identificación de oposiciones.
+- [ ] Desinterés o garantía de acreedores.
+- [ ] Certificación sobre oposiciones.
+- [ ] Dictamen.
+- [ ] Texto ordenado.
+- [ ] Formulario.
+- [ ] Tasa.
+- [ ] Inscripción.
+- [ ] Ejecución de la restitución.
+
+---
+
+# 24. Cuadro comparativo final
+
+| Operación | Asamblea | Balance especial | Publicación art. 10 | Preferencia | Oposición de acreedores | Reforma |
+|---|---:|---:|---:|---:|---:|---:|
+| Constitución | No corresponde | Según aportes | Sí | No | No | Estatuto inicial |
+| Aumento dentro del quíntuplo | Sí | Según modalidad | Según el caso | Sí | No | No necesariamente |
+| Aumento fuera del quíntuplo | Sí | Según modalidad | Sí | Sí | No | Sí |
+| Aumento con prima | Sí | Sí o balance reciente | Según el caso | Sí | No | Según el monto |
+| Reducción obligatoria | Sí | Sí | Sí | No | No | Sí |
+| Reducción voluntaria | Sí | Sí | Sí | No | Sí | Sí |
+| Reducción a cero y aumento simultáneo | Sí | Sí | Sí | Sí | Según modalidad | Sí |
+
+---
+
+# Idea central
+
+La inscripción registral no se limita a presentar el acta de asamblea.
+
+Cada operación requiere acreditar:
+
+1. **regularidad orgánica:** convocatoria, quórum y mayoría;
+2. **legalidad sustancial:** procedencia del aumento o reducción;
+3. **realidad patrimonial:** aportes, balances y certificaciones;
+4. **protección de accionistas:** preferencia, acrecer e igualdad;
+5. **protección de acreedores:** publicidad y oposición;
+6. **coherencia registral:** capital anterior, variación y capital resultante;
+7. **control profesional:** dictamen de precalificación;
+8. **publicidad registral:** publicación e inscripción.
