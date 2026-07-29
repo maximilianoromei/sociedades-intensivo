@@ -1,0 +1,1044 @@
+---
+title: "Clase 14 — SA - Fiscalización"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+
+---
+
+# FISCALIZACIÓN EN LAS SOCIEDADES ANÓNIMAS
+
+---
+
+# Consejo de Vigilancia
+
+## Artículo 280 LGS
+
+El estatuto puede prever un **Consejo de Vigilancia** integrado por **3 a 15 accionistas**, elegidos por la asamblea.
+
+Características:
+
+- órgano **optativo**;
+- miembros reelegibles;
+- libremente revocables por la asamblea.
+
+::: {.callout-note appearance="simple"}
+
+Su función principal es **fiscalizar la gestión del directorio**.
+
+:::
+
+::: {.callout-important}
+ARTICULO 280. — El estatuto podrá organizar un consejo de vigilancia, integrado por tres a quince accionistas designados por la asamblea conforme a los artículos 262 o 263, reelegibles y libremente revocables. Cuando el estatuto prevea el consejo de vigilancia, los artículos 262 y 263 no se aplicarán en la elección de directores si éstos deben ser elegidos por aquél.
+
+:::
+
+---
+
+# Finalidad del Consejo de Vigilancia
+
+```{mermaid}
+flowchart LR
+
+A[Asamblea]
+
+--> B[Consejo de Vigilancia]
+
+--> C[Control de la gestión]
+
+C --> D[Directorio]
+```
+
+A diferencia de la sindicatura, el Consejo de Vigilancia no se limita al control de legalidad.
+
+También ejerce un **control sobre el mérito y la oportunidad de la gestión empresarial**.
+
+---
+
+# Elección e integración
+
+Los consejeros deben ser **accionistas**.
+
+La elección corresponde a la asamblea y puede realizarse mediante:
+
+- lista completa;
+- clases de acciones (si el estatuto lo prevé);
+- voto acumulativo.
+
+Cuando el Consejo de Vigilancia designa directores, **no se aplica** el voto acumulativo ni la elección por clases.
+
+---
+
+# Escasa utilización
+
+Vítolo señala que el instituto ha tenido **muy poca aplicación práctica**.
+
+Entre las razones menciona:
+
+- posible interferencia con la gestión del directorio;
+- superposición de funciones con la sindicatura;
+- posibilidad de bloquear determinadas decisiones del directorio.
+
+::: {.callout-warning appearance="simple"}
+
+En la práctica societaria argentina predomina ampliamente el sistema de **directorio + sindicatura**, siendo excepcional la utilización del Consejo de Vigilancia.
+
+:::
+
+---
+
+# Incompatibilidades
+
+No pueden integrar el Consejo de Vigilancia:
+
+- quienes se encuentren alcanzados por las inhabilidades del art. 264 LGS;
+- los directores, gerentes y empleados de la sociedad, de su controlante o de sus controladas;
+- los cónyuges y determinados parientes de los directores y gerentes generales.
+
+::: {.callout-note appearance="simple"}
+
+El objetivo es preservar la independencia del órgano de fiscalización.
+
+:::
+
+---
+
+# Responsabilidad e inscripción
+
+Los miembros del Consejo de Vigilancia:
+
+- responden si omiten comunicar la configuración de un supuesto del art. 299 LGS;
+- pueden ser sancionados si eluden la fiscalización estatal.
+
+Su designación y cese deben:
+
+- publicarse;
+- inscribirse en el Registro Público conforme al art. 60 LGS.
+
+La inscripción es **declarativa**: la función nace con la designación, pero la oponibilidad frente a terceros se produce con la inscripción.
+
+---
+
+# Límites de sus funciones
+
+::: {.callout-warning appearance="simple"}
+
+El Consejo de Vigilancia **no representa** a la sociedad.
+
+Tampoco administra ni gobierna el ente.
+
+Su actuación se limita al **ámbito interno**, ejerciendo funciones de fiscalización sobre la gestión del directorio.
+
+:::
+
+---
+
+# Funcionamiento
+
+El Consejo de Vigilancia se organiza como un **órgano colegiado**.
+
+Debe:
+
+- reunirse, al menos, con la periodicidad prevista por el art. 267 LGS;
+- respetar un quórum no inferior a la mayoría absoluta de sus integrantes;
+- dejar constancia de sus deliberaciones en un libro de actas.
+
+::: {.callout-note appearance="simple"}
+
+El Consejo designa un presidente, encargado de convocar las reuniones.
+
+:::
+
+---
+
+# Funciones de fiscalización
+
+## Función principal
+
+El Consejo de Vigilancia controla:
+
+- la gestión del directorio;
+- el cumplimiento de la ley, el estatuto y el reglamento;
+- la ejecución de las resoluciones asamblearias.
+
+Para ello puede:
+
+- examinar la contabilidad;
+- inspeccionar los bienes sociales;
+- realizar arqueos de caja;
+- requerir informes al directorio.
+
+---
+
+# Funciones integrativas de administración
+
+Además de controlar, el Consejo puede:
+
+- convocar a la asamblea en los casos previstos por la ley;
+- convocar a pedido de accionistas legitimados;
+- aprobar determinados actos o contratos cuando así lo disponga el estatuto.
+
+::: {.callout-warning appearance="simple"}
+
+Cuando el estatuto exige su aprobación para determinados actos, el Consejo puede impedir su realización.
+
+Si el directorio insiste, la decisión corresponde a la asamblea.
+
+:::
+
+---
+
+# Funciones integrativas de gobierno
+
+El estatuto puede atribuir al Consejo de Vigilancia la **designación de los directores**.
+
+```{mermaid}
+flowchart LR
+
+A[Consejo de Vigilancia]
+
+--> B[Designa directores]
+
+C[Asamblea]
+
+--> D[Revoca directores]
+```
+
+La facultad de **remover** a los directores continúa siendo exclusiva de la asamblea.
+
+---
+
+# Disidencias
+
+Si la oposición reúne **al menos un tercio** de los integrantes del Consejo:
+
+- la decisión queda suspendida;
+- los consejeros disidentes pueden convocar a la asamblea.
+
+La asamblea resolverá definitivamente la cuestión planteada.
+
+---
+
+# Esquema general
+
+| Función | Ejemplos |
+|---------|----------|
+| Fiscalización | Examinar contabilidad, controlar la gestión, requerir informes |
+| Integrativa de administración | Convocar asambleas, aprobar determinados actos, formular observaciones |
+| Integrativa de gobierno | Designar directores cuando lo autorice el estatuto |
+
+::: {.callout-tip appearance="simple"}
+
+El Consejo de Vigilancia **no administra ni representa** a la sociedad.
+
+Su función es controlar e intervenir en determinados aspectos de la gestión cuando la ley o el estatuto así lo autorizan.
+
+:::
+
+---
+
+# Consejo de Vigilancia y Sindicatura
+
+## Artículo 283 LGS
+
+Si el estatuto organiza un **Consejo de Vigilancia**, la sociedad **puede prescindir de la sindicatura**.
+
+Pero ello exige:
+
+- una **auditoría anual**;
+- que el informe sobre los estados contables sea sometido a la asamblea.
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+### Consejo de Vigilancia
+
+- Integrado por accionistas.
+- Controla la gestión.
+- Puede ejercer funciones integrativas de administración y gobierno.
+
+:::
+
+::: {.column width="50%"}
+
+### Sindicatura
+
+- Integrada por abogados y/o contadores.
+- Control técnico de legalidad.
+- Fiscalización profesional.
+
+:::
+
+:::
+
+::: {.callout-warning appearance="simple"}
+
+El Consejo de Vigilancia y la Sindicatura **no son órganos incompatibles**.
+
+Pueden coexistir. La supresión de la sindicatura es una **opción** que la ley admite únicamente si se cumplen los requisitos del art. 283 LGS.
+
+:::
+
+---
+
+# La Sindicatura
+
+## Concepto
+
+La sindicatura es el **órgano de fiscalización interna** de la sociedad anónima.
+
+Características:
+
+- órgano necesario en los casos previstos por la ley;
+- permanente;
+- elegido por la asamblea;
+- con atribuciones mínimas inderogables.
+
+::: {.callout-note appearance="simple"}
+
+Su finalidad es controlar la actuación del directorio en representación de los accionistas.
+
+:::
+
+---
+
+# Naturaleza jurídica
+
+El síndico se vincula con la sociedad mediante un **contrato de servicios**.
+
+Su función presenta características particulares:
+
+- temporal;
+- personal;
+- indelegable;
+- remunerada;
+- libremente revocable por la asamblea.
+
+---
+
+# Funciones de fiscalización
+
+```{mermaid}
+flowchart TD
+
+A[Fiscalizar la administración]
+
+--> B[Examinar libros]
+
+A --> C[Controlar la contabilidad]
+
+A --> D[Verificar disponibilidades]
+
+A --> E[Solicitar balances]
+```
+
+La principal misión del síndico consiste en ejercer un **control integral de la administración** de la sociedad.
+
+---
+
+# Otras atribuciones
+
+El síndico debe:
+
+- asistir a las reuniones del directorio, comité ejecutivo y asamblea (con voz y sin voto);
+- controlar la garantía de los directores;
+- informar a la asamblea sobre los estados contables;
+- suministrar información a los accionistas legitimados.
+
+---
+
+# Facultades especiales
+
+Además, puede:
+
+- convocar asambleas cuando corresponda;
+- solicitar la inclusión de puntos en el orden del día;
+- vigilar el cumplimiento de la ley, el estatuto y las decisiones asamblearias;
+- investigar denuncias formuladas por accionistas.
+
+::: {.callout-warning appearance="simple"}
+
+El síndico no administra la sociedad: controla el funcionamiento de sus órganos.
+
+:::
+
+---
+
+# Esquema general
+
+| Función | Ejemplos |
+|---------|----------|
+| Fiscalización | Libros, contabilidad, bienes, balances |
+| Información | Informes a la asamblea y a accionistas |
+| Control institucional | Directorio, comité ejecutivo y asamblea |
+| Actuación subsidiaria | Convocar asambleas, investigar denuncias |
+
+::: {.callout-tip appearance="simple"}
+
+La sindicatura es el órgano técnico de fiscalización previsto por la LGS. Su función principal es controlar la legalidad y regularidad de la administración, sin sustituir al directorio en la gestión.
+
+:::
+
+---
+
+# Artículo 294 LGS
+
+En lugar de memorizar once incisos, puede agruparse en cuatro funciones.
+
+| Función | Art. 294 |
+|---------|----------|
+| **Fiscalizar** | Incs. 1, 2, 4 y 9 |
+| **Informar** | Incs. 5 y 6 |
+| **Participar** | Inc. 3 |
+| **Actuar subsidiariamente** | Incs. 7, 8 y 10 |
+
+::: {.callout-tip appearance="simple"}
+
+La mayoría de los deberes del síndico responden a una de estas cuatro finalidades:
+
+- **Controlar** la administración.
+- **Informar** a accionistas y asamblea.
+- **Participar** en el funcionamiento de los órganos sociales.
+- **Intervenir** cuando el directorio incumple sus deberes.
+
+:::
+
+::: {.callout-important}
+Atribuciones y deberes.
+
+ARTICULO 294. — Son atribuciones y deberes del síndico, sin perjuicio de los demás que esta ley determina y los que le confiera el estatuto:
+
+1º) Fiscalizar la administración de la sociedad, a cuyo efecto examinará los libros y documentación siempre que lo juzgue conveniente y, por lo menos, una vez cada tres (3) meses.
+
+2º) Verificar en igual forma y periodicidad las disponibilidades y títulos valores, así como las obligaciones y su cumplimiento; igualmente puede solicitar la confección de balances de comprobación;
+
+3º) Asistir con voz, pero sin voto, a las reuniones del directorio, del comité ejecutivo y de la asamblea, a todas las cuales debe ser citado;
+
+4º) Controlar la constitución y subsistencia de la garantía de los directores y recabar las medidas necesarias para corregir cualquier irregularidad;
+
+5º) Presentar a la asamblea ordinaria un informe escrito y fundado sobre la situación económica y financiera de la sociedad, dictaminando sobre la memoria, inventario, balance y estado de resultados;
+
+6º) Suministrar a accionistas que representen no menos del Dos por Ciento (2 %) del capital, en cualquier momento que éstos se lo requieran, información sobre las materias que son de su competencia;
+
+7º) Convocar a asamblea extraordinaria, cuando lo juzgue necesario y a asamblea ordinaria o asambleas especiales, cuando omitiere hacerlo el directorio;
+
+8º) Hacer incluir en el orden del día de la asamblea, los puntos que considere procedentes;
+
+9º) Vigilar que los órganos sociales den debido cumplimiento a la ley, estatuto, reglamento y decisiones asamblearias;
+
+10) Fiscalizar la liquidación de la sociedad;
+
+11) Investigar las denuncias que le formulen por escrito accionistas que representen no menos del Dos por Ciento (2 %) del capital, mencionarlas en informe verbal a la asamblea y expresar acerca de ellas las consideraciones y proposiciones que correspondan. Convocará de inmediato a asamblea para que resuelva al respecto, cuando la situación investigada no reciba del directorio el tratamiento que conceptúe adecuado y juzgue necesario actuar con urgencia.
+
+:::
+
+---
+
+# ¿Qué controla el síndico?
+
+Existe una discusión doctrinaria sobre el alcance de la función sindical.
+
+## Dos posiciones
+
+- **Control de legalidad**.
+- **Control de mérito o gestión**.
+
+::: {.callout-note appearance="simple"}
+
+Vítolo sostiene que la sindicatura ejerce únicamente un **control de legalidad**.
+
+:::
+
+---
+
+# Control de legalidad
+
+Según Vítolo, el síndico debe verificar:
+
+- el cumplimiento de la ley;
+- el cumplimiento del estatuto;
+- el cumplimiento del reglamento;
+- la regularidad de la actuación de los órganos sociales.
+
+No le corresponde juzgar:
+
+- la conveniencia de una decisión empresarial;
+- la oportunidad de un negocio;
+- el mérito de la gestión del directorio.
+
+::: {.callout-warning appearance="simple"}
+
+Las decisiones empresariales corresponden al directorio.
+
+La sindicatura controla su **legalidad**, no su acierto económico.
+
+:::
+
+---
+
+# Investigación de ejercicios anteriores
+
+## Artículo 295 LGS
+
+El síndico puede:
+
+- solicitar información;
+- investigar la administración;
+- revisar documentación
+
+**aunque corresponda a ejercicios anteriores a su designación.**
+
+::: {.callout-tip appearance="simple"}
+
+La finalidad es impedir que el cambio de síndicos impida descubrir irregularidades cometidas en ejercicios anteriores.
+
+:::
+
+---
+
+# Designación de los síndicos
+
+La designación corresponde a la **asamblea ordinaria**.
+
+En la constitución por acto único:
+
+- los síndicos deben designarse en el acto constitutivo.
+
+El estatuto determina:
+
+- el número de síndicos;
+- si la sindicatura será unipersonal o colegiada.
+
+::: {.callout-note appearance="simple"}
+
+Debe designarse igual número de síndicos suplentes que titulares.
+
+:::
+
+---
+
+# Sindicatura colegiada
+
+La regla general es que la sindicatura puede ser:
+
+- unipersonal; o
+- colegiada.
+
+Sin embargo, debe ser **colegiada e integrada por un número impar** cuando la sociedad se encuentre comprendida en los supuestos del art. 299 LGS, salvo las excepciones previstas por la propia ley.
+
+Ejemplos:
+
+- oferta pública;
+- sociedades de economía mixta;
+- concesionarias de servicios públicos;
+- sociedades controlantes o controladas;
+- sociedad anónima unipersonal.
+
+---
+
+# ¿Puede prescindirse de la sindicatura?
+
+## Sí, pero sólo en determinados casos.
+
+Las sociedades que **no** se encuentren comprendidas en el art. 299 LGS pueden prescindir de la sindicatura si así lo prevé el estatuto.
+
+En ese supuesto:
+
+- los socios conservan el derecho individual de información y control (art. 55 LGS).
+
+::: {.callout-warning appearance="simple"}
+
+Si posteriormente la sociedad queda comprendida en un supuesto que exige sindicatura, deberá designarse aunque el estatuto no sea reformado.
+
+:::
+
+---
+
+# ¿Quiénes pueden ser síndicos?
+
+Pueden ser designados:
+
+- abogados con título habilitante;
+- contadores públicos con título habilitante;
+- sociedades integradas exclusivamente por abogados y/o contadores, con responsabilidad solidaria.
+
+::: {.callout-note appearance="simple"}
+
+La sindicatura es un órgano de **fiscalización técnica**.
+
+Por ello la ley exige una calificación profesional específica.
+
+:::
+
+---
+
+# Ideas principales
+
+| Tema | Regla |
+|------|-------|
+| Designación | Asamblea ordinaria |
+| Suplentes | Igual número que titulares |
+| Sindicatura colegiada | Casos previstos por el art. 299 LGS |
+| Prescindencia | Sólo cuando la ley lo permite |
+| Requisitos | Abogado, contador o sociedad profesional |
+
+::: {.callout-tip appearance="simple"}
+
+No confundir:
+
+- **Consejo de Vigilancia:** integrado por accionistas.
+- **Sindicatura:** integrada por profesionales.
+
+:::
+
+---
+
+# Inhabilidades e incompatibilidades
+
+No pueden desempeñarse como síndicos:
+
+- quienes no estén habilitados para ser directores;
+- los directores, gerentes y empleados de la sociedad;
+- los directores, gerentes y empleados de sociedades controlantes o controladas;
+- determinados familiares de directores y gerentes.
+
+::: {.callout-note appearance="simple"}
+
+Las incompatibilidades buscan asegurar la **independencia** del órgano de fiscalización.
+
+:::
+
+---
+
+# Parentesco e incompatibilidad
+
+Tampoco pueden ser síndicos:
+
+- el cónyuge de directores o gerentes;
+- los parientes por consanguinidad en línea recta;
+- los colaterales hasta el cuarto grado;
+- los afines hasta el segundo grado.
+
+::: {.callout-warning appearance="simple"}
+
+La fiscalización exige independencia respecto de quienes administran la sociedad.
+
+:::
+
+---
+
+# Síndico y auditor externo
+
+Existe discusión sobre si una misma persona puede actuar como:
+
+- síndico societario; y
+- auditor externo de la sociedad.
+
+La posición admitida por las normas profesionales considera ambas funciones compatibles, siempre que:
+
+- se mantenga la independencia profesional;
+- no exista relación de dependencia;
+- los informes se emitan separadamente.
+
+::: {.callout-note appearance="simple"}
+
+En las sociedades sujetas a oferta pública, la independencia debe ser objeto de especial evaluación.
+
+:::
+
+---
+
+# Duración, revocación y renuncia
+
+## Duración
+
+- El estatuto fija el plazo.
+- No puede exceder de **tres ejercicios**.
+- El síndico permanece hasta ser reemplazado.
+- Puede ser reelegido indefinidamente.
+
+## Revocación
+
+- Corresponde a la asamblea ordinaria.
+- Puede decidirse sin causa.
+- No procede si se opone el **5 % del capital social**.
+
+## Renuncia
+
+- Puede presentarse en cualquier momento.
+- Debe ser aceptada por la asamblea ordinaria.
+- El síndico continúa en funciones hasta su aceptación.
+
+---
+
+# Vacancia y reemplazo
+
+Debe elegirse igual número de:
+
+- síndicos titulares;
+- síndicos suplentes.
+
+Si el titular no puede continuar en funciones, debe ser reemplazado por el suplente correspondiente.
+
+## ¿Quién realiza la convocatoria?
+
+- En la sindicatura unipersonal: el directorio.
+- En la comisión fiscalizadora: el propio órgano de fiscalización.
+
+::: {.callout-note appearance="simple"}
+
+El reemplazo debe producirse con rapidez para asegurar la continuidad del control societario.
+
+:::
+
+---
+
+# Falta de suplente e impedimento sobreviniente
+
+## Si el suplente no puede asumir
+
+El directorio debe convocar inmediatamente a:
+
+- asamblea ordinaria; o
+- asamblea de clase, si el síndico había sido elegido por una clase de acciones.
+
+La asamblea designará un nuevo síndico hasta completar el período.
+
+## Si aparece una incompatibilidad sobreviniente
+
+El síndico debe:
+
+- cesar inmediatamente en sus funciones;
+- comunicarlo al directorio dentro de los diez días.
+
+::: {.callout-warning appearance="simple"}
+
+La omisión de informar puede generar responsabilidad conforme al art. 296 LGS.
+
+:::
+
+---
+
+# Remuneración de los síndicos
+
+La función sindical es **remunerada**.
+
+La remuneración:
+
+- debe guardar relación con la tarea profesional;
+- debe considerar la responsabilidad asumida;
+- no depende de las ganancias sociales;
+- no está sujeta a los límites del art. 261 LGS.
+
+Si el estatuto no fija el monto, corresponde determinarlo a la asamblea.
+
+::: {.callout-tip appearance="simple"}
+
+El síndico cumple una función técnica de fiscalización, no una función de gestión.
+
+:::
+
+---
+
+# Carácter personal e indelegable
+
+La función sindical es:
+
+- individual;
+- personal;
+- indelegable.
+
+El síndico puede valerse de colaboradores para:
+
+- recopilar antecedentes;
+- analizar documentación;
+- realizar tareas auxiliares.
+
+::: {.callout-warning appearance="simple"}
+
+La fiscalización sólo puede ser ejercida personalmente por el síndico.
+
+No puede actuar mediante mandatarios, delegados o gestores.
+
+:::
+
+---
+
+# Responsabilidad del síndico
+
+## Artículo 296 LGS
+
+Los síndicos responden en forma:
+
+- **ilimitada**;
+- **solidaria**;
+
+por el incumplimiento de las obligaciones impuestas por:
+
+- la ley;
+- el estatuto;
+- el reglamento.
+
+La responsabilidad comprende el período que se extiende desde la aceptación del cargo hasta el cese efectivo.
+
+---
+
+# Supuestos de responsabilidad
+
+Además del incumplimiento de los deberes del art. 294, el síndico puede responder por:
+
+- nulidad de determinadas decisiones asamblearias;
+- distribución indebida de dividendos;
+- inexactitudes vinculadas con emisiones de valores;
+- otros actos expresamente previstos por la ley.
+
+::: {.callout-note appearance="simple"}
+
+La decisión asamblearia que declara la responsabilidad produce la remoción automática del síndico.
+
+:::
+
+---
+
+# Responsabilidad junto con los directores
+
+## Artículo 297 LGS
+
+El síndico responde solidariamente con los directores cuando:
+
+1. los directores causaron un daño mediante una conducta irregular;
+2. el síndico podía controlar esa actuación;
+3. una intervención oportuna habría evitado o reducido el daño.
+
+::: {.callout-tip appearance="simple"}
+
+No responde simplemente porque los directores hayan causado un daño.
+
+Debe existir una omisión relevante en el ejercicio de su función de fiscalización.
+
+:::
+
+---
+
+# Extinción de la responsabilidad
+
+La responsabilidad puede extinguirse por:
+
+- aprobación de la gestión;
+- renuncia a promover la acción;
+- transacción aprobada por la asamblea.
+
+Estas decisiones no producen efecto cuando:
+
+- existe violación de la ley, el estatuto o el reglamento;
+- se opone al menos el 5 % del capital;
+- existe liquidación coactiva o concursal.
+
+::: {.callout-warning appearance="simple"}
+
+La aprobación de la gestión no funciona como una liberación general frente a incumplimientos legales.
+
+:::
+
+---
+
+# Fiscalización estatal
+
+La Ley General de Sociedades prevé dos sistemas:
+
+- **Fiscalización estatal permanente** (art. 299 LGS).
+- **Fiscalización estatal limitada** (arts. 300 y 301 LGS).
+
+La autoridad de contralor ejerce estas funciones durante la vida de la sociedad, según el grado de control que la ley establezca.
+
+::: {.callout-note appearance="simple"}
+
+El fundamento de la fiscalización estatal es la protección del interés público y de los terceros.
+
+:::
+
+::: {.callout-important}
+
+ARTICULO 299. — Las sociedades anónimas, además del control de constitución, quedan sujetas a la fiscalización de la autoridad de contralor de su domicilio, durante su funcionamiento, disolución y liquidación, en cualquiera de los siguientes casos:
+
+1º) Hagan oferta pública de sus acciones o debentures;
+
+2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 10/2024 del Ministerio de Justicia, B.O. 8/2/2024, se fija en PESOS DOS MIL MILLONES ($ 2.000.000.000) el monto del capital social a partir del cual las sociedades anónimas quedan sujetas a fiscalización estatal permanente, conforme la previsión del presente inciso.)
+
+3º) Sean de participación estatal, ya sea por la participación del Estado nacional, los estados provinciales, la Ciudad Autónoma de Buenos Aires, los municipios y/o los organismos estatales legalmente autorizados al efecto. (Inciso sustituido por art. 49 del Decreto N° 70/2023 B.O. 21/12/2023.)
+
+4º) Realicen operaciones de capitalización, ahorro o en cualquier forma requieran dinero o valores al público con promesas de prestaciones o beneficios futuros;
+
+5º) Exploten concesiones o servicios públicos;
+
+6º) Se trate de sociedad controlante de o controlada por otra sujeta a fiscalización, conforme a uno de los incisos anteriores.
+
+7°) Se trate de Sociedades Anónimas Unipersonales. (Inciso incorporado por punto 2.26 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+
+Fiscalización estatal limitada.
+
+ARTICULO 300. — La fiscalización por la autoridad de contralor de las sociedades anónimas no incluidas en el artículo 299, se limitará al contrato constitutivo, sus reformas y variaciones del capital, a los efectos de los artículos 53 y 167.
+
+Fiscalización estatal limitada: extensión.
+
+ARTICULO 301. — La autoridad de contralor podrá ejercer funciones de vigilancia en las sociedades anónimas no incluidas en el artículo 299, en cualquiera de los siguientes casos:
+
+1º) Cuando lo soliciten accionistas que representen el diez por ciento (10 %) del capital suscripto o lo requiera cualquier síndico. En este caso se limitará a los hechos que funden la presentación;
+
+2º) Cuando lo considere necesario, según resolución fundada, en resguardo del interés público.
+
+:::
+
+---
+
+# Fiscalización estatal permanente
+
+Quedan sujetas, entre otras, las sociedades que:
+
+- hacen oferta pública de acciones o debentures;
+- superan el capital previsto por el art. 299 inc. 2;
+- son sociedades de economía mixta;
+- explotan concesiones o servicios públicos;
+- realizan operaciones de capitalización o ahorro;
+- son controlantes o controladas de otras sociedades fiscalizadas;
+- son sociedades anónimas unipersonales.
+
+La autoridad de contralor puede:
+
+- examinar libros y documentación;
+- requerir informes;
+- realizar inspecciones;
+- recibir denuncias.
+
+---
+
+# Fiscalización estatal limitada
+
+Las sociedades no comprendidas en el art. 299 están sujetas, en principio, al control de:
+
+- constitución;
+- reformas del estatuto;
+- variaciones de capital;
+- valuación de aportes en especie.
+
+## Excepciones
+
+La autoridad de contralor puede ampliar su intervención cuando:
+
+- lo solicitan accionistas que representen al menos el 10 % del capital o un síndico;
+- exista un interés público comprometido.
+
+---
+
+# Sanciones administrativas
+
+La autoridad de contralor puede aplicar:
+
+- apercibimiento;
+- apercibimiento con publicación;
+- multas.
+
+::: {.callout-warning appearance="simple"}
+
+Las multas impuestas a directores o síndicos deben ser abonadas por ellos personalmente.
+
+La sociedad no puede asumir ese pago.
+
+:::
+
+---
+
+# Facultades judiciales
+
+La autoridad de contralor puede solicitar judicialmente:
+
+- suspensión de resoluciones sociales;
+- intervención de la administración;
+- disolución y liquidación de la sociedad.
+
+Estas medidas proceden en los supuestos previstos por los arts. 301 y 303 LGS.
+
+::: {.callout-important}
+ARTICULO 301. — La autoridad de contralor podrá ejercer funciones de vigilancia en las sociedades anónimas no incluidas en el artículo 299, en cualquiera de los siguientes casos:
+
+1º) Cuando lo soliciten accionistas que representen el diez por ciento (10 %) del capital suscripto o lo requiera cualquier síndico. En este caso se limitará a los hechos que funden la presentación;
+
+2º) Cuando lo considere necesario, según resolución fundada, en resguardo del interés público.
+
+ARTICULO 303. — La autoridad de contralor está facultada para solicitar al juez del domicilio de la sociedad competente en materia comercial:
+
+1º) La suspensión de las resoluciones de sus órganos si las mismas fueren contrarias a la ley, el estatuto o el reglamento;
+
+2º) La intervención de su administración en los casos del inciso anterior cuando ella haga oferta pública de sus acciones o debentures, o realice operaciones de capitalización, ahorro o en cualquier forma requiera dinero o valores al público con promesa de prestaciones o beneficios futuros y en el supuesto del artículo 301, inciso 2.
+
+La intervención tendrá por objeto remediar las causas que la motivaron y si no fuere ello posible, disolución y liquidación;
+
+3º) La disolución y liquidación en los casos a que se refieren los incisos 3, 4, 5, 8 y 9 del artículo 94 y la liquidación en el caso del inciso 2 de dicho artículo.
+
+:::
+
+---
+
+# Ideas principales
+
+| Fiscalización | Alcance |
+|---------------|---------|
+| Permanente | Control integral durante la vida de la sociedad |
+| Limitada | Constitución, reformas y capital, con excepciones |
+| Sanciones | Apercibimiento y multas |
+| Medidas judiciales | Suspensión, intervención, disolución y liquidación |
+
+::: {.callout-tip appearance="simple"}
+
+La intensidad del control estatal depende del interés público comprometido por la actividad o características de la sociedad.
+
+:::
+
+---
+
+# Responsabilidad por ocultación
+
+## Artículo 305 LGS
+
+Los directores y síndicos responden **ilimitada y solidariamente** cuando:
+
+- conocen que la sociedad se encuentra comprendida en alguno de los supuestos del art. 299 LGS; y
+- omiten comunicar esa circunstancia a la autoridad de contralor.
+
+También pueden ser sancionados cuando:
+
+- eluden; o
+- intentan eludir
+
+la fiscalización estatal.
+
+::: {.callout-warning appearance="simple"}
+
+La finalidad de la norma es impedir que una sociedad evite indebidamente el régimen de fiscalización estatal permanente.
+
+:::
+
+---
+

@@ -1,0 +1,1499 @@
+---
+title: "Clase 13 — SA - Representación"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# El directorio
+
+```{mermaid}
+flowchart TD
+
+A[Sociedad Anónima]
+
+A --> B[Asamblea]
+
+A --> C[Directorio]
+
+A --> D[Fiscalización]
+
+C --> E[Administra]
+
+E --> F[Gestiona diariamente la sociedad]
+```
+
+## El directorio
+
+- Es el **órgano de administración** de la sociedad anónima.
+- Tiene carácter **necesario** y **permanente**.
+- Dirige la actividad cotidiana de la sociedad.
+- Ejecuta las decisiones necesarias para el desarrollo de la empresa.
+
+---
+
+# ¿Por qué existe el voto acumulativo?
+
+```{mermaid}
+flowchart LR
+
+A[Mayoría]
+
+A --> B[Elige todo el directorio]
+
+C[Minoría]
+
+C -.-> D[Queda sin representación]
+```
+
+## Problema
+
+Si todos los directores se eligen por mayoría simple, el grupo mayoritario puede ocupar la totalidad del directorio.
+
+## Objetivo del art. 263 LGS
+
+Permitir que una **minoría relevante** pueda acceder al órgano de administración sin alterar el control de la mayoría.
+
+---
+
+# ¿Qué es el voto acumulativo?
+
+```{mermaid}
+flowchart TD
+
+A[Cada acción = 1 voto]
+
+A --> B[Se multiplican los votos]
+
+B --> C[Se concentran en uno o varios candidatos]
+
+C --> D[La minoría puede obtener un director]
+```
+
+### Idea central
+
+El accionista multiplica los votos que normalmente tendría por el número de directores a elegir y puede concentrarlos en uno o varios candidatos.
+
+No aumenta su participación accionaria.
+
+Aumenta únicamente el **peso de su voto** para la elección del tercio del directorio. 
+
+---
+
+# Requisitos para utilizar el sistema
+
+- Directorio plural.
+- Al menos **tres directores**.
+- Sólo puede utilizarse respecto de **hasta un tercio de las vacantes**.
+- No procede cuando el estatuto prevé elección por clases de acciones (art. 262 LGS).
+- El estatuto no puede eliminar ni dificultar este derecho.
+
+---
+
+# Procedimiento
+
+```{mermaid}
+flowchart LR
+
+A[Notificación previa
+3 días hábiles]
+
+--> B[La sociedad informa]
+
+--> C[El presidente comunica en la asamblea]
+
+--> D[Todos pueden utilizar el sistema]
+```
+
+### Aspectos importantes
+
+- Basta que un accionista comunique su decisión.
+- Desde ese momento todos los presentes pueden votar acumulativamente.
+- Luego esa decisión no puede dejar sin efecto el mecanismo.
+
+---
+
+# Ejemplo
+
+## Directorio de tres miembros
+
+| Accionista | Participación |
+|------------|--------------:|
+| A | 70 % |
+| B | 30 % |
+
+### Sistema común
+
+A designa los **3 directores**.
+
+### Voto acumulativo
+
+El socio B concentra sus votos en un solo candidato y logra elegir **1 director**.
+
+La mayoría conserva **2 directores**.
+
+---
+
+# ¿Cómo se emite el voto?
+
+```{mermaid}
+flowchart TD
+
+A[Voto ordinario]
+
+--> B[Compite por todos los cargos]
+
+C[Voto acumulativo]
+
+--> D[Compite sólo por el tercio]
+```
+
+Los accionistas que utilizan el sistema ordinario votan por la totalidad del directorio.
+
+Quienes utilizan voto acumulativo concentran sus votos únicamente respecto del tercio reservado.
+
+---
+
+# Ideas principales
+
+::: {.callout-tip appearance="simple"}
+
+### Recordar
+
+- ✔ Protege a la minoría.
+- ✔ No elimina el principio mayoritario.
+- ✔ No modifica la cantidad de acciones.
+- ✔ Sólo modifica la forma de computar los votos.
+- ✔ Es un derecho irrenunciable de los accionistas.
+
+:::
+
+> **El voto acumulativo procura que la minoría tenga voz en el directorio, pero sin desplazar a la mayoría del control de la sociedad.**
+
+# Ejemplo de voto acumulativo
+
+## Sociedad Anónima
+
+- Capital: **100 acciones**
+- Cada acción = **1 voto**
+- Directorio: **3 miembros**
+
+| Accionista | Acciones | Participación |
+|------------|----------:|--------------:|
+| A | 70 | 70 % |
+| B | 30 | 30 % |
+
+---
+
+## Sin voto acumulativo
+
+```{mermaid}
+flowchart LR
+
+A[Socio A<br/>70 votos]
+
+--> D[Director 1]
+
+--> E[Director 2]
+
+--> F[Director 3]
+
+B[Socio B<br/>30 votos]
+```
+
+### Resultado
+
+- Director 1 → A
+- Director 2 → A
+- Director 3 → A
+
+**La minoría queda sin representación.**
+
+---
+
+# El mismo ejemplo con voto acumulativo
+
+```{mermaid}
+flowchart LR
+
+A[Socio A<br/>70 votos]
+
+--> D[Director 1]
+
+--> E[Director 2]
+
+B[Socio B<br/>30 × 3 = 90 votos]
+
+--> F[Director 3]
+```
+
+## Resultado
+
+| Cargo | Elegido por |
+|--------|-------------|
+| Director 1 | Mayoría |
+| Director 2 | Mayoría |
+| Director 3 | Minoría |
+
+::: {.callout-tip appearance="simple"}
+
+El socio minoritario **concentra** todos sus votos sobre un único candidato y logra elegir un director.
+
+La mayoría mantiene el control del directorio.
+
+:::
+
+---
+
+# ¿Qué ocurre si la minoría sólo tiene el 20 %?
+
+## Datos
+
+| Accionista | Participación |
+|------------|--------------:|
+| A | 80 % |
+| B | 20 % |
+
+### Voto acumulativo
+
+- Socio A → 80 votos por candidato.
+- Socio B → 20 × 3 = **60 votos**.
+
+## Resultado
+
+El socio minoritario **ya no alcanza** los votos necesarios para superar a la mayoría.
+
+::: {.callout-warning appearance="simple"}
+
+El voto acumulativo **no garantiza** representación.
+
+Sólo la facilita cuando la minoría posee una participación suficientemente significativa.
+
+:::
+
+---
+
+# Reelección de los directores
+
+```{mermaid}
+flowchart LR
+
+A[Finaliza el mandato]
+
+--> B{Asamblea}
+
+B -->|Reelige| C[Continúa en el cargo]
+
+B -->|No reelige| D[Cesa el mandato]
+```
+
+## Principio
+
+El **art. 256 LGS** establece que los directores son **reelegibles**.
+
+### Consecuencias
+
+- No existe un límite legal a la cantidad de reelecciones.
+- La continuidad depende exclusivamente de la voluntad del órgano competente.
+- Cada nuevo mandato requiere una nueva designación por la asamblea.
+
+---
+
+# Revocación del director
+
+```{mermaid}
+flowchart TD
+
+A[Asamblea]
+
+--> B[Revoca la designación]
+
+--> C[Cesa el director]
+```
+
+## Revocación *ad nutum*
+
+La asamblea puede remover al director **sin necesidad de invocar una justa causa**.
+
+### Importante
+
+- La reelección y la remoción requieren una **decisión expresa de la asamblea ordinaria** (art. 234, inc. 2°, LGS).
+- El estatuto no puede establecer renovaciones automáticas del mandato ni remociones tácitas.
+
+::: {.callout-tip appearance="simple"}
+
+El cargo de director es esencialmente **transitorio**: su permanencia depende de la confianza que le otorgue la asamblea y del adecuado cumplimiento de sus deberes.
+
+:::
+
+---
+
+# Garantía de los directores
+
+```{mermaid}
+flowchart TD
+
+A[Director]
+
+--> B[Asume funciones]
+
+--> C[Debe constituir garantía]
+
+--> D[Protección del interés social]
+```
+
+## Fundamento
+
+El director administra el patrimonio ajeno y responde por los daños que pueda ocasionar en el ejercicio de sus funciones.
+
+Por ello, el **art. 256 LGS** exige que preste una **garantía a favor de la sociedad**.
+
+::: {.callout-note appearance="simple"}
+
+La garantía procura facilitar la reparación de los daños derivados de una eventual responsabilidad del director.
+
+:::
+
+---
+
+# ¿Cómo puede constituirse la garantía?
+
+La **RG IGJ 7/2015** admite, entre otras, las siguientes modalidades:
+
+- bonos o títulos públicos;
+- dinero depositado en entidades financieras;
+- avales o fianzas;
+- seguro de caución;
+- seguro de responsabilidad civil.
+
+### Importante
+
+- La garantía corresponde a los **directores titulares**.
+- Los suplentes sólo deben constituirla cuando asumen efectivamente el cargo.
+- No puede integrarse mediante un simple ingreso de dinero a la caja social.
+
+---
+
+# Aspectos reglamentarios
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+### La reglamentación dispone
+
+- la garantía debe mantenerse durante el plazo previsto para el ejercicio de acciones de responsabilidad;
+- el monto debe ser uniforme para todos los directores;
+- la IGJ establece montos mínimos y máximos para las sociedades sujetas a su fiscalización.
+
+:::
+
+::: {.column width="45%"}
+
+::: {.callout-tip appearance="simple"}
+
+### Idea central
+
+La garantía **no reemplaza la responsabilidad** del director.
+
+Simplemente constituye un mecanismo destinado a reforzar la tutela del patrimonio social.
+
+:::
+
+:::
+
+::::
+
+---
+
+# Duración del mandato
+
+```{mermaid}
+flowchart LR
+
+A[Designación]
+
+--> B[Mandato]
+
+--> C[Reemplazo]
+```
+
+## Regla general (art. 255 LGS)
+
+- El estatuto fija la duración del cargo.
+- Cada mandato no puede exceder de **tres ejercicios**.
+
+## Excepción
+
+Cuando los directores son designados por el **Consejo de Vigilancia** (art. 281, inc. d), el mandato puede extenderse hasta **cinco ejercicios**.
+
+---
+
+# Permanencia en el cargo
+
+```{mermaid}
+flowchart TD
+
+A[Vence el mandato]
+
+--> B{¿Hay reemplazo?}
+
+B -->|No| C[Continúa en funciones]
+
+B -->|Sí| D[Cesa el director]
+```
+
+## Principio de continuidad
+
+Aunque el mandato haya vencido, el director **permanece en funciones hasta ser reemplazado**.
+
+::: {.callout-note appearance="simple"}
+
+Esto evita que la sociedad quede sin órgano de administración por el mero vencimiento del plazo.
+
+:::
+
+---
+
+# Reemplazo de directores
+
+```{mermaid}
+flowchart TD
+
+A[Vacancia]
+
+--> B{¿Hay directores suplentes?}
+
+B -->|Sí| C[Asume el suplente]
+
+B -->|No| D[Interviene la sindicatura]
+
+D --> E[Designa reemplazante hasta la próxima asamblea]
+```
+
+## Regla del art. 258 LGS
+
+El estatuto puede prever la existencia de **directores suplentes**, quienes reemplazan a los titulares cuando se produce una vacancia.
+
+Si no existen suplentes, el reemplazo corresponde a la **sindicatura** hasta la próxima asamblea.
+
+::: {.callout-important}
+Reemplazo de los directores.
+
+ARTICULO 258. — El estatuto podrá establecer la elección de suplentes para subsanar la falta de los directores por cualquier causa. Esta previsión es obligatoria en las sociedades que prescinden de sindicatura.
+
+En caso de vacancia, los síndicos designarán el reemplazante hasta la reunión de la próxima asamblea, si el estatuto no prevé otra forma de nombramiento.
+:::
+
+---
+
+# Particularidades
+
+### Director suplente
+
+- Reemplaza al titular por cualquier causa.
+- Asume según el orden de designación.
+
+### Director elegido por clase de acciones
+
+Si el director titular fue elegido por una determinada **clase de acciones** (art. 262 LGS), debe ser reemplazado por el suplente correspondiente a esa misma clase.
+
+::: {.callout-tip appearance="simple"}
+
+Cuando la sociedad prescinde de sindicatura (art. 284 LGS), la designación de **directores suplentes es obligatoria**, ya que no existirá un órgano que pueda cubrir transitoriamente las vacancias.
+
+:::
+
+---
+
+# Régimen especial de suplencias
+
+```{mermaid}
+flowchart TD
+
+A[Director con funciones específicas]
+
+--> B[Vacancia]
+
+--> C[Suplente previamente asignado]
+```
+
+Cuando existen funciones individualizadas, el estatuto, el reglamento o la asamblea pueden prever que **cada director suplente reemplace a un director titular determinado**.
+
+Si la ausencia es definitiva, el reemplazo no presenta dificultades.
+
+Cuando las ausencias son transitorias y sucesivas, los suplentes se incorporarán alternativamente conforme al régimen de reemplazos previsto.
+
+::: {.callout-note}
+La ley 19550 no ha creado para las directres y síndicos suplentes obligaciones similares a las
+de las personas que revisten el cargo de órgano administrativo o de contralor. Sólo en la expectativa de ser llamados a cubrir a vacancia en caso de ausencia de su titular. Al ser suplentes, no tienen responsabilidad ni obligaciones y no integran el órgano directivo, pues el desempeño de la titularidad es excluyente.
+"lraben SA s/Quiebra" - CNCom. - Sala C - 25/10/1995
+:::
+
+---
+
+# Renuncia del director
+
+```{mermaid}
+flowchart LR
+
+A[Renuncia]
+
+--> B[Directorio]
+
+--> C{¿Puede aceptarla?}
+```
+
+El director puede renunciar en cualquier momento.
+
+Según el **art. 259 LGS**, el directorio debe aceptar la renuncia en la primera reunión posterior a su presentación, siempre que:
+
+- no afecte el funcionamiento regular del órgano;
+- no sea dolosa; y
+- no sea intempestiva.
+
+::: {.callout-important}
+
+Renuncia de directores.
+
+ARTICULO 259. — El directorio deberá aceptar la renuncia del director, en la primera reunión que celebre después de presentada siempre que no afectare su funcionamiento regular y no fuere dolosa o intempestiva, lo que deberá constar en el acta pertinente. De lo contrario, el renunciante debe continuar en funciones hasta tanto la próxima asamblea se pronuncie.
+
+:::
+
+---
+
+
+
+# Alcance del funcionamiento regular
+
+Vítolo entiende que la expresión **"afectar el funcionamiento regular del órgano"** debe interpretarse en relación con la posibilidad de que el directorio continúe sesionando válidamente.
+
+No se refiere a la distribución interna de tareas ni a la asignación de áreas específicas de responsabilidad.
+
+::: {.callout-tip appearance="simple"}
+
+Lo que el legislador procura preservar es el **quórum** y la continuidad del órgano de administración.
+
+:::
+
+---
+
+# Inscripción de la designación y cese
+
+```{mermaid}
+flowchart LR
+
+A[Designación o cese]
+
+--> B[Registro Público]
+
+--> C[Legajo de la sociedad]
+```
+
+## Artículo 60 LGS
+
+Toda designación o cesación de administradores debe:
+
+- inscribirse en el Registro Público;
+- incorporarse al legajo de la sociedad;
+- publicarse, cuando corresponda.
+
+::: {.callout-note appearance="simple"}
+
+La publicidad registral procura brindar seguridad a los terceros que contratan con la sociedad.
+
+:::
+
+---
+
+# Efectos de la falta de inscripción
+
+La falta de inscripción del cese del director constituye una modificación **no inscripta**.
+
+### Consecuencia
+
+La cesación **no es oponible a los terceros**.
+
+Sin embargo, esa inoponibilidad se vincula exclusivamente con el **régimen de representación**.
+
+::: {.callout-tip appearance="simple"}
+
+El tercero que desconoce la cesación puede considerar vigente la representación del director que aún figura inscripto.
+
+:::
+
+---
+
+# Inscripción de la renuncia
+
+El director que cesó en el cargo posee legitimación para solicitar la inscripción de su renuncia.
+
+Si la sociedad no entrega la documentación necesaria ni promueve el trámite registral:
+
+- el director puede denunciar esa circunstancia ante el Registro Público;
+- la autoridad de control intimará a la sociedad a cumplir;
+- el incumplimiento puede dar lugar a la aplicación de sanciones.
+
+::: {.callout-warning appearance="simple"}
+
+La inscripción registral evita que el director continúe apareciendo frente a terceros como representante de la sociedad.
+
+:::
+
+---
+
+# Impugnación de las decisiones del directorio
+
+## Un vacío de la LGS
+
+La Ley General de Sociedades **no regula expresamente** la impugnación de las resoluciones del directorio.
+
+A diferencia de las resoluciones de la asamblea, no existe un régimen específico semejante al previsto en los **arts. 251 a 254 LGS**
+
+---
+
+# Solución doctrinaria y jurisprudencial
+
+```{mermaid}
+flowchart LR
+
+A[Resolución del directorio]
+
+--> B[Impugnación]
+
+--> C[Aplicación analógica de los arts. 251 a 254 LGS]
+```
+
+La doctrina y la jurisprudencia mayoritarias admiten la impugnación de las decisiones del directorio aplicando **por analogía** el régimen previsto para la impugnación de las resoluciones asamblearias.
+
+::: {.callout-note appearance="simple"}
+
+Se utilizan las mismas causales y un procedimiento semejante al de los arts. 251 y siguientes de la LGS.
+
+:::
+
+---
+
+# Legitimación y acumulación de acciones
+
+La acción de impugnación debe dirigirse **contra la sociedad**, ya que el acto impugnado emana de uno de sus órganos.
+
+Además, por aplicación analógica del **art. 254 LGS**, puede acumularse:
+
+- la acción de impugnación; y
+- la acción de responsabilidad contra los directores que aprobaron la decisión,
+
+siempre que el acuerdo haya sido ejecutado y haya ocasionado daños al patrimonio social.
+
+::: {.callout-tip appearance="simple"}
+
+La impugnación procura invalidar la decisión; la acción de responsabilidad busca reparar los daños derivados de su ejecución.
+
+:::
+
+---
+
+# Remuneración de los directores
+
+La función del director se presume **remunerada**.
+
+La remuneración constituye la contraprestación por el ejercicio de la administración de la sociedad y por el cumplimiento de los deberes impuestos por el **art. 59 LGS**.
+
+::: {.callout-note appearance="simple"}
+
+La relación entre el director y la sociedad es una relación de servicios calificada.
+
+:::
+
+---
+
+# ¿Quién fija la remuneración?
+
+```{mermaid}
+flowchart TD
+
+A[Estatuto]
+
+--> D[Remuneración]
+
+B[Consejo de Vigilancia]
+
+--> D
+
+C[Asamblea Ordinaria]
+
+--> D
+```
+
+La remuneración puede ser establecida por:
+
+- el **estatuto**;
+- el **Consejo de Vigilancia**, cuando corresponda; o
+- la **Asamblea Ordinaria**, si el estatuto guarda silencio.
+
+::: {.callout-important}
+Remuneración.
+
+ARTICULO 261. — El estatuto podrá establecer la remuneración del directorio y del consejo de vigilancia; en su defecto, la fijará la asamblea o el consejo de vigilancia en su caso.
+
+El monto máximo de las retribuciones que por todo concepto puedan percibir los miembros del directorio y del consejo de vigilancia en su caso, incluidos sueldos y otras remuneraciones por el desempeño de funciones técnico-administrativas de carácter permanente, no podrán exceder del veinticinco por ciento (25%) de las ganancias.
+
+Dicho monto máximo se limitará al cinco por ciento (5%) cuando no se distribuyan dividendos a los accionistas, y se incrementará proporcionalmente a la distribución, hasta alcanzar aquel límite cuando se reparta el total de las ganancias. A los fines de la aplicación de esta disposición, no se tendrá en cuenta la reducción en la distribución de dividendos, resultante de deducir las retribuciones del Directorio y del Consejo de Vigilancia.
+
+Cuando el ejercicio de comisiones especiales o de funciones técnico administrativas por parte de uno o más directores, frente a lo reducido o a la inexistencia de ganancias impongan la necesidad de exceder los límites prefijados, sólo podrán hacerse efectivas tales remuneraciones en exceso si fuesen expresamente acordadas por la asamblea de accionistas, a cuyo efecto deberá incluirse el asunto como uno de los puntos del orden del día.
+:::
+
+---
+
+# Límites legales
+
+El **art. 261 LGS** establece límites máximos a la remuneración del directorio.
+
+### Regla general
+
+- hasta el **25 %** de las ganancias del ejercicio.
+
+### Si no se distribuyen dividendos
+
+- el límite se reduce al **5 %**.
+
+::: {.callout-note appearance="simple"}
+
+A medida que aumenta la distribución de dividendos, también puede incrementarse la remuneración del directorio, hasta alcanzar el límite del 25 %.
+
+:::
+
+---
+
+# Excepción
+
+La asamblea puede autorizar una remuneración superior a los límites legales cuando:
+
+- uno o más directores desempeñen **funciones técnico-administrativas** o **comisiones especiales**; y
+- la remuneración ordinaria resulte insuficiente.
+
+### Requisito
+
+La cuestión debe incluirse **expresamente en el orden del día** y la asamblea debe justificar la razonabilidad de la decisión.
+
+::: {.callout-tip appearance="simple"}
+
+La superación de los límites del art. 261 constituye un supuesto excepcional que requiere una decisión específica de la asamblea.
+
+:::
+
+---
+
+# Prohibiciones e incompatibilidades
+
+## Artículo 264 LGS
+
+La ley establece determinadas **prohibiciones e incompatibilidades** para desempeñarse como director o gerente de una sociedad anónima.
+
+Su finalidad es asegurar que quienes integran el órgano de administración posean:
+
+- plena capacidad para ejercer sus funciones;
+- aptitud para asumir las responsabilidades del cargo; y
+- independencia respecto de situaciones incompatibles con la administración social.
+
+::: {.callout-important}
+
+ARTICULO 264. — No pueden ser directores ni gerentes:
+
+1º) Quienes no pueden ejercer el comercio;
+
+2º) Los fallidos por quiebra culpable o fraudulenta hasta diez (10) años después de su rehabilitación, los fallidos por quiebra casual o los concursados hasta cinco (5) años después de su rehabilitación; los directores y administradores de sociedad cuya conducta se calificare de culpable o fraudulenta, hasta diez (10) años después de su rehabilitación.
+
+3º) Los condenados con accesoria de inhabilitación de ejercer cargos públicos; los condenados por hurto, robo, defraudación, cohecho, emisión de cheques sin fondos y delitos contra la fe pública; los condenados por delitos cometidos en la constitución, funcionamiento y liquidación de sociedades. En todos los casos hasta después de diez (10) años de cumplida la condena;
+
+4º) Los funcionarios de la administración pública cuyo desempeño se relacione con el objeto de la sociedad, hasta dos (2) años del cese de sus funciones.
+
+:::
+
+---
+
+# Personas incapaces
+
+## Inciso 1°
+
+Tras la entrada en vigencia del Código Civil y Comercial desapareció la noción de **capacidad para ejercer el comercio**.
+
+Según Vítolo, actualmente la norma debe entenderse referida a quienes:
+
+- no sean mayores de edad; o
+- carezcan de capacidad para ejercer por sí mismos sus derechos.
+
+::: {.callout-note appearance="simple"}
+
+La referencia legal al "ejercicio del comercio" debe interpretarse conforme al régimen vigente del Código Civil y Comercial.
+
+:::
+
+---
+
+# Fallidos
+
+## Inciso 2°
+
+El art. 264 menciona:
+
+- los fallidos;
+- los concursados; y
+- los administradores cuya conducta hubiera sido calificada como culpable o fraudulenta.
+
+### Interpretación de Vítolo
+
+La derogación del régimen de calificación de conducta por la **Ley 24.522** modificó este supuesto.
+
+Una vez rehabilitado, el fallido puede desempeñarse nuevamente como director, salvo los supuestos especiales previstos por la legislación concursal.
+
+---
+
+# Condenados penalmente
+
+## Inciso 3°
+
+No pueden ser directores quienes hubieran sido condenados por:
+
+- delitos con pena accesoria de inhabilitación;
+- delitos contra la propiedad;
+- cohecho;
+- emisión de cheques sin fondos;
+- delitos contra la fe pública;
+- delitos cometidos en la constitución, funcionamiento o liquidación de sociedades.
+
+La incompatibilidad subsiste **hasta diez años después de cumplida la condena**.
+
+---
+
+# Funcionarios públicos
+
+## Inciso 4°
+
+Los funcionarios de la Administración Pública cuyo desempeño se vincule con el objeto de la sociedad no podrán ser directores de ella hasta **dos años después del cese de sus funciones**.
+
+::: {.callout-note appearance="simple"}
+
+La finalidad es evitar el aprovechamiento de relaciones o influencias derivadas del ejercicio de la función pública.
+
+:::
+
+---
+
+# Remoción del director inhabilitado
+
+```{mermaid}
+flowchart LR
+
+A[Prohibición o incompatibilidad]
+
+--> B[Convocatoria a asamblea]
+
+--> C[Remoción]
+```
+
+La remoción corresponde exclusivamente a la **asamblea**.
+
+Cuando exista una prohibición del art. 264, el **directorio** o, en su defecto, el **síndico**, deben convocar a asamblea.
+
+La convocatoria también puede originarse en un **pedido fundado de cualquier accionista**.
+
+---
+
+# Falta de convocatoria o rechazo de la remoción
+
+Si la asamblea no es convocada dentro del plazo legal, cualquier:
+
+- accionista;
+- director; o
+- síndico,
+
+puede promover judicialmente la remoción del director.
+
+Si la asamblea decide mantener al director en el cargo, la vía adecuada será la **acción de impugnación de asamblea** prevista en el **art. 251 LGS**, solicitando como consecuencia de la nulidad la remoción del director afectado por la incompatibilidad.
+
+---
+
+# Periodicidad de las reuniones
+
+## Artículo 267 LGS
+
+El directorio debe reunirse **por lo menos una vez cada tres meses**.
+
+El estatuto puede exigir una frecuencia mayor.
+
+::: {.callout-note appearance="simple"}
+
+La reforma introducida por la Ley 22.903 sustituyó la exigencia original de una reunión mensual por el actual plazo trimestral.
+
+:::
+
+::: {.callout-important}
+Directorio: Reuniones: convocatoria.
+
+ARTICULO 267. — El directorio se reunirá, por lo menos, una vez cada tres (3) meses, salvo que el estatuto exigiere mayor número de reuniones, sin perjuicio de las que se pudieren celebrar por pedido de cualquier director. La convocatoria será hecha, en éste último caso, por el presidente para reunirse dentro del quinto día de recibido el pedido. En su defecto, podrá convocarla cualquiera de los directores.
+
+La convocatoria deberá indicar los temas a tratar.
+:::
+
+---
+
+# Reuniones extraordinarias
+
+La reunión trimestral constituye únicamente el **mínimo legal**.
+
+El directorio debe reunirse además:
+
+- cuando las necesidades de la administración lo requieran;
+- a pedido del presidente; o
+- a solicitud de cualquiera de los directores.
+
+::: {.callout-tip appearance="simple"}
+
+La omisión de celebrar las reuniones exigidas por el art. 267 puede comprometer la responsabilidad de los directores.
+
+:::
+
+---
+
+# Convocatoria
+
+```{mermaid}
+flowchart LR
+
+A[Presidente]
+
+--> B[Convoca al directorio]
+
+--> C[Reunión]
+```
+
+Como regla general, la convocatoria corresponde al **presidente del directorio**.
+
+La convocatoria debe indicar:
+
+- día;
+- hora;
+- lugar; y
+- orden del día.
+
+---
+
+# Solicitud de convocatoria
+
+Cualquier director puede solicitar al presidente la convocatoria del directorio.
+
+El presidente debe convocar la reunión para que se celebre **dentro de los cinco días** de recibido el pedido.
+
+Si no lo hace, o fija la reunión para una fecha posterior sin causa justificada, **cualquier director puede convocarla**.
+
+---
+
+# Comité Ejecutivo
+
+## Concepto
+
+El **art. 269 LGS** permite que el directorio delegue la gestión de los negocios ordinarios en un **Comité Ejecutivo** integrado por directores.
+
+::: {.callout-note appearance="simple"}
+
+La delegación no comprende la función de administrar en sentido pleno, sino únicamente la ejecución de determinadas tareas y decisiones.
+
+El cargo de director continúa siendo **personal e indelegable**.
+
+:::
+
+::: {.callout-important}
+ARTICULO 266. — El cargo de director es personal e indelegable.
+
+Los directores no podrán votar por correspondencia, pero en caso de ausencia podrán autorizar a otro director a hacerlo en su nombre, si existiera quórum. Su responsabilidad será la de los directores presentes.
+
+Directorio: Comité ejecutivo.
+
+ARTICULO 269. — El estatuto puede organizar un comité ejecutivo integrados por directores que tengan a su cargo únicamente la gestión de los negocios ordinarios. El directorio vigilará la actuación de ese comité ejecutivo y ejercerá las demás atribuciones legales y estatuarias que le correspondan.
+
+Responsabilidad.
+
+Esta organización no modifica las obligaciones y responsabilidades de los directores.
+
+:::
+
+---
+
+# Constitución y funcionamiento
+
+```{mermaid}
+flowchart LR
+
+A[Estatuto]
+
+--> B[Directorio]
+
+--> C[Comité Ejecutivo]
+```
+
+Para constituir un Comité Ejecutivo se requiere:
+
+- que el **estatuto** autorice su creación;
+- que el **directorio** disponga su integración;
+- que se determinen las funciones que ejercerá.
+
+El Comité Ejecutivo está integrado exclusivamente por **directores titulares**.
+
+---
+
+# Gerentes
+
+## Artículo 269 LGS
+
+El directorio puede designar **gerentes generales o especiales** para ejecutar las decisiones vinculadas con la gestión ordinaria de la sociedad. 
+
+::: {.callout-note appearance="simple"}
+
+El gerente **no integra el órgano de administración**. Actúa bajo la autoridad y vigilancia del directorio.
+
+:::
+
+---
+
+# Funciones y responsabilidad del gerente
+
+```{mermaid}
+flowchart LR
+
+A[Directorio]
+
+--> B[Define la política empresarial]
+
+B --> C[Gerente]
+
+C --> D[Ejecuta la gestión diaria]
+```
+
+El gerente:
+
+- ejecuta las políticas fijadas por el directorio;
+- puede ser designado y removido por éste;
+- responde frente a la sociedad y a terceros en la misma extensión que los directores.
+
+La designación de gerentes **no excluye la responsabilidad del directorio**.
+
+---
+
+# Contratación del director con la sociedad
+
+## Artículo 271 LGS
+
+Como regla, el director puede contratar con la sociedad cuando:
+
+- el contrato corresponde a la actividad de la sociedad; y
+- se celebra en condiciones de mercado.
+
+Si falta alguno de esos requisitos, el contrato debe ser aprobado por el directorio, con **abstención de voto** del director interesado.
+
+::: {.callout-important}
+Prohibición de contratar con la sociedad.
+
+ARTICULO 271. — El director puede celebrar con la sociedad los contratos que sean de la actividad en que éste opere y siempre que se concierten en las condiciones del mercado.
+
+Los contratos que no reúnan los requisitos del párrafo anterior sólo podrán celebrarse previa aprobación del directorio o conformidad de la sindicatura si no existiese quórum. De estas operaciones deberá darse cuenta a la asamblea.
+
+Si desaprobase los contratos celebrados, los directores o la sindicatura en su caso, serán responsables solidariamente por los daños y perjuicios irrogados a la sociedad.
+
+Los contratos celebrados en violación de lo dispuesto en el párrafo segundo y que no fueren ratificados por la asamblea son nulos, sin perjuicio de la responsabilidad prevista en el párrafo tercero.
+
+:::
+
+---
+
+# Intervención de la asamblea
+
+```{mermaid}
+flowchart TD
+
+A[Contrato]
+
+--> B[Directorio o sindicatura]
+
+--> C[Asamblea]
+
+C --> D[Aprueba]
+
+C --> E[Desaprueba]
+```
+
+La asamblea puede:
+
+- guardar silencio;
+- aprobar la contratación; o
+- desaprobarla.
+
+Si la desaprueba, el contrato es nulo y los responsables deben indemnizar los daños causados a la sociedad.
+
+---
+
+# Director con interés contrario
+
+## Artículo 272 LGS
+
+Cuando un director tenga un interés contrario al interés social debe:
+
+- comunicar esa circunstancia al directorio y, en su caso, a la sindicatura;
+- abstenerse de participar en la deliberación;
+- abstenerse de votar.
+
+El incumplimiento genera responsabilidad por los daños ocasionados.
+
+## Finalidad de la prohibición
+
+::: {.callout-warning appearance="simple"}
+
+Según Vítolo, la finalidad del art. 272 no es sólo reparar daños una vez producidos, sino **evitar que el director haga prevalecer su interés personal sobre el interés social**.
+
+Por ello, la infracción a la prohibición puede conducir a la invalidez del acto, además de generar responsabilidad. 
+
+:::
+
+---
+
+# Actividades en competencia
+
+## Artículo 273 LGS
+
+El director **no puede desarrollar, por cuenta propia o de terceros, actividades en competencia con la sociedad**, salvo autorización expresa de la asamblea. :contentReference[oaicite:0]{index=0}
+
+La prohibición constituye una manifestación del **deber de lealtad** previsto en el art. 59 LGS.
+
+::: {.callout-warning appearance="simple"}
+
+Sin autorización previa de la asamblea, el director incurre en responsabilidad.
+
+:::
+
+::: {.callout-note}
+"El artículo 273 de la ley de sociedades comerciales, al proscribir a los administradores
+la realización de actos en competencia con la sociedad, comprende no sálo las actuaciones habituales efectuadas en competencia, sino también las esporádicas, pues dado
+el cúmulo de poderes y facultades que ostenta el directorio de una sociedad anónima,
+es dable exigirles a sus integrantes que mantengan una conducta leal, honesta y prudente durante todo su desempeño.
+'Pérez Cotapos, Julio c/Hinz, Pablo y otros" - ENCom. -Sala A - 8/3/1995
+
+:::
+
+---
+
+# Alcance de la prohibición
+
+La prohibición comprende:
+
+- actividades habituales o esporádicas;
+- actuaciones por cuenta propia;
+- actuaciones por cuenta de terceros.
+
+La autorización de la asamblea debe ser:
+
+- **expresa**; y
+- **previa** al inicio de la actividad competitiva.
+
+La aprobación posterior de la gestión, la renuncia o una transacción **no extinguen la responsabilidad** derivada de la violación del art. 273 LGS.
+
+::: {.callout-important}
+
+Actividades en competencia.
+
+ARTICULO 273. — El director no puede participar por cuenta propia o de terceros, en actividades en competencia con la sociedad, salvo autorización expresa de la asamblea, so pena de incurrir en la responsabilidad del artículo 59.
+
+:::
+
+---
+
+# Responsabilidad de los directores
+
+## Idea central
+
+Los directores responden por el ejercicio de sus funciones frente a:
+
+- la sociedad;
+- los accionistas; y
+- los terceros.
+
+El régimen de los **arts. 274 y siguientes LGS** constituye el sistema general de responsabilidad de los administradores de las sociedades por acciones y se aplica supletoriamente a otros tipos sociales.
+
+::: {.callout-important}
+ARTICULO 274. — Los directores responden ilimitada y solidariamente hacia la sociedad, los accionistas y los terceros, por el mal desempeño de su cargo, según el criterio del artículo 59, así como por la violación de la ley, el estatuto o el reglamento y por cualquier otro daño producido por dolo, abuso de facultades o culpa grave.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, la imputación de responsabilidad se hará atendiendo a la actuación individual cuando se hubieren asignado funciones en forma personal de acuerdo con lo establecido en el estatuto, el reglamento o decisión asamblearia. La decisión de la asamblea y la designación de las personas que han de desempeñar las funciones deben ser inscriptas el Registro Público de Comercio como requisito para la aplicación de lo dispuesto en este párrafo.
+
+Exención de responsabilidad.
+
+Queda exento de responsabilidad el director que participó en la deliberación o resolución o que la conoció, si deja constancia escrita de su protesta y diera noticia al síndico antes que su responsabilidad se denuncie al directorio, al síndico, a la asamblea, a la autoridad competente, o se ejerza la acción judicial.
+:::
+
+---
+
+# Jurisprudencia
+
+::: {.callout-note}
+La responsabilidad del director de una saciedad anónima nace de la sola circunstancia
+de integrar el Órgano de Gobierno; de allí que es función -aun cuando no se la indique
+expresamente- de cualquier integrante del Órgano de Administración a de controlar la
+calidad de la gestión empresaria, dando lugar su incumplimiento a una suerte de culpa
+“in viglando”.
+
+NO obsta a lo expuesto que el presidente del ente haya absorbido la conducción de la
+empresa con exclusión de los demás, como se alega en el escrito recursivo. Ello no
+excusa la responsabilidad del recurrente, cuya conducta omisiva puede ocurrir por
+ignorancia, imprevisin, negligencia, imperica e imprudencia, entre otros, y cualesquiera de ellas revela su falta de aptitud para el cargo, pero no lo excusa de su responsabilidad. Los administradores de la sociedad que omiten ejercersus funciones en la gestión social no están exentos de la culpa in vigilando”. Se estima aplicable al caso lo dispuesto en el artículo 274 de la ley de sociedades comerciales.
+linkus, GabrielA.c/Video Producciones Internacionales
+SA y otros” - CNCom. - Sala B-6/11/1996
+
+:::
+
+---
+
+# Principio general
+
+```{mermaid}
+flowchart TD
+
+A[Director]
+
+--> B[Deberes legales]
+
+--> C[Responsabilidad]
+```
+
+La responsabilidad deriva tanto de:
+
+- la actuación del director;
+- como de sus omisiones;
+- y de la falta de vigilancia.
+
+La delegación de funciones no elimina la responsabilidad, salvo en los casos previstos por la ley.
+
+---
+
+# Artículo 59 LGS
+
+## Parámetro de conducta
+
+El director debe obrar:
+
+- con **lealtad**;
+- con la **diligencia del buen hombre de negocios**.
+
+Quien falta a sus obligaciones responde ilimitada y solidariamente por los daños ocasionados.
+
+---
+
+# ¿Qué significa actuar con lealtad?
+
+Implica privilegiar siempre el **interés social** por sobre:
+
+- el interés personal;
+- el interés de otros accionistas;
+- o el interés de terceros.
+
+La actuación desleal genera responsabilidad.
+
+---
+
+# Buen hombre de negocios
+
+No es el parámetro del "buen padre de familia".
+
+Exige:
+
+- conocimiento;
+- prudencia;
+- experiencia;
+- actuación activa;
+- adecuada valoración de los riesgos empresariales.
+
+También responde quien **omite actuar** cuando debía hacerlo.
+
+---
+
+# Artículo 274 LGS
+
+Los directores responden por:
+
+- mal desempeño del cargo;
+- violación de la ley;
+- violación del estatuto;
+- violación del reglamento;
+- dolo;
+- abuso de facultades;
+- culpa grave
+
+---
+
+# Supuestos de responsabilidad
+
+| Supuesto | Factor |
+|-----------|---------|
+| Mal desempeño | Violación del estándar del art. 59 |
+| Violación de ley, estatuto o reglamento | Objetivo |
+| Dolo | Intención de causar daño |
+| Abuso de facultades | Exceso deliberado en las atribuciones |
+| Culpa grave | Negligencia especialmente intensa |
+
+---
+
+# Ideas principales
+
+::: {.callout-warning appearance="simple"}
+
+Los directores responden **individualmente**, aunque la responsabilidad pueda ser solidaria.
+
+El directorio, como órgano, **no responde**: quienes responden son las personas físicas que lo integran.
+
+:::
+
+La responsabilidad cesa cuando el director deja efectivamente el cargo, sin perjuicio de los efectos registrales del art. 60 frente a terceros. 
+
+---
+
+# Acciones de responsabilidad
+
+La LGS prevé dos acciones principales contra los directores:
+
+- **Acción social de responsabilidad** (art. 276).
+- **Acción individual de responsabilidad** (art. 279).
+
+En las sociedades que hacen oferta pública existe, además, la acción prevista por la Ley de Mercado de Capitales.
+
+---
+
+# Acción social de responsabilidad
+
+## Artículo 276 LGS
+
+```{mermaid}
+flowchart LR
+
+A[Asamblea]
+
+--> B[Promueve la acción]
+
+--> C[Sociedad]
+```
+
+Corresponde a la **sociedad**.
+
+Requiere, como regla, una resolución previa de la asamblea.
+
+La resolución produce la **remoción automática** del director demandado y obliga a su reemplazo.
+
+::: {.callout-important}
+Acción social de responsabilidad. Condiciones. Efectos, ejercicios.
+
+ARTICULO 276. — La acción social de responsabilidad contra los directores corresponde a la sociedad, previa resolución de la asamblea de accionistas. Puede ser adoptada aunque no conste en el orden del día, si es consecuencia directa de la resolución de asunto incluido en éste. La resolución producirá la remoción del director o directores afectados y obligará a su reemplazo.
+
+Esta acción también podrá ser ejercida por los accionistas que hubieren efectuado la oposición prevista en el artículo 275.
+
+ARTICULO 277. — Si la acción prevista en el primer párrafo del artículo 276 no fuera iniciada dentro del plazo de tres (3) meses, contados desde la fecha del acuerdo, cualquier accionista puede promoverla, sin perjuicio de la responsabilidad que resulte del incumplimiento de la medida ordenada.
+
+:::
+
+---
+
+# Acción social promovida por un accionista
+
+Si la asamblea resolvió iniciar la acción pero el directorio **no la promueve dentro de tres meses**, cualquier accionista puede hacerlo.
+
+No importa cómo haya votado en la asamblea.
+
+::: {.callout-note appearance="simple"}
+
+El accionista actúa en defensa del interés social, no de un interés propio.
+
+:::
+
+---
+
+# Jurisprudencia
+
+::: {.callout-note}
+La doctrina distingue la acción individual de la acción social de responsabilidad ejercida
+por el socio individualmente, la que se origina por un daño en el parrimonio del socio,
+producido a través de la figura societaría. La acción individual se reiere a daños que
+el accionista reciba personalmente y no a los resultantes de mayor daño sufrido porla
+sociedad. A los fines de la acción individual, no puede computarse como daño causado a la
+persunia que la ejeree la parte proporcional que le corresponda en el daño causado al
+patrimonio de la sociedad. La procedencia de la acción individual de responsabilidad
+contra los directores y consejeros (arts. 278 y 279, LSC) está condicionada a que el acciomista sufra un perjuicio directo en su palrimonio.
+'López González c/Belgrano, Manuel C- - CNCom. - Sala E- 11/3/1991
+
+:::
+
+---
+
+# Acción individual de responsabilidad
+
+## Artículo 279 LGS
+
+Corresponde al:
+
+- accionista; o
+- tercero,
+
+que haya sufrido un **daño directo en su propio patrimonio** por la actuación del director.
+
+No requiere decisión previa de la asamblea
+
+::: {.callout-important}
+ARTICULO 279. — Los accionistas y los terceros conservan siempre sus acciones individuales contra los directores.
+:::
+
+---
+
+# Acción social vs. acción individual
+
+| Acción social | Acción individual |
+|---------------|-------------------|
+| Protege el patrimonio social | Protege el patrimonio del accionista o tercero |
+| El actor es la sociedad (o un accionista en su reemplazo) | El actor es el damnificado |
+| Requiere decisión asamblearia | No requiere decisión asamblearia |
+| La indemnización ingresa a la sociedad | La indemnización corresponde al actor |
+| Puede producir la remoción del director | No afecta el funcionamiento del órgano |
+
+---
+
+# Responsabilidad en la quiebra
+
+Cuando la sociedad quiebra:
+
+- la acción es ejercida por el **síndico**;
+- requiere la autorización prevista por la LCQ;
+- si el síndico no actúa, puede hacerlo un acreedor interesado.
+
+Las acciones tramitan ante el juez de la quiebra.
+
+::: {.callout-important}
+ARTICULO 278. — En caso de quiebra de la sociedad, la acción de responsabilidad puede ser ejercida por el representante del concurso y, en su defecto, se ejercerá por los acreedores individualmente.
+:::
+
+---
+
+

@@ -179,6 +179,24 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/clase12-sa-naturaleza-acciones.pdf" target="_blank">Descargar presentación en PDF</a>
 
+### Clase 13 - SA - Asamblea.
+
+- 🎓 <a href="clases/clase13-sa-asamblea.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase13-sa-asamblea.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 13 - SA - Representación.
+
+- 🎓 <a href="clases/clase13-representacion.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase13-representacion.pdf" target="_blank">Descargar presentación en PDF</a>
+
+### Clase 14 - SA - Fiscalización.
+
+- 🎓 <a href="clases/clase14-fiscalizacion.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase14-fiscalizacion.pdf" target="_blank">Descargar presentación en PDF</a>
+
 ## Evaluaciones
 
 📊 **Calificaciones de la cursada**

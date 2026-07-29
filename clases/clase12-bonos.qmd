@@ -1,0 +1,192 @@
+---
+title: "Clase 12 — SA - Bonos"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Los bonos
+
+Los bonos son títulos emitidos por la sociedad que tienen una naturaleza distinta de las acciones.
+
+Características:
+
+- no representan partes del capital social;
+- no confieren la calidad de socio;
+- otorgan determinados derechos económicos previstos por la ley.
+
+## Clases
+
+- Bonos de goce.
+- Bonos de participación.
+
+---
+
+# Bonos de goce y bonos de participación
+
+| Bonos de goce | Bonos de participación |
+|---------------|------------------------|
+| Se entregan a titulares de acciones amortizadas. | Se otorgan por prestaciones que no consisten en aportes de capital. |
+| Participan en las ganancias. | Participan únicamente en las ganancias del ejercicio. |
+| Participan en la cuota de liquidación luego del reembolso de las acciones no amortizadas. | No participan en la liquidación. |
+| El estatuto puede reconocer otros derechos. | Existen también bonos de participación para el personal. |
+
+---
+
+# Bonos de participación para el personal
+
+Características:
+
+- participan únicamente en las ganancias;
+- las sumas abonadas constituyen un gasto para la sociedad;
+- son intransferibles;
+- caducan con la extinción de la relación laboral.
+
+::: {.callout-note appearance="simple"}
+
+Estos bonos no convierten al trabajador en socio ni le otorgan facultades de administración o de gobierno.
+
+La modificación de sus condiciones requiere, en principio, la aprobación de la mayoría absoluta de los titulares de la clase correspondiente.
+
+:::
+
+---
+
+# Debentures
+
+Los **debentures** son títulos de deuda emitidos por sociedades por acciones.
+
+Características:
+
+- representan un empréstito tomado por la sociedad;
+- sólo pueden ser emitidos por sociedades por acciones;
+- su emisión debe estar prevista en el estatuto.
+
+::: {.callout-note appearance="simple"}
+
+En la actualidad poseen escasa utilización práctica y fueron desplazados por las obligaciones negociables.
+
+:::
+
+---
+
+# Clases de debentures
+
+## Según la garantía
+
+- **Con garantía flotante.**
+- **Con garantía especial.**
+- **Con garantía común.**
+
+## Según los derechos del tenedor
+
+- Debentures simples.
+- Debentures convertibles en acciones.
+
+---
+
+# Garantías
+
+| Tipo | Características |
+|------|-----------------|
+| Garantía flotante | Recae sobre el patrimonio de la sociedad. |
+| Garantía especial | Recae sobre bienes determinados susceptibles de hipoteca. |
+| Garantía común | El debenturista es acreedor quirografario. |
+
+::: {.callout-tip appearance="simple"}
+
+La garantía determina el nivel de protección del acreedor frente a la insolvencia de la sociedad.
+
+:::
+
+---
+
+# El fiduciario
+
+La emisión requiere la celebración de un contrato de fideicomiso.
+
+El fiduciario:
+
+- organiza la colocación;
+- representa a los debenturistas;
+- controla el cumplimiento del empréstito;
+- protege los intereses comunes de los acreedores.
+
+En determinados supuestos puede solicitar judicialmente la suspensión del directorio.
+
+---
+
+# Facultades del fiduciario
+
+Ante determinados incumplimientos de la sociedad emisora puede:
+
+- asumir la administración;
+- continuar el giro de los negocios;
+- convocar a la asamblea de debenturistas;
+- promover la liquidación de la sociedad cuando corresponda.
+
+::: {.callout-warning appearance="simple"}
+
+Se trata de facultades excepcionales que distinguen el régimen de los debentures.
+
+:::
+
+---
+
+# Obligaciones negociables
+
+La Ley 23.962 sustituyó en la práctica al régimen de los debentures.
+
+Ventajas principales:
+
+- pueden emitirlas otros sujetos además de las sociedades por acciones;
+- mayor flexibilidad para su emisión;
+- posibilidad de cláusulas de ajuste;
+- beneficios fiscales;
+- menor intervención del fiduciario.
+
+::: {.callout-note appearance="simple"}
+
+Actualmente constituyen el principal instrumento de endeudamiento privado en el mercado de capitales argentino.
+
+:::
+
+---
+
+# Debentures y obligaciones negociables
+
+| Debentures | Obligaciones negociables |
+|------------|--------------------------|
+| Regulados por la LGS | Reguladas por la Ley 23.962 |
+| Escasa utilización | Amplia utilización |
+| Régimen rígido | Régimen flexible |
+| Fuerte intervención del fiduciario | Menor intervención |
+| Interés principalmente histórico | Instrumento habitual de financiación |
+
+::: {.callout-tip appearance="simple"}
+
+En la práctica profesional es mucho más frecuente encontrar emisiones de obligaciones negociables que de debentures.
+
+:::
+

@@ -1,0 +1,2444 @@
+---
+title: "Clase 13 — SA - Asamblea"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+---
+
+# Asamblea
+
+Concepto
+
+Es el organo esencial no permanente de la sociedad que reune a dichos accionistas, y eventualmente a las personas a quienes la ley o el estatuto establecen que deben ser convocadas, con el objeto de tomar decisiones respecto del gobierno de la sociedad en materias que son de su competencia
+
+Según Vitolo 
+
+> expresa y forma la voluntad social del ente en aquellas materias que le son asignadas como competencia exclusiva y excluyente por parte de Ia ley, el estatuto o el reglamento.
+
+---
+
+# Clases de Asambleas
+
+```{mermaid}
+flowchart TD
+A[Asamblea] --> B[Constitutiva] 
+A[Asamblea] --> C[Ordinaria]
+A[Asamblea] --> D[Extraordinaria]
+A[Asamblea] --> E[Especiales]
+```
+
+---
+
+# Asamblea Constitutiva
+
+es aquella asamblea convocada al solo efecto de decidir la definitiva constitucion de la sociedad y la misma se encuentra regulada en el articulo 176 
+
+> ARTICULO 176. — La asamblea constitutiva debe celebrarse con presencia del banco interviniente y será presidida por un funcionario de la autoridad de contralor; quedará constituida con la mitad más una de las acciones suscriptas.
+
+> Fracaso de la convocatoria.
+
+> Si fracasara, se dará por terminada la promoción de la sociedad y se restituirá lo abonado conforme al artículo 173, sin perjuicio de las acciones del artículo 175. 
+
+---
+
+# Asamblea Ordinaria
+
+es la que tiene competencia para resolver aquellas cuestiones relacionadas con la gestién de la sociedad conforme a lo que se establece en la ley y alo que pudiera incluirse en el estatuto, como asi también tiene competencia para resolver cualquier medida relativa a la gestion de la sociedad que sometan a su consideracion el directorio, el consejo de vigilancia o los sindicos.
+
+> ARTICULO 234. — Corresponde a la asamblea ordinaria considerar y resolver los siguientes asuntos:
+
+    1) Balance general, estado de los resultados, distribución de ganancias, memoria e informe del síndico y toda otra medida relativa a la gestión de la sociedad que le competa resolver conforme a la ley y el estatuto o que sometan a su decisión el directorio, el consejo de vigilancia o los síndicos;
+
+    2) Designación y remoción de directores y síndicos miembros del consejo de vigilancia y fijación de su retribución;
+
+    3) Responsabilidad de los directores y síndicos y miembros del consejo de vigilancia;
+
+    4) Aumentos del capital conforme al artículo 188.
+
+        Para considerar los puntos 1) y 2) será convocada dentro de los cuatro (4) meses del cierre del ejercicio.
+
+---
+
+# Asamblea Extraordinaria
+
+tiene competencia para el tratamiento de aquellos asuntos que no sean de competencia de la asamblea ordinaria, asi como los relativos a la modificacion del estatuto social.
+
+> ARTICULO 235. — Corresponden a la asamblea extraordinaria todos los asuntos que no sean de competencia de la asamblea ordinaria, la modificación del estatuto y en especial:
+
+    1º) Aumento de capital, salvo el supuesto del artículo 188. Sólo podrá delegar en el directorio la época de la emisión, forma y condiciones de pago;
+
+    2º) Reducción y reintegro del capital;
+
+    3º) Rescate, reembolso y amortización de acciones;
+
+    4º) Fusión, transformación y disolución de la sociedad; nombramiento, remoción y retribución de los liquidadores; escisión; consideración de las cuentas y de los demás asuntos relacionados con la gestión de éstos en la liquidación social, que deban ser objeto de resolución aprobatoria de carácter definitivo;
+
+    5º) Limitación o suspensión del derecho de preferencia en la suscripción de nuevas acciones conforme al artículo 197;
+
+    6º) Emisión de debentures y su conversión en acciones;
+
+    7º) Emisión de bonos.
+
+---
+
+# Asamblea Extraordinaria
+
+Mas allá de lo dispuesto por el art. 235 le compete a esta asamblea 
+
+- los aumentos de capital -salvo el caso del articulo 188-
+- tomar decisiones vinculadas a la reduccién y reintegro del capital social, y al rescate, reembolso y amortizacién de acciones
+- fusion, transformaci6n, escision y disolucion de la sociedad
+- nombramiento, remocion y retribucion de los liquidadores sociales;
+- consideracion de las cuentas y los demas asuntos relacionados con la gestion de los liquidadores que deban ser objeto de resolucion aprobatoria de caracter definitivo
+- la limitacion o suspension del derecho de preferencia en la suscripcion de nuevas acciones conforme al articulo 197
+- la emisión de debentures y su conversion en acciones y la emision de bonos,
+
+---
+
+# Asambleas Especiales
+
+cuando la asamblea deba adoptar resoluciones que afecten los derechos de una clase de acciones, se requiere el consentimiento o ratificacién de esta clase, la que debe prestarse en asamblea especial regida por las normas de la asamblea ordinaria.
+
+> ARTICULO 250. — Cuando la asamblea deba adoptar resoluciones que afecten los derechos de una clase de acciones, que se requiere el consentimiento o ratificación de esta clase, que se prestará en asamblea especial regida por las normas de la asamblea ordinaria.
+
+---
+
+# MODALIDADES DE CELEBRACIÓN DE ASAMBLEAS
+
+::::: {.columns}
+
+:::: {.column width="35%"}
+
+```{mermaid}
+flowchart TD
+A[MODO]
+A --> B[PUBLICADA]
+A --> C[UNÁNIME]
+```
+
+::::
+
+:::: {.column width="65%"}
+
+### Publicadas
+
+Convocadas mediante las publicaciones previstas en el **art. 237 LGS**. Reunido el quórum, las decisiones se adoptan conforme a las mayorías legales o estatutarias.
+
+### Unánimes
+
+Pueden celebrarse sin publicación de la convocatoria cuando está presente la totalidad del capital social y las decisiones se adoptan por unanimidad de las acciones con derecho a voto.
+
+::::
+
+:::::
+---
+
+# Lugar de reunión
+
+El articulo 233 de la ley 19.550 establece que las asambleas deben reunirse en la sede social o en otro lugar mientras que el mismo se encuentre dentro de la jurisdiccion del domicilio social; ello, con el objeto de que se permita el facil acceso de todos los accionistas a la asamblea.
+
+> Si es distinto debera disponerlo en forma expresa, ya que el articulo 237 exige que en la convocatoria que se efectte para la celebracion de cualquier asamblea deben incluirse los datos del lugar de reunion.
+
+
+---
+
+<center>
+
+> ARTICULO 233. — Las asambleas tienen competencia exclusiva para tratar los asuntos incluidos en los artículos 234 y 235.
+
+> Lugar de reunión.
+
+> Deben reunirse en la sede o en el lugar que corresponda a jurisdicción del domicilio social.
+
+> Obligatoriedad de sus decisiones. Cumplimiento.
+
+> Sus resoluciones conformes con la ley y el estatuto, son obligatorias para todos los accionistas salvo lo dispuesto en el artículo 245 y deben ser cumplidas por el directorio.
+
+</center>
+
+---
+
+# Decisiones asamblearias obligatorias
+
+Tal como lo menciona el 233 resultan obligatorias para todos los accionistas y que las mismas deben ser cumplidas por el directorio.
+
+La asamblea de accionistas es un cuerpo colegiado y, como tal, forma su voluntad a través del voto de sus integrantes bajo el sistema de mayorias.
+
+Este resultado directo del principio de obligatoriedad de las decisiones asamblearias, como lo recuerda prestigiosa doctrina, determina que:
+- Las decisiones asamblearias resultan validas incluso en aquellos casos en los cuales pueden resultar perjudiciales para los intereses de alguno o algunos socios en particular; 
+- La decision asamblearia resulta obligatoria no sólo para los accionistas que integraban la sociedad al momento de tomarse la decision, sino también para todos aquellos que se incorporen posteriormente a la sociedad  
+- Las decisiones asamblearias resultan también obligatorias para los accionistas ausentes, y la suscripcion de acciones de una sociedad comercial importa la aceptacion y sometimiento a las decisiones que los é6rganos de la misma pudieran tomar con adecuacion a la ley, el estatuto y el reglamento.
+
+---
+
+<center>
+
+# ASAMBLEA EXTRAORDINARIA
+
+corresponde a la asamblea extraordinaria considerar todos los asuntos que no sean competencia de
+la asamblea ordinaria, la modificacion del estatuto y algunos supuestos especificos que en forma particular se enumeran.
+
+La naturaleza extraordinaria de la asamblea esta dada por cuestiones vinculadas a la competencia del organo y no en relacion con el caracter esporadico de su celebracion,
+
+</center>
+
+---
+
+# ASAMBLEA EXTRAORDINARIA
+
+La competencia esta dada por tres rubos
+
+1.  Lacompetencia residual asignada por el articulo 235 respecto de todas aquellas decisiones que deban ser tomadas por el érgano de gobierno 
+2.  La modificacion del estatuto social, 
+3.  Los supuestos especiales, que son aquellos que en siete (7) incisos menciona el articulo 235.
+
+---
+
+# COMPETENCIA DE ASAMBLEA EXTRAORDINARIA
+
+``` {mermaid}
+flowchart TD
+
+A[Asamblea Extraordinaria] --> B[Aumento de Capital]
+A[Asamblea Extraordinaria] --> C[Reducción y reintegro de capital]
+A[Asamblea Extraordinaria] --> D[Rescate de acciones]
+A[Asamblea Extraordinaria] --> E[Fusión, Transformación, Escición]
+A[Asamblea Extraordinaria] --> F[Disolución]
+A[Asamblea Extraordinaria] --> G[Liquidadores]
+A[Asamblea Extraordinaria] --> H[Gestión de liquidadores]
+```
+
+---
+
+# Aumento de Capital
+
+Es competencia de la asamblea extraordinaria:
+
+1.  El aumento de capital de la sociedad dentro del quintuplo, cuando el estatuto no ha recogido en forma expresa la facultad otorgada por el articulo 188 de asignar esta competencia a la asamblea ordinaria 
+2.  Cualquier otro aumento de capital por encima del quintuplo, sin que dicha asamblea pueda delegar la facultad en el 6rgano de administracion ni en otro organo,
+
+---
+
+# Reducción y Reintegro de Capital
+
+En lo que a la reduccion del capital social se refiere, el pronunciamiento de la asamblea extraordinaria y su competencia comprende tanto la de reducci6on voluntaria del capital social, la reduccion por pérdidas y la reduccion obligatoria, cuestiones
+-todas éstas- contempladas en los articulos 203, 204, 205 y 206.
+Sin perjuicio de ello debemos recordar que para tomar las resoluciones referidas
+a la asamblea extraordinaria se debe:
+1.  En el caso de reduccién voluntaria del capital social, contar con un informe fundado del sindico, en su caso, o un informe de auditoria 
+2.  Para la reduccién por pérdidas, las mismas deben haber afectado el equilibrio existente entre el capital y el patrimonio social; la reducci6n obligatoria o las pérdidas registradas deben haber insumido las reservas y al menos el 50% del capital social.
+
+---
+
+# Rescate, reembolso y amortización de acciones
+
+- Por rescate de acciones debe entenderse aquellos casos en los cuales la sociedad puede adquirir sus propias acciones con el objeto de cancelarlas, previo acuerdo de reduccion del capital social como sefiala el articulo 220, inciso 1°
+
+---
+
+# Fusión, transformación y escición
+
+Cualquiera de las tres serán descisiones que corresponde ser tomada por la asamblea extraordinaria
+
+---
+
+# Disolución de la sociedad
+
+Recordemos que en palabras de Vitolo es "el acto juridico que, previa la verificacion de alguna de las causales previstas en la ley, en el contrato o en los estatutos, abre el proceso liquidatorio conducente a la extincion de la sociedad como contrato y como persona juridica."
+
+Tratandose -la disolucion anticipada- de una alteracion fundamental de las bases sociales pues modifica un elemento y requisito esencial a todo contrato de sociedad, el legislador ha considerado que tal decision sélo puede tomarse por la decision de una asamblea extraordinaria
+
+---
+
+# Nombramiento, remoción y retribución de liquidadores.
+
+Al operarse una causal disolutoria la sociedad no cesa en su existencia sino que pasa al estado de liquidacion conservando su personalidad a ese efecto y rigi¢éndose por las normas correspondientes a su tipo, en cuanto resulten compatibles.
+La ley 19.550 dispone que el nombramiento, la remocion y la retribucion de quienes acttien como liquidadores en una sociedad anónima en liquidacion resulten competencia exclusiva de la asamblea extraordinaria.
+
+---
+
+# Consideración de la gestión de los liquidadores.
+
+La consideracién y aprobacion definitiva de las cuentas y de la gestion cumplida por los liquidadores también sera competencia de la asamblea extraordinaria, debiendo considerarse dentro de los otros actos sujetos a aprobacion:
+1.  El balance final;
+2.  El proyecto de distribucion.
+
+Aquellas otras gestiones cumplidas por los liquidadores que no tengan necesidad de una aprobacion de caracter definitive se mantendran dentro de la orbita de competencia de la asamblea ordinaria.
+
+---
+
+# Limitación o suspensión del derecho de preferencia
+
+>El derecho de suscripcion preferente es uno de los derechos esenciales del accionista, en la medida en que su decision de participar en la sociedad no solo esta dada en razon de una equivalencia economica respecto del patrimonio del ente ideal, sino también en cuanto a la relevancia de su influencia proporcional en el ejercicio de otros derechos.
+
+El articulo 194 de la ley 19.550 sefala que el derecho de suscripcion preferente no puede ser suprimido ni condicionado salvo lo dispuesto en el articulo 197, que permite que una asamblea extraordinaria, con las mayorias del ultimo parrafo del articulo 244, pueda resolver en casos particulares y excepcionales, cuando el interés de la sociedad lo exija, la limitacién o suspension del derecho de preferencia en la suscripcion de nuevas acciones bajo dos condiciones:
+- Que su consideracién se incluya en el orden de dia, y
+- ue se trate de acciones a integrarse con aportes en especie 0 que se den en pago de acciones preexistentes.
+
+---
+
+# EMISION DE DEBENTURES Y SU CONVERSION EN ACCIONES
+
+Los debentures son titulos valores que instrumentan obligaciones sociales otorgando a su tenedor la calidad de acreedor de la sociedad con el derecho a la recepción de los intereses y cuotas de amortizacion pactados.
+
+La circunstancia de que la emisión de un debenture coloque al titular del mismo en la calidad de acreedor proveyéndolo de un titulo valor de circulacion con significativas consecuencias relativas al ejercicio de sus derechos, y la posibilidad de promover acciones directas contra la sociedad, es una decision de gran importancia para la vida societaria, por lo que el legislador ha incluido esta materia dentro de aquellas asignadas en forma exclusiva a la asamblea extraordinaria.
+
+Del mismo modo, la conversión de estos titulos en acciones -ver art. 334-, que importara un aumento de capital posterior a la emision de los titulos, presenta igualmente una decision de gran trascendencia que amerita su inclusion dentro del marco de competencia de la asamblea extraordinaria.
+
+::: {.callout-note appearance="simple"}
+
+ Debentures convertibles.
+
+  ARTICULO 334. — Cuando los debentures sean convertibles en acciones:
+
+    1º) Los accionistas, cualquiera sea su clase o categoría, gozarán de preferencia para su suscripción en proporción a las acciones que posean, con derecho de acrecer;
+
+    2º) Si la emisión fuere bajo la par la conversión no podrá ejecutarse en desmedro de la integridad del capital social;
+
+    3º) Pendiente la conversión, está prohibido: amortizar o reducir el capital, aumentarlo por incorporación de reservas o ganancias, distribuir las reservas o modificar el estatuto en cuanto a la distribución de ganancias.
+:::
+
+---
+
+# Emisión de bonos
+
+Importando la emisién de bonos una restricción impuesta a los derechos de los accionistas en cuanto a su derecho a participar de la distribucién de utilidades, esta decision es de resorte exclusivo de la asamblea extraordinaria.
+
+---
+
+# Retiro del régimen de oferta pública
+
+Las Normas de la Comisién Nacional de Valores disponen que, en caso de que las entidades decidan retirarse del régimen de la oferta publica, deberan considerar el tema como punto expreso del orden del dia en asamblea extraordinaria, cumpliendo con el guorum y mayorias requeridos por los reglamentos de las entidades autorreguladas, en su caso.
+
+---
+
+# Restitución de Aportes Irrevocables
+
+Al resolverse la restitución -por no haberse aprobado el aumento de capital o por cualquier otra causa-, 0 vencido el plazo para la celebracién de la primera asamblea que se celebre en un plazo que no debera exceder los seis (6) meses a contar desde la aceptacion del aporte irrevocable por el directorio-, cesara su calidad de aporte irrevocable y pasara a integrar el pasivo de la emisora, en caracter de crédito subordinado.
+La restitucion debera ser resuelta por asamblea extraordinaria y sometida al régimen de avisos para oposicion de acreedores conforme lo dispuesto por el articulo 83, inciso 3°, de la ley 19.550.
+
+---
+
+# ¿Qué es un Aporte irrevocable?
+
+> **Concepto**
+>
+> Son sumas de dinero o bienes entregados a la sociedad por los socios (o eventualmente terceros) con el compromiso de destinarlos a un futuro aumento de capital, sin posibilidad de exigir su restitución mientras se mantengan como tales.
+
+### Características
+
+- No integran el capital social.
+- Forman parte del patrimonio neto.
+- Deben ser capitalizados o restituidos conforme al régimen legal y reglamentario.
+- No otorgan por sí mismos la calidad de accionista ni derechos políticos.
+- Requieren una decisión posterior del órgano competente para su capitalización.
+
+### Finalidad
+
+- Fortalecer transitoriamente el patrimonio de la sociedad.
+- Financiar la actividad sin recurrir inmediatamente a un aumento de capital.
+- Facilitar futuras capitalizaciones.
+
+::: {.callout-note appearance="simple"}
+**Ejemplo**
+
+Un accionista entrega $100 millones para fortalecer financieramente a la sociedad. Hasta que la asamblea apruebe el aumento de capital y se emitan las acciones correspondientes, ese dinero constituye un **aporte irrevocable**, no capital social.
+:::
+
+>El aporte irrevocable no puede permanecer indefinidamente como tal. Debe resolverse su capitalización o su restitución conforme a la normativa aplicable (particularmente la RG IGJ 7/2015 para las sociedades sujetas a su fiscalización). Esto evita que se utilice como una forma permanente de financiamiento al margen del régimen del capital social.
+
+---
+
+# Convocatoria de Asambleas
+
+Es un órgano NO permanente
+
+DEBE convocarse
+
+::: {.callout-important}
+la convocatoria ha sido definida por la doctrina como aguel acto societario a través del cual se requiere de los accionistas que se reinan en forma organizada conforme a la ley y al estatuto para resolver las decisiones vinculadas a las materias cuya competencia le ha sido asignada al érgano de gobierno.
+:::
+
+> la convocatoria es un elemento y requisito necesario para la celebraci6n de una asamblea, cualquiera sea la naturaleza que ésta revista.
+
+---
+
+# ¿Quiénes estan legitimados para convocar a la asamblea?
+
+Dentro de los legitimados previstos por la ley para convocar a las asambleas se encuentran, basicamente, los otros órganos societarios aunque la competencia natural esta asignada al directorio, estableciendo el articulo 236 que en ciertos casos pueda también convocarla la sindicatura y -aunque la ley no lo diga- también podra hacerlo el consejo de vigilancia.
+
+Las asambleas también pueden ser convocadas, en ciertos casos, por las autoridades de contralor y judicial. Tratandose estos dos ultimos casos de situaciones realmente de excepcion.
+
+---
+
+# EL DIRECTORIO
+
+Tiene competencia natural y primaria para convocar
+
+En aquellos casos en los cuales se haya resuelto la intervenci6n judicial de la sociedad, la convocatoria por parte del organo de administracion -directorio- se mantendra incolume cuando judicialmente se hubiere establecido una mera veeduria, debera tomarse en forma conjunta por el directorio y el interventor designado cuando la intervencién consistiere en una coadministracion, o finalmente la convocatoria sera competencia del interventor judicial cuando la intervencion se hubiera establecido con desplazamiento de las autoridades societarias,
+
+---
+
+# LA SINDICATURA
+
+La sindicatura también se encuentra facultada para convocar a asamblea, lo que podra hacer de un modo originario cuando la ley asi le asigna la atribución, o en forma supletoria o subsidiaria en aquellos casos en los cuales hubiera omitido hacerlo el directorio influyendo las normas legales o estatutarias que hubieran impuesto tal obligación.
+
+::: {.callout-note}
+El articulo 294, inciso 7, dispone que es competencia del sindico:
+1. Convocar a asambleas extraordinarias cuando lo juzgue necesario; y
+2. Convocar a asambleas ordinarias cuando omitiere hacerlo el directorio.
+:::
+
+El sindico tiene dentro de sus deberes y obligaciones facultad originaria para convocar a asambleas de accionistas en los siguientes casos:
+
+1.  Convocar a asamblea extraordinaria cuando lo juzgue necesario -art. 294, inc. 7y
+
+2.  Convocar a asamblea ordinaria a los efectos de remover al director o gerente incluido en el articulo 264.
+
+Adicionalmente, con caracter supletorio o subsidiario tiene facultades para convocar a la asamblea ordinaria cuando el directorio omita hacerlo, existiendo obligaci6n legal o estatutaria para ello -es el caso de las asambleas ordinarias, que consideraran las cuestiones contenidas en el articulo 234, incisos 1 y 2; la omision del tratamiento de decisiones efectuadas por accionistas representantes de una participacion superior al 2% del capital social, entre otras-.
+
+::: {.callout-note}
+ARTICULO 264. — No pueden ser directores ni gerentes:
+
+1º) Quienes no pueden ejercer el comercio;
+
+2º) Los fallidos por quiebra culpable o fraudulenta hasta diez (10) años después de su rehabilitación, los fallidos por quiebra casual o los concursados hasta cinco (5) años después de su rehabilitación; los directores y administradores de sociedad cuya conducta se calificare de culpable o fraudulenta, hasta diez (10) años después de su rehabilitación.
+
+3º) Los condenados con accesoria de inhabilitación de ejercer cargos públicos; los condenados por hurto, robo, defraudación, cohecho, emisión de cheques sin fondos y delitos contra la fe pública; los condenados por delitos cometidos en la constitución, funcionamiento y liquidación de sociedades. En todos los casos hasta después de diez (10) años de cumplida la condena;
+
+4º) Los funcionarios de la administración pública cuyo desempeño se relacione con el objeto de la sociedad, hasta dos (2) años del cese de sus funciones.
+
+Remoción del inhabilitado.
+
+ARTICULO 265. — El directorio, o en su defecto el síndico, por propia iniciativa o a pedido fundado de cualquier accionista, debe convocar a asamblea ordinaria para la remoción del director o gerente incluido en el artículo 264, que se celebrará dentro de los cuarenta (40) días de solicitada. Denegada la remoción, cualquier accionista, director o síndico, puede requerirla judicialmente.
+:::
+
+---
+
+# EL CONSEJO DE VIGILANCIA
+
+El articulo 281, en su inciso b), otorga al consejo de vigilancia la atribucion de convocar a asamblea cuando lo estime conveniente o cuando lo requieran accionistas que representen por lo menos el cinco por ciento (5%) del capital social, si es que los estatutos no fijaran un porcentaje menor.
+Tratandose el consejo de vigilancia de un érgano colegiado, la resolucion también debera tomarse bajo la forma de colegio y por el régimen de mayoria absoluta de sus miembros,
+
+:::{.callout-note}
+ARTICULO 281. — El estatuto reglamentará la organización y funcionamiento del consejo de vigilancia.
+
+Atribuciones y deberes.
+
+Son funciones del consejo de vigilancia:
+
+a) Fiscalizar la gestión del directorio. Puede examinar la contabilidad social, los bienes sociales, realizar arqueos de caja, sea directamente o por peritos que designe; recabar informes sobre contratos celebrados o en trámite de celebración, aun cuando no excedan de las atribuciones del directorio. Por lo menos trimestralmente, el directorio presentará al consejo informe escrito acerca de la gestión social;
+
+b) Convocará la asamblea cuando estime conveniente o lo requieran accionistas conforme al artículo 236;
+
+Convocatoria: Oportunidad. Plazo.
+
+ARTICULO 236. — Las asambleas ordinarias y extraordinarias serán convocadas por el directorio o el síndico en los casos previstos por la ley, o cuando cualquiera de ellos lo juzgue necesario o cuando sean requeridas por accionistas que representan por lo menos el cinco por ciento (5 %) del capital social, si los estatutos no fijaran una representación menor.
+
+En este último supuesto la petición indicará los temas a tratar y el directorio o el síndico convocará la asamblea para que se celebre en el plazo máximo de cuarenta (40) días de recibida la solicitud.
+
+Si el directorio o el síndico omite hacerlo, la convocatoria podrá hacerse por la autoridad de contralor o judicialmente.
+
+:::
+
+---
+
+# ¿Es posible la autoconvocatoria?
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+```{mermaid}
+flowchart TD
+
+A[Art. 237 LGS]
+B[Art. 158 CCyC]
+C[Autoconvocatoria]
+
+A --> C
+B --> C
+```
+
+:::
+
+::: {.column width="60%"}
+
+### Posición de Vitolo
+
+- El **art. 237 LGS** permite prescindir de la **publicación** de la convocatoria cuando:
+  - está presente el **100 % del capital con derecho a voto**; y
+  - las decisiones se adoptan **por unanimidad**.
+
+- El **art. 158 CCyC** autoriza la **autoconvocatoria** de los órganos colegiados cuando existe:
+  - asistencia unánime; y
+  - acuerdo unánime sobre el orden del día.
+
+- **Vitolo** entiende que ambas normas **se complementan**.
+
+:::
+
+::::
+
+::: {.callout-note appearance="simple"}
+
+### Requisitos para la autoconvocatoria en la SA (según Vitolo)
+
+✅ Presencia de la totalidad del capital con derecho a voto.
+
+✅ Aceptación unánime de celebrar la reunión.
+
+✅ Acuerdo unánime sobre el orden del día.
+
+✅ Decisiones adoptadas por unanimidad.
+
+:::
+
+---
+
+# Convocatoria por la autoridad de contralor
+
+> **Art. 65 RG IGJ 7/2015**
+
+La **Inspección General de Justicia (IGJ)** puede convocar a una asamblea de accionistas en los siguientes supuestos:
+
+```{mermaid}
+flowchart TD
+
+A[IGJ]
+
+A --> B[De oficio]
+
+A --> C[A pedido de accionistas]
+
+A --> D[A pedido de directores]
+```
+
+### 1. De oficio
+
+- Cuando constate **graves irregularidades**.
+- Siempre que la convocatoria resulte necesaria para proteger el **interés público**.
+
+### 2. A pedido de accionistas
+
+- Titulares de **al menos el 5 % del capital social** (o el porcentaje menor previsto en el estatuto).
+- Deben demostrar que solicitaron previamente la convocatoria al directorio y, en su caso, a la sindicatura, **sin obtener respuesta o ante una negativa infundada**.
+
+### 3. A pedido de directores
+
+- Cuando el presidente del directorio no convoque la reunión.
+- Cuando el directorio no pueda reunirse por falta de quórum o rechace injustificadamente la convocatoria.
+- Si existe sindicatura, también debe acreditarse su inacción o negativa injustificada.
+
+::: {.callout-note appearance="simple"}
+
+**Excepción:** si el directorio está vacante y no puede formar quórum, y la sindicatura tampoco regulariza la situación (art. 258 LGS), la IGJ puede intervenir sin exigir los recaudos previos.
+
+:::
+
+---
+
+# Procedimiento judicial
+
+> **Art. 15 LGS**
+
+Cuando la Ley General de Sociedades autoriza o prevé una **acción judicial**, ésta debe tramitar por un procedimiento de conocimiento **rápido**.
+
+```{mermaid}
+flowchart LR
+
+A[Art. 15 LGS]
+B[Procedimiento sumario]
+C[Ley 25.488]
+D[Desaparece el juicio sumario]
+E[Debate actual]
+
+A --> B
+B --> C
+C --> D
+D --> E
+```
+
+### Evolución
+
+- Originalmente, el art. 15 remitía al **juicio sumario** previsto en el Código Procesal.
+- La **Ley 25.488** eliminó ese proceso.
+- Desde entonces surgió el debate sobre cuál es el procedimiento aplicable.
+
+### Posición de Vitolo
+
+- Debe aplicarse un **procedimiento sumarísimo**.
+- Se preserva el espíritu del art. 15:
+  - **celeridad** en la resolución;
+  - **debido derecho de defensa** de la sociedad.
+
+::: {.callout-note appearance="simple"}
+
+**Idea clave:** aunque el antiguo juicio sumario desapareció, la finalidad del art. 15 sigue siendo que los conflictos societarios que la ley remite a la justicia se resuelvan **rápidamente**, sin sacrificar las garantías procesales.
+
+:::
+
+---
+
+# Publicidad de la convocatoria
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+```{mermaid}
+flowchart TD
+
+A[Convocatoria]
+
+A --> B[Boletín Oficial]
+
+A --> C[Sociedades art. 299]
+
+C --> D[Diario de gran circulación]
+
+A --> E[5 publicaciones]
+
+E --> F[10 a 30 días antes]
+```
+
+:::
+
+::: {.column width="65%"}
+
+### Finalidad
+
+- Informar a los accionistas sobre la celebración de la asamblea.
+- Permitir el ejercicio del derecho de asistencia y voto.
+- Dar publicidad a terceros legitimados.
+
+### Contenido del edicto
+
+- Denominación social.
+- Fecha, hora y lugar.
+- Orden del día.
+- Recaudos estatutarios para asistir.
+
+:::
+
+::::
+
+::: {.callout-note appearance="simple"}
+
+### Consecuencias
+
+❌ **Omisión de la publicidad:** la asamblea es **anulable**.
+
+✅ **Excepción:** si concurren accionistas que representan el **100 % del capital con derecho a voto** y todas las decisiones se adoptan **por unanimidad**, el defecto queda **subsanado** (art. 237 LGS).
+
+⚠️ **Defectos en la publicación:** la impugnación corresponde, en principio, a los **accionistas ausentes**. Los presentes sólo podrán invocarla si dejaron constancia de su oposición durante la asamblea.
+
+:::
+
+---
+
+# Primera y segunda convocatoria
+
+```{mermaid}
+flowchart LR
+
+A[Primera convocatoria]
+
+A -->|Hay quórum| B[Se constituye la asamblea]
+
+A -->|No hay quórum| C[Segunda convocatoria]
+
+C --> D[Se celebra la misma asamblea]
+```
+
+### Idea clave
+
+- La ley prevé **dos convocatorias** para **una misma asamblea**.
+- Si la **primera convocatoria** fracasa por falta de quórum, puede realizarse una **segunda convocatoria**.
+
+### Segunda convocatoria
+
+- Debe celebrarse dentro de los **30 días** siguientes.
+- La publicación se reduce a **3 días**.
+- Debe efectuarse con **8 días** de anticipación como mínimo.
+
+::: {.callout-note appearance="simple"}
+
+**Convocatorias simultáneas**
+
+El estatuto puede autorizar que la **primera y la segunda convocatoria** se publiquen conjuntamente.
+
+- Pueden fijarse para **días distintos**.
+- También pueden fijarse para el **mismo día**, siempre que exista un intervalo mínimo de **1 hora** entre ambas.
+
+:::
+
+> **Importante:** no existen dos asambleas distintas; existen **dos convocatorias para un mismo acto asambleario**.
+
+---
+
+# Comunicación de asistencia a la asamblea
+
+```{mermaid}
+flowchart LR
+
+A[Antes de 1995]
+B[Depósito de acciones]
+
+C[Hoy]
+D[Comunicación de asistencia]
+
+A --> B
+C --> D
+```
+
+### Régimen actual (art. 238 LGS)
+
+Los accionistas deben **comunicar su asistencia** a la sociedad con una anticipación de **3 días hábiles**.
+
+La comunicación debe indicar:
+
+- ✅ La decisión de asistir.
+- ✅ La cantidad de acciones con las que participará.
+
+### ¿Para qué sirve?
+
+Durante esos tres días la sociedad puede verificar:
+
+- la legitimación del accionista;
+- la titularidad de las acciones;
+- restricciones al ejercicio del voto;
+- falta de integración del capital;
+- medidas cautelares o denuncias sobre las acciones.
+
+::: {.callout-note appearance="simple"}
+
+### Idea clave
+
+Con la **nominatividad obligatoria** (Ley 24.587), el antiguo **depósito de acciones** perdió sentido.
+
+Hoy el requisito esencial para participar en la asamblea es la **comunicación previa de asistencia**, no el depósito de los títulos.
+
+:::
+
+---
+
+# Libro de Registro de Asistencia a Asambleas
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+```{mermaid}
+flowchart TD
+
+A[Comunicación de asistencia]
+
+A --> B[Inscripción en el Libro]
+
+B --> C[Control de legitimación]
+
+C --> D[Constitución de la asamblea]
+
+D --> E[Determinación del quórum]
+```
+
+:::
+
+::: {.column width="65%"}
+
+### ¿Qué registra?
+
+- Los accionistas que solicitaron participar.
+- La cantidad de acciones y votos.
+- Los accionistas efectivamente presentes.
+
+### ¿Para qué sirve?
+
+- Verificar la legitimación de los asistentes.
+- Determinar el **quórum**.
+- Comprobar las mayorías de la asamblea.
+
+### Cierre del registro
+
+- Se realiza **3 días hábiles antes** de la asamblea.
+- Permite al directorio controlar la situación de las acciones.
+
+:::
+
+::::
+
+::: {.callout-note appearance="simple"}
+
+### Reglas importantes
+
+✅ Si el accionista **no comunicó** su asistencia, la asamblea sólo podrá admitirlo por **unanimidad**, con presencia de la totalidad del capital.
+
+✅ Si la comunicación fue **tardía**, podrá ser admitido por **mayoría absoluta** de los votos presentes.
+
+✅ Una vez registrada la asistencia, las acciones quedan **bloqueadas para su transferencia** hasta la organización de la asamblea.
+
+:::
+
+---
+
+# Incidencias en la comunicación de asistencia
+
+```{mermaid}
+flowchart TD
+
+A[Comunicación de asistencia]
+
+A --> B[No comunicó]
+
+A --> C[Comunicó fuera de término]
+
+B --> D[Puede ingresar solo por unanimidad<br/>con el 100 % del capital presente]
+
+C --> E[Puede ingresar por mayoría absoluta<br/>de los votos presentes]
+```
+
+### Regla general
+
+El accionista que no comunica oportunamente su asistencia **no tiene derecho** a participar en la asamblea.
+
+### Excepciones
+
+- **Sin comunicación:** puede ser admitido únicamente por **unanimidad**, con presencia de la totalidad del capital social.
+- **Comunicación tardía:** puede ser admitido por **mayoría absoluta** de los votos presentes.
+
+::: {.callout-note appearance="simple"}
+
+**Principio de igualdad**
+
+La asamblea debe aplicar el mismo criterio respecto de todos los accionistas que se encuentren en la misma situación.
+
+:::
+
+---
+
+# Otras cuestiones del registro de asistencia
+
+### Si la sociedad no inscribe al accionista
+
+- Si el accionista comunicó su asistencia en término, puede acreditar esa circunstancia mediante el comprobante correspondiente.
+- El presidente debe explicar las razones de la negativa.
+- Si no existe una causa legal (por ejemplo, mora en la integración), el accionista debe ser incorporado al registro y participar de la asamblea.
+
+```{mermaid}
+flowchart LR
+
+A[Comunicación registrada]
+
+--> B[Inscripción en el libro]
+
+--> C[Acciones bloqueadas]
+
+--> D[Celebración de la asamblea]
+
+--> E[Fin del bloqueo]
+```
+
+### Bloqueo de transferencia
+
+Una vez inscripta la asistencia:
+
+- las acciones quedan **bloqueadas**;
+- no pueden transferirse hasta la organización de la asamblea.
+
+::: {.callout-note appearance="simple"}
+
+**Finalidad**
+
+Evitar que vote quien ya dejó de ser accionista y asegurar que el quórum y las mayorías reflejen la verdadera composición del capital social.
+
+:::
+
+---
+
+# ACTUACION POR MANDATARIO EN ASAMBLEA
+
+El articulo 239 de la ley 19.550 permite que los accionistas no concurran personalmente a las asambleas que celebre la sociedad y que se hagan representar en ellas a través de mandatarios,
+
+::: {.callout-note}
+
+Actuación por mandatario.
+
+ARTICULO 239. — Los accionistas pueden hacerse representar en las asambleas. No pueden ser mandatarios los directores, los síndicos, los integrantes del consejo de vigilancia, los gerentes y demás empleados de la sociedad.
+
+Es suficiente el otorgamiento del mandato en instrumento privado, con la firma certificada en forma judicial, notarial o bancaria, salvo disposición en contrario del estatuto.
+
+:::
+
+resulta suficiente el otorgamiento del mandato en instrumento privado, con la firma certificada en forma judicial, notarial o bancaria, 
+
+> salvo disposición en contrario del estatuto.
+
+---
+
+# Representaciones prohibidas (art. 239 LGS)
+
+```{mermaid}
+flowchart TD
+
+A[¿Quién representa al accionista?]
+
+A --> B[Mandato voluntario]
+
+A --> C[Representación legal]
+
+B --> D["❌ Prohibido
+(directores, síndicos, consejeros,
+gerentes y empleados)"]
+
+C --> E["✅ Permitido
+(ej.: presidente de una SA,
+socio gerente de una SRL,
+padres, tutores, etc.)"]
+```
+
+### Regla
+
+No pueden actuar como mandatarios voluntarios de los accionistas:
+
+- Directores.
+- Síndicos.
+- Integrantes del consejo de vigilancia.
+- Gerentes.
+- Empleados de la sociedad.
+
+### Fundamento
+
+- Evitar conflictos de intereses.
+- Proteger la formación de la voluntad social.
+- Impedir que se eludan las prohibiciones de voto (arts. 241 y concordantes LGS).
+
+::: {.callout-note appearance="simple"}
+
+**¿La asamblea es siempre nula?**
+
+❌ No.
+
+La decisión solo podrá impugnarse cuando el **voto emitido mediante la representación prohibida haya sido determinante para formar la mayoría**.
+
+Si, aun excluyendo ese voto, la resolución igualmente hubiera sido aprobada, la infracción no invalida la decisión.
+
+:::
+
+::: {.callout-important}
+Inhabilitación para votar.
+
+ARTICULO 241. — Los directores, síndicos, miembros del consejo de vigilancia y gerentes generales, no pueden votar en las decisiones vinculadas con la aprobación de sus actos de gestión. Tampoco lo pueden hacer en las resoluciones atinentes a su responsabilidad o remoción con causa
+
+:::
+
+---
+
+# Intervención de directores, síndicos y gerentes
+
+```{mermaid}
+flowchart TD
+
+A[Directores, síndicos, gerentes<br/>y consejo de vigilancia]
+
+A --> B[Deber de asistir]
+
+B --> C[Informar a los accionistas]
+
+C --> D[La asamblea delibera y decide]
+```
+
+### ¿Por qué deben asistir?
+
+- Es una **obligación legal**.
+- También constituye un **derecho**: pueden participar aun cuando no sean especialmente convocados.
+
+### Función durante la asamblea
+
+- Brindar información sobre la gestión social.
+- Responder consultas de los accionistas.
+- Aclarar los puntos incluidos en el orden del día.
+
+::: {.callout-note appearance="simple"}
+
+### Consecuencias de la inasistencia
+
+- Puede generar **responsabilidad** por incumplimiento de sus deberes.
+- Incluso puede constituir **causal de remoción**.
+
+**Idea clave:** la presencia de los administradores y fiscalizadores garantiza que los accionistas cuenten con la información necesaria para adoptar decisiones fundadas.
+
+:::
+
+---
+
+# Intervención de directores, síndicos y gerentes
+
+```{mermaid}
+flowchart LR
+
+A[Directores, síndicos,
+gerentes y consejo
+de vigilancia]
+
+A --> B[Voz]
+
+B --> C[Informan y responden consultas]
+
+C --> D[Los accionistas votan]
+```
+
+### Regla (art. 240 LGS)
+
+Los integrantes de los órganos de:
+
+- administración;
+- fiscalización; y
+- gerencia general,
+
+**deben asistir** a la asamblea y participan **con voz, pero sin voto**, en ese carácter.
+
+### ¿Por qué?
+
+- Informan sobre la gestión.
+- Responden preguntas de los accionistas.
+- Facilitan la deliberación.
+
+::: {.callout-note appearance="simple"}
+
+**Excepción**
+
+Si además son **accionistas**, podrán votar **como accionistas**, aunque quedarán sujetos a las prohibiciones del art. 241 LGS.
+
+:::
+
+---
+
+# Inhabilitación para votar (art. 241 LGS)
+
+```{mermaid}
+flowchart TD
+
+A[Director / Síndico /
+Gerente / Consejo de vigilancia]
+
+A --> B{¿Qué se vota?}
+
+B --> C[Aprobación de su gestión]
+
+B --> D[Su responsabilidad]
+
+B --> E[Remoción con causa]
+
+C --> F["❌ No puede votar"]
+D --> F
+E --> F
+```
+
+### No pueden votar cuando la asamblea decide sobre:
+
+- La aprobación de su propia gestión.
+- Su responsabilidad.
+- Su remoción con causa.
+
+### Fundamento
+
+Evitar que quien tiene un **interés personal** influya en la formación de la voluntad social.
+
+::: {.callout-note appearance="simple"}
+
+### Consecuencias
+
+- El voto emitido en violación del art. 241 es **nulo**.
+- Sin embargo, si ese voto **no fue determinante** para formar la mayoría, la resolución asamblearia sigue siendo válida.
+- El funcionario puede responder por los daños ocasionados (arts. 254, 274, 280 y 298 LGS).
+
+:::
+
+---
+
+# Presidencia de la asamblea (art. 242 LGS)
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+```{mermaid}
+flowchart TD
+
+A[¿Quién preside?]
+
+A --> B[Quien indique el estatuto]
+
+A --> C[Presidente del directorio]
+
+A --> D[Persona designada por la asamblea]
+```
+
+:::
+
+::: {.column width="65%"}
+
+### Orden de prelación
+
+1. La persona designada por el **estatuto**.
+2. El **presidente del directorio** (o quien lo reemplace).
+3. En su defecto, la persona **elegida por la propia asamblea**.
+
+**Si la convocatoria es judicial o de la IGJ**, la resolución que la ordena determinará quién ejercerá la presidencia.
+
+:::
+
+::::
+
+::: {.callout-note appearance="simple"}
+
+### Funciones principales del presidente
+
+- ✅ Verificar la asistencia y las representaciones.
+- ✅ Comprobar el **quórum** y declarar constituida la asamblea.
+- ✅ Dirigir el debate y mantener el orden.
+- ✅ Someter los puntos del orden del día a votación.
+- ✅ Computar los votos y proclamar los resultados.
+- ✅ Clausurar la asamblea y suscribir el acta.
+
+:::
+
+---
+
+# Quórum de las asambleas
+
+| Tipo de asamblea | Primera convocatoria | Segunda convocatoria |
+|:-----------------|:--------------------:|:--------------------:|
+| **Ordinaria** | Mayoría de las acciones con derecho a voto | Cualquiera sea el número de acciones presentes |
+| **Extraordinaria** | 60 % de las acciones con derecho a voto | 30 % de las acciones con derecho a voto |
+
+::: {.callout-note appearance="simple"}
+
+### Regla para recordar
+
+- **Ordinaria:** 50% + 1 → cualquiera.
+- **Extraordinaria:** 60% → 30%.
+
+:::
+
+---
+
+# Particularidades del quórum
+
+```{mermaid}
+flowchart TD
+
+A[Quórum]
+
+A --> B[Asamblea ordinaria]
+
+A --> C[Asamblea extraordinaria]
+
+B --> D["Régimen imperativo
+(no puede modificarse
+por el estatuto)"]
+
+C --> E["El estatuto puede
+agravar el quórum"]
+```
+
+### Asamblea ordinaria
+
+- Primera convocatoria: mayoría de las acciones con derecho a voto.
+- Segunda convocatoria: sesiona con cualquier número de acciones presentes.
+- **El estatuto no puede aumentar ni disminuir este quórum.**
+
+### Asamblea extraordinaria
+
+- Primera convocatoria: **60 %** del capital con derecho a voto.
+- Segunda convocatoria: **30 %**.
+- **El estatuto puede exigir un quórum mayor** (pero no inferior al legal).
+
+::: {.callout-tip appearance="simple"}
+
+**¿Qué es el quórum?**
+
+Es el **mínimo de acciones con derecho a voto presentes** necesario para que la asamblea pueda constituirse válidamente y comenzar a deliberar.
+
+No debe confundirse con la **mayoría**, que es la cantidad de votos necesaria para aprobar una decisión.
+
+:::
+
+---
+
+# Ejemplos de quórum
+
+## Ejemplo 1 — Asamblea ordinaria
+
+La sociedad tiene **1.000 acciones con derecho a voto**.
+
+### Primera convocatoria
+
+- Asisten **520 acciones**.
+- Se alcanza el quórum (mayoría de las acciones con derecho a voto).
+- ✅ La asamblea puede constituirse.
+
+### Segunda convocatoria
+
+- Asisten **150 acciones**.
+- La ley permite sesionar cualquiera sea el número de acciones presentes.
+- ✅ La asamblea puede constituirse.
+
+---
+
+# Ejemplo 2 — Asamblea extraordinaria
+
+La sociedad tiene **1.000 acciones con derecho a voto**.
+
+### Primera convocatoria
+
+- Asisten **580 acciones**.
+- Se requieren **600** (60%).
+- ❌ No hay quórum.
+
+### Segunda convocatoria
+
+- Asisten **350 acciones**.
+- Se requieren **300** (30%).
+- ✅ La asamblea puede constituirse.
+
+---
+
+# Ejemplo 3 — Estatuto con quórum agravado
+
+El estatuto establece que la asamblea extraordinaria requiere:
+
+- **75 %** en primera convocatoria.
+
+La sociedad tiene **2.000 acciones**.
+
+### Primera convocatoria
+
+- Asisten **1.300 acciones (65%)**.
+- La ley exigiría 60%, pero el estatuto exige 75%.
+- ❌ No hay quórum.
+
+### Segunda convocatoria
+
+El estatuto mantiene el régimen legal.
+
+- Asisten **700 acciones (35%)**.
+- Se supera el mínimo legal del 30%.
+- ✅ La asamblea puede constituirse.
+
+---
+
+# Ejemplo 4 — No confundir quórum con mayoría
+
+La sociedad tiene **1.000 acciones**.
+
+En una asamblea ordinaria de primera convocatoria asisten **700 acciones**.
+
+✅ Hay quórum.
+
+Ahora se vota la aprobación del balance.
+
+| Votos | Cantidad |
+|-------|---------:|
+| A favor | 360 |
+| En contra | 340 |
+
+La resolución queda aprobada.
+
+> **Hay quórum** porque asistieron suficientes acciones para constituir la asamblea.
+>
+> **Hay mayoría** porque los votos favorables superan a los votos negativos.
+>
+
+---
+
+# Falta o pérdida del quórum
+
+```{mermaid}
+flowchart TD
+
+A[Inicio de la asamblea]
+
+A --> B{¿Hay quórum?}
+
+B -->|No| C["❌ La asamblea no se constituye"]
+
+B -->|Sí| D[Comienza la deliberación]
+
+D --> E{¿Se mantiene el quórum?}
+
+E -->|Sí| F["✅ Continúa la asamblea"]
+
+E -->|No| G["❌ Se levanta la asamblea"]
+```
+
+### Si falta el quórum
+
+El presidente debe:
+
+- informar la cantidad de acciones presentes;
+- indicar la norma legal o estatutaria que impide constituir la asamblea.
+
+### Si el quórum se pierde durante la reunión
+
+El presidente debe:
+
+- verificar si el quórum subsiste;
+- si no subsiste, levantar la asamblea;
+- dejar constancia de los puntos del orden del día que ya fueron válidamente votados.
+
+::: {.callout-note appearance="simple"}
+
+### Excepción
+
+El retiro **breve y transitorio** de accionistas **no rompe el quórum** cuando:
+
+- es aprobado por la **mayoría absoluta de los votos presentes**;
+- tiene una duración limitada;
+- los accionistas permanecen próximos al lugar de la reunión (por ejemplo, para deliberar con asesores o por motivos personales).
+
+:::
+
+:::{.callout-tip}
+Una SA tiene 1.000 acciones.
+
+La asamblea extraordinaria comienza con 650 acciones presentes, por lo que existe quórum (60%).
+
+Durante el tratamiento del segundo punto del orden del día se retiran accionistas titulares de 400 acciones, quedando presentes solo 250 acciones.
+
+Como ya no se alcanza el quórum mínimo, la asamblea debe levantarse. Las resoluciones adoptadas antes de la pérdida del quórum conservan su validez; las restantes no podrán tratarse.
+:::
+
+---
+
+# Régimen de mayorías
+
+## Quórum ≠ Mayoría
+
+```{mermaid}
+flowchart LR
+
+A[Quórum]
+
+--> B[La asamblea puede sesionar]
+
+B --> C[Deliberación]
+
+C --> D[Mayoría]
+
+D --> E[La resolución queda aprobada]
+```
+
+::: {.callout-tip appearance="simple"}
+
+### Dos preguntas distintas
+
+- **Quórum:** ¿La asamblea puede comenzar a deliberar?
+- **Mayoría:** ¿La propuesta fue aprobada?
+
+Primero debe existir **quórum**. Recién después se computan las **mayorías**.
+
+:::
+
+---
+
+# Mayorías en las asambleas
+
+| Tipo de asamblea | Mayoría legal |
+|:-----------------|:-------------|
+| **Ordinaria** | Mayoría absoluta de los votos presentes que puedan emitirse |
+| **Extraordinaria** | Mayoría absoluta de los votos presentes que puedan emitirse* |
+
+\* Salvo los supuestos especiales del art. 244 LGS.
+
+::: {.callout-note appearance="simple"}
+
+### El estatuto
+
+Puede exigir una mayoría **más elevada**, pero **nunca inferior** a la prevista por la ley.
+
+:::
+
+---
+
+# Ejemplos
+
+## Ejemplo 1
+
+Asisten **800 acciones**.
+
+Votación:
+
+- A favor: **410**
+- En contra: **390**
+
+✅ La resolución queda aprobada.
+
+---
+
+## Ejemplo 2
+
+Asisten **800 acciones**.
+
+Votación:
+
+- A favor: **400**
+- En contra: **400**
+
+❌ No existe mayoría absoluta.
+
+---
+
+## Ejemplo 3
+
+El estatuto exige **2/3 de los votos presentes**.
+
+Asisten **900 acciones**.
+
+Votación:
+
+- A favor: **580**
+- En contra: **320**
+
+Aunque existe mayoría simple, **no se alcanzan los 2/3 (600 votos)**.
+
+❌ La resolución no queda aprobada.
+
+---
+
+# ¿Cómo se computan las mayorías?
+
+```{mermaid}
+flowchart LR
+
+A[Determinar la base de cálculo]
+
+--> B[Excluir votos inhabilitados]
+
+--> C[Agregar votos excepcionalmente habilitados]
+
+--> D[Calcular la mayoría]
+
+--> E[Proclamar el resultado]
+```
+
+### Pasos
+
+1. Determinar cuántos **votos pueden emitirse** en esa decisión.
+2. Excluir las acciones cuyos titulares **no pueden votar** (ej. art. 241 LGS).
+3. Incorporar, si corresponde, acciones sin voto excepcionalmente habilitadas.
+4. Calcular si se alcanzó la mayoría exigida por la ley o el estatuto.
+
+::: {.callout-note appearance="simple"}
+
+La **base de cálculo cambia según el punto del orden del día**.
+
+No siempre coincide con el total de acciones presentes.
+
+:::
+
+---
+
+# Ejemplo 1 — Director inhabilitado para votar
+
+La sociedad tiene **1.000 acciones con derecho a voto**.
+
+Asisten accionistas titulares de **800 acciones**.
+
+Uno de los accionistas es director y posee **100 acciones**.
+
+Se vota la **aprobación de su gestión** (art. 241 LGS).
+
+## Base de cálculo
+
+- Acciones presentes: **800**
+- Acciones inhabilitadas: **100**
+
+**Base de cálculo = 700 votos**
+
+### Resultado
+
+- A favor: **360**
+- En contra: **340**
+
+✅ La resolución queda aprobada porque obtuvo la mayoría absoluta de **700 votos computables**.
+
+---
+
+# Ejemplo 2 — El error más frecuente
+
+La sociedad tiene **1.000 acciones**.
+
+Asisten **800 acciones**.
+
+De ellas, **150 no pueden votar** ese punto del orden del día.
+
+## ¿Cuál es la mayoría?
+
+❌ Incorrecto
+
+> La mayoría es 401 votos.
+
+✔ Correcto
+
+Base de cálculo:
+
+800 − 150 = **650 votos**
+
+Mayoría absoluta:
+
+**326 votos**
+
+::: {.callout-tip appearance="simple"}
+
+La mayoría **no se calcula sobre los presentes**, sino sobre los **votos que pueden emitirse en esa decisión**.
+
+:::
+
+---
+
+# Etapas del acto asambleario
+
+| Etapa | Contenido |
+|:------|:----------|
+| **Manifestaciones previas** | Cuestiones preliminares planteadas antes de comenzar el tratamiento del orden del día. |
+| **Registro de asistencia** | Verificación de la identidad de los accionistas, sus representantes y del quórum. |
+| **Participación de los accionistas** | Uso de la palabra, pedidos de aclaración y ejercicio de los derechos políticos. |
+| **Deliberación y votación** | Debate de cada punto del orden del día y emisión de los votos. |
+| **Toma de decisiones** | Cómputo de las mayorías y proclamación de la resolución adoptada. |
+
+::: {.callout-tip appearance="simple"}
+
+Estas etapas se desarrollan bajo la dirección del **presidente de la asamblea**, quien garantiza el cumplimiento de la ley, del estatuto y del orden del día.
+
+:::
+
+---
+
+# ¿Quiénes pueden participar en la asamblea?
+
+```{mermaid}
+flowchart TD
+
+A[Asamblea]
+
+A --> B[Accionistas]
+
+A --> C[Órganos sociales]
+
+A --> D[Organismos de control]
+
+A --> E[Terceros]
+```
+
+| Categoría | Participantes |
+|:----------|:--------------|
+| **Accionistas** | Titulares de acciones con derecho a participar. |
+| **Órganos sociales** | Directores, síndicos, gerentes y miembros del consejo de vigilancia. |
+| **Organismos de control** | Inspectores de Justicia y, en sociedades con oferta pública, funcionarios de la Comisión Nacional de Valores. |
+| **Terceros** | Escribanos, asesores legales o contables, contador certificante, traductores, intérpretes, entre otros. |
+
+::: {.callout-note appearance="simple"}
+
+No todos los asistentes tienen los mismos derechos.
+
+- **Los accionistas** participan en la deliberación y votación.
+- **Los administradores y fiscalizadores** intervienen principalmente con voz, en cumplimiento de sus funciones.
+- **Los organismos de control y terceros** asisten cuando la ley o las circunstancias del caso lo justifican.
+
+:::
+
+---
+
+# ¿QUE ES EL ORDEN DEL DiA?
+
+Es un listado que esta conformado por la enumeracion de los temas y cuestiones que son sometidos por el ente convocante a la decision de una asamblea determinada.
+
+no sólo constituye un mecanismo para ordenar la celebracion y el desenvolvimiento de la asamblea, sino que también importa una suerte de limitacion respecto de la competencia de ésta en lo relativo a cual es el alcance de lo que pueda ser resuelto en cada oportunidad.
+
+```{mermaid}
+flowchart LR
+
+A[Lectura íntegra]
+
+--> B[Impugnaciones]
+
+--> C[Alteración del orden]
+
+--> D[Tratamiento de los puntos]
+```
+
+### Al iniciarse la asamblea
+
+El presidente debe:
+
+- dar lectura al **orden del día completo**;
+- recibir las impugnaciones que formulen los accionistas;
+- informar cualquier modificación en la secuencia de tratamiento de los puntos.
+
+::: {.callout-note appearance="simple"}
+
+La alteración del orden en que se tratarán los puntos es admisible si cuenta con la **mayoría absoluta de los votos presentes**.
+
+Habitualmente, se trata en primer término la **designación de los accionistas que firmarán el acta**.
+
+:::
+
+---
+
+# Requisitos y efectos del orden del día
+
+### El orden del día debe ser:
+
+- **Claro**.
+- **Preciso**.
+- **Determinado**.
+
+### Ejemplos de cláusulas inválidas
+
+- ❌ "Asuntos varios".
+- ❌ "Otros temas a tratar".
+- ❌ "Cuestiones de interés".
+- ❌ "Medidas a tomar".
+
+También resulta insuficiente una referencia genérica a una **reforma del estatuto**, sin indicar qué cláusulas serán modificadas.
+
+::: {.callout-warning appearance="simple"}
+
+### Principio de especialidad (art. 246 LGS)
+
+La asamblea **solo puede adoptar decisiones sobre los asuntos incluidos en el orden del día**.
+
+Las resoluciones sobre materias extrañas al orden del día son, en principio, **nulas**.
+
+:::
+
+---
+
+# Excepciones al principio del orden del día (art. 246 LGS)
+
+```{mermaid}
+flowchart TD
+
+A["Regla general:
+solo pueden tratarse
+los temas incluidos
+en el orden del día"]
+
+A --> B[Asamblea unánime]
+
+A --> C[Firma del acta]
+
+A --> D[Excepciones legales]
+```
+
+### La regla
+
+La asamblea **no puede adoptar resoluciones** sobre asuntos no incluidos en el orden del día.
+
+### Excepciones
+
+1. **Asamblea unánime**
+   - Está representado el **100 % del capital con derecho a voto**.
+   - La decisión se adopta **por unanimidad**.
+
+2. **Designación de los accionistas que firmarán el acta**
+   - Puede resolverse aunque no figure en el orden del día (art. 73 LGS).
+
+3. **Supuestos expresamente autorizados por la ley**
+   - Ej.: remoción de directores y ejercicio de la acción social de responsabilidad cuando la cuestión surge incidentalmente del tratamiento de un punto incluido en el orden del día.
+   - También las cuestiones **directamente conexas y necesarias**.
+
+::: {.callout-note appearance="simple"}
+
+### Importante
+
+Los asistentes pueden **debatir** asuntos no incluidos en el orden del día.
+
+Lo que **no pueden hacer** es adoptar resoluciones sobre ellos, salvo en las excepciones previstas por la ley.
+
+:::
+
+::: {.callout-important}
+Orden del día: Efectos.
+
+ARTICULO 246. — Es nula toda decisión sobre materias extrañas a las incluidas en el orden del día, salvo:
+
+1º) Si estuviere presente la totalidad del capital y la decisión se adopte por unanimidad de las acciones con derecho a voto;
+
+2º) Las excepciones que se autorizan expresamente en este Título;
+
+3º) La elección de los encargados de suscribir el acta.
+:::
+
+---
+
+# Cuarto intermedio (art. 247 LGS)
+
+```{mermaid}
+flowchart LR
+
+A[Asamblea constituida]
+
+--> B[Cuarto intermedio]
+
+--> C[Reanudación]
+
+--> D[Continuación del tratamiento]
+```
+
+### ¿Qué es?
+
+Es la **suspensión temporal** de una asamblea ya constituida para reanudarla posteriormente.
+
+### ¿Para qué sirve?
+
+- Obtener mayor información.
+- Permitir negociaciones entre los accionistas.
+- Favorecer la reflexión antes de decidir.
+
+### Requisitos
+
+- Debe aprobarse por **mayoría absoluta de los votos presentes**.
+- En la **asamblea unánime**, por **unanimidad**.
+- Deben fijarse el **día y la hora** de la reanudación.
+- Solo puede disponerse **una vez**.
+
+::: {.callout-note appearance="simple"}
+
+Las interrupciones breves durante el debate (por ejemplo, un receso de algunos minutos) **no constituyen cuarto intermedio**.
+
+:::
+
+---
+
+# Reanudación de la asamblea
+
+```{mermaid}
+flowchart TD
+
+A[Registro para la primera reunión]
+
+A --> B[Habilitado para la reanudación]
+
+B --> C[Continúa la asamblea]
+```
+
+### ¿Quiénes pueden participar?
+
+Solo los accionistas que **estaban inscriptos para asistir a la primera reunión**, aunque no hayan concurrido ese día.
+
+### Además
+
+- Pueden asistir personalmente o por mandatario.
+- Es posible sustituir al mandatario durante el cuarto intermedio, cumpliendo las formalidades correspondientes.
+
+::: {.callout-tip appearance="simple"}
+
+El accionista que no asistió a la primera reunión **puede concurrir a la reanudación**, pero **no puede volver a discutir ni votar** los puntos que ya fueron definitivamente resueltos antes del cuarto intermedio.
+
+:::
+
+---
+
+# El acta de la asamblea
+
+```{mermaid}
+flowchart LR
+
+A[Celebración de la asamblea]
+
+--> B[Redacción del acta]
+
+--> C[Firma]
+
+--> D[Valor probatorio]
+```
+
+### ¿Qué es?
+
+El acta de asamblea es el **documento privado** que deja constancia de:
+
+- la celebración de la asamblea;
+- las deliberaciones;
+- las resoluciones adoptadas.
+
+::: {.callout-note appearance="simple"}
+
+### Naturaleza jurídica
+
+El acta **no es un requisito de validez** de la asamblea.
+
+Su confección constituye una **obligación legal** (arts. 73 y concordantes LGS) y cumple una función **probatoria**.
+
+:::
+
+---
+
+# Contenido esencial del acta
+
+| Debe contener | Ejemplos |
+|:--------------|:---------|
+| **Datos de la reunión** | Lugar, fecha, hora, clase de asamblea y convocatoria. |
+| **Constitución** | Accionistas presentes, acciones, votos y quórum. |
+| **Participantes** | Presidente, directores, síndicos, gerentes, inspectores y terceros. |
+| **Orden del día** | Puntos tratados y alteraciones aprobadas. |
+| **Deliberaciones** | Argumentos, impugnaciones y manifestaciones relevantes. |
+| **Votaciones** | Sentido de los votos, abstenciones y resultado. |
+| **Resoluciones** | Texto preciso de cada decisión adoptada. |
+| **Firmas** | Presidente y accionistas designados. |
+
+::: {.callout-tip appearance="simple"}
+
+El acta debe reflejar **fielmente** lo ocurrido durante la asamblea.
+
+:::
+
+---
+
+# Formalidades y derecho de información
+
+### Formalidades
+
+- No debe contener espacios en blanco ni raspaduras.
+- Los errores deben salvarse antes de las firmas.
+- Si falta el libro de actas, puede confeccionarse un **acta notarial**.
+
+### Copia del acta (art. 249 LGS)
+
+Todo accionista puede solicitar una copia:
+
+- **a su costa**;
+- a partir del **quinto día** de celebrada la asamblea.
+
+::: {.callout-note appearance="simple"}
+
+Si el acta contiene información declarada **confidencial**, el accionista deberá asumir un compromiso de confidencialidad, salvo cuando la información deba utilizarse para ejercer derechos en sede judicial o arbitral.
+
+:::
+
+---
+
+## Caso
+
+Finalizada la asamblea, un accionista solicita una copia del acta al día siguiente de la reunión.
+
+**¿Tiene derecho a obtenerla inmediatamente?**
+
+**Respuesta:** No.
+
+El art. 73 LGS concede hasta **cinco días** para confeccionar y firmar el acta. Recién a partir de ese momento el accionista puede ejercer el derecho previsto en el **art. 249 LGS** y obtener una copia a su costa.
+
+---
+
+# IMPUGNACION DE LAS DECISIONES ASAMBLEARIAS
+
+Las decisiones tomadas por el érgano de gobierno -la asamblea- cuando resulten violatorias de la ley, el estatuto o el reglamento, se encuentran afectadas por un vicio que las torna ineficaces. Como todo acto juridico -aunque con caracteristicas especiales-, las decisiones tomadas por las asambleas pueden resultar -entonces-ineficaces y nulas.
+
+La accion de nulidad de las decisiones tomadas por el 6rgano de gobierno de la
+sociedad -la asamblea- se encuentra reglamentada por los articulos 251 a 254 de la
+ley 19.550 
+
+::: {.callout-important}
+Impugnación de la decisión asamblearia. Titulares.
+
+ARTICULO 251. — Toda resolución de la asamblea adoptada en violación de la ley, el estatuto o el reglamento, puede ser impugnada de nulidad por los accionistas que no hubieren votado favorablemente en la respectiva decisión y por los ausentes que acrediten la calidad de accionistas a la fecha de la decisión impugnada. Los accionistas que votaron favorablemente pueden impugnarla si su voto es anulable por vicio de la voluntad.
+
+También pueden impugnarla los directores, síndicos, miembros del consejo de vigilancia o la autoridad de contralor.
+
+Promoción de la acción.
+
+La acción se promoverá contra la sociedad, por ante el Juez de su domicilio, dentro de los tres (3) meses de clausurada la asamblea.
+
+Suspensión preventiva de la ejecución.
+
+ARTICULO 252. — El Juez puede suspender a pedido de parte, si existieren motivos graves y no mediare perjuicio para terceros, la ejecución de la resolución impugnada, previa garantía suficiente para responder por los daños que dicha medida pudiere causar a la sociedad.
+
+Sustanciación de la causa. Acumulación de acciones.
+
+ARTICULO 253. — Salvo el supuesto de la medida cautelar a que se refiere el artículo anterior, sólo se proseguirá el juicio después de vencido el término del artículo 251. Cuando exista pluralidad de acciones deberán acumularse, a cuyo efecto el directorio tendrá obligación de denunciar en cada expediente la existencia de las demás.
+
+Representación.
+
+Cuando la acción sea intentada por la mayoría de los directores o de miembros del consejo de vigilancia, los accionistas que votaron favorablemente designarán por mayoría un representante ad hoc, en asamblea especial convocada al efecto conforme al artículo 250. Si no se alcanzare esa mayoría, el representante será designado de entre ellos por el juez.
+
+Responsabilidad de los accionistas.
+
+ARTICULO 254. — Los accionistas que votaran favorablemente las resoluciones que se declaren nulas, responden ilimitada y solidariamente de las consecuencias de las mismas, sin perjuicio de la responsabilidad que corresponda a los directores, síndicos e integrantes del consejo de vigilancia.
+
+Revocación del acuerdo impugnado.
+
+Una asamblea posterior podrá revocar el acuerdo impugnado. Esta resolución surtirá efecto desde entonces y no procederá la iniciación o la continuación del proceso de impugnación. Subsistirá la responsabilidad por los efectos producidos o que sean su consecuencia directa.
+
+:::
+
+---
+
+# ¿Cuales son las causales de impugnacién de decisiones asamblearias admitidas por la ley?
+
+
+```{mermaid}
+mindmap
+  root((Impugnación))
+    Convocatoria
+    Constitución
+    Funcionamiento
+    Deliberación
+    Contenido
+```
+
+::: {.callout-note appearance="simple"}
+
+Las decisiones de la asamblea pueden ser impugnadas por vicios que afecten:
+
+- la **convocatoria**;
+- la **constitución** de la asamblea;
+- su **funcionamiento**;
+- la **deliberación**;
+- o el **contenido** de la resolución adoptada.
+
+:::
+
+---
+
+# Vicios en la convocatoria
+
+```{mermaid}
+flowchart TD
+
+A[Convocatoria]
+
+A --> B[¿Se cumplieron las formalidades?]
+
+B -->|No| C[Vicio en la convocatoria]
+
+C --> D[Posible nulidad de la asamblea]
+```
+
+### La convocatoria comprende
+
+- La confección del orden del día.
+- La publicidad exigida por la ley.
+- El registro de asistencia.
+- El control de la calidad de accionista.
+- La verificación de representaciones y mandatos.
+
+::: {.callout-note appearance="simple"}
+
+La convocatoria no consiste únicamente en **citar a los accionistas**.
+
+Comprende **todo el procedimiento previo** necesario para que la asamblea pueda constituirse regularmente.
+
+:::
+
+---
+
+# Consecuencias de los vicios en la convocatoria
+
+| Tipo de vicio | Consecuencia |
+|:--------------|:-------------|
+| **Ausencia absoluta de convocatoria o de formalidades esenciales** | Nulidad de la asamblea. |
+| **Defectos parciales o irregularidades** | La nulidad dependerá de la entidad del vicio y de si afectó los derechos de los accionistas. |
+
+::: {.callout-tip appearance="simple"}
+
+### Criterio general
+
+No toda irregularidad invalida una asamblea.
+
+Debe analizarse si el defecto **impidió o dificultó el ejercicio de los derechos de los accionistas** o comprometió la regular formación de la voluntad social.
+
+:::
+
+---
+
+# Caso
+
+El directorio convoca a una asamblea extraordinaria, pero omite publicar el aviso en el Boletín Oficial.
+
+Uno de los accionistas no toma conocimiento de la reunión y no puede asistir.
+
+**¿Puede impugnarse la asamblea?**
+
+✅ **Sí.** La omisión de una formalidad esencial de la convocatoria puede afectar el derecho de participación del accionista y constituir una causal de nulidad.
+
+En cambio, si el aviso fue publicado correctamente pero contiene un error menor que no impidió a los accionistas conocer la convocatoria ni ejercer sus derechos, **no necesariamente** corresponderá declarar la nulidad.
+
+---
+
+# VICIOS EN EL ACTO ASAMBLEARIO
+
+El acto tiene un régimen propio de funcionamiento y puede presentar vicios en su constitucion al haber cuestiones vinculadas al qudrum, a la representacion de los accionistas y aun también puede presentar problemas a lo largo de su celebracion en cuestiones vinculadas al derecho que tienen los accionistas de deliberar y votar.
+
+Resultara nula -entonces- aquella asamblea en la cual las decisiones se hayan tomado:
+1. Ignorando el régimen de quorum, deliberacién, informacién, o mayorias establecido por la ley, el estatuto o el reglamento;
+2. En aquella votacion en la que hubieran participado accionistas sin derecho a voto, o inhabilitados para votar cuando, con la concurrencia de esos votos, se hubiera logrado una mayoria formativa de la voluntad social que no hubiera sido alcanzada sin dicha concurrencia.
+
+# VICIOS EN EL CONTENIDO DE LAS DECISIONES DE LA ASAMBLEA
+
+La nulidad que afecta un acto asambleario también puede derivar de vicios en el
+contenido de la decisién particular adoptada.
+
+Se trata de aquellos casos en los cuales la decisién importa adoptar una resolucién violatoria de la ley, el estatuto o el reglamento, debiendo entenderse en este punto que la referencia que el legislador de la ley 19.550 ha efectuado respecto del vocablo /ey no se limita al conjunto de normas contenidas en la ley 19.550 y complementarias sino a todo el ordenamiento juridico en general.
+
+---
+
+# ¿Quiénes pueden impugnar una decisión asamblearia?
+
+```{mermaid}
+mindmap
+  root((Legitimados))
+    Accionistas
+      Presentes
+      Ausentes
+    Directores
+    Síndicos
+    Consejo de vigilancia
+    Autoridad de control
+    Terceros afectados
+```
+
+::: {.callout-note appearance="simple"}
+
+El art. 251 LGS reconoce legitimación para impugnar las resoluciones asamblearias a quienes resulten afectados por decisiones contrarias a la ley, el estatuto o el reglamento.
+
+:::
+
+---
+
+# Accionistas legitimados
+
+| Accionista | ¿Puede impugnar? |
+|:-----------|:----------------:|
+| Votó en contra | ✅ Sí |
+| Se abstuvo | ✅ Sí |
+| Estuvo ausente | ✅ Sí |
+| Votó a favor | ❌ No, salvo que su voto esté viciado (error, dolo, violencia, etc.) |
+
+::: {.callout-tip appearance="simple"}
+
+### Dos reglas importantes
+
+- No es necesario dejar constancia en el acta de que se impugnará judicialmente la decisión.
+- La ley **no exige un porcentaje mínimo de acciones** para promover la acción de impugnación.
+
+:::
+
+---
+
+# Accionistas ausentes
+
+### Regla general
+
+El accionista que **no asistió a la asamblea** puede impugnar la resolución si:
+
+- era accionista al momento de celebrarse la asamblea; y
+- acredita esa calidad al promover la acción.
+
+::: {.callout-note appearance="simple"}
+
+La legitimación corresponde al **accionista ausente**, no a cualquier adquirente posterior de las acciones.
+
+:::
+
+---
+
+# Un debate doctrinario
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Régimen legal
+
+- Sólo puede impugnar quien era accionista al momento de la asamblea.
+- El adquirente posterior, como regla, **no está legitimado**.
+
+:::
+
+::: {.column width="50%"}
+
+### Crítica de Vitolo
+
+Quien adquiere acciones sucede al anterior titular en sus derechos.
+
+Por ello, también debería poder impugnar resoluciones nulas mientras no haya vencido el plazo legal.
+
+:::
+
+::::
+
+::: {.callout-tip appearance="simple"}
+
+En los supuestos de **nulidad absoluta**, parte de la doctrina entiende que la legitimación podría ser más amplia, en virtud del art. 387 CCyC ("cualquier interesado").
+
+:::
+
+---
+
+# Casos especiales de legitimación
+
+| Supuesto | ¿Puede impugnar? |
+|:----------|:----------------:|
+| Acciones preferidas sin voto | ✅ Sí |
+| Accionista con interés contrario (art. 248 LGS) | ✅ Sí |
+| Accionista que votó a favor | ⚠️ Sólo si su voto es anulable |
+
+::: {.callout-note appearance="simple"}
+
+La legitimación no depende únicamente de haber emitido un voto negativo.
+
+También existe cuando la ley impide votar o cuando el consentimiento estuvo viciado.
+
+:::
+
+---
+
+# Precisiones
+
+### Acciones preferidas sin derecho a voto
+
+- Como regla, pueden impugnar porque **no votaron favorablemente**.
+- Si excepcionalmente tuvieron derecho a voto:
+  - pueden impugnar si votaron en contra;
+  - si se abstuvieron;
+  - o si su voto favorable estuvo viciado.
+
+---
+
+### Accionista con interés contrario
+
+El accionista impedido de votar por el art. 248 LGS conserva legitimación para impugnar.
+
+No puede interpretarse que la prohibición de votar habilite a la mayoría a adoptar resoluciones ilegales.
+
+---
+
+### Accionista que votó favorablemente
+
+Sólo conserva legitimación cuando demuestra que su voto fue emitido con **error, dolo o violencia**, es decir, que el consentimiento se encontraba viciado.
+
+---
+
+# Directores, síndicos y consejo de vigilancia
+
+| Legitimado | Fundamento |
+|:-----------|:-----------|
+| **Directores** | Deben impugnar las resoluciones contrarias a la ley, al estatuto, al reglamento o al interés social. |
+| **Síndicos** | Deben velar por la legalidad de los actos sociales e impugnar las decisiones inválidas. |
+| **Consejo de vigilancia** | Tiene el mismo deber de control de legalidad. |
+
+::: {.callout-note appearance="simple"}
+
+Para estos órganos, la impugnación **no es sólo una facultad**: constituye un **deber derivado de sus funciones de administración o fiscalización**.
+
+:::
+
+---
+
+# Precisiones
+
+- Sólo están legitimados los **directores titulares**, no los suplentes.
+- El director debe ejercer el cargo al promover la demanda.
+- Si luego es removido, **conserva la legitimación**.
+- Si renuncia voluntariamente, la pierde.
+
+::: {.callout-tip appearance="simple"}
+
+Si la mayoría del directorio promueve la impugnación, la sociedad deberá ser representada en juicio por un **representante ad hoc** designado por los accionistas que sostienen la validez de la resolución (art. 253 LGS).
+
+:::
+
+---
+
+# ¿Contra quién se dirige la demanda?
+
+```{mermaid}
+flowchart LR
+
+A[Acción de impugnación] --> B[Sociedad]
+
+B --> C[Representación por el Directorio]
+
+C --> D[Excepción: art. 253 LGS<br/>Representante ad hoc]
+```
+
+::: {.callout-note appearance="simple"}
+
+La demanda se dirige **contra la sociedad**, ya que es ella quien expresa su voluntad a través de la asamblea.
+
+:::
+
+---
+
+# Acumulación de pretensiones
+
+Además de solicitar la nulidad de la resolución, el actor puede reclamar la responsabilidad de quienes participaron en el acto.
+
+Ejemplos:
+
+- Directores responsables (art. 254 LGS).
+- Accionistas cuya actuación haya generado el perjuicio.
+
+::: {.callout-tip appearance="simple"}
+
+En ese caso, las acciones se acumulan en un mismo proceso y los responsables deben ser citados al juicio.
+
+:::
+
+---
+
+# Plazo y juez competente
+
+| Aspecto | Régimen |
+|:---------|:---------|
+| **Plazo** | 3 meses |
+| **Inicio del cómputo** | Clausura de la asamblea |
+| **Juez competente** | Juez del domicilio social |
+
+::: {.callout-note appearance="simple"}
+
+En la Ciudad Autónoma de Buenos Aires, la demanda requiere **mediación previa obligatoria** (Ley 26.589).
+
+:::
+
+---
+
+# Efectos de la sentencia
+
+```{mermaid}
+flowchart TD
+
+A[Sentencia que declara la nulidad]
+
+A --> B[La resolución queda sin efecto]
+
+B --> C[Obliga a la sociedad]
+
+B --> D[Obliga a todos los accionistas]
+
+B --> E[Obliga a los órganos sociales]
+
+B --> F[Produce efectos frente a terceros]
+```
+
+::: {.callout-warning appearance="simple"}
+
+Los terceros que contrataron **de buena fe** confiando en la validez de la decisión podrán reclamar a la sociedad la indemnización de los daños sufridos.
+
+:::
+
+---
+
+# Suspensión preventiva de la ejecución (art. 252 LGS)
+
+```{mermaid}
+flowchart TD
+
+A[Impugnación judicial]
+
+A --> B[Pedido de suspensión]
+
+B --> C{Requisitos}
+
+C --> D[Motivos graves]
+
+C --> E[Sin perjuicio para terceros]
+
+C --> F[Contracautela]
+
+C --> G[Verosimilitud del derecho y peligro en la demora]
+```
+
+::: {.callout-note appearance="simple"}
+
+La suspensión **no invalida** la resolución.
+
+Simplemente **impide su ejecución** hasta que se dicte sentencia.
+
+:::
+
+---
+
+# Naturaleza de la suspensión preventiva
+
+### Es una medida cautelar
+
+- Tiene carácter **provisorio**.
+- Es accesoria de la acción de impugnación.
+- Busca evitar que la sentencia definitiva resulte ilusoria.
+
+### Requisitos principales
+
+- verosimilitud del derecho;
+- peligro en la demora;
+- contracautela;
+- inexistencia de perjuicio para terceros.
+
+---
+
+# Acumulación de acciones (art. 253 LGS)
+
+```{mermaid}
+flowchart LR
+
+A[Impugnación 1]
+
+B[Impugnación 2]
+
+C[Impugnación 3]
+
+A --> D[Un único proceso]
+
+B --> D
+
+C --> D
+```
+
+::: {.callout-tip appearance="simple"}
+
+Todas las acciones promovidas contra una misma resolución deben acumularse para evitar sentencias contradictorias.
+
+:::
+
+---
+
+# Responsabilidad por la decisión impugnada
+
+| Sujetos | Responsabilidad |
+|:---------|:----------------|
+| Accionistas que votaron a favor | Ilimitada y solidaria |
+| Directores | Si incumplieron sus deberes |
+| Síndicos | Si omitieron el control debido |
+| Consejo de vigilancia | En los mismos términos |
+
+::: {.callout-warning appearance="simple"}
+
+La nulidad de la resolución no excluye la responsabilidad por los daños ocasionados.
+
+:::
+
+---
+
+# Revocación del acuerdo (art. 254 LGS)
+
+```{mermaid}
+flowchart TD
+
+A[Asamblea posterior]
+
+A --> B[Revoca el acuerdo]
+
+B --> C[La impugnación pierde objeto]
+
+C --> D[Pero subsiste la responsabilidad]
+```
+
+::: {.callout-note appearance="simple"}
+
+La sociedad puede dejar sin efecto el acuerdo impugnado.
+
+Sin embargo, ello **no libera de responsabilidad** a quienes ocasionaron los daños mientras la resolución produjo efectos.
+
+:::
+
+---
+
+# Fallo: *Kahl c. Degas S.A.*
+
+**CNCom., Sala E, 12 de mayo de 2006**
+
+### Tema
+
+Impugnación de una asamblea extraordinaria que dispuso un aumento de capital mediante capitalización de aportes irrevocables.
+
+La accionante sostuvo que la decisión tuvo como finalidad diluir ilegítimamente su participación societaria.
+
+---
+
+# Hechos
+
+La sociedad resolvió:
+
+- aumentar el capital social;
+- capitalizar aportes irrevocables;
+- hacerlo mediante una asamblea cuya convocatoria fue cuestionada.
+
+La accionista sostuvo que el verdadero objetivo era **licuar su participación del 50 %**, vulnerando sus derechos como socia.
+
+---
+
+# ¿Caducidad o prescripción?
+
+```{mermaid}
+flowchart TD
+
+A[Art. 251 LGS]
+
+A --> B[Regla: 3 meses]
+
+A --> C[Excepción]
+
+C --> D[Violación de derechos inderogables u orden público]
+
+D --> E[No rige la caducidad]
+```
+
+::: {.callout-warning appearance="simple"}
+
+La Cámara entendió que, cuando la impugnación se funda en la lesión de derechos inderogables del socio o del orden público, **no resulta aplicable el plazo de caducidad del art. 251 LGS**. :contentReference[oaicite:3]{index=3}
+
+:::
+
+---
+
+# Legitimación e interés social
+
+La sociedad sostuvo que la actora no estaba legitimada porque no había acreditado adecuadamente su calidad de socia.
+
+La Cámara rechazó esa defensa y afirmó que:
+
+- la calidad de socio puede probarse por distintos medios;
+- la acción de impugnación protege el **interés social**, pero también puede ejercerse para tutelar el **interés personal del socio**, cuando ese interés deriva de su condición de accionista.
+
+---
+
+# Enseñanzas del fallo
+
+### Principios que deja
+
+- Un aumento de capital no puede utilizarse para excluir o diluir arbitrariamente a un accionista.
+- La impugnación protege tanto el interés social como los derechos esenciales de los socios.
+- La legitimación no depende exclusivamente de la exhibición de los títulos accionarios.
+- Cuando se afectan derechos inderogables, el régimen del art. 251 LGS debe interpretarse de manera restrictiva. :contentReference[oaicite:6]{index=6}
+
+::: {.callout-tip appearance="simple"}
+
+**Idea central**
+
+La mayoría no puede utilizar los mecanismos societarios para alterar abusivamente el equilibrio entre los socios.
+
+:::
+
