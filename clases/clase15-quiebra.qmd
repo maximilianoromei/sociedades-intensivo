@@ -1,0 +1,831 @@
+---
+title: "Clase 15 — SA - Sociedades en el Proceso concursal"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+
+---
+
+# Una pregunta inicial
+
+> ¿Qué entra en concurso?
+
+- ¿La empresa?
+- ¿La sociedad?
+- ¿Los socios?
+- ¿Los administradores?
+
+---
+
+# La personalidad jurídica sigue importando
+
+Empresa ≠ Sociedad ≠ Socios ≠ Administradores
+
+La insolvencia no elimina la separación patrimonial.
+
+---
+
+# Esquema general de la clase
+
+1. Sujetos concursables.
+2. Concurso preventivo.
+3. Cramdown.
+4. Quiebra.
+5. Extensión de quiebra.
+
+---
+
+# Sujetos concursables
+
+- SA
+- SRL
+- Sociedad colectiva
+- Cooperativas
+- Sociedades de la Sección IV
+- Sociedades en liquidación
+
+¿La disolución impide concursarse?
+
+---
+
+# ¿Quién solicita el concurso?
+
+Sociedad
+
+↓
+
+Representante legal
+
+↓
+
+Ratificación del órgano de gobierno
+(art. 6 LCQ)
+
+---
+
+# Concurso preventivo
+
+La sociedad conserva:
+
+- personalidad jurídica
+- patrimonio
+- administración
+- órganos sociales
+
+No existe desapoderamiento.
+
+---
+
+# ¿Qué ocurre con los órganos?
+
+Asamblea / reunión de socios
+
+↓
+
+Directorio / Gerencia
+
+↓
+
+Fiscalización
+
+Todos continúan funcionando.
+
+---
+
+# Los administradores
+
+Mantienen:
+
+- deber de diligencia
+- deber de lealtad
+- deber de información
+
+La crisis aumenta el estándar de actuación.
+
+---
+
+# Actos del concursado
+
+Administración ordinaria
+
+↓
+
+Actos prohibidos
+
+↓
+
+Actos sujetos a autorización judicial
+
+---
+
+# Fracasa el período de exclusividad
+
+No siempre sigue la quiebra.
+
+Puede abrirse el procedimiento de salvataje.
+
+---
+
+# Cramdown (art. 48 LCQ)
+
+Fracaso del acuerdo
+
+↓
+
+Registro
+
+↓
+
+Inscripción de interesados
+
+↓
+
+Nueva propuesta
+
+↓
+
+Homologación o quiebra
+
+---
+
+# ¿Qué intenta salvar?
+
+No necesariamente a los socios.
+
+Sí, principalmente:
+
+- la empresa;
+- la continuidad de la actividad.
+
+---
+
+# ¿Quiénes pueden intervenir?
+
+- terceros
+- acreedores
+- cooperativas
+- la propia concursada
+
+---
+
+# ¿Qué adquiere el tercero?
+
+No compra:
+
+- inmuebles;
+- maquinarias;
+- mercaderías.
+
+Compra:
+
+- acciones;
+- cuotas sociales;
+- el control societario.
+
+---
+
+# Cambio de control
+
+Antes
+
+Socios originales
+
+↓
+
+Después
+
+Nuevo controlante
+
+↓
+
+Nuevo directorio
+
+↓
+
+Misma persona jurídica
+
+---
+
+# Caso
+
+Metalúrgica S.A.
+
+No obtiene acuerdo.
+
+Se inscriben:
+
+- un acreedor;
+- un competidor;
+- una cooperativa;
+- la propia sociedad.
+
+¿Quién controla la sociedad al finalizar?
+
+---
+
+# Concurso en caso de agrupamiento económico
+
+**Arts. 65 a 68 LCQ**
+
+---
+
+# ¿Por qué existe este régimen?
+
+Un grupo económico puede funcionar como una unidad económica.
+
+La insolvencia de una sociedad puede afectar rápidamente a las demás.
+
+La ley permite una solución preventiva coordinada.
+
+---
+
+# ¿Qué es un agrupamiento?
+
+Conjunto de personas que:
+
+- desarrollan una actividad económica vinculada;
+- mantienen relaciones permanentes;
+- exteriorizan esa vinculación.
+
+No se exige un tipo societario determinado.
+
+---
+
+# Requisitos (art. 65)
+
+- dos o más personas;
+- agrupamiento económico permanente;
+- exteriorización del grupo;
+- presentación conjunta.
+
+---
+
+# Cesación de pagos
+
+No es necesario que todos los integrantes estén en cesación de pagos.
+
+Basta que:
+
+- uno de ellos se encuentre en cesación de pagos; y
+- esa situación pueda afectar a los restantes integrantes del agrupamiento.
+
+---
+
+# ¿Quiénes pueden integrar el agrupamiento?
+
+Por ejemplo:
+
+- sociedad controlante;
+- sociedades controladas;
+- sociedades vinculadas;
+- personas humanas;
+- otras personas jurídicas.
+
+---
+
+# Competencia
+
+Interviene un único juez.
+
+La competencia se determina por el integrante con el activo más importante.
+
+---
+
+# Sindicatura
+
+Se designa una sindicatura única.
+
+Su función comprende:
+
+- controlar cada concurso;
+- analizar las relaciones internas del grupo;
+- informar sobre la situación económica del agrupamiento.
+
+---
+
+# Patrimonios
+
+Cada integrante conserva:
+
+- su personalidad jurídica;
+- su patrimonio;
+- sus acreedores;
+- su proceso concursal.
+
+**No existe consolidación patrimonial.**
+
+---
+
+# Masas separadas
+
+Sociedad A
+
+↓
+
+Activo propio
+
+Pasivo propio
+
+---
+
+Sociedad B
+
+↓
+
+Activo propio
+
+Pasivo propio
+
+---
+
+Sociedad C
+
+↓
+
+Activo propio
+
+Pasivo propio
+
+---
+
+# Créditos entre integrantes
+
+Los créditos existentes entre integrantes del agrupamiento:
+
+- son verificables;
+- **no se computan para formar las mayorías del acuerdo preventivo.**
+
+---
+
+# Propuestas de acuerdo
+
+Existen dos alternativas:
+
+- propuestas individuales;
+- propuesta unificada.
+
+---
+
+# Propuestas individuales
+
+Cada sociedad:
+
+- presenta su propia propuesta;
+- obtiene sus propias mayorías;
+- puede tener un resultado diferente al resto del grupo.
+
+---
+
+# Propuesta unificada (art. 67)
+
+Todos los integrantes presentan una única propuesta.
+
+Las mayorías se analizan conjuntamente.
+
+---
+
+# Límite
+
+La propuesta unificada no puede aprobarse únicamente por el peso de los acreedores de una sociedad.
+
+Debe existir conformidad suficiente en cada concurso.
+
+---
+
+# Fracaso de la propuesta unificada
+
+Si la propuesta unificada fracasa:
+
+↓
+
+fracasa el concurso del agrupamiento
+
+↓
+
+puede declararse la quiebra de todos los integrantes.
+
+---
+
+# ¿Qué ventajas tiene?
+
+- evita soluciones contradictorias;
+- facilita la negociación con acreedores;
+- permite coordinar la reestructuración del grupo;
+- reduce costos procesales.
+
+---
+
+# ¿Qué NO produce?
+
+No implica:
+
+- fusión de patrimonios;
+- desaparición de la personalidad jurídica;
+- responsabilidad automática entre sociedades;
+- extensión de la quiebra.
+
+---
+
+# Diferencia con la extensión de quiebra
+
+## Concurso del agrupamiento
+
+- preventivo;
+- voluntario;
+- coordinación procesal;
+- patrimonios separados.
+
+## Extensión de quiebra
+
+- falencial;
+- excepcional;
+- requiere los presupuestos de los arts. 160 y 161 LCQ;
+- puede alcanzar a otro sujeto.
+
+---
+
+# Caso
+
+Holding S.A. controla:
+
+- Industrial S.A.
+- Comercial S.A.
+- Logística S.A.
+
+Industrial entra en cesación de pagos.
+
+Las tres dependen financieramente unas de otras.
+
+## Preguntas
+
+- ¿Pueden presentarse conjuntamente?
+- ¿Las tres deben estar en cesación de pagos?
+- ¿Se unifican los patrimonios?
+- ¿Puede formularse una propuesta unificada?
+- ¿La existencia del grupo permite extender automáticamente la quiebra?
+
+---
+
+# Quiebra
+
+Concurso
+
+↓
+
+Fracaso
+
+↓
+
+Quiebra
+
+↓
+
+Desapoderamiento
+
+---
+
+# Efectos de la quiebra
+
+Sobre la sociedad.
+
+Sobre los órganos.
+
+Sobre los socios.
+
+Sobre los administradores.
+
+---
+
+# ¿Desaparece la sociedad?
+
+No.
+
+La personalidad jurídica continúa hasta su extinción.
+
+---
+
+# Efectos sobre los socios
+
+Depende del tipo social.
+
+No todos responden igual.
+
+---
+
+# Artículo 160 LCQ
+
+Quiebra
+
+↓
+
+Sociedad con socios ilimitadamente responsables
+
+↓
+
+Quiebra de los socios
+
+---
+
+# Artículo 161 LCQ
+
+Extensión de quiebra
+
+No es automática.
+
+Requiere presupuestos específicos.
+
+---
+
+# Tres supuestos
+
+- actuación en interés personal;
+- abuso del control;
+- confusión patrimonial inescindible.
+
+---
+
+# Grupo económico
+
+Grupo económico
+
+≠
+
+Extensión de quiebra
+
+El grupo, por sí solo, no alcanza.
+
+---
+
+# Caso final
+
+Holding controla tres sociedades.
+
+Hay:
+
+- caja única;
+- pagos cruzados;
+- ventas ficticias;
+- activos transferidos.
+
+¿Procede la extensión?
+
+¿Por cuál inciso?
+
+---
+
+# Responsabilidad de administradores
+
+**Arts. 173 a 176 LCQ**
+
+---
+
+# Pregunta
+
+La sociedad quebró.
+
+¿Siempre responden los administradores?
+
+---
+
+# Regla
+
+No.
+
+La quiebra de la sociedad
+
+≠
+
+Responsabilidad automática
+de directores o gerentes.
+
+---
+
+# Art. 173 LCQ
+
+Responden quienes:
+
+- dolosamente;
+
+hubieran:
+
+- producido;
+- facilitado;
+- permitido;
+- agravado
+
+la insolvencia patrimonial.
+
+---
+
+# ¿Quiénes pueden responder?
+
+- administradores;
+- representantes;
+- mandatarios;
+- gestores;
+- terceros.
+
+No solamente los directores.
+
+---
+
+# Requisitos
+
+Debe acreditarse:
+
+- conducta dolosa;
+- daño;
+- relación causal.
+
+La simple mala administración no alcanza.
+
+---
+
+# Finalidad
+
+Obtener la reparación del daño
+causado a la masa de acreedores.
+
+No se declara la quiebra del demandado.
+
+---
+
+# Ejemplos
+
+- ocultar bienes;
+- desviar activos;
+- simular créditos;
+- continuar explotando fraudulentamente;
+- llevar doble contabilidad;
+- destruir documentación.
+
+---
+
+# ¿Quién inicia la acción?
+
+Principalmente:
+
+- síndico;
+
+con autorización judicial.
+
+---
+
+# ¿Qué obtiene la sentencia?
+
+No produce:
+
+- extensión de quiebra.
+
+Produce:
+
+- condena indemnizatoria.
+
+---
+
+# Comparación
+
+## Extensión de quiebra
+
+- arts. 160-161;
+- el demandado también quiebra;
+- presupuestos excepcionales.
+
+---
+
+## Responsabilidad concursal
+
+- arts. 173-176;
+- el demandado no quiebra;
+- responde patrimonialmente.
+
+---
+
+# Diferencia con la LGS
+
+LGS
+
+↓
+
+Protege a:
+
+- sociedad;
+- socios;
+- terceros.
+
+---
+
+LCQ
+
+↓
+
+Protege:
+
+- la masa de acreedores.
+
+---
+
+# Caso
+
+El director:
+
+- desvía dinero a otra sociedad del grupo;
+- vende bienes por debajo del mercado;
+- destruye documentación.
+
+La sociedad quiebra seis meses después.
+
+## Preguntas
+
+- ¿Corresponde extensión de quiebra?
+- ¿Corresponde acción del art. 173?
+- ¿Pueden coexistir ambas?
+
+---
+
+# ¿La quiebra siempre termina en liquidación?
+
+No necesariamente.
+
+La LCQ prevé distintas formas de conclusión.
+
+---
+
+# Vías conclusivas de la quiebra
+
+- liquidación del activo;
+- avenimiento;
+- pago total.
+
+Son supuestos excepcionales.
+
+---
+
+# Avenimiento
+
+Existe acuerdo entre:
+
+- el fallido;
+- todos los acreedores.
+
+El proceso concluye porque desaparece el conflicto.
+
+---
+
+# Pago total
+
+Se cancelan íntegramente:
+
+- capital;
+- intereses;
+- gastos del concurso.
+
+La quiebra concluye por satisfacción plena de los acreedores.
+
+---
+
+# Ideas finales
+
+El objetivo del sistema concursal no siempre es liquidar.
+
+Según el caso puede lograrse:
+
+- reestructurar;
+- conservar la empresa;
+- satisfacer íntegramente a los acreedores;
+- poner fin al proceso por acuerdo.
+
+---
+# Ideas finales
+
+✔ Concurso ≠ Quiebra.
+
+✔ La sociedad mantiene personalidad.
+
+✔ El cramdown puede modificar el control.
+
+✔ El grupo económico no implica extensión.
+
+✔ La responsabilidad limitada no es absoluta.
+

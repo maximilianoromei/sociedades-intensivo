@@ -691,6 +691,16 @@ En las sociedades sujetas a oferta pública, la independencia debe ser objeto de
 - Debe ser aceptada por la asamblea ordinaria.
 - El síndico continúa en funciones hasta su aceptación.
 
+::: {.callout-important}
+ARTICULO 287. — El estatuto precisará el término por el cual son elegidos para el cargo, que no puede exceder de tres ejercicios, no obstante, permanecerán en el mismo hasta ser reemplazados. Podrán ser reelegidos.
+
+Revocabilidad.
+
+Su designación es revocable solamente por la asamblea de accionistas, que podrá disponerla sin causa siempre que no medie oposición del cinco por ciento (5 %) del capital social.
+
+Es nula cualquier cláusula contraria a las disposiciones de este artículo.
+:::
+
 ---
 
 # Vacancia y reemplazo
@@ -711,6 +721,16 @@ Si el titular no puede continuar en funciones, debe ser reemplazado por el suple
 
 El reemplazo debe producirse con rapidez para asegurar la continuidad del control societario.
 
+:::
+
+::: {.callout-important}
+Vacancia: Reemplazo.
+
+ARTICULO 291. — En caso de vacancia, temporal o definitiva, o de sobrevenir una causal de inhabilitación para el cargo, el síndico será reemplazado por el suplente que corresponda.
+
+De no ser posible la actuación del suplente, el directorio convocará de inmediato a una asamblea general o de la clase en su caso, a fin de hacer las designaciones hasta completar el período.
+
+Producida una causal de impedimento durante el desempeño del cargo, el síndico debe cesar de inmediato en sus funciones e informar al directorio dentro del término de diez (10) días.
 :::
 
 ---
@@ -820,6 +840,16 @@ La decisión asamblearia que declara la responsabilidad produce la remoción aut
 
 :::
 
+::: {.callout-important}
+Responsabilidad.
+
+ARTICULO 296. — Los síndicos son ilimitada y solidariamente responsables por el incumplimiento de las obligaciones que les imponen la ley, el estatuto y el reglamento, Su responsabilidad se hará efectiva por decisión de la asamblea. La decisión de la asamblea que declare la responsabilidad importa la remoción del síndico.
+
+Solidaridad.
+
+ARTICULO 297. — También son responsables solidariamente con los directores por los hechos y omisiones de éstos cuando el daño no se hubiera producido si hubieran actuado de conformidad con lo establecido en la ley, estatuto, reglamento o decisiones asamblearias.
+:::
+
 ---
 
 # Responsabilidad junto con los directores
@@ -842,27 +872,6 @@ Debe existir una omisión relevante en el ejercicio de su función de fiscalizac
 
 ---
 
-# Extinción de la responsabilidad
-
-La responsabilidad puede extinguirse por:
-
-- aprobación de la gestión;
-- renuncia a promover la acción;
-- transacción aprobada por la asamblea.
-
-Estas decisiones no producen efecto cuando:
-
-- existe violación de la ley, el estatuto o el reglamento;
-- se opone al menos el 5 % del capital;
-- existe liquidación coactiva o concursal.
-
-::: {.callout-warning appearance="simple"}
-
-La aprobación de la gestión no funciona como una liberación general frente a incumplimientos legales.
-
-:::
-
----
 
 # Fiscalización estatal
 
