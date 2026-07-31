@@ -1,0 +1,295 @@
+---
+title: "Clase 16 — SCA"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+
+---
+
+# Sociedad en comandita por acciones
+
+## Concepto
+
+La sociedad en comandita por acciones combina elementos de:
+
+- la sociedad en comandita simple; y
+- la sociedad anónima.
+
+Su rasgo distintivo es que **la participación de los socios comanditarios se representa por acciones**.
+
+---
+
+# Las dos categorías de socios
+
+## Socios comanditados
+
+- administran la sociedad;
+- responden en forma subsidiaria, solidaria e ilimitada.
+
+## Socios comanditarios
+
+- realizan aportes de capital;
+- su participación está representada por acciones;
+- responden únicamente hasta el monto de su aporte.
+
+---
+
+# Régimen jurídico
+
+La sociedad en comandita por acciones se rige:
+
+1. por las normas específicas de los arts. 315 a 324 LGS;
+2. supletoriamente, por las normas de la sociedad anónima.
+
+::: {.callout-note appearance="simple"}
+
+La administración corresponde exclusivamente a los socios comanditados.
+
+:::
+
+---
+
+# Tipicidad
+
+La existencia de ambas categorías de socios es un requisito esencial del tipo.
+
+## Posición de Vítolo
+
+Vítolo sostiene que la sociedad debe conservar, en todo momento:
+
+- al menos un socio comanditado puro; y
+- al menos un socio comanditario puro.
+
+Admite que un mismo socio pueda reunir ambas calidades siempre que ese requisito continúe cumpliéndose.
+
+---
+
+# Normas aplicables
+
+La sociedad en comandita por acciones se rige:
+
+1. por las normas especiales de los arts. 315 a 324 LGS;
+2. supletoriamente, por las normas de la sociedad anónima.
+
+::: {.callout-note appearance="simple"}
+
+Vítolo explica que la remisión a la SA responde a que el capital social está representado por acciones.
+
+:::
+
+---
+
+# Particularidades del régimen
+
+Aunque la remisión legal es a la sociedad anónima, Vítolo señala que:
+
+- las cuestiones vinculadas a las dos categorías de socios;
+- sus derechos y obligaciones;
+- y el régimen de responsabilidad,
+
+encuentran su referencia natural en las reglas de la sociedad en comandita simple.
+
+---
+
+# Denominación y constitución
+
+## Denominación
+
+- Puede utilizar **denominación social** o **razón social**.
+- Si utiliza denominación, debe agregar **"Sociedad en Comandita por Acciones"** o **"S.C.A."**.
+- Si utiliza razón social, sólo puede integrarse con el nombre de los socios comanditados.
+
+## Constitución
+
+- Instrumento público.
+- Inscripción en el Registro Público.
+- Aportes:
+  - comanditados: cualquier aporte admitido por la ley;
+  - comanditarios: únicamente bienes susceptibles de ejecución forzada aportados en propiedad.
+
+---
+
+# Administración y representación
+
+## Regla general
+
+La administración puede ser ejercida por:
+
+- uno o más socios comanditados;
+- terceros;
+- un directorio.
+
+::: {.callout-note appearance="simple"}
+
+Los socios comanditarios no pueden administrar la sociedad.
+
+:::
+
+::: {.callout-important}
+ARTICULO 318. — La administración podrá ser unipersonal, y será ejercida por socio comanditado o tercero, quienes durarán en sus cargos el tiempo que fije el estatuto sin las limitaciones del artículo 257.
+
+Remoción del socio administrador.
+
+ARTICULO 319. — La remoción del administrador se ajustará al artículo 129, pero el socio comanditario podrá pedirla judicialmente, con justa causa, cuando represente no menos del Cinco por ciento(5 %) del capital.
+
+El socio comanditado removido de la administración tendrá derecho a retirarse de la sociedad o a transformarse en comanditario.
+:::
+
+---
+
+# Exclusión de los socios comanditarios
+
+## Fundamento
+
+Vítolo entiende que la prohibición busca evitar que quien limita su responsabilidad pueda adoptar decisiones que comprometan la responsabilidad ilimitada de los socios comanditados.
+
+## Debate doctrinario
+
+Se ha cuestionado esta solución porque:
+
+- los terceros conocen quién administra mediante la registración;
+- podría exigirse actuación conjunta;
+- la ley admite administradores terceros;
+- otros tipos societarios permiten administrar a socios con responsabilidad limitada.
+
+---
+
+# Remoción de administradores
+
+## Regla general
+
+El administrador puede ser removido por decisión de los socios.
+
+- Como principio, la remoción puede efectuarse **sin expresión de causa**, salvo pacto en contrario.
+- El contrato puede exigir la existencia de **justa causa**.
+
+## Particularidad
+
+El socio comanditario que represente al menos el **5 % del capital** puede solicitar judicialmente la remoción por justa causa.
+
+---
+
+# Efectos de la remoción
+
+Si el administrador removido es socio comanditado, puede:
+
+- continuar como socio comanditado;
+- transformarse en socio comanditario;
+- ejercer el derecho de receso.
+
+::: {.callout-important appearance="simple"}
+
+La transformación en socio comanditario sólo es posible si la sociedad mantiene la existencia de, al menos, un socio comanditado y un socio comanditario puros.
+
+:::
+
+---
+
+# Acefalía de la administración
+
+## Art. 320 LGS
+
+Si la sociedad queda sin administradores:
+
+- la situación debe regularizarse dentro del plazo de **tres meses**;
+- el **síndico** designa un administrador provisorio.
+
+El administrador provisorio:
+
+- sólo puede realizar **actos ordinarios de administración**;
+- debe actuar haciendo conocer su carácter de administrador provisorio;
+- no asume la responsabilidad propia de un socio comanditado.
+
+::: {.callout-note appearance="simple"}
+
+A diferencia de la sociedad en comandita simple, el socio comanditario no puede hacerse cargo transitoriamente de la administración.
+
+:::
+
+---
+
+# Régimen de asambleas
+
+## Órgano de gobierno
+
+El órgano de gobierno de la sociedad en comandita por acciones es la **asamblea**.
+
+Se aplican las reglas de la sociedad anónima en materia de:
+
+- convocatoria;
+- quórum;
+- mayorías;
+- competencia;
+- representación;
+- funcionamiento.
+
+---
+
+# Cómputo del quórum y de las mayorías
+
+En la asamblea participan:
+
+- los socios comanditados;
+- los socios comanditarios.
+
+## Regla especial
+
+Las partes de interés de los socios comanditados se consideran divididas en fracciones del mismo valor que las acciones para calcular:
+
+- el quórum;
+- las mayorías.
+
+---
+
+# Restricciones al derecho de voto
+
+## Art. 322 LGS
+
+El socio administrador **no puede votar** cuando la asamblea trate:
+
+- su gestión;
+- su responsabilidad;
+- su remoción;
+- la elección o remoción del síndico.
+
+::: {.callout-warning appearance="simple"}
+
+El socio administrador conserva el derecho a participar del debate, pero carece de voto en esos asuntos.
+
+:::
+
+---
+
+# Cesión del socio comanditado
+
+La cesión de la participación del socio comanditado requiere:
+
+- aprobación de la asamblea extraordinaria;
+- aplicación de las reglas del art. 244 LGS.
+
+## ¿Por qué?
+
+Porque la identidad del socio comanditado resulta esencial debido a su responsabilidad subsidiaria, solidaria e ilimitada.
+
+---

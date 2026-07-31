@@ -1,0 +1,1613 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.38">
+
+  <meta name="author" content="Prof.&nbsp;Maximiliano Lucas Romei">
+  <title>Sociedades Civiles y Comerciales – Clase 16 — SAS</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Clase 16 — SAS</h1>
+  <p class="subtitle">Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Prof.&nbsp;Maximiliano Lucas Romei 
+</div>
+</div>
+</div>
+
+</section>
+<section id="la-sociedad-por-acciones-simplificada-sas" class="slide level1">
+<h1>La Sociedad por Acciones Simplificada (SAS)</h1>
+<p>La <strong>Ley 27.349</strong> incorporó la SAS como parte del régimen de apoyo al capital emprendedor.</p>
+<p>Según los fundamentos del proyecto, sus objetivos fueron:</p>
+<ul>
+<li>favorecer la creación de nuevas empresas;</li>
+<li>apoyar la actividad emprendedora;</li>
+<li>facilitar la expansión de los emprendimientos;</li>
+<li>promover la generación de capital emprendedor.</li>
+</ul>
+</section>
+<section id="finalidad-de-la-sas" class="slide level1">
+<h1>Finalidad de la SAS</h1>
+<p>Los autores del proyecto entendieron que era necesario:</p>
+<ul>
+<li>contar con un régimen específico para emprendedores;</li>
+<li>ofrecer un modelo más flexible que los previstos en la LGS;</li>
+<li>simplificar la constitución de sociedades;</li>
+<li>reducir los tiempos de inscripción registral.</li>
+</ul>
+<p>También señalaron la conveniencia de revitalizar las sociedades unipersonales.</p>
+</section>
+<section id="antecedentes" class="slide level1">
+<h1>Antecedentes</h1>
+<p>Vítolo menciona como antecedentes de la SAS, entre otros:</p>
+<ul>
+<li>Colombia (Ley 1258/2008).</li>
+<li>México (reforma de 2016).</li>
+<li>Chile (Ley 20.190).</li>
+<li>Francia.</li>
+<li>República Dominicana.</li>
+<li>Alemania.</li>
+<li>España.</li>
+</ul>
+<p>Estos antecedentes son utilizados luego para comparar el modelo argentino.</p>
+</section>
+<section id="la-sas-como-tipo-societario-autónomo" class="slide level1">
+<h1>La SAS como tipo societario autónomo</h1>
+<p>Para Vítolo, la SAS constituye:</p>
+<ul>
+<li>un nuevo tipo societario;</li>
+<li>regulado fuera de la Ley General de Sociedades;</li>
+<li>con personalidad jurídica propia;</li>
+<li>con separación patrimonial respecto de los socios.</li>
+</ul>
+<p>La personalidad jurídica se adquiere desde el otorgamiento del instrumento constitutivo.</p>
+</section>
+<section id="la-crítica-de-vítolo" class="slide level1">
+<h1>La crítica de Vítolo</h1>
+<p>Vítolo sostiene que no se comprenden las razones para crear un tipo societario fuera de la Ley 19.550.</p>
+<p>Afirma que la SAS:</p>
+<ul>
+<li>es una verdadera sociedad;</li>
+<li>reúne los elementos propios del contrato de sociedad;</li>
+<li>podría haber sido incorporada al régimen general de la LGS.</li>
+</ul>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Se trata de una valoración doctrinaria del autor.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="un-régimen-híbrido" class="slide level1">
+<h1>Un régimen híbrido</h1>
+<p>Según Vítolo, la SAS combina elementos de distintos tipos societarios.</p>
+<ul>
+<li>El capital se divide en <strong>acciones</strong>.</li>
+<li>El régimen supletorio es, principalmente, el de la <strong>SRL</strong>.</li>
+</ul>
+<p>Por ello la califica como un tipo de carácter híbrido.</p>
+</section>
+<section id="derecho-comparado" class="slide level1">
+<h1>Derecho comparado</h1>
+<p>Vítolo observa que, en los principales antecedentes legislativos:</p>
+<ul>
+<li>Colombia.</li>
+<li>México.</li>
+<li>Chile.</li>
+<li>Francia.</li>
+<li>República Dominicana.</li>
+</ul>
+<p>las SAS o figuras equivalentes remiten supletoriamente al régimen de las sociedades por acciones.</p>
+<p>España constituye una excepción, porque optó por un modelo basado en la sociedad de responsabilidad limitada.</p>
+</section>
+<section id="conclusión-de-vítolo" class="slide level1">
+<h1>Conclusión de Vítolo</h1>
+<p>Para el autor:</p>
+<ul>
+<li>el modelo argentino constituye una solución singular;</li>
+<li>no encuentra antecedentes equivalentes en los principales ordenamientos del derecho continental;</li>
+<li>el régimen combina acciones con normas supletorias de la SRL, lo que considera una estructura híbrida.</li>
+</ul>
+</section>
+<section id="constitución-de-la-sas" class="slide level1">
+<h1>Constitución de la SAS</h1>
+<p>La SAS puede ser constituida por:</p>
+<ul>
+<li>una o varias personas humanas;</li>
+<li>una o varias personas jurídicas;</li>
+<li>una combinación de ambas.</li>
+</ul>
+<p>Los socios responden, en principio, hasta la integración de las acciones suscriptas.</p>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Los socios garantizan solidaria e ilimitadamente frente a terceros la integración de los aportes (art. 43, Ley 27.349).</p>
+<p>Artículo 43.- Garantía de los socios por la integración de los aportes. Los socios garantizan solidaria e ilimitadamente a los terceros la integración de los aportes.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="instrumento-constitutivo" class="slide level1">
+<h1>Instrumento constitutivo</h1>
+<p>La SAS puede constituirse mediante:</p>
+<ul>
+<li>contrato, cuando intervienen dos o más socios;</li>
+<li>declaración unilateral de voluntad, en la SAS unipersonal.</li>
+</ul>
+<p>El instrumento constitutivo:</p>
+<ul>
+<li>debe otorgarse por escrito;</li>
+<li>puede ser público o privado;</li>
+<li>si es privado, las firmas deben certificarse.</li>
+</ul>
+<p>La ley también admite la constitución en forma digital, conforme a la reglamentación.</p>
+</section>
+<section id="restricciones-de-la-sas-unipersonal" class="slide level1">
+<h1>Restricciones de la SAS unipersonal</h1>
+<p>La SAS unipersonal:</p>
+<ul>
+<li>no puede constituir otra SAS unipersonal;</li>
+<li>no puede participar en otra SAS unipersonal.</li>
+</ul>
+<p>Estas limitaciones surgen expresamente del art. 34 de la Ley 27.349.</p>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Importante</strong></p>
+</div>
+<div class="callout-content">
+<p>Artículo 34.- Constitución y responsabilidad. La SAS podrá ser constituida por una o varias personas humanas o jurídicas, quienes limitan su responsabilidad a la integración de las acciones que suscriban o adquieran, sin perjuicio de la garantía a que se refiere el artículo 43. La SAS unipersonal no puede constituir ni participar en otra SAS unipersonal.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="sas-unipersonal-y-sau" class="slide level1">
+<h1>SAS unipersonal y SAU</h1>
+<p>Vítolo plantea un problema interpretativo entre:</p>
+<ul>
+<li>el art. 1° de la Ley General de Sociedades; y</li>
+<li>el art. 34 de la Ley 27.349.</li>
+</ul>
+<h2 id="interpretación-que-desarrolla-el-autor">Interpretación que desarrolla el autor</h2>
+<p>Las prohibiciones serían <strong>intratípicas</strong>:</p>
+<ul>
+<li>una SAU podría constituir o participar en una SAS unipersonal;</li>
+<li>una SAS unipersonal podría constituir o participar en una SAU.</li>
+</ul>
+<p>Ello porque cada restricción se refiere únicamente al tipo societario regulado por su propia ley.</p>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Vítolo también menciona una interpretación contraria fundada en la aplicación supletoria de la Ley General de Sociedades, pero considera más convincente la primera.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="contenido-del-instrumento-constitutivo" class="slide level1 scrollable">
+<h1>Contenido del instrumento constitutivo</h1>
+<p>El art. 36 de la Ley 27.349 establece el contenido mínimo del instrumento constitutivo.</p>
+<p>Debe contener, entre otros:</p>
+<ul>
+<li>identificación de los socios;</li>
+<li>denominación social;</li>
+<li>domicilio y sede;</li>
+<li>objeto;</li>
+<li>plazo;</li>
+<li>capital social;</li>
+<li>administración;</li>
+<li>reglas sobre utilidades y pérdidas;</li>
+<li>funcionamiento, disolución y liquidación;</li>
+<li>fecha de cierre del ejercicio.</li>
+</ul>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Importante</strong></p>
+</div>
+<div class="callout-content">
+<p>Artículo 36.- Contenido del instrumento de constitución. El instrumento constitutivo, sin perjuicio de las cláusulas que los socios resuelvan incluir, deberá contener como mínimo los siguientes requisitos:</p>
+<ol type="1">
+<li><p>El nombre, edad, estado civil, nacionalidad, profesión, domicilio, número de documento de identidad, Clave Única de Identificación Tributaria (CUIT) o Clave Única de Identificación Laboral (CUIL) o Clave de Identificación (CDI) de los socios, en su caso. Si se tratare de una o más personas jurídicas, deberá constar su denominación o razón social, domicilio y sede, datos de los integrantes del órgano de administración y Clave Única de Identificación Tributaria (CUIT) o Clave de Identificación (CDI) de las mismas, o dar cumplimiento con la registración que a tal efecto disponga la autoridad fiscal, en su caso, así como los datos de inscripción en el registro que corresponda.</p></li>
+<li><p>La denominación social que deberá contener la expresión “Sociedad por Acciones Simplificada”, su abreviatura o la sigla SAS. La omisión de esta mención hará responsables ilimitada y solidariamente a los administradores o representantes de la sociedad, por los actos que celebren en esas condiciones.</p></li>
+<li><p>El domicilio de la sociedad y su sede. Si en el instrumento constitutivo constare solamente el domicilio, la dirección de su sede podrá constar en el acta de constitución o podrá inscribirse simultáneamente mediante petición por separado suscripta por el órgano de administración. Se tendrán por válidas y vinculantes para la sociedad todas las notificaciones efectuadas en la sede inscripta, hasta tanto la misma haya sido efectivamente cancelada por el registro público donde la sede haya sido registrada por la sociedad.</p></li>
+<li><p>La designación de su objeto, el que podrá ser amplio y plural. Las actividades que lo constituyan podrán guardar o no conexidad o relación entre ellas. (Punto sustituido por art. 34 de la Ley N° 27.444 B.O. 18/6/2018)</p></li>
+<li><p>El plazo de duración, que deberá ser determinado.</p></li>
+<li><p>El capital social y el aporte de cada socio, que deberán ser expresados en moneda nacional, haciéndose constar las clases, modalidades de emisión y demás características de las acciones y, en su caso, su régimen de aumento. El instrumento constitutivo, además, contemplará la suscripción del capital, el monto y la forma de integración y, si correspondiere, el plazo para el pago del saldo adeudado, el que no podrá exceder de dos (2) años desde la firma de dicho instrumento.</p></li>
+<li><p>La organización de la administración, de las reuniones de socios y, en su caso, de la fiscalización. El instrumento constitutivo deberá contener la individualización de los integrantes de los órganos de administración y, en su caso, del órgano de fiscalización, fijándose el término de duración en los cargos e individualizándose el domicilio donde serán válidas todas las notificaciones que se les efectúen en tal carácter. En todos los casos, deberá designarse representante legal.</p></li>
+<li><p>Las reglas para distribuir las utilidades y soportar las pérdidas.</p></li>
+<li><p>Las cláusulas necesarias para establecer los derechos y obligaciones de los socios entre sí y respecto de terceros.</p></li>
+<li><p>Las cláusulas atinentes a su funcionamiento, disolución y liquidación.</p></li>
+<li><p>La fecha de cierre del ejercicio.</p></li>
+</ol>
+<p>Los registros públicos aprobarán modelos tipo de instrumentos constitutivos para facilitar la inscripción registral.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="algunos-requisitos-relevantes" class="slide level1">
+<h1>Algunos requisitos relevantes</h1>
+<p>La denominación debe contener:</p>
+<ul>
+<li><strong>“Sociedad por Acciones Simplificada”</strong>, o</li>
+<li>su abreviatura o sigla <strong>SAS</strong>.</li>
+</ul>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>La omisión de esa identificación genera la responsabilidad ilimitada y solidaria de los administradores o representantes por los actos celebrados en esas condiciones.</p>
+</div>
+</div>
+</div>
+<p>El objeto social puede ser <strong>amplio y plural</strong>, aun cuando las actividades no guarden relación entre sí.</p>
+</section>
+<section id="capital-y-organización" class="slide level1">
+<h1>Capital y organización</h1>
+<p>El instrumento constitutivo debe prever:</p>
+<ul>
+<li>capital social y aportes;</li>
+<li>clases y características de las acciones;</li>
+<li>integración del capital;</li>
+<li>organización de la administración;</li>
+<li>reuniones de socios;</li>
+<li>fiscalización, si corresponde;</li>
+<li>designación del representante legal.</li>
+</ul>
+</section>
+<section id="omisión-de-requisitos" class="slide level1">
+<h1>Omisión de requisitos</h1>
+<p>Vítolo señala que la Ley 27.349 <strong>no prevé expresamente</strong> cuál es la consecuencia de omitir alguno de los requisitos del art. 36, salvo respecto de la denominación social.</p>
+<p>Frente a ese silencio, propone acudir supletoriamente a la Ley General de Sociedades.</p>
+</section>
+<section id="solución-propuesta-por-vítolo" class="slide level1">
+<h1>Solución propuesta por Vítolo</h1>
+<p>Según el autor, la omisión de requisitos esenciales llevaría a aplicar el régimen de la <strong>Sección IV</strong> de la Ley General de Sociedades.</p>
+<p>En consecuencia:</p>
+<ul>
+<li>la SAS no podría inscribirse en el Registro Público;</li>
+<li>previamente debería atravesar un proceso de <strong>subsanación</strong>.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Vítolo distingue entre la omisión de requisitos esenciales y la de requisitos tipificantes, pero considera que, en ambos casos, la consecuencia práctica sería la imposibilidad de inscripción hasta la subsanación.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="la-posición-de-nissen" class="slide level1">
+<h1>La posición de Nissen</h1>
+<p>Nissen sostiene que, ante ese vacío, corresponde aplicar supletoriamente el régimen de la <strong>Sección IV del Capítulo I de la Ley General de Sociedades</strong> (arts. 17 y 21 a 26 LGS).</p>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>La solución se fundamenta en que la Ley 27.349 no prevé un régimen propio de nulidades o irregularidades y la aplicación supletoria resulta compatible con la naturaleza de la SAS.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="régimen-de-publicidad" class="slide level1">
+<h1>Régimen de publicidad</h1>
+<p>La SAS debe publicar <strong>por un (1) día</strong> un aviso en el diario de publicaciones legales correspondiente a su lugar de constitución.</p>
+<p>La publicación es obligatoria:</p>
+<ul>
+<li>al constituirse la sociedad;</li>
+<li>al modificarse el instrumento constitutivo;</li>
+<li>al disolverse la sociedad.</li>
+</ul>
+</section>
+<section id="contenido-de-la-publicación" class="slide level1">
+<h1>Contenido de la publicación</h1>
+<h2 id="constitución">Constitución</h2>
+<p>El aviso debe contener, entre otros datos:</p>
+<ul>
+<li>identificación de los socios;</li>
+<li>denominación social;</li>
+<li>domicilio y sede;</li>
+<li>objeto;</li>
+<li>plazo de duración;</li>
+<li>capital social;</li>
+<li>organización de la administración y fiscalización;</li>
+<li>fecha de cierre del ejercicio;</li>
+<li>fecha del instrumento constitutivo.</li>
+</ul>
+<h2 id="modificación-o-disolución">Modificación o disolución</h2>
+<p>Debe publicarse:</p>
+<ul>
+<li>la fecha de la resolución que la aprobó;</li>
+<li>las modificaciones que recaigan sobre esos datos esenciales.</li>
+</ul>
+</section>
+<section id="observación-de-vítolo" class="slide level1 scrollable">
+<h1>Observación de Vítolo</h1>
+<p>Vítolo destaca que la Ley 27.349 pone el acento en la <strong>publicidad</strong> de determinados actos de la SAS.</p>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Según el autor, en el derecho comparado el énfasis suele colocarse en un <strong>mayor control registral</strong> de las SAS, más que en un régimen de mera publicidad.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Importante</strong></p>
+</div>
+<div class="callout-content">
+<p>Artículo 37.- Publicidad de la Sociedad por Acciones Simplificada. La SAS deberá publicar por un (1) día en el diario de publicaciones legales correspondiente a su lugar de constitución, un aviso que deberá contener los siguientes datos:</p>
+<ol type="a">
+<li><p>En oportunidad de su constitución, la información prevista en los incisos 1 a 7 y 11 del artículo 36 de la presente ley y la fecha del instrumento constitutivo;</p></li>
+<li><p>En oportunidad de la modificación del instrumento constitutivo o de la disolución de la SAS:</p></li>
+</ol>
+<ol type="1">
+<li><p>La fecha de la resolución de la reunión de socios que aprobó la modificación del instrumento constitutivo o su disolución.</p></li>
+<li><p>Cuando la modificación afecte alguno de los puntos enumerados en los incisos 2 a 7 y 11 del artículo 36, la publicación deberá determinarlo en la forma allí establecida.</p></li>
+</ol>
+</div>
+</div>
+</div>
+</section>
+<section id="inscripción-en-el-registro-público" class="slide level1">
+<h1>Inscripción en el Registro Público</h1>
+<p>La SAS debe inscribirse en el Registro Público.</p>
+<p>Presentada la documentación y cumplidos los requisitos legales y reglamentarios, corresponde su inscripción.</p>
+<p>Si se utiliza el <strong>modelo tipo</strong> aprobado por el Registro Público, la inscripción debe realizarse dentro de las <strong>24 horas</strong> del día hábil siguiente a la presentación.</p>
+</section>
+<section id="procedimiento-de-inscripción" class="slide level1">
+<h1>Procedimiento de inscripción</h1>
+<p>La Ley 27.349 prevé:</p>
+<ul>
+<li>utilización de medios digitales;</li>
+<li>firma digital;</li>
+<li>notificaciones electrónicas;</li>
+<li>procedimiento para subsanar observaciones.</li>
+</ul>
+<p>El mismo criterio se aplica a las reformas del instrumento constitutivo.</p>
+</section>
+<section id="observaciones-de-vítolo" class="slide level1 scrollable">
+<h1>Observaciones de Vítolo</h1>
+<p>Vítolo destaca dos cuestiones.</p>
+<ol type="1">
+<li><p>La Ley 27.349 se aparta del régimen de la Ley General de Sociedades en materia de inscripción.</p></li>
+<li><p>Considera discutible que una ley nacional establezca plazos de inscripción, ya que entiende que esa materia corresponde a los registros públicos de cada jurisdicción.</p></li>
+</ol>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Se trata de una valoración doctrinaria del autor.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="falta-de-inscripción" class="slide level1">
+<h1>Falta de inscripción</h1>
+<p>Vítolo entiende que, por aplicación supletoria de la Ley General de Sociedades, una SAS no inscripta quedaría sometida al régimen de la <strong>Sección IV</strong>.</p>
+<p>La denomina una <strong>“Sociedad por Acciones Simplificada irregular”</strong>.</p>
+<p>No obstante:</p>
+<ul>
+<li>las reformas del instrumento constitutivo también deben inscribirse;</li>
+<li>una SAS no inscripta no podría acceder a los beneficios previstos por la Ley 27.349.</li>
+</ul>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Esta es la interpretación propuesta por Vítolo a partir de la remisión supletoria a la LGS.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="limitaciones-para-constituir-o-mantener-una-sas" class="slide level1 scrollable">
+<h1>Limitaciones para constituir o mantener una SAS</h1>
+<p>La SAS no puede:</p>
+<ul>
+<li>quedar comprendida en los supuestos de los incisos 3, 4 y 5 del art. 299 de la LGS;</li>
+<li>ser controlada por una sociedad comprendida en esos supuestos;</li>
+<li>participar en más del 30% del capital de una sociedad comprendida en esos supuestos.</li>
+</ul>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Importante</strong></p>
+</div>
+<div class="callout-content">
+<p>Artículo 39.- Limitaciones. Para constituir y mantener su carácter de SAS, la sociedad:</p>
+<ol type="1">
+<li>No deberá estar comprendida en ninguno de los supuestos previstos en los incisos 3, 4 y 5 del artículo 299 de la Ley General de Sociedades 19.550 (t.o. 1984) y sus modificatorias.
+<ol type="1">
+<li><p>incisos 3,4 y 5</p>
+<ol type="1">
+<li>3º) Sean de participación estatal, ya sea por la participación del Estado Nacional, los estados provinciales, la Ciudad Autónoma de Buenos Aires, los municipios y/o los organismos estatales legalmente autorizados al efecto. (Inciso sustituido por art. 49 del Decreto N° 70/2023 B.O. 21/12/2023.)</li>
+</ol>
+<p>4º) Realicen operaciones de capitalización, ahorro o en cualquier forma requieran dinero o valores al público con promesas de prestaciones o beneficios futuros;</p>
+<p>5º) Exploten concesiones o servicios públicos;</p></li>
+</ol></li>
+<li>No podrá ser controlada por ni participar en más del treinta por ciento (30%) del capital de sociedades comprendidas en los supuestos mencionados en el inciso 1 precedente.</li>
+</ol>
+<p>En caso de que la SAS resultara encuadrada en alguno de los supuestos previstos en los incisos 1 o 2 precedentes, deberá transformarse en alguno de los tipos regulares previstos en la Ley General de Sociedades 19.550 (t.o. 1984) y sus modificatorias e inscribir la transformación en el registro público correspondiente, en un plazo no mayor a los seis (6) meses de configurado el supuesto. En caso de que la configuración del supuesto no resulte de un hecho o acto propio de la SAS, el plazo se computará desde que tomó conocimiento del mismo. La transformación no será obligatoria si antes de ese plazo la SAS deja de estar encuadrada en alguno de dichos supuestos. Vencido el plazo indicado sin que se hubiera producido la inscripción de la transformación en el registro público correspondiente, los socios responderán frente a terceros en forma solidaria, ilimitada y subsidiaria.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="pérdida-de-los-requisitos" class="slide level1">
+<h1>Pérdida de los requisitos</h1>
+<p>Si la SAS queda comprendida en alguno de esos supuestos:</p>
+<ul>
+<li>debe transformarse en uno de los tipos previstos por la LGS;</li>
+<li>la transformación debe inscribirse dentro de los <strong>seis meses</strong>.</li>
+</ul>
+<p>Si la causa no proviene de un hecho propio de la sociedad, el plazo corre desde que toma conocimiento de esa circunstancia.</p>
+<p>No será necesaria la transformación si la causal desaparece antes del vencimiento del plazo.</p>
+</section>
+<section id="incumplimiento" class="slide level1">
+<h1>Incumplimiento</h1>
+<p>Si vence el plazo sin inscribirse la transformación:</p>
+<ul>
+<li>los socios responden frente a terceros en forma:
+<ul>
+<li>solidaria;</li>
+<li>ilimitada; y</li>
+<li>subsidiaria.</li>
+</ul></li>
+</ul>
+</section>
+<section id="capital-social" class="slide level1">
+<h1>Capital social</h1>
+<p>El capital de la SAS:</p>
+<ul>
+<li>se divide en <strong>acciones</strong>;</li>
+<li>no puede ser inferior al equivalente a <strong>dos salarios mínimos, vitales y móviles</strong> al momento de su constitución.</li>
+</ul>
+</section>
+<section id="observaciones-de-vítolo-1" class="slide level1">
+<h1>Observaciones de Vítolo</h1>
+<p>Vítolo señala que el derecho comparado no sigue una solución uniforme respecto del capital mínimo.</p>
+<p>Por ejemplo:</p>
+<ul>
+<li>algunos ordenamientos no exigen capital mínimo;</li>
+<li>otros admiten capital variable;</li>
+<li>otros mantienen un capital mínimo legal.</li>
+</ul>
+<p>La Ley 27.349 optó por exigir un capital mínimo.</p>
+</section>
+<section id="integración-del-capital" class="slide level1">
+<h1>Integración del capital</h1>
+<p>La ley distingue entre aportes en dinero y en especie.</p>
+<p><strong>Aportes en dinero</strong></p>
+<ul>
+<li>integración mínima del <strong>25%</strong> al suscribirse;</li>
+<li>saldo dentro de los <strong>2 años</strong>.</li>
+</ul>
+<p><strong>Aportes en especie</strong></p>
+<ul>
+<li>integración del <strong>100%</strong> al momento de la suscripción.</li>
+</ul>
+</section>
+<section id="régimen-de-los-aportes" class="slide level1">
+<h1>Régimen de los aportes</h1>
+<p>Los aportes en la SAS pueden consistir en:</p>
+<ul>
+<li>bienes dinerarios;</li>
+<li>bienes no dinerarios.</li>
+</ul>
+<p>Los aportes en especie pueden valuarse:</p>
+<ul>
+<li>por acuerdo unánime de los socios; o</li>
+<li>según valores de plaza.</li>
+</ul>
+<p>El instrumento constitutivo debe expresar los antecedentes que justifican la valuación.</p>
+</section>
+<section id="aportes-en-especie" class="slide level1">
+<h1>Aportes en especie</h1>
+<p>La valuación de los aportes en especie puede ser impugnada por los acreedores:</p>
+<ul>
+<li>en caso de insolvencia o quiebra de la sociedad;</li>
+<li>dentro del plazo de cinco (5) años desde el aporte.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>La impugnación no procede cuando la valuación fue realizada judicialmente.</p>
+</div>
+</div>
+</div>
+<p>Según Vítolo, este régimen se asemeja al previsto para las SRL.</p>
+</section>
+<section id="prestaciones-accesorias" class="slide level1">
+<h1>Prestaciones accesorias</h1>
+<p>La Ley 27.349 permite que los socios pacten prestaciones accesorias consistentes en servicios.</p>
+<p>Estas prestaciones:</p>
+<ul>
+<li>pueden referirse a servicios presentes o futuros;</li>
+<li>deben valuarse e incorporarse al instrumento constitutivo o a sus reformas;</li>
+<li>requieren una regulación detallada de su contenido, duración, retribución e incumplimiento.</li>
+</ul>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Vítolo destaca como una particularidad de la SAS que estas prestaciones podrían integrar el capital social.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="aportes-irrevocables" class="slide level1">
+<h1>Aportes irrevocables</h1>
+<p>La Ley 27.349 regula los aportes irrevocables a cuenta de futura emisión de acciones.</p>
+<ul>
+<li>El órgano de administración debe aceptarlos o rechazarlos dentro de los 15 días.</li>
+<li>Pueden conservar ese carácter durante un plazo máximo de 24 meses.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Vítolo compara este régimen con la Resolución General IGJ 7/2015, que para las sociedades sometidas a ese régimen admite un plazo considerablemente menor (180 días).</p>
+</div>
+</div>
+</div>
+</section>
+<section id="aumento-del-capital" class="slide level1">
+<h1>Aumento del capital</h1>
+<p>El art. 44 de la Ley 27.349 flexibiliza el régimen de aumento del capital social.</p>
+<p>El instrumento constitutivo puede prever que los aumentos inferiores al <strong>50 %</strong> del capital inscripto:</p>
+<ul>
+<li>no requieran publicación; y</li>
+<li>no requieran inscripción de la resolución de los socios.</li>
+</ul>
+<p>Las resoluciones igualmente deben remitirse al Registro Público por medios digitales.</p>
+</section>
+<section id="emisión-de-acciones" class="slide level1">
+<h1>Emisión de acciones</h1>
+<p>En cada aumento de capital la reunión de socios puede determinar:</p>
+<ul>
+<li>las clases de acciones;</li>
+<li>los derechos que confiere cada una;</li>
+<li>la emisión a valor nominal o con prima de emisión.</li>
+</ul>
+<p>También pueden fijarse primas distintas para distintas clases de acciones.</p>
+</section>
+<section id="clases-de-acciones" class="slide level1">
+<h1>Clases de acciones</h1>
+<p>La SAS puede emitir:</p>
+<ul>
+<li>acciones nominativas no endosables;</li>
+<li>acciones ordinarias;</li>
+<li>acciones preferidas;</li>
+<li>acciones escriturales.</li>
+</ul>
+<p>El instrumento constitutivo debe establecer los derechos políticos y económicos correspondientes a cada clase, pudiendo reconocer voto singular o plural.</p>
+</section>
+<section id="observaciones-de-vítolo-2" class="slide level1">
+<h1>Observaciones de Vítolo</h1>
+<p>Vítolo destaca que el régimen de acciones de la SAS:</p>
+<ul>
+<li>se aproxima al de las sociedades anónimas;</li>
+<li>se aparta del régimen de cuotas propio de la SRL;</li>
+<li>otorga una mayor flexibilidad para estructurar los derechos de los accionistas mediante distintas clases de acciones.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Las diferencias entre clases deben surgir expresamente del instrumento constitutivo o de sus reformas.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="régimen-de-transferencia-de-acciones" class="slide level1">
+<h1>Régimen de transferencia de acciones</h1>
+<p>La forma de transferencia de las acciones será la prevista en el instrumento constitutivo.</p>
+<p>Éste puede establecer, entre otras reglas:</p>
+<ul>
+<li>requisitos para la transferencia;</li>
+<li>autorización previa de la reunión de socios;</li>
+<li>restricciones para determinadas clases de acciones.</li>
+</ul>
+<p>Si el instrumento nada dispone, la transferencia deberá:</p>
+<ul>
+<li>notificarse a la sociedad; e</li>
+<li>inscribirse en el Libro de Registro de Acciones para su oponibilidad frente a terceros.</li>
+</ul>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Importante</strong></p>
+</div>
+<div class="callout-content">
+<p>Artículo 48.- Transferencia. La forma de negociación o transferencia de acciones será la prevista por el instrumento constitutivo, en el cual se podrá requerir que toda transferencia de acciones o de alguna clase de ellas cuente con la previa autorización de la reunión de socios. En caso de omisión de su tratamiento en el instrumento constitutivo, toda transferencia de acciones deberá ser notificada a la sociedad e inscripta en el respectivo Libro de Registro de Acciones a los fines de su oponibilidad respecto de terceros.</p>
+<p>El instrumento constitutivo podrá estipular la prohibición de la transferencia de las acciones o de alguna de sus clases, siempre que la vigencia de la restricción no exceda del plazo máximo de diez (10) años, contados a partir de la emisión. Este plazo podrá ser prorrogado por períodos adicionales no mayores de diez (10) años, siempre que la respectiva decisión se adopte por el voto favorable de la totalidad del capital social.</p>
+<p>Las restricciones o prohibiciones a las que están sujetas las acciones deberán registrarse en el Libro de Registro de Acciones. En las acciones cartulares deberán transcribirse, además, en los correspondientes títulos accionarios. Tratándose de acciones escriturales, dichas restricciones deberán constar en los comprobantes que se emitan.</p>
+<p>Toda negociación o transferencia de acciones que no se ajuste a lo previsto en el instrumento constitutivo es de ningún valor.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="restricciones-a-la-transferencia" class="slide level1">
+<h1>Restricciones a la transferencia</h1>
+<p>El instrumento constitutivo puede incluso:</p>
+<ul>
+<li>prohibir la transferencia de todas o algunas clases de acciones.</li>
+</ul>
+<p>La prohibición:</p>
+<ul>
+<li>no puede exceder de <strong>10 años</strong> desde la emisión;</li>
+<li>puede prorrogarse por nuevos períodos de hasta <strong>10 años</strong>;</li>
+<li>requiere el voto favorable de la totalidad del capital social.</li>
+</ul>
+</section>
+<section id="publicidad-de-las-restricciones" class="slide level1">
+<h1>Publicidad de las restricciones</h1>
+<p>Las restricciones o prohibiciones deben constar:</p>
+<ul>
+<li>en el Libro de Registro de Acciones;</li>
+<li>en los títulos accionarios, si las acciones son cartulares;</li>
+<li>en los comprobantes, si las acciones son escriturales.</li>
+</ul>
+<p>Toda transferencia realizada en violación del instrumento constitutivo es <strong>de ningún valor</strong>.</p>
+</section>
+<section id="observación-de-vítolo-1" class="slide level1">
+<h1>Observación de Vítolo</h1>
+<p>Vítolo destaca que la Ley 27.349 se aparta del régimen general de la Ley General de Sociedades.</p>
+<p>Mientras la LGS no admite la prohibición de transferir acciones, la SAS permite establecer:</p>
+<ul>
+<li>restricciones;</li>
+<li>autorización previa; e incluso</li>
+<li>prohibiciones temporarias de transferencia.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Según el autor, esta solución sigue el modelo adoptado por las legislaciones de Francia y Colombia.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="órganos-de-la-sas" class="slide level1 scrollable">
+<h1>Órganos de la SAS</h1>
+<p>La Ley 27.349 reconoce una amplia autonomía para organizar el funcionamiento interno de la sociedad.</p>
+<p>Los socios determinan:</p>
+<ul>
+<li>la estructura de los órganos;</li>
+<li>sus competencias;</li>
+<li>las reglas de funcionamiento.</li>
+</ul>
+<p>Las normas aplicables serán:</p>
+<ol type="1">
+<li>la Ley 27.349;</li>
+<li>el instrumento constitutivo;</li>
+<li>supletoriamente, el régimen de la SRL y las disposiciones generales de la LGS.</li>
+</ol>
+</section>
+<section id="estructura-orgánica" class="slide level1">
+<h1>Estructura orgánica</h1>
+<p>La SAS cuenta, en principio, con:</p>
+<ul>
+<li>un órgano de gobierno;</li>
+<li>un órgano de administración;</li>
+<li>un órgano de fiscalización, cuando corresponda.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>La ley otorga amplia libertad para estructurar y regular estos órganos.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="administración-de-la-sas" class="slide level1">
+<h1>Administración de la SAS</h1>
+<p>La administración estará a cargo de:</p>
+<ul>
+<li>una o más personas humanas;</li>
+<li>sean o no socios;</li>
+<li>designadas por plazo determinado o indeterminado.</li>
+</ul>
+<p>La ley no impone una denominación específica al órgano de administración.</p>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>A diferencia de la SA y de la SRL, los socios pueden diseñar libremente su organización.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="administración-individual-o-plural" class="slide level1">
+<h1>Administración individual o plural</h1>
+<p>Si el órgano de administración es plural, el instrumento constitutivo puede establecer:</p>
+<ul>
+<li>funciones diferenciadas para cada administrador;</li>
+<li>actuación conjunta;</li>
+<li>actuación colegiada.</li>
+</ul>
+<p>Al menos uno de los administradores debe tener domicilio real en la República Argentina.</p>
+</section>
+<section id="representación-legal" class="slide level1">
+<h1>Representación legal</h1>
+<p>La representación legal corresponde a una o más personas humanas.</p>
+<p>Pueden ser:</p>
+<ul>
+<li>socios; o</li>
+<li>terceros.</li>
+</ul>
+<p>Si el instrumento constitutivo nada dispone, la designación corresponde a la reunión de socios o al socio único.</p>
+<p>El representante puede celebrar todos los actos comprendidos directa o indirectamente en el objeto social.</p>
+</section>
+<section id="funcionamiento-del-órgano-de-administración" class="slide level1">
+<h1>Funcionamiento del órgano de administración</h1>
+<p>La ley admite:</p>
+<ul>
+<li>convocatorias por medios electrónicos;</li>
+<li>reuniones presenciales o a distancia;</li>
+<li>comunicación simultánea entre los participantes.</li>
+</ul>
+<p>Las actas deben dejar constancia de la modalidad utilizada.</p>
+</section>
+<section id="deberes-y-responsabilidades" class="slide level1">
+<h1>Deberes y responsabilidades</h1>
+<p>A los administradores y representantes les resultan aplicables:</p>
+<ul>
+<li>el art. 157 de la Ley General de Sociedades;</li>
+<li>y, cuando corresponda, el régimen de responsabilidad de los directores de la SA.</li>
+</ul>
+<p>Tienen los mismos deberes, prohibiciones e incompatibilidades que los administradores de la LGS.</p>
+</section>
+<section id="administrador-de-hecho" class="slide level1">
+<h1>Administrador de hecho</h1>
+<p>La Ley 27.349 incorpora expresamente la figura del administrador de hecho.</p>
+<p>Responden como administradores:</p>
+<ul>
+<li>quienes, sin haber sido designados, ejerzan de manera positiva funciones de gestión, administración o dirección;</li>
+<li>incluso por actos en los que no hubieran intervenido cuando esa actuación sea habitual.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Vítolo destaca esta incorporación como una de las novedades del régimen de la SAS.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="designación-y-remoción" class="slide level1">
+<h1>Designación y remoción</h1>
+<p>Las designaciones y cesaciones de administradores deben inscribirse en el Registro Público.</p>
+<p>Según Vítolo:</p>
+<ul>
+<li>la inscripción tiene efecto declarativo;</li>
+<li>los administradores ejercen el cargo desde su designación;</li>
+<li>frente a terceros, la cesación sólo resulta oponible una vez inscripta.</li>
+</ul>
+</section>
+<section id="órgano-de-gobierno" class="slide level1">
+<h1>Órgano de gobierno</h1>
+<p>El órgano de gobierno de la SAS es la <strong>reunión de socios</strong>.</p>
+<p>El instrumento constitutivo regula su funcionamiento.</p>
+<p>Las reuniones pueden celebrarse:</p>
+<ul>
+<li>en la sede social o fuera de ella;</li>
+<li>mediante medios que permitan la comunicación simultánea de los participantes.</li>
+</ul>
+</section>
+<section id="adopción-de-resoluciones" class="slide level1">
+<h1>Adopción de resoluciones</h1>
+<p>Al igual que en la SRL, son válidas las resoluciones adoptadas:</p>
+<ul>
+<li>mediante el voto comunicado al órgano de administración por un medio que garantice su autenticidad; o</li>
+<li>mediante declaración escrita suscripta por todos los socios.</li>
+</ul>
+<p>En la SAS unipersonal, las decisiones corresponden al socio único, quien debe asentarlas en el libro de actas.</p>
+</section>
+<section id="órgano-de-fiscalización" class="slide level1">
+<h1>Órgano de fiscalización</h1>
+<p>La Ley 27.349 contempla la posibilidad de establecer un órgano de fiscalización.</p>
+<p>Sin embargo, su existencia depende de lo previsto en el instrumento constitutivo.</p>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>El art. 53 se refiere expresamente al <strong>“órgano de fiscalización opcional”</strong>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="interpretación-de-vítolo" class="slide level1">
+<h1>Interpretación de Vítolo</h1>
+<p>Vítolo sostiene que la fiscalización en la SAS es <strong>siempre voluntaria</strong>.</p>
+<p>Fundamenta esta conclusión en que:</p>
+<ul>
+<li>la SAS no queda comprendida en el régimen del art. 299 de la LGS;</li>
+<li>por ello, no resultan aplicables los supuestos de fiscalización obligatoria previstos para otros tipos societarios.</li>
+</ul>
+<p>En consecuencia, la sindicatura, la comisión fiscalizadora o el consejo de vigilancia sólo existirán si los socios deciden incorporarlos.</p>
+</section>
+<section id="reforma-del-instrumento-constitutivo" class="slide level1">
+<h1>Reforma del instrumento constitutivo</h1>
+<p>Las modificaciones del instrumento constitutivo:</p>
+<ul>
+<li>se adoptan conforme al procedimiento previsto en el propio instrumento;</li>
+<li>deben inscribirse en el Registro Público.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>La Ley 27.349 utiliza la expresión <strong>“instrumento constitutivo”</strong> y no “estatuto”.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="disolución-de-la-sas" class="slide level1">
+<h1>Disolución de la SAS</h1>
+<p>La SAS se disuelve:</p>
+<ul>
+<li>por decisión de la reunión de socios;</li>
+<li>por decisión del socio único;</li>
+<li>por las causales previstas en la Ley General de Sociedades.</li>
+</ul>
+</section>
+<section id="causales-de-disolución-lgs" class="slide level1">
+<h1>Causales de disolución (LGS)</h1>
+<p>Entre las causales previstas en la LGS se encuentran:</p>
+<ul>
+<li>cumplimiento de la condición prevista para su existencia;</li>
+<li>consecución o imposibilidad sobreviniente del objeto;</li>
+<li>pérdida del capital social (salvo reintegro o aumento);</li>
+<li>declaración de quiebra;</li>
+<li>fusión.</li>
+</ul>
+</section>
+<section id="liquidación" class="slide level1">
+<h1>Liquidación</h1>
+<p>La liquidación se rige por las normas de la Ley General de Sociedades.</p>
+<p>Puede actuar como liquidador:</p>
+<ul>
+<li>el administrador;</li>
+<li>el representante legal; o</li>
+<li>la persona designada por la reunión de socios o el socio único.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Durante la liquidación, la SAS conserva su personalidad jurídica.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="resolución-de-conflictos" class="slide level1">
+<h1>Resolución de conflictos</h1>
+<p>La Ley 27.349 procura privilegiar la solución consensuada de los conflictos.</p>
+<p>Los socios, administradores y miembros del órgano de fiscalización podrán:</p>
+<ul>
+<li>procurar una solución amigable; o</li>
+<li>establecer en el instrumento constitutivo un sistema de arbitraje.</li>
+</ul>
+</section>
+<section id="documentación-y-contabilidad" class="slide level1">
+<h1>Documentación y contabilidad</h1>
+<p>La SAS debe:</p>
+<ul>
+<li>llevar contabilidad;</li>
+<li>confeccionar estados contables;</li>
+<li>registrar el estado de situación patrimonial y el estado de resultados en el Libro de Inventario y Balances.</li>
+</ul>
+<p>En lo no previsto especialmente por la Ley 27.349, resultan aplicables las normas generales del Código Civil y Comercial.</p>
+</section>
+<section id="registros-obligatorios" class="slide level1">
+<h1>Registros obligatorios</h1>
+<p>La SAS debe llevar, entre otros, los siguientes registros:</p>
+<ul>
+<li>Libro de Actas;</li>
+<li>Libro de Registro de Acciones;</li>
+<li>Libro Diario;</li>
+<li>Libro de Inventario y Balances.</li>
+</ul>
+<p>La ley admite la utilización de registros e individualización por medios electrónicos.</p>
+</section>
+<section id="simplificación-de-trámites" class="slide level1">
+<h1>Simplificación de trámites</h1>
+<p>La Ley 27.349 procura facilitar el funcionamiento de la SAS mediante procedimientos simplificados.</p>
+<p>Entre ellos:</p>
+<ul>
+<li>apertura de cuentas bancarias con requisitos reducidos;</li>
+<li>obtención rápida de la CUIT;</li>
+<li>obtención de CDI para accionistas no residentes.</li>
+</ul>
+</section>
+<section id="transformación-en-sas" class="slide level1">
+<h1>Transformación en SAS</h1>
+<p>Las sociedades constituidas conforme a la Ley General de Sociedades pueden transformarse en SAS.</p>
+<p>El procedimiento se rige por:</p>
+<ul>
+<li>los arts. 74 y siguientes de la LGS;</li>
+<li>supletoriamente, por el Código Civil y Comercial.</li>
+</ul>
+</section>
+<section id="procedimiento-de-transformación" class="slide level1 scrollable">
+<h1>Procedimiento de transformación</h1>
+<p>La transformación requiere, entre otros actos:</p>
+<ol type="1">
+<li>acuerdo de los socios;</li>
+<li>balance especial;</li>
+<li>instrumento de transformación;</li>
+<li>publicación;</li>
+<li>inscripción en el Registro Público.</li>
+</ol>
+</section>
+<section id="derechos-de-los-socios" class="slide level1">
+<h1>Derechos de los socios</h1>
+<p>Cuando la transformación no exige unanimidad:</p>
+<ul>
+<li>los socios disidentes o ausentes tienen derecho de receso;</li>
+<li>el reembolso se calcula sobre el balance de transformación;</li>
+<li>la transformación puede dejarse sin efecto mientras no esté inscripta.</li>
+</ul>
+<div class="callout callout-note callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Vítolo señala que, aunque la Ley 27.349 no lo dispone expresamente, también es posible que una SAS se transforme en otro tipo societario previsto por la LGS.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="la-crítica-de-nissen-a-la-sas" class="slide level1">
+<h1>La crítica de Nissen a la SAS</h1>
+<p>Nissen cuestiona la incorporación de la SAS mediante una ley especial y fuera de la Ley General de Sociedades.</p>
+<p>Según el autor:</p>
+<ul>
+<li>el nuevo tipo debió incorporarse a la LGS;</li>
+<li>su regulación autónoma genera problemas interpretativos y lagunas;</li>
+<li>la creación de un tipo especial no se justifica por la condición de emprendedor;</li>
+<li>cualquier persona humana o jurídica puede constituir una SAS.</li>
+</ul>
+</section>
+<section id="flexibilización-y-tutela-de-terceros" class="slide level1">
+<h1>Flexibilización y tutela de terceros</h1>
+<p>Para Nissen, la SAS configura un régimen excesivamente flexible.</p>
+<p>El autor sostiene que esta flexibilidad puede debilitar:</p>
+<ul>
+<li>el control sobre la constitución y funcionamiento de la sociedad;</li>
+<li>la adecuada capitalización;</li>
+<li>la protección de terceros;</li>
+<li>la tutela de socios y accionistas minoritarios;</li>
+<li>la posibilidad de responsabilizar a quienes utilizan abusivamente la personalidad jurídica.</li>
+</ul>
+</section>
+<section id="una-lectura-fuertemente-crítica" class="slide level1">
+<h1>Una lectura fuertemente crítica</h1>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Nissen considera que la promoción del emprendedurismo fue utilizada como fundamento para introducir un tipo societario menos sujeto a controles y normas protectorias.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="debate-doctrinario" class="slide level1">
+<h1>Debate doctrinario</h1>
+<h2 id="la-posición-de-nissen-1">La posición de Nissen</h2>
+<p>Nissen considera que la SAS constituye un tipo societario innecesario.</p>
+<p>Entre sus principales críticas señala que:</p>
+<ul>
+<li>la LGS ya ofrecía tipos suficientes para desarrollar emprendimientos;</li>
+<li>la figura fue regulada fuera de la Ley General de Sociedades;</li>
+<li>el régimen reduce controles y exigencias de funcionamiento;</li>
+<li>ello puede debilitar la tutela de terceros y de los socios minoritarios.</li>
+</ul>
+</section>
+<section id="sas-y-sociedades-off-shore" class="slide level1">
+<h1>SAS y sociedades off shore</h1>
+<p>Según Nissen, la SAS presenta características que la aproximan al funcionamiento de las sociedades constituidas en jurisdicciones offshore.</p>
+<p>El autor destaca, entre otras:</p>
+<ul>
+<li>capital mínimo reducido;</li>
+<li>amplia libertad estatutaria;</li>
+<li>escaso control estatal;</li>
+<li>ausencia de fiscalización obligatoria;</li>
+<li>menor publicidad e información societaria;</li>
+<li>simplificación de la organización y funcionamiento.</li>
+</ul>
+<div class="callout callout-warning callout-style-simple">
+<div class="callout-body">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-content">
+<p>Para Nissen, estas características incrementan el riesgo de utilización abusiva de la personalidad jurídica.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="slide level1">
+
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': false,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1600,
+
+        height: 900,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 4.0e-2,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copiado");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copiado");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

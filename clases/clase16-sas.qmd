@@ -1,0 +1,1133 @@
+---
+title: "Clase 16 — SAS"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+
+---
+
+# La Sociedad por Acciones Simplificada (SAS)
+
+La **Ley 27.349** incorporó la SAS como parte del régimen de apoyo al capital emprendedor.
+
+Según los fundamentos del proyecto, sus objetivos fueron:
+
+- favorecer la creación de nuevas empresas;
+- apoyar la actividad emprendedora;
+- facilitar la expansión de los emprendimientos;
+- promover la generación de capital emprendedor.
+
+---
+
+# Finalidad de la SAS
+
+Los autores del proyecto entendieron que era necesario:
+
+- contar con un régimen específico para emprendedores;
+- ofrecer un modelo más flexible que los previstos en la LGS;
+- simplificar la constitución de sociedades;
+- reducir los tiempos de inscripción registral.
+
+También señalaron la conveniencia de revitalizar las sociedades unipersonales.
+
+---
+
+# Antecedentes
+
+Vítolo menciona como antecedentes de la SAS, entre otros:
+
+- Colombia (Ley 1258/2008).
+- México (reforma de 2016).
+- Chile (Ley 20.190).
+- Francia.
+- República Dominicana.
+- Alemania.
+- España.
+
+Estos antecedentes son utilizados luego para comparar el modelo argentino.
+
+---
+
+# La SAS como tipo societario autónomo
+
+Para Vítolo, la SAS constituye:
+
+- un nuevo tipo societario;
+- regulado fuera de la Ley General de Sociedades;
+- con personalidad jurídica propia;
+- con separación patrimonial respecto de los socios.
+
+La personalidad jurídica se adquiere desde el otorgamiento del instrumento constitutivo.
+
+---
+
+# La crítica de Vítolo
+
+Vítolo sostiene que no se comprenden las razones para crear un tipo societario fuera de la Ley 19.550.
+
+Afirma que la SAS:
+
+- es una verdadera sociedad;
+- reúne los elementos propios del contrato de sociedad;
+- podría haber sido incorporada al régimen general de la LGS.
+
+::: {.callout-warning appearance="simple"}
+
+Se trata de una valoración doctrinaria del autor.
+
+:::
+
+---
+
+# Un régimen híbrido
+
+Según Vítolo, la SAS combina elementos de distintos tipos societarios.
+
+- El capital se divide en **acciones**.
+- El régimen supletorio es, principalmente, el de la **SRL**.
+
+Por ello la califica como un tipo de carácter híbrido.
+
+---
+
+# Derecho comparado
+
+Vítolo observa que, en los principales antecedentes legislativos:
+
+- Colombia.
+- México.
+- Chile.
+- Francia.
+- República Dominicana.
+
+las SAS o figuras equivalentes remiten supletoriamente al régimen de las sociedades por acciones.
+
+España constituye una excepción, porque optó por un modelo basado en la sociedad de responsabilidad limitada.
+
+---
+
+# Conclusión de Vítolo
+
+Para el autor:
+
+- el modelo argentino constituye una solución singular;
+- no encuentra antecedentes equivalentes en los principales ordenamientos del derecho continental;
+- el régimen combina acciones con normas supletorias de la SRL, lo que considera una estructura híbrida.
+
+---
+
+# Constitución de la SAS
+
+La SAS puede ser constituida por:
+
+- una o varias personas humanas;
+- una o varias personas jurídicas;
+- una combinación de ambas.
+
+Los socios responden, en principio, hasta la integración de las acciones suscriptas.
+
+::: {.callout-note appearance="simple"}
+
+Los socios garantizan solidaria e ilimitadamente frente a terceros la integración de los aportes (art. 43, Ley 27.349).
+
+Artículo 43.- Garantía de los socios por la integración de los aportes. Los socios garantizan solidaria e ilimitadamente a los terceros la integración de los aportes.
+:::
+
+---
+
+# Instrumento constitutivo
+
+La SAS puede constituirse mediante:
+
+- contrato, cuando intervienen dos o más socios;
+- declaración unilateral de voluntad, en la SAS unipersonal.
+
+El instrumento constitutivo:
+
+- debe otorgarse por escrito;
+- puede ser público o privado;
+- si es privado, las firmas deben certificarse.
+
+La ley también admite la constitución en forma digital, conforme a la reglamentación.
+
+---
+
+# Restricciones de la SAS unipersonal
+
+La SAS unipersonal:
+
+- no puede constituir otra SAS unipersonal;
+- no puede participar en otra SAS unipersonal.
+
+Estas limitaciones surgen expresamente del art. 34 de la Ley 27.349.
+
+::: {.callout-important}
+Artículo 34.- Constitución y responsabilidad. La SAS podrá ser constituida por una o varias personas humanas o jurídicas, quienes limitan su responsabilidad a la integración de las acciones que suscriban o adquieran, sin perjuicio de la garantía a que se refiere el artículo 43. La SAS unipersonal no puede constituir ni participar en otra SAS unipersonal.
+:::
+
+
+---
+
+# SAS unipersonal y SAU
+
+Vítolo plantea un problema interpretativo entre:
+
+- el art. 1° de la Ley General de Sociedades; y
+- el art. 34 de la Ley 27.349.
+
+## Interpretación que desarrolla el autor
+
+Las prohibiciones serían **intratípicas**:
+
+- una SAU podría constituir o participar en una SAS unipersonal;
+- una SAS unipersonal podría constituir o participar en una SAU.
+
+Ello porque cada restricción se refiere únicamente al tipo societario regulado por su propia ley.
+
+::: {.callout-warning appearance="simple"}
+
+Vítolo también menciona una interpretación contraria fundada en la aplicación supletoria de la Ley General de Sociedades, pero considera más convincente la primera.
+
+:::
+
+---
+
+# Contenido del instrumento constitutivo
+
+El art. 36 de la Ley 27.349 establece el contenido mínimo del instrumento constitutivo.
+
+Debe contener, entre otros:
+
+- identificación de los socios;
+- denominación social;
+- domicilio y sede;
+- objeto;
+- plazo;
+- capital social;
+- administración;
+- reglas sobre utilidades y pérdidas;
+- funcionamiento, disolución y liquidación;
+- fecha de cierre del ejercicio.
+
+
+::: {.callout-important}
+
+Artículo 36.- Contenido del instrumento de constitución. El instrumento constitutivo, sin perjuicio de las cláusulas que los socios resuelvan incluir, deberá contener como mínimo los siguientes requisitos:
+
+1. El nombre, edad, estado civil, nacionalidad, profesión, domicilio, número de documento de identidad, Clave Única de Identificación Tributaria (CUIT) o Clave Única de Identificación Laboral (CUIL) o Clave de Identificación (CDI) de los socios, en su caso. Si se tratare de una o más personas jurídicas, deberá constar su denominación o razón social, domicilio y sede, datos de los integrantes del órgano de administración y Clave Única de Identificación Tributaria (CUIT) o Clave de Identificación (CDI) de las mismas, o dar cumplimiento con la registración que a tal efecto disponga la autoridad fiscal, en su caso, así como los datos de inscripción en el registro que corresponda.
+
+2. La denominación social que deberá contener la expresión “Sociedad por Acciones Simplificada”, su abreviatura o la sigla SAS. La omisión de esta mención hará responsables ilimitada y solidariamente a los administradores o representantes de la sociedad, por los actos que celebren en esas condiciones.
+
+3. El domicilio de la sociedad y su sede. Si en el instrumento constitutivo constare solamente el domicilio, la dirección de su sede podrá constar en el acta de constitución o podrá inscribirse simultáneamente mediante petición por separado suscripta por el órgano de administración. Se tendrán por válidas y vinculantes para la sociedad todas las notificaciones efectuadas en la sede inscripta, hasta tanto la misma haya sido efectivamente cancelada por el registro público donde la sede haya sido registrada por la sociedad.
+
+4. La designación de su objeto, el que podrá ser amplio y plural. Las actividades que lo constituyan podrán guardar o no conexidad o relación entre ellas. (Punto sustituido por art. 34 de la Ley N° 27.444 B.O. 18/6/2018)
+
+5. El plazo de duración, que deberá ser determinado.
+
+6. El capital social y el aporte de cada socio, que deberán ser expresados en moneda nacional, haciéndose constar las clases, modalidades de emisión y demás características de las acciones y, en su caso, su régimen de aumento. El instrumento constitutivo, además, contemplará la suscripción del capital, el monto y la forma de integración y, si correspondiere, el plazo para el pago del saldo adeudado, el que no podrá exceder de dos (2) años desde la firma de dicho instrumento.
+
+7. La organización de la administración, de las reuniones de socios y, en su caso, de la fiscalización. El instrumento constitutivo deberá contener la individualización de los integrantes de los órganos de administración y, en su caso, del órgano de fiscalización, fijándose el término de duración en los cargos e individualizándose el domicilio donde serán válidas todas las notificaciones que se les efectúen en tal carácter. En todos los casos, deberá designarse representante legal.
+
+8. Las reglas para distribuir las utilidades y soportar las pérdidas.
+
+9. Las cláusulas necesarias para establecer los derechos y obligaciones de los socios entre sí y respecto de terceros.
+
+10. Las cláusulas atinentes a su funcionamiento, disolución y liquidación.
+
+11. La fecha de cierre del ejercicio.
+
+Los registros públicos aprobarán modelos tipo de instrumentos constitutivos para facilitar la inscripción registral.
+:::
+
+---
+
+# Algunos requisitos relevantes
+
+La denominación debe contener:
+
+- **"Sociedad por Acciones Simplificada"**, o
+- su abreviatura o sigla **SAS**.
+
+::: {.callout-warning appearance="simple"}
+
+La omisión de esa identificación genera la responsabilidad ilimitada y solidaria de los administradores o representantes por los actos celebrados en esas condiciones.
+
+:::
+
+El objeto social puede ser **amplio y plural**, aun cuando las actividades no guarden relación entre sí.
+
+---
+
+# Capital y organización
+
+El instrumento constitutivo debe prever:
+
+- capital social y aportes;
+- clases y características de las acciones;
+- integración del capital;
+- organización de la administración;
+- reuniones de socios;
+- fiscalización, si corresponde;
+- designación del representante legal.
+
+---
+
+# Omisión de requisitos
+
+Vítolo señala que la Ley 27.349 **no prevé expresamente** cuál es la consecuencia de omitir alguno de los requisitos del art. 36, salvo respecto de la denominación social.
+
+Frente a ese silencio, propone acudir supletoriamente a la Ley General de Sociedades.
+
+---
+
+# Solución propuesta por Vítolo
+
+Según el autor, la omisión de requisitos esenciales llevaría a aplicar el régimen de la **Sección IV** de la Ley General de Sociedades.
+
+En consecuencia:
+
+- la SAS no podría inscribirse en el Registro Público;
+- previamente debería atravesar un proceso de **subsanación**.
+
+::: {.callout-note appearance="simple"}
+
+Vítolo distingue entre la omisión de requisitos esenciales y la de requisitos tipificantes, pero considera que, en ambos casos, la consecuencia práctica sería la imposibilidad de inscripción hasta la subsanación.
+
+:::
+
+---
+
+# La posición de Nissen
+
+Nissen sostiene que, ante ese vacío, corresponde aplicar supletoriamente el régimen de la **Sección IV del Capítulo I de la Ley General de Sociedades** (arts. 17 y 21 a 26 LGS).
+
+::: {.callout-note appearance="simple"}
+
+La solución se fundamenta en que la Ley 27.349 no prevé un régimen propio de nulidades o irregularidades y la aplicación supletoria resulta compatible con la naturaleza de la SAS.
+
+:::
+
+---
+
+# Régimen de publicidad
+
+La SAS debe publicar **por un (1) día** un aviso en el diario de publicaciones legales correspondiente a su lugar de constitución.
+
+La publicación es obligatoria:
+
+- al constituirse la sociedad;
+- al modificarse el instrumento constitutivo;
+- al disolverse la sociedad.
+
+---
+
+# Contenido de la publicación
+
+## Constitución
+
+El aviso debe contener, entre otros datos:
+
+- identificación de los socios;
+- denominación social;
+- domicilio y sede;
+- objeto;
+- plazo de duración;
+- capital social;
+- organización de la administración y fiscalización;
+- fecha de cierre del ejercicio;
+- fecha del instrumento constitutivo.
+
+## Modificación o disolución
+
+Debe publicarse:
+
+- la fecha de la resolución que la aprobó;
+- las modificaciones que recaigan sobre esos datos esenciales.
+
+---
+
+# Observación de Vítolo
+
+Vítolo destaca que la Ley 27.349 pone el acento en la **publicidad** de determinados actos de la SAS.
+
+::: {.callout-note appearance="simple"}
+
+Según el autor, en el derecho comparado el énfasis suele colocarse en un **mayor control registral** de las SAS, más que en un régimen de mera publicidad.
+
+:::
+
+::: {.callout-important}
+Artículo 37.- Publicidad de la Sociedad por Acciones Simplificada. La SAS deberá publicar por un (1) día en el diario de publicaciones legales correspondiente a su lugar de constitución, un aviso que deberá contener los siguientes datos:
+
+a) En oportunidad de su constitución, la información prevista en los incisos 1 a 7 y 11 del artículo 36 de la presente ley y la fecha del instrumento constitutivo;
+
+b) En oportunidad de la modificación del instrumento constitutivo o de la disolución de la SAS:
+
+1. La fecha de la resolución de la reunión de socios que aprobó la modificación del instrumento constitutivo o su disolución.
+
+2. Cuando la modificación afecte alguno de los puntos enumerados en los incisos 2 a 7 y 11 del artículo 36, la publicación deberá determinarlo en la forma allí establecida.
+:::
+
+---
+
+# Inscripción en el Registro Público
+
+La SAS debe inscribirse en el Registro Público.
+
+Presentada la documentación y cumplidos los requisitos legales y reglamentarios, corresponde su inscripción.
+
+Si se utiliza el **modelo tipo** aprobado por el Registro Público, la inscripción debe realizarse dentro de las **24 horas** del día hábil siguiente a la presentación.
+
+---
+
+# Procedimiento de inscripción
+
+La Ley 27.349 prevé:
+
+- utilización de medios digitales;
+- firma digital;
+- notificaciones electrónicas;
+- procedimiento para subsanar observaciones.
+
+El mismo criterio se aplica a las reformas del instrumento constitutivo.
+
+---
+
+# Observaciones de Vítolo
+
+Vítolo destaca dos cuestiones.
+
+1. La Ley 27.349 se aparta del régimen de la Ley General de Sociedades en materia de inscripción.
+
+2. Considera discutible que una ley nacional establezca plazos de inscripción, ya que entiende que esa materia corresponde a los registros públicos de cada jurisdicción.
+
+::: {.callout-note appearance="simple"}
+
+Se trata de una valoración doctrinaria del autor.
+
+:::
+
+---
+
+# Falta de inscripción
+
+Vítolo entiende que, por aplicación supletoria de la Ley General de Sociedades, una SAS no inscripta quedaría sometida al régimen de la **Sección IV**.
+
+La denomina una **"Sociedad por Acciones Simplificada irregular"**.
+
+No obstante:
+
+- las reformas del instrumento constitutivo también deben inscribirse;
+- una SAS no inscripta no podría acceder a los beneficios previstos por la Ley 27.349.
+
+::: {.callout-warning appearance="simple"}
+
+Esta es la interpretación propuesta por Vítolo a partir de la remisión supletoria a la LGS.
+
+:::
+
+---
+
+# Limitaciones para constituir o mantener una SAS
+
+La SAS no puede:
+
+- quedar comprendida en los supuestos de los incisos 3, 4 y 5 del art. 299 de la LGS;
+- ser controlada por una sociedad comprendida en esos supuestos;
+- participar en más del 30% del capital de una sociedad comprendida en esos supuestos.
+
+::: {.callout-important}
+Artículo 39.- Limitaciones. Para constituir y mantener su carácter de SAS, la sociedad:
+
+1. No deberá estar comprendida en ninguno de los supuestos previstos en los incisos 3, 4 y 5 del artículo 299 de la Ley General de Sociedades 19.550 (t.o. 1984) y sus modificatorias.
+   1. incisos 3,4 y 5
+      1. 3º) Sean de participación estatal, ya sea por la participación del Estado  Nacional,        los    estados provinciales, la Ciudad Autónoma de Buenos Aires, los municipios y/o los organismos estatales legalmente autorizados al efecto. (Inciso sustituido por art. 49 del Decreto N° 70/2023 B.O. 21/12/2023.)
+
+        4º) Realicen operaciones de capitalización, ahorro o en cualquier forma requieran dinero o valores al público con promesas de prestaciones o beneficios futuros;
+
+        5º) Exploten concesiones o servicios públicos; 
+
+2. No podrá ser controlada por ni participar en más del treinta por ciento (30%) del capital de sociedades comprendidas en los supuestos mencionados en el inciso 1 precedente.
+
+En caso de que la SAS resultara encuadrada en alguno de los supuestos previstos en los incisos 1 o 2 precedentes, deberá transformarse en alguno de los tipos regulares previstos en la Ley General de Sociedades 19.550 (t.o. 1984) y sus modificatorias e inscribir la transformación en el registro público correspondiente, en un plazo no mayor a los seis (6) meses de configurado el supuesto. En caso de que la configuración del supuesto no resulte de un hecho o acto propio de la SAS, el plazo se computará desde que tomó conocimiento del mismo. La transformación no será obligatoria si antes de ese plazo la SAS deja de estar encuadrada en alguno de dichos supuestos. Vencido el plazo indicado sin que se hubiera producido la inscripción de la transformación en el registro público correspondiente, los socios responderán frente a terceros en forma solidaria, ilimitada y subsidiaria.
+:::
+
+---
+
+# Pérdida de los requisitos
+
+Si la SAS queda comprendida en alguno de esos supuestos:
+
+- debe transformarse en uno de los tipos previstos por la LGS;
+- la transformación debe inscribirse dentro de los **seis meses**.
+
+Si la causa no proviene de un hecho propio de la sociedad, el plazo corre desde que toma conocimiento de esa circunstancia.
+
+No será necesaria la transformación si la causal desaparece antes del vencimiento del plazo.
+
+---
+
+# Incumplimiento
+
+Si vence el plazo sin inscribirse la transformación:
+
+- los socios responden frente a terceros en forma:
+  - solidaria;
+  - ilimitada; y
+  - subsidiaria.
+
+---
+
+# Capital social
+
+El capital de la SAS:
+
+- se divide en **acciones**;
+- no puede ser inferior al equivalente a **dos salarios mínimos, vitales y móviles** al momento de su constitución.
+
+---
+
+# Observaciones de Vítolo
+
+Vítolo señala que el derecho comparado no sigue una solución uniforme respecto del capital mínimo.
+
+Por ejemplo:
+
+- algunos ordenamientos no exigen capital mínimo;
+- otros admiten capital variable;
+- otros mantienen un capital mínimo legal.
+
+La Ley 27.349 optó por exigir un capital mínimo.
+
+---
+
+# Integración del capital
+
+La ley distingue entre aportes en dinero y en especie.
+
+**Aportes en dinero**
+
+- integración mínima del **25%** al suscribirse;
+- saldo dentro de los **2 años**.
+
+**Aportes en especie**
+
+- integración del **100%** al momento de la suscripción.
+
+---
+
+# Régimen de los aportes
+
+Los aportes en la SAS pueden consistir en:
+
+- bienes dinerarios;
+- bienes no dinerarios.
+
+Los aportes en especie pueden valuarse:
+
+- por acuerdo unánime de los socios; o
+- según valores de plaza.
+
+El instrumento constitutivo debe expresar los antecedentes que justifican la valuación.
+
+---
+
+# Aportes en especie
+
+La valuación de los aportes en especie puede ser impugnada por los acreedores:
+
+- en caso de insolvencia o quiebra de la sociedad;
+- dentro del plazo de cinco (5) años desde el aporte.
+
+::: {.callout-note appearance="simple"}
+
+La impugnación no procede cuando la valuación fue realizada judicialmente.
+
+:::
+
+Según Vítolo, este régimen se asemeja al previsto para las SRL.
+
+---
+
+# Prestaciones accesorias
+
+La Ley 27.349 permite que los socios pacten prestaciones accesorias consistentes en servicios.
+
+Estas prestaciones:
+
+- pueden referirse a servicios presentes o futuros;
+- deben valuarse e incorporarse al instrumento constitutivo o a sus reformas;
+- requieren una regulación detallada de su contenido, duración, retribución e incumplimiento.
+
+::: {.callout-warning appearance="simple"}
+
+Vítolo destaca como una particularidad de la SAS que estas prestaciones podrían integrar el capital social.
+
+:::
+
+---
+
+# Aportes irrevocables
+
+La Ley 27.349 regula los aportes irrevocables a cuenta de futura emisión de acciones.
+
+- El órgano de administración debe aceptarlos o rechazarlos dentro de los 15 días.
+- Pueden conservar ese carácter durante un plazo máximo de 24 meses.
+
+::: {.callout-note appearance="simple"}
+
+Vítolo compara este régimen con la Resolución General IGJ 7/2015, que para las sociedades sometidas a ese régimen admite un plazo considerablemente menor (180 días).
+
+:::
+
+---
+
+# Aumento del capital
+
+El art. 44 de la Ley 27.349 flexibiliza el régimen de aumento del capital social.
+
+El instrumento constitutivo puede prever que los aumentos inferiores al **50 %** del capital inscripto:
+
+- no requieran publicación; y
+- no requieran inscripción de la resolución de los socios.
+
+Las resoluciones igualmente deben remitirse al Registro Público por medios digitales.
+
+---
+
+# Emisión de acciones
+
+En cada aumento de capital la reunión de socios puede determinar:
+
+- las clases de acciones;
+- los derechos que confiere cada una;
+- la emisión a valor nominal o con prima de emisión.
+
+También pueden fijarse primas distintas para distintas clases de acciones.
+
+---
+
+# Clases de acciones
+
+La SAS puede emitir:
+
+- acciones nominativas no endosables;
+- acciones ordinarias;
+- acciones preferidas;
+- acciones escriturales.
+
+El instrumento constitutivo debe establecer los derechos políticos y económicos correspondientes a cada clase, pudiendo reconocer voto singular o plural.
+
+---
+
+# Observaciones de Vítolo
+
+Vítolo destaca que el régimen de acciones de la SAS:
+
+- se aproxima al de las sociedades anónimas;
+- se aparta del régimen de cuotas propio de la SRL;
+- otorga una mayor flexibilidad para estructurar los derechos de los accionistas mediante distintas clases de acciones.
+
+::: {.callout-note appearance="simple"}
+
+Las diferencias entre clases deben surgir expresamente del instrumento constitutivo o de sus reformas.
+
+:::
+
+---
+
+# Régimen de transferencia de acciones
+
+La forma de transferencia de las acciones será la prevista en el instrumento constitutivo.
+
+Éste puede establecer, entre otras reglas:
+
+- requisitos para la transferencia;
+- autorización previa de la reunión de socios;
+- restricciones para determinadas clases de acciones.
+
+Si el instrumento nada dispone, la transferencia deberá:
+
+- notificarse a la sociedad; e
+- inscribirse en el Libro de Registro de Acciones para su oponibilidad frente a terceros.
+
+::: {.callout-important}
+Artículo 48.- Transferencia. La forma de negociación o transferencia de acciones será la prevista por el instrumento constitutivo, en el cual se podrá requerir que toda transferencia de acciones o de alguna clase de ellas cuente con la previa autorización de la reunión de socios. En caso de omisión de su tratamiento en el instrumento constitutivo, toda transferencia de acciones deberá ser notificada a la sociedad e inscripta en el respectivo Libro de Registro de Acciones a los fines de su oponibilidad respecto de terceros.
+
+El instrumento constitutivo podrá estipular la prohibición de la transferencia de las acciones o de alguna de sus clases, siempre que la vigencia de la restricción no exceda del plazo máximo de diez (10) años, contados a partir de la emisión. Este plazo podrá ser prorrogado por períodos adicionales no mayores de diez (10) años, siempre que la respectiva decisión se adopte por el voto favorable de la totalidad del capital social.
+
+Las restricciones o prohibiciones a las que están sujetas las acciones deberán registrarse en el Libro de Registro de Acciones. En las acciones cartulares deberán transcribirse, además, en los correspondientes títulos accionarios. Tratándose de acciones escriturales, dichas restricciones deberán constar en los comprobantes que se emitan.
+
+Toda negociación o transferencia de acciones que no se ajuste a lo previsto en el instrumento constitutivo es de ningún valor.
+
+:::
+
+---
+
+# Restricciones a la transferencia
+
+El instrumento constitutivo puede incluso:
+
+- prohibir la transferencia de todas o algunas clases de acciones.
+
+La prohibición:
+
+- no puede exceder de **10 años** desde la emisión;
+- puede prorrogarse por nuevos períodos de hasta **10 años**;
+- requiere el voto favorable de la totalidad del capital social.
+
+---
+
+# Publicidad de las restricciones
+
+Las restricciones o prohibiciones deben constar:
+
+- en el Libro de Registro de Acciones;
+- en los títulos accionarios, si las acciones son cartulares;
+- en los comprobantes, si las acciones son escriturales.
+
+Toda transferencia realizada en violación del instrumento constitutivo es **de ningún valor**.
+
+---
+
+# Observación de Vítolo
+
+Vítolo destaca que la Ley 27.349 se aparta del régimen general de la Ley General de Sociedades.
+
+Mientras la LGS no admite la prohibición de transferir acciones, la SAS permite establecer:
+
+- restricciones;
+- autorización previa; e incluso
+- prohibiciones temporarias de transferencia.
+
+::: {.callout-note appearance="simple"}
+
+Según el autor, esta solución sigue el modelo adoptado por las legislaciones de Francia y Colombia.
+
+:::
+
+---
+
+# Órganos de la SAS
+
+La Ley 27.349 reconoce una amplia autonomía para organizar el funcionamiento interno de la sociedad.
+
+Los socios determinan:
+
+- la estructura de los órganos;
+- sus competencias;
+- las reglas de funcionamiento.
+
+Las normas aplicables serán:
+
+1. la Ley 27.349;
+2. el instrumento constitutivo;
+3. supletoriamente, el régimen de la SRL y las disposiciones generales de la LGS.
+
+---
+
+# Estructura orgánica
+
+La SAS cuenta, en principio, con:
+
+- un órgano de gobierno;
+- un órgano de administración;
+- un órgano de fiscalización, cuando corresponda.
+
+::: {.callout-note appearance="simple"}
+
+La ley otorga amplia libertad para estructurar y regular estos órganos.
+
+:::
+
+---
+
+# Administración de la SAS
+
+La administración estará a cargo de:
+
+- una o más personas humanas;
+- sean o no socios;
+- designadas por plazo determinado o indeterminado.
+
+La ley no impone una denominación específica al órgano de administración.
+
+::: {.callout-note appearance="simple"}
+
+A diferencia de la SA y de la SRL, los socios pueden diseñar libremente su organización.
+
+:::
+
+---
+
+# Administración individual o plural
+
+Si el órgano de administración es plural, el instrumento constitutivo puede establecer:
+
+- funciones diferenciadas para cada administrador;
+- actuación conjunta;
+- actuación colegiada.
+
+Al menos uno de los administradores debe tener domicilio real en la República Argentina.
+
+---
+
+# Representación legal
+
+La representación legal corresponde a una o más personas humanas.
+
+Pueden ser:
+
+- socios; o
+- terceros.
+
+Si el instrumento constitutivo nada dispone, la designación corresponde a la reunión de socios o al socio único.
+
+El representante puede celebrar todos los actos comprendidos directa o indirectamente en el objeto social.
+
+---
+
+# Funcionamiento del órgano de administración
+
+La ley admite:
+
+- convocatorias por medios electrónicos;
+- reuniones presenciales o a distancia;
+- comunicación simultánea entre los participantes.
+
+Las actas deben dejar constancia de la modalidad utilizada.
+
+---
+
+# Deberes y responsabilidades
+
+A los administradores y representantes les resultan aplicables:
+
+- el art. 157 de la Ley General de Sociedades;
+- y, cuando corresponda, el régimen de responsabilidad de los directores de la SA.
+
+Tienen los mismos deberes, prohibiciones e incompatibilidades que los administradores de la LGS.
+
+---
+
+# Administrador de hecho
+
+La Ley 27.349 incorpora expresamente la figura del administrador de hecho.
+
+Responden como administradores:
+
+- quienes, sin haber sido designados, ejerzan de manera positiva funciones de gestión, administración o dirección;
+- incluso por actos en los que no hubieran intervenido cuando esa actuación sea habitual.
+
+::: {.callout-note appearance="simple"}
+
+Vítolo destaca esta incorporación como una de las novedades del régimen de la SAS.
+
+:::
+
+---
+
+# Designación y remoción
+
+Las designaciones y cesaciones de administradores deben inscribirse en el Registro Público.
+
+Según Vítolo:
+
+- la inscripción tiene efecto declarativo;
+- los administradores ejercen el cargo desde su designación;
+- frente a terceros, la cesación sólo resulta oponible una vez inscripta.
+
+---
+
+# Órgano de gobierno
+
+El órgano de gobierno de la SAS es la **reunión de socios**.
+
+El instrumento constitutivo regula su funcionamiento.
+
+Las reuniones pueden celebrarse:
+
+- en la sede social o fuera de ella;
+- mediante medios que permitan la comunicación simultánea de los participantes.
+
+---
+
+# Adopción de resoluciones
+
+Al igual que en la SRL, son válidas las resoluciones adoptadas:
+
+- mediante el voto comunicado al órgano de administración por un medio que garantice su autenticidad; o
+- mediante declaración escrita suscripta por todos los socios.
+
+En la SAS unipersonal, las decisiones corresponden al socio único, quien debe asentarlas en el libro de actas.
+
+---
+
+# Órgano de fiscalización
+
+La Ley 27.349 contempla la posibilidad de establecer un órgano de fiscalización.
+
+Sin embargo, su existencia depende de lo previsto en el instrumento constitutivo.
+
+::: {.callout-note appearance="simple"}
+
+El art. 53 se refiere expresamente al **"órgano de fiscalización opcional"**.
+
+:::
+
+---
+
+# Interpretación de Vítolo
+
+Vítolo sostiene que la fiscalización en la SAS es **siempre voluntaria**.
+
+Fundamenta esta conclusión en que:
+
+- la SAS no queda comprendida en el régimen del art. 299 de la LGS;
+- por ello, no resultan aplicables los supuestos de fiscalización obligatoria previstos para otros tipos societarios.
+
+En consecuencia, la sindicatura, la comisión fiscalizadora o el consejo de vigilancia sólo existirán si los socios deciden incorporarlos.
+
+---
+
+# Reforma del instrumento constitutivo
+
+Las modificaciones del instrumento constitutivo:
+
+- se adoptan conforme al procedimiento previsto en el propio instrumento;
+- deben inscribirse en el Registro Público.
+
+::: {.callout-note appearance="simple"}
+
+La Ley 27.349 utiliza la expresión **"instrumento constitutivo"** y no "estatuto".
+
+:::
+
+---
+
+# Disolución de la SAS
+
+La SAS se disuelve:
+
+- por decisión de la reunión de socios;
+- por decisión del socio único;
+- por las causales previstas en la Ley General de Sociedades.
+
+---
+
+# Causales de disolución (LGS)
+
+Entre las causales previstas en la LGS se encuentran:
+
+- cumplimiento de la condición prevista para su existencia;
+- consecución o imposibilidad sobreviniente del objeto;
+- pérdida del capital social (salvo reintegro o aumento);
+- declaración de quiebra;
+- fusión.
+
+---
+
+# Liquidación
+
+La liquidación se rige por las normas de la Ley General de Sociedades.
+
+Puede actuar como liquidador:
+
+- el administrador;
+- el representante legal; o
+- la persona designada por la reunión de socios o el socio único.
+
+::: {.callout-note appearance="simple"}
+
+Durante la liquidación, la SAS conserva su personalidad jurídica.
+
+:::
+
+---
+
+# Resolución de conflictos
+
+La Ley 27.349 procura privilegiar la solución consensuada de los conflictos.
+
+Los socios, administradores y miembros del órgano de fiscalización podrán:
+
+- procurar una solución amigable; o
+- establecer en el instrumento constitutivo un sistema de arbitraje.
+
+---
+
+# Documentación y contabilidad
+
+La SAS debe:
+
+- llevar contabilidad;
+- confeccionar estados contables;
+- registrar el estado de situación patrimonial y el estado de resultados en el Libro de Inventario y Balances.
+
+En lo no previsto especialmente por la Ley 27.349, resultan aplicables las normas generales del Código Civil y Comercial.
+
+---
+
+# Registros obligatorios
+
+La SAS debe llevar, entre otros, los siguientes registros:
+
+- Libro de Actas;
+- Libro de Registro de Acciones;
+- Libro Diario;
+- Libro de Inventario y Balances.
+
+La ley admite la utilización de registros e individualización por medios electrónicos.
+
+---
+
+# Simplificación de trámites
+
+La Ley 27.349 procura facilitar el funcionamiento de la SAS mediante procedimientos simplificados.
+
+Entre ellos:
+
+- apertura de cuentas bancarias con requisitos reducidos;
+- obtención rápida de la CUIT;
+- obtención de CDI para accionistas no residentes.
+
+---
+
+# Transformación en SAS
+
+Las sociedades constituidas conforme a la Ley General de Sociedades pueden transformarse en SAS.
+
+El procedimiento se rige por:
+
+- los arts. 74 y siguientes de la LGS;
+- supletoriamente, por el Código Civil y Comercial.
+
+---
+
+# Procedimiento de transformación
+
+La transformación requiere, entre otros actos:
+
+1. acuerdo de los socios;
+2. balance especial;
+3. instrumento de transformación;
+4. publicación;
+5. inscripción en el Registro Público.
+
+---
+
+# Derechos de los socios
+
+Cuando la transformación no exige unanimidad:
+
+- los socios disidentes o ausentes tienen derecho de receso;
+- el reembolso se calcula sobre el balance de transformación;
+- la transformación puede dejarse sin efecto mientras no esté inscripta.
+
+::: {.callout-note appearance="simple"}
+
+Vítolo señala que, aunque la Ley 27.349 no lo dispone expresamente, también es posible que una SAS se transforme en otro tipo societario previsto por la LGS.
+
+:::
+
+
+---
+
+# La crítica de Nissen a la SAS
+
+Nissen cuestiona la incorporación de la SAS mediante una ley especial y fuera de la Ley General de Sociedades.
+
+Según el autor:
+
+- el nuevo tipo debió incorporarse a la LGS;
+- su regulación autónoma genera problemas interpretativos y lagunas;
+- la creación de un tipo especial no se justifica por la condición de emprendedor;
+- cualquier persona humana o jurídica puede constituir una SAS.
+
+---
+
+# Flexibilización y tutela de terceros
+
+Para Nissen, la SAS configura un régimen excesivamente flexible.
+
+El autor sostiene que esta flexibilidad puede debilitar:
+
+- el control sobre la constitución y funcionamiento de la sociedad;
+- la adecuada capitalización;
+- la protección de terceros;
+- la tutela de socios y accionistas minoritarios;
+- la posibilidad de responsabilizar a quienes utilizan abusivamente la personalidad jurídica.
+
+---
+
+# Una lectura fuertemente crítica
+
+::: {.callout-warning appearance="simple"}
+
+Nissen considera que la promoción del emprendedurismo fue utilizada como fundamento para introducir un tipo societario menos sujeto a controles y normas protectorias.
+
+:::
+
+---
+
+# Debate doctrinario
+
+## La posición de Nissen
+
+Nissen considera que la SAS constituye un tipo societario innecesario.
+
+Entre sus principales críticas señala que:
+
+- la LGS ya ofrecía tipos suficientes para desarrollar emprendimientos;
+- la figura fue regulada fuera de la Ley General de Sociedades;
+- el régimen reduce controles y exigencias de funcionamiento;
+- ello puede debilitar la tutela de terceros y de los socios minoritarios.
+
+---
+
+# SAS y sociedades off shore
+
+Según Nissen, la SAS presenta características que la aproximan al funcionamiento de las sociedades constituidas en jurisdicciones offshore.
+
+El autor destaca, entre otras:
+
+- capital mínimo reducido;
+- amplia libertad estatutaria;
+- escaso control estatal;
+- ausencia de fiscalización obligatoria;
+- menor publicidad e información societaria;
+- simplificación de la organización y funcionamiento.
+
+::: {.callout-warning appearance="simple"}
+
+Para Nissen, estas características incrementan el riesgo de utilización abusiva de la personalidad jurídica.
+
+:::
+
+---
+
+
+
+
+
