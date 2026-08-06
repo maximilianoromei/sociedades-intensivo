@@ -209,11 +209,17 @@ El cronograma fue reestructurado para conservar todos los contenidos centrales.
 
 - 📄 <a href="clases/clase16-sas.pdf" target="_blank">Descargar presentación en PDF</a>
 
-### Clase 14 - SCA.
+### Clase 17 - SCA.
 
 - 🎓 <a href="clases/clase16-sca.html" target="_blank">Presentación del tema </a>
 
 - 📄 <a href="clases/clase16-sca.pdf" target="_blank">Descargar presentación en PDF</a>
+  
+### Clase 18 - Sociedades Cooperativas.
+
+- 🎓 <a href="clases/clase17-coop.html" target="_blank">Presentación del tema </a>
+
+- 📄 <a href="clases/clase17-coop.pdf" target="_blank">Descargar presentación en PDF</a>
 
 
 ## Evaluaciones

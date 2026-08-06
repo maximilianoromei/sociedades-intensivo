@@ -1,0 +1,2130 @@
+---
+title: "Clase 17 — Sociedades Cooperativas"
+subtitle: "Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.04
+    controls: true
+    progress: true
+    chalkboard: false
+    preview-links: auto
+
+lang: es
+
+execute:
+  echo: false
+
+---
+
+# Sociedades cooperativas
+
+## Objetivos
+
+- Comprender el origen del cooperativismo.
+- Identificar los principios cooperativos.
+- Analizar las características jurídicas de la cooperativa.
+- Diferenciar la cooperativa de las sociedades lucrativas.
+
+---
+
+# ¿Por qué nacen las cooperativas?
+
+Durante la Revolución Industrial:
+
+- bajos salarios;
+- intermediación abusiva;
+- dificultades para acceder al consumo;
+- necesidad de organización colectiva.
+
+**Idea central:**
+
+> sustituir el lucro del intermediario por la cooperación entre los propios consumidores.
+
+---
+
+# Los antecedentes históricos
+
+- cooperación en las comunidades primitivas;
+- Babilonia;
+- Grecia y Roma;
+- experiencias asociativas medievales.
+
+Sin embargo, el verdadero movimiento cooperativo surge en el siglo XIX.
+
+---
+
+# Rochdale (1844)
+
+## El nacimiento del cooperativismo moderno
+
+- 28 trabajadores textiles.
+- Cada uno aporta una libra esterlina.
+- Fundación de la **Rochdale Society of Equitable Pioneers**.
+
+Se establecen reglas que luego darían origen a los principios cooperativos.
+
+---
+
+# Los principios de Rochdale
+
+- Libre ingreso y retiro.
+- Control democrático.
+- Neutralidad política y religiosa.
+- Ventas al contado.
+- Retorno de excedentes.
+- Interés limitado al capital.
+- Educación permanente.
+
+---
+
+# Evolución internacional
+
+El modelo se expande rápidamente hacia:
+
+- Francia.
+- Alemania.
+- España.
+- Chile.
+- resto de Europa.
+
+Posteriormente se difunde a América.
+
+---
+
+# La Alianza Cooperativa Internacional
+
+## ACI
+
+Fundada en:
+
+**1895**
+
+Actualmente:
+
+- reúne cooperativas de más de 90 países;
+- representa a más de mil millones de personas.
+
+---
+
+# Valores cooperativos
+
+La participación en una cooperativa supone:
+
+- ayuda mutua;
+- responsabilidad;
+- democracia;
+- igualdad;
+- equidad;
+- solidaridad.
+
+---
+
+# Valores éticos
+
+Además:
+
+- honestidad;
+- transparencia;
+- responsabilidad social;
+- preocupación por los demás.
+
+---
+
+# Los principios cooperativos actuales
+
+1. Adhesión voluntaria y abierta.
+2. Control democrático.
+3. Participación económica.
+4. Autonomía e independencia.
+5. Educación y capacitación.
+6. Cooperación entre cooperativas.
+7. Compromiso con la comunidad.
+
+---
+
+# Una lógica distinta
+
+En una cooperativa:
+
+- el capital es un instrumento;
+- la persona ocupa el centro;
+- prevalece el servicio sobre el lucro.
+
+---
+
+# Cooperativa vs sociedad comercial
+
+| Cooperativa | Sociedad comercial |
+|--------------|-------------------|
+| Finalidad de servicio | Finalidad lucrativa |
+| Un asociado = un voto | El voto depende del capital (en principio) |
+| Excedentes | Utilidades |
+| Gestión democrática | Organización societaria |
+
+---
+
+# Organización democrática
+
+Principio básico:
+
+## Un asociado = un voto
+
+El poder político no depende del aporte económico.
+
+---
+
+# Participación económica
+
+Los asociados:
+
+- contribuyen al capital;
+- participan de los excedentes;
+- fortalecen el patrimonio común.
+
+---
+
+# Compromiso con la comunidad
+
+La cooperativa:
+
+- no persigue solamente beneficios internos;
+- busca contribuir al desarrollo sostenible de la comunidad.
+
+---
+
+# Idea central
+
+La cooperativa no pretende sustituir al mercado.
+
+Su finalidad es:
+
+- satisfacer necesidades comunes;
+- organizar actividades económicas democráticamente;
+- priorizar la ayuda mutua sobre el lucro.
+
+---
+
+# La legislación cooperativa argentina
+
+## Evolución normativa
+
+- Primeras referencias legislativas: **1884**.
+- Reforma del **Código de Comercio (1889)**.
+- **Ley 11.388** (1926).
+- **Ley 19.219** (1971).
+- Posteriormente: **Ley 20.337**.
+
+> La evolución legislativa fue gradual y acompañó el desarrollo del movimiento cooperativo.
+
+---
+
+# Primer antecedente legislativo
+
+## Ley 1420 (1884)
+
+Primera mención legal al cooperativismo.
+
+La Ley de Educación Común facultaba a:
+
+- promover sociedades cooperativas de educación;
+- fomentar bibliotecas populares;
+- impulsar asociaciones cooperativas vinculadas con la educación.
+
+---
+
+# El Código de Comercio (1889)
+
+La reforma incorporó los arts. 392 a 394.
+
+Hasta 1926 las cooperativas se rigieron por esas normas.
+
+Características:
+
+- eran consideradas sociedades comerciales;
+- se reconocía el principio de **un socio = un voto**;
+- la organización quedaba ampliamente librada al estatuto.
+
+---
+
+# Limitaciones del régimen anterior
+
+El sistema presentaba importantes inconvenientes.
+
+- Gran confusión con otras entidades.
+- Cualquier persona jurídica podía utilizar la denominación "cooperativa".
+- No existía un régimen jurídico propio.
+
+---
+
+# Los primeros proyectos legislativos
+
+Entre 1905 y 1924 se sucedieron numerosos proyectos.
+
+Entre ellos:
+
+- Francisco Uriburu (1905).
+- Eleodoro Lobos (1911).
+- Juan B. Justo (1915, 1921 y 1923).
+- Proyecto del Poder Ejecutivo (1924).
+
+Ninguno prosperó hasta 1926.
+
+---
+
+# La Ley 11.388 (1926)
+
+Primera Ley Nacional de Cooperativas.
+
+Recogió los principios generales del cooperativismo y otorgó un régimen jurídico propio.
+
+---
+
+# Principales innovaciones de la Ley 11.388
+
+La ley estableció:
+
+- responsabilidad limitada de los asociados;
+- irrepartibilidad de las reservas;
+- destino altruista del sobrante de liquidación;
+- neutralidad política y religiosa;
+- libertad e igualdad de los asociados.
+
+---
+
+# Otras disposiciones relevantes
+
+La Ley 11.388 también dispuso:
+
+- prohibición de conceder créditos para consumo;
+- prestación de servicios exclusivamente a los asociados;
+- reglas para distribuir los excedentes según el tipo de cooperativa.
+
+---
+
+# Ley 11.380 de Fomento Cooperativo
+
+Se sancionó simultáneamente con la Ley 11.388.
+
+Preveía:
+
+- créditos especiales del Banco Nación y Banco Hipotecario;
+- exenciones impositivas;
+- beneficios para la constitución y funcionamiento de cooperativas.
+
+---
+
+# La Ley 19.219 (1971)
+
+Creó el:
+
+## Instituto Nacional de Acción Cooperativa (INAC)
+
+Organismo descentralizado del Ministerio de Bienestar Social.
+
+Además:
+
+- reemplazó al anterior Departamento de Cooperativas;
+- reformó diversos aspectos de la Ley 11.388.
+
+---
+
+# Evolución legislativa
+
+1884 → Ley 1420
+
+↓
+
+1889 → Código de Comercio
+
+↓
+
+1926 → Ley 11.388
+
+↓
+
+1971 → Ley 19.219 (INAC)
+
+↓
+
+Ley 20.337 (régimen vigente)
+
+---
+
+# Ideas principales
+
+- La regulación cooperativa fue evolucionando de manera progresiva.
+- Antes de 1926 las cooperativas carecían de un régimen específico.
+- La Ley 11.388 consolidó los principios cooperativos.
+- La Ley 19.219 fortaleció la organización institucional mediante la creación del INAC.
+
+---
+
+# La Ley 20.337
+
+## Régimen vigente
+
+- Sancionada en **1973**.
+- Posterior a la Ley 19.550.
+- Elaborada por una comisión integrada por:
+  - Instituto Nacional de Acción Cooperativa.
+  - representantes del movimiento cooperativo.
+- Aprobada por el Consejo Consultivo Honorario del INAC.
+
+Actualmente rige con las reformas de las leyes:
+
+- 22.816
+- 25.027
+
+---
+
+# Concepto legal
+
+Las cooperativas son:
+
+> **Entidades fundadas en el esfuerzo propio y la ayuda mutua para organizar y prestar servicios.**
+
+(art. 2, Ley 20.337)
+
+::: {.callout-important}
+ARTICULO 2º.- Las cooperativas son entidades fundadas en el esfuerzo propio y la ayuda mutua para organizar y prestar servicios, que reúnen los siguientes caracteres:
+
+1º. Tienen capital variable y duración ilimitada.
+
+2º. No ponen límite estatutario al número de asociados ni al capital.
+
+3º. Conceden un solo voto a cada asociado, cualquiera sea el número de sus cuotas sociales y no otorgan ventaja ni privilegio alguno a los iniciadores, fundadores y consejeros, ni preferencia a parte alguna del capital.
+
+4º. Reconocen un interés limitado a las cuotas sociales, si el estatuto autoriza aplicar excedentes a alguna retribución al capital.
+
+5º. Cuentan con un número mínimo de diez asociados, salvo las excepciones que expresamente admitiera la autoridad de aplicación y lo previsto para las cooperativas de grado superior.
+
+6º. Distribuyen los excedentes en proporción al uso de los servicios sociales, de conformidad con las disposiciones de esta ley, sin perjuicio de lo establecido por el artículo 42 para las cooperativas o secciones de crédito.
+
+7º. No tienen como fin principal ni accesorio la propaganda de ideas políticas, religiosas, de nacionalidad, región o raza, ni imponen condiciones de admisión vinculadas con ellas.
+
+8º. Fomentan la educación cooperativa.
+
+9º. Prevén la integración cooperativa.
+
+10. Prestan servicios a sus asociados y a no asociados en las condiciones que para este último caso establezca la autoridad de aplicación y con sujeción a lo dispuesto en el último párrafo del artículo 42.
+
+11. Limitan la responsabilidad de los asociados al monto de las cuotas sociales suscriptas.
+
+12. Establecen la irrepartibilidad de las reservas sociales y el destino desinteresado del sobrante patrimonial en casos de liquidación.
+
+Son sujeto de derecho con el alcance fijado en esta ley.
+
+:::
+
+---
+
+# Finalidad
+
+La cooperativa tiene por objeto:
+
+- organizar servicios;
+- satisfacer necesidades comunes;
+- desarrollar actividades mediante la ayuda mutua.
+
+No persigue una finalidad lucrativa como objetivo principal.
+
+---
+
+# Rasgos estructurales
+
+Las cooperativas poseen:
+
+- capital variable;
+- duración ilimitada;
+- número ilimitado de asociados;
+- ausencia de límite máximo de capital.
+
+---
+
+# Organización democrática
+
+Principios básicos:
+
+- un asociado = un voto;
+- el voto no depende del capital;
+- no existen privilegios para fundadores;
+- no existen privilegios para consejeros.
+
+---
+
+# Capital social
+
+Características principales
+
+- Capital variable.
+- Representado por cuotas sociales.
+- Puede reconocerse un interés limitado al capital si el estatuto lo autoriza.
+
+---
+
+# Número mínimo de asociados
+
+Regla general:
+
+## Diez (10) asociados
+
+Excepciones:
+
+- cooperativas de grado superior;
+- casos autorizados expresamente por la autoridad de aplicación.
+
+---
+
+# Distribución de excedentes
+
+Los excedentes se distribuyen:
+
+## Según la utilización de los servicios
+
+No según el capital aportado.
+
+Excepción:
+
+- cooperativas de crédito (art. 42).
+
+::: {.callout-important}
+ARTICULO 42.- Se consideran excedentes repartibles sólo aquellos que provengan de la diferencia entre el costo y el precio del servicio prestado a los asociados.
+
+Distribución
+
+De los excedentes repartibles se destinará:
+
+1º. El cinco por ciento a reserva legal;
+
+2º. El cinco por ciento al fondo de acción asistencial y laboral o para estímulo del personal;
+
+3º. El cinco por ciento al fondo de educación y capacitación cooperativas;
+
+4º. Una suma indeterminadas para pagar un interés a las cuotas sociales si lo autoriza el estatuto, el cual no puede exceder en más de un punto al que cobra el Banco de la Nación Argentina en sus operaciones de descuento;
+
+5º. El resto para su distribución entre los asociados en concepto de retorno;
+
+a) en las cooperativas o secciones de consumo de bienes o servicios, en proporción al consumo hecho por cada asociado;
+
+b) en las cooperativas de producción o trabajo, en proporción al trabajo efectivamente prestado por cada uno;
+
+c) en las cooperativas o secciones de adquisición de elementos de trabajo, de transformación y de comercialización de productos en estado natural o elaborados, en proporción al monto de las operaciones realizadas por cada asociado;
+
+d) en las cooperativas o secciones de crédito, en proporción al capital aportado o a los servicios utilizados, según establezca el estatuto;
+
+e) en las demás cooperativas o secciones, en proporción a las operaciones realizadas o a los servicios utilizados por cada asociado.
+
+Destino de excedentes generados por prestación de servicios a no Asociados
+
+Los excedentes que deriven de la prestación de servicios a no asociados autorizada por esta ley se destinarán a una cuenta especial de reserva.
+
+Seccionalización de resultados. Compensación de quebrantos
+
+:::
+
+---
+
+# Neutralidad
+
+La cooperativa:
+
+- no tiene fines políticos;
+- no tiene fines religiosos;
+- no tiene fines raciales;
+- no tiene fines regionales.
+
+Tampoco puede establecer requisitos de admisión vinculados con esas ideas.
+
+---
+
+# Educación e integración
+
+La ley exige:
+
+- fomentar la educación cooperativa;
+- promover la integración entre cooperativas.
+
+---
+
+# Prestación de servicios
+
+La cooperativa presta servicios:
+
+- a los asociados;
+- excepcionalmente a terceros, en las condiciones fijadas por la autoridad de aplicación.
+
+---
+
+# Responsabilidad
+
+Los asociados responden:
+
+## Limitadamente
+
+Hasta el monto de las cuotas sociales suscriptas.
+
+---
+
+# Reservas y liquidación
+
+Principios tradicionales del cooperativismo
+
+- reservas irrepartibles;
+- destino desinteresado del sobrante patrimonial al liquidarse.
+
+---
+
+# Personalidad jurídica
+
+Las cooperativas:
+
+- son sujetos de derecho;
+- poseen personalidad jurídica propia;
+- se rigen por la Ley 20.337 y por el Código Civil y Comercial.
+
+---
+
+# Denominación
+
+La denominación debe contener:
+
+- "Cooperativa"
+
+y
+
+- "Limitada"
+
+o sus abreviaturas.
+
+No puede inducir a error respecto de su objeto.
+
+---
+
+# Relaciones con otras personas jurídicas
+
+Las cooperativas:
+
+- pueden asociarse con otras personas jurídicas;
+
+siempre que:
+
+- ello favorezca su objeto;
+- no se desvirtúe su finalidad de servicio.
+
+---
+
+# Transformación
+
+La ley establece una prohibición expresa.
+
+Las cooperativas:
+
+- **no pueden transformarse** en sociedades de la Ley General de Sociedades;
+- tampoco en asociaciones civiles.
+
+Toda resolución en contrario es nula.
+
+---
+
+# Cooperativas extranjeras
+
+Las cooperativas constituidas en el extranjero:
+
+- se rigen por la Sección XV de la Ley General de Sociedades;
+- con las adaptaciones previstas por la Ley 20.337.
+
+---
+
+# Recursos
+
+Las decisiones de la autoridad de aplicación sobre:
+
+- autorización para funcionar;
+- reformas estatutarias;
+- reglamentos;
+
+pueden impugnarse:
+
+- administrativamente;
+- judicialmente.
+
+---
+
+# Fondo de educación cooperativa
+
+Todos los años la cooperativa debe destinar parte de los excedentes repartibles a:
+
+## Fondo de Educación y Capacitación Cooperativa
+
+Puede aplicarlo:
+
+- directamente;
+- mediante cooperativas de grado superior;
+- mediante instituciones especializadas.
+
+---
+
+# Ideas principales
+
+✓ Esfuerzo propio y ayuda mutua.
+
+✓ Capital variable.
+
+✓ Un asociado = un voto.
+
+✓ Responsabilidad limitada.
+
+✓ Excedentes según utilización de los servicios.
+
+✓ Reservas irrepartibles.
+
+✓ Finalidad de servicio.
+
+---
+
+# Clases de cooperativas
+
+Las cooperativas pueden clasificarse según su objeto social.
+
+Principales categorías previstas por la doctrina:
+
+- Agropecuarias.
+- De trabajo.
+- De provisión.
+- De provisión de servicios públicos.
+- De vivienda.
+- De consumo.
+- De crédito.
+- De seguros.
+- Bancos cooperativos.
+
+---
+
+# Cooperativas agropecuarias
+
+Integradas por productores agropecuarios.
+
+Finalidades:
+
+- compra conjunta de insumos;
+- asistencia técnica y profesional;
+- comercialización conjunta;
+- mayor poder de negociación;
+- transformación de la producción.
+
+---
+
+# Cooperativas de trabajo
+
+Integradas por trabajadores que organizan una empresa común.
+
+Características:
+
+- el trabajo constituye el servicio que presta la cooperativa;
+- los asociados trabajan en la propia entidad;
+- se fundan en el esfuerzo propio y la ayuda mutua.
+
+---
+
+# Cooperativas de trabajo
+
+## Particularidades
+
+Como regla:
+
+- no pueden contratar trabajadores en relación de dependencia.
+
+Existen excepciones previstas por:
+
+- art. 2 inc. 10 de la Ley 20.337;
+- Resolución INAC 360/75;
+- Resolución INAES 4664/2013.
+
+---
+
+# Cooperativas de provisión
+
+Reúnen personas que ejercen una misma profesión u oficio.
+
+Ejemplos:
+
+- médicos;
+- farmacéuticos;
+- taxistas;
+- comerciantes;
+- transportistas.
+
+Su finalidad es mejorar la prestación de sus actividades.
+
+---
+
+# Cooperativas de servicios públicos
+
+Los asociados son usuarios de los servicios.
+
+Pueden prestar:
+
+- energía eléctrica;
+- agua potable;
+- telefonía;
+- gas;
+- otros servicios públicos.
+
+---
+
+# Cooperativas de vivienda
+
+Integradas por personas que necesitan acceder a una vivienda.
+
+Modalidades:
+
+- autoconstrucción;
+- administración de obra.
+
+---
+
+# Cooperativas de consumo
+
+Asocian consumidores.
+
+Objetivo:
+
+obtener mejores precios en bienes de consumo masivo.
+
+---
+
+# Cooperativas de crédito, seguros y bancos
+
+### Cooperativas de crédito
+
+Otorgan préstamos a sus asociados.
+
+### Cooperativas de seguros
+
+Prestan servicios de seguros.
+
+### Bancos cooperativos
+
+Operan conforme a la Ley de Entidades Financieras.
+
+---
+
+# El acto cooperativo
+
+Según Vitolo:
+
+> Es el núcleo de la ciencia cooperativa.
+
+Permite distinguir las relaciones cooperativas de las restantes relaciones jurídicas.
+
+---
+
+# Características del acto cooperativo
+
+El acto cooperativo es:
+
+- voluntario;
+- igualitario;
+- no lucrativo;
+- solidario.
+
+---
+
+# Importancia del acto cooperativo
+
+Sin un acto cooperativo propio:
+
+- la cooperativa sería una simple organización civil o comercial;
+
+Con un acto cooperativo diferenciado:
+
+- surgen relaciones jurídicas específicas;
+- aparecen consecuencias jurídicas propias.
+
+---
+
+# Posiciones doctrinarias
+
+Existen tres grandes posiciones.
+
+1. Acto característico típico.
+2. Acto asimilable por aproximación.
+3. Acto caracterizado por la función cooperativa.
+
+---
+
+# Primera posición
+
+## Acto característico típico
+
+Todo acto cooperativo:
+
+- debe regirse por la Ley de Cooperativas;
+- o, en su defecto,
+- por los principios del cooperativismo.
+
+Los derechos y obligaciones se interpretan conforme a dichos principios.
+
+---
+
+# Segunda posición
+
+## Acto asimilable por aproximación
+
+Cada acto recibe el régimen jurídico del contrato al que más se parece.
+
+Ejemplos:
+
+- compraventa → normas de compraventa;
+- prestación de trabajo → Derecho laboral.
+
+---
+
+# Tercera posición
+
+## Función cooperativa
+
+Es la postura más flexible.
+
+El acto cooperativo:
+
+- conserva su finalidad cooperativa;
+- pero puede complementarse con normas del Derecho común.
+
+Las reglas civiles o comerciales se aplican cuando la Ley de Cooperativas no regula suficientemente el supuesto.
+
+---
+
+# Ideas principales
+
+✓ Existen múltiples clases de cooperativas según su objeto.
+
+✓ La cooperativa de trabajo posee un régimen particular.
+
+✓ El acto cooperativo constituye el elemento central del Derecho Cooperativo.
+
+✓ La doctrina discute cuál es el régimen jurídico aplicable al acto cooperativo.
+
+---
+
+---
+
+# El acto cooperativo en la Ley 20.337
+
+La ley considera actos cooperativos a:
+
+- los realizados entre la cooperativa y sus asociados;
+- los realizados entre cooperativas para cumplir su objeto social;
+- los realizados por la cooperativa con terceros cuando persiguen idéntica finalidad.
+
+---
+
+# Acto cooperativo y terceros
+
+Cuando interviene un tercero:
+
+- para la cooperativa el acto conserva carácter cooperativo;
+- para el tercero no.
+
+Es una solución distinta a la del antiguo Código de Comercio respecto del acto de comercio.
+
+---
+
+# Revisión de la teoría del acto cooperativo
+
+Vitolo sostiene que el concepto de **acto cooperativo** ha quedado desactualizado.
+
+La razón principal es el cambio producido por el Código Civil y Comercial.
+
+Hoy el eje ya no está en los actos aislados, sino en la organización y la actividad.
+
+---
+
+# De los actos a la actividad cooperativa
+
+La propuesta consiste en reemplazar el concepto de:
+
+- **acto cooperativo**
+
+por el de:
+
+- **actividad cooperativa** o
+- **actividad cooperativizada**.
+
+Se trata de una visión dinámica y no estática.
+
+---
+
+# Fundamentos de esa postura
+
+Según Vitolo:
+
+Las cooperativas son verdaderas organizaciones porque:
+
+- tienen objetivos;
+- tienen personas;
+- poseen un sistema formal de organización.
+
+---
+
+# La actividad cooperativa
+
+Las cooperativas desarrollan una actividad permanente.
+
+Su finalidad consiste en:
+
+- producir;
+- intermediar;
+- distribuir bienes y servicios;
+
+conforme a los principios cooperativos.
+
+---
+
+# Relaciones del asociado con la cooperativa
+
+El asociado puede mantener tres clases de relaciones.
+
+- Asociativas o societarias.
+- Mutualísticas.
+- Externas.
+
+---
+
+# Relaciones de la cooperativa
+
+La cooperativa mantiene cuatro grandes grupos de relaciones.
+
+- Asociativas.
+- Mutualísticas.
+- Externas.
+- Organizacionales.
+
+No todas ellas constituyen actividad cooperativizada.
+
+---
+
+# Propuesta de Vitolo
+
+La futura regulación debería concentrarse especialmente en:
+
+- las relaciones asociativas;
+- las relaciones mutualísticas;
+- las relaciones organizacionales.
+
+---
+
+# Constitución de la cooperativa
+
+La cooperativa se constituye:
+
+- por acto único;
+- mediante instrumento público o privado.
+
+Debe labrarse un acta suscripta por todos los fundadores.
+
+---
+
+# Autorización para funcionar
+
+La persona jurídica existe desde su constitución.
+
+Sin embargo, para comenzar a funcionar necesita autorización estatal.
+
+La otorga el:
+
+**Instituto Nacional de Asociativismo y Economía Social (INAES).**
+
+---
+
+# Asamblea constitutiva
+
+Debe resolver sobre:
+
+- informe de los iniciadores;
+- proyecto de estatuto;
+- suscripción e integración de cuotas sociales;
+- designación de consejeros y síndico.
+
+---
+
+# Contenido del acta constitutiva
+
+El acta debe contener:
+
+- todas las decisiones de la asamblea;
+- identificación completa de los fundadores.
+
+Todo integra un único instrumento.
+
+---
+
+# Responsabilidad de fundadores y consejeros
+
+Hasta la constitución regular:
+
+- fundadores y consejeros responden
+- **solidaria e ilimitadamente**
+
+por:
+
+- los actos realizados;
+- los bienes recibidos.
+
+---
+
+# Ideas principales
+
+✓ La Ley 20.337 define el acto cooperativo.
+
+✓ Vitolo propone reemplazar ese concepto por el de actividad cooperativa.
+
+✓ La cooperativa nace por acto único y requiere autorización del INAES para funcionar.
+
+✓ Fundadores y consejeros responden solidaria e ilimitadamente hasta la constitución regular.
+
+---
+
+# Contenido del estatuto
+
+El estatuto debe contener, como mínimo:
+
+- denominación;
+- domicilio;
+- objeto;
+- valor de las cuotas sociales;
+- administración y fiscalización;
+- régimen de asambleas;
+- distribución de excedentes;
+- ingreso, retiro y exclusión de asociados;
+- derechos y obligaciones de los asociados;
+- disolución y liquidación. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Trámite de autorización
+
+Deben presentarse:
+
+- tres copias del acta constitutiva;
+- depósito de la vigésima parte del capital suscripto;
+- firmas autenticadas.
+
+La autoridad de aplicación autoriza el funcionamiento e inscribe la cooperativa. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Regularidad
+
+La cooperativa se considera regularmente constituida cuando:
+
+- obtiene autorización para funcionar; e
+- inscribe esa autorización.
+
+No se exige publicación. :contentReference[oaicite:2]{index=2}
+
+::: {.callout-note appearance="simple"}
+
+Vitolo señala que, tras la reforma de la Ley 26.994, si funcionara sin inscripción correspondería aplicar analógicamente el régimen de la Sección IV del Capítulo I de la LGS.
+
+:::
+
+---
+
+# ¿Quiénes pueden ser asociados?
+
+Pueden asociarse:
+
+- personas humanas mayores de 18 años;
+- menores mediante representantes legales;
+- otros sujetos de derecho, incluso sociedades por acciones;
+- empresas del Estado, salvo prohibición legal. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Ingreso de asociados
+
+El ingreso es, en principio, libre.
+
+Puede condicionarse por:
+
+- el objeto social;
+- las condiciones estatutarias.
+
+El derecho de ingreso no puede superar el valor de una cuota social. :contentReference[oaicite:4]{index=4}
+
+---
+
+# Derechos de los asociados
+
+Los principales derechos son:
+
+- acceso a la información;
+- retiro voluntario;
+- defensa frente a la exclusión;
+- derecho de receso;
+- reembolso de las cuotas sociales. :contentReference[oaicite:5]{index=5}
+
+---
+
+# Derecho de información
+
+El asociado tiene:
+
+- libre acceso al registro de asociados;
+- acceso al resto de la información a través del síndico. :contentReference[oaicite:6]{index=6}
+
+---
+
+# Retiro voluntario
+
+Puede retirarse:
+
+- en la época fijada por el estatuto;
+- o, en su defecto, al cierre del ejercicio,
+
+avisando con treinta días de anticipación. :contentReference[oaicite:7]{index=7}
+
+---
+
+# Exclusión del asociado
+
+La exclusión:
+
+- puede apelarse ante la asamblea;
+- debe respetar plenamente el derecho de defensa.
+
+El INAES exige garantías procedimentales durante ese trámite. :contentReference[oaicite:8]{index=8}
+
+---
+
+# Derecho de receso
+
+Procede cuando existe:
+
+- cambio sustancial del objeto social.
+
+Pueden ejercerlo:
+
+- quienes votaron en contra;
+- los ausentes.
+
+El reembolso debe efectuarse dentro de los noventa días. :contentReference[oaicite:9]{index=9}
+
+---
+
+# Reembolso de cuotas sociales
+
+En caso de:
+
+- retiro;
+- exclusión;
+- disolución;
+
+el asociado sólo tiene derecho al valor nominal de las cuotas integradas, deducidas las pérdidas correspondientes. :contentReference[oaicite:10]{index=10}
+
+---
+
+# Responsabilidad de los asociados
+
+Los asociados:
+
+- no responden personalmente por las obligaciones de la cooperativa.
+
+La responsabilidad queda limitada al patrimonio de la persona jurídica. :contentReference[oaicite:11]{index=11}
+
+---
+
+# Reembolsos y excedentes
+
+La ley no habla de dividendos.
+
+Vitolo distingue dos institutos:
+
+- **reembolso** de cuotas sociales;
+- **retorno o excedentes repartibles**, que denomina una suerte de **dividendos impropios**.
+
+---
+
+# Capital social
+
+El capital social:
+
+- es **variable**;
+- se integra por **cuotas sociales indivisibles e iguales**;
+- las cuotas se representan mediante **acciones nominativas**. :contentReference[oaicite:0]{index=0}
+
+::: {.callout-note appearance="simple"}
+
+La cooperativa es, técnicamente, una sociedad **por cuotas**, aunque esas cuotas constan en acciones nominativas.
+
+:::
+
+---
+
+# Circulación de las cuotas sociales
+
+Las cuotas sociales:
+
+- sólo pueden transferirse entre asociados;
+- requieren aprobación del Consejo de Administración;
+- deben ajustarse a lo previsto por el estatuto.
+
+---
+
+# Integración del capital
+
+Las cuotas sociales deben integrarse:
+
+- al menos un **5 %** al momento de la suscripción;
+- el saldo puede completarse dentro de **cinco años**.
+
+---
+
+# Acciones representativas
+
+Las acciones deben contener:
+
+- denominación;
+- domicilio;
+- autorización para funcionar;
+- número y valor nominal de las cuotas;
+- número de emisión;
+- firmas exigidas por la ley.
+
+---
+
+# Régimen de aportes
+
+Sólo pueden aportarse:
+
+- bienes determinados;
+- en propiedad;
+- susceptibles de ejecución forzada.
+
+No se admiten aportes de industria ni de uso y goce.
+
+---
+
+# Valuación de aportes no dinerarios
+
+La valuación corresponde:
+
+- a la asamblea constitutiva, o
+- posteriormente, al Consejo de Administración con aprobación de la asamblea.
+
+---
+
+# Responsabilidad por la valuación
+
+Los fundadores y consejeros responden:
+
+- **solidaria e ilimitadamente**
+
+por el mayor valor atribuido a los bienes,
+
+hasta la aprobación de la asamblea.
+
+---
+
+# Integración de aportes en especie
+
+Cuando existen aportes no dinerarios:
+
+- deben integrarse totalmente desde su constitución.
+
+Si requieren inscripción registral,
+
+la inscripción se realiza preventivamente a nombre de la cooperativa en formación.
+
+---
+
+# Mora del asociado
+
+El asociado que no integra sus cuotas:
+
+- incurre en mora automáticamente;
+- responde por daños e intereses;
+- queda suspendido en sus derechos sociales.
+
+El estatuto puede prever incluso la caducidad de sus derechos.
+
+---
+
+# Reembolso de cuotas sociales
+
+El asociado que se retira tiene derecho al:
+
+- **valor nominal** de sus cuotas,
+
+más los reajustes por revalúo,
+
+menos las pérdidas que proporcionalmente le correspondan.
+
+---
+
+# Limitaciones al reembolso
+
+El estatuto puede limitar el reembolso anual
+
+a un mínimo del **5 % del capital integrado**.
+
+Los restantes reembolsos se pagan
+
+por orden de antigüedad.
+
+---
+
+# Cuotas pendientes de reembolso
+
+Las cuotas pendientes:
+
+- devengan un interés equivalente al **50 % de la tasa de caja de ahorro del BCRA**.
+
+Además,
+
+antes del reembolso deben descontarse todas las deudas del asociado con la cooperativa.
+
+---
+
+# El retorno cooperativo
+
+La ley no habla de dividendos.
+
+Habla de:
+
+**excedentes repartibles** o **retorno**.
+
+Vitolo los denomina una especie de **dividendos impropios**.
+
+---
+
+# Excedentes repartibles
+
+Sólo pueden distribuirse los excedentes originados
+
+en operaciones con los **asociados**.
+
+Los excedentes provenientes de operaciones con terceros:
+
+- no se distribuyen;
+- deben incorporarse a una reserva especial.
+
+---
+
+# Distribución del retorno
+
+El retorno se distribuye según el tipo de cooperativa.
+
+Ejemplos:
+
+- consumo → según el consumo realizado;
+- trabajo → según el trabajo prestado;
+- producción → según las operaciones realizadas;
+- crédito → según capital aportado o servicios utilizados;
+- restantes → según operaciones o utilización de servicios.
+
+---
+
+# Deducciones obligatorias
+
+Antes del reparto deben destinarse:
+
+- 5 % a reserva legal;
+- 5 % al fondo de acción asistencial y laboral;
+- 5 % al fondo de educación cooperativa;
+- interés limitado sobre las cuotas sociales, si lo autoriza el estatuto.
+
+---
+
+# Ideas principales
+
+✓ Capital variable integrado por cuotas sociales.
+
+✓ Las cuotas se representan mediante acciones nominativas.
+
+✓ Sólo pueden aportarse bienes determinados en propiedad.
+
+✓ El asociado recibe reembolso y, eventualmente, retorno cooperativo.
+
+✓ Los excedentes provenientes de terceros nunca se distribuyen.
+
+---
+
+# Consejo de Administración
+
+La administración de la cooperativa está a cargo del **Consejo de Administración**.
+
+La representación corresponde, como regla, al **presidente**, aunque el estatuto puede autorizar la actuación de otros consejeros.
+
+Los actos obligan a la cooperativa siempre que no sean **notoriamente extraños al objeto social**.
+
+---
+
+# Características
+
+El Consejo de Administración es un órgano:
+
+- necesario;
+- permanente;
+- colegiado.
+
+Tiene a su cargo la dirección de las operaciones sociales dentro de los límites del estatuto.
+
+Las facultades no reservadas expresamente a la Asamblea se consideran implícitamente atribuidas al Consejo.
+
+---
+
+# Integración
+
+El Consejo es elegido por la Asamblea.
+
+Reglas principales:
+
+- mínimo **3 consejeros**;
+- deben ser asociados;
+- duración máxima del mandato: **3 ejercicios**;
+- pueden ser reelegidos salvo prohibición estatutaria.
+
+---
+
+# Consejeros suplentes
+
+El estatuto puede prever consejeros suplentes.
+
+Su función es cubrir vacancias por cualquier causa.
+
+Como regla:
+
+- reemplazan al titular hasta la primera Asamblea Ordinaria.
+
+Si el estatuto guarda silencio, los designa el **síndico**.
+
+---
+
+# Renuncia
+
+La renuncia se presenta al Consejo.
+
+Puede ser aceptada siempre que:
+
+- no afecte el funcionamiento regular del órgano.
+
+En caso contrario,
+
+el consejero debe permanecer en funciones hasta que la Asamblea se pronuncie.
+
+---
+
+# Retribución
+
+Como regla, el cargo es gratuito.
+
+No obstante,
+
+la Asamblea puede retribuir el trabajo personal realizado por los consejeros.
+
+Además,
+
+corresponde el reembolso de los gastos efectuados en ejercicio del cargo.
+
+---
+
+# Funcionamiento
+
+El estatuto regula su funcionamiento.
+
+Reglas mínimas:
+
+- quórum: **más de la mitad** de los consejeros;
+- las actas deben ser firmadas por el presidente y un consejero.
+
+El Consejo debe reunirse:
+
+- al menos **una vez por mes**;
+- cuando lo solicite cualquiera de sus miembros.
+
+---
+
+# Comité Ejecutivo y gerentes
+
+El estatuto puede crear un:
+
+- Comité Ejecutivo; o
+- Mesa Directiva.
+
+Su finalidad es agilizar la gestión cotidiana.
+
+No reemplaza ni disminuye la responsabilidad del Consejo.
+
+Asimismo,
+
+el Consejo puede designar **gerentes** con funciones ejecutivas.
+
+Su designación **no libera de responsabilidad a los consejeros**.
+
+---
+
+# Inhabilidades e incompatibilidades
+
+No pueden ser consejeros:
+
+- condenados por determinados delitos (hasta 10 años después de cumplida la condena);
+- quienes perciban sueldo, honorarios o comisiones de la cooperativa.
+
+Excepción:
+
+- cooperativas de trabajo;
+- retribución autorizada por el art. 67.
+
+---
+
+# Responsabilidad de los consejeros
+
+Responden por:
+
+- violación de la ley;
+- violación del estatuto;
+- violación del reglamento.
+
+Solo quedan eximidos si prueban:
+
+- que no participaron de la reunión; o
+- que dejaron constancia en acta de su voto en contra.
+
+::: {.callout-note appearance="simple"}
+
+La remoción y la acción de responsabilidad son institutos distintos.
+
+La remoción no implica necesariamente el ejercicio de la acción de responsabilidad.
+
+:::
+
+---
+
+# Conflicto de intereses
+
+Cuando un consejero tenga un interés contrario al de la cooperativa:
+
+- debe comunicarlo al Consejo y al síndico;
+- debe abstenerse de deliberar y votar.
+
+Además,
+
+no puede realizar operaciones por cuenta propia o de terceros que compitan con la cooperativa.
+
+---
+
+# Ideas principales
+
+✓ El Consejo administra; el presidente representa.
+
+✓ Mínimo tres consejeros.
+
+✓ Mandato máximo de tres ejercicios.
+
+✓ Reunión obligatoria al menos una vez por mes.
+
+✓ Puede haber comité ejecutivo y gerentes.
+
+✓ Los consejeros responden por violación de la ley, estatuto o reglamento.
+
+✓ Deben abstenerse ante conflictos de interés.
+
+---
+
+# Fiscalización privada
+
+La fiscalización privada está a cargo de:
+
+- un síndico; o
+- una comisión fiscalizadora.
+
+Son elegidos por la Asamblea entre los asociados.
+
+También deben elegirse síndicos suplentes.
+
+---
+
+# Designación y duración
+
+Reglas principales:
+
+- elegidos por la Asamblea;
+- mandato máximo de **3 ejercicios**;
+- pueden ser reelegidos si lo autoriza el estatuto.
+
+Si existe comisión fiscalizadora:
+
+- debe tener número impar de miembros;
+- funciona como órgano colegiado;
+- lleva su propio libro de actas.
+
+---
+
+# Incompatibilidades
+
+No pueden ser síndicos:
+
+- quienes estén inhabilitados para ser consejeros;
+- cónyuges de consejeros o gerentes;
+- parientes por consanguinidad o afinidad hasta el segundo grado.
+
+Pueden:
+
+- percibir retribución si lo autoriza la Asamblea;
+- utilizar los servicios de la cooperativa en igualdad de condiciones que los demás asociados.
+
+---
+
+# Funciones del síndico
+
+Entre sus principales atribuciones se encuentran:
+
+- fiscalizar la administración;
+- examinar libros y documentación;
+- controlar periódicamente caja, títulos y valores;
+- asistir con voz a las reuniones del Consejo;
+- verificar el ejercicio de los derechos de los asociados.
+
+---
+
+# Otras atribuciones
+
+También corresponde al síndico:
+
+- convocar a Asamblea Extraordinaria cuando resulte necesario;
+- convocar a Asamblea Ordinaria si el Consejo omite hacerlo;
+- informar sobre memoria y estados contables;
+- proponer temas para el orden del día;
+- designar consejeros ante vacancias cuando corresponda;
+- controlar la liquidación;
+- velar por el cumplimiento de la ley, el estatuto y las resoluciones asamblearias.
+
+---
+
+# Límites de la fiscalización
+
+El síndico:
+
+- no administra;
+- no puede entorpecer el funcionamiento del Consejo.
+
+Su función consiste en formular observaciones cuando advierta violaciones a:
+
+- la ley;
+- el estatuto;
+- el reglamento.
+
+Las observaciones deben ser concretas y fundadas.
+
+::: {.callout-note appearance="simple"}
+
+La fiscalización del síndico es un control de legalidad y regularidad, no de oportunidad o conveniencia de las decisiones del Consejo.
+
+:::
+
+---
+
+# Responsabilidad del síndico
+
+Responde por el incumplimiento de los deberes impuestos por:
+
+- la ley;
+- el estatuto.
+
+Debe:
+
+- documentar sus observaciones;
+- agotar la gestión interna;
+- informar los hechos a la autoridad de aplicación y al órgano local competente.
+
+La constancia de ese informe lo exime de responsabilidad por la función de fiscalización.
+
+---
+
+# Auditoría externa
+
+Toda cooperativa debe contar, desde su constitución hasta su liquidación, con:
+
+**auditoría externa** a cargo de contador público matriculado.
+
+Puede ser prestada por:
+
+- un profesional independiente;
+- una cooperativa de grado superior;
+- una entidad especializada.
+
+En determinados casos, puede realizarla gratuitamente el órgano local competente.
+
+---
+
+# Características de la auditoría
+
+Además:
+
+- el síndico puede desempeñar la auditoría si es contador público;
+- los informes deben confeccionarse, como mínimo, **trimestralmente**;
+- deben asentarse en el libro correspondiente.
+
+::: {.callout-important appearance="simple"}
+
+Vitolo destaca que la auditoría externa **no es un órgano social**.
+
+Es un servicio profesional contratado por la cooperativa que complementa la tarea de fiscalización del síndico.
+
+:::
+
+---
+
+# Ideas principales
+
+✓ La fiscalización privada corresponde al síndico o a la comisión fiscalizadora.
+
+✓ El mandato dura como máximo tres ejercicios.
+
+✓ El síndico controla la legalidad de la administración, pero no administra.
+
+✓ Debe informar las irregularidades y comunicarlas a la autoridad de aplicación cuando corresponda.
+
+✓ Toda cooperativa debe contar con auditoría externa durante toda su existencia.
+
+---
+
+# Integración cooperativa
+
+La integración cooperativa constituye uno de los principios esenciales del cooperativismo.
+
+Su finalidad es potenciar la acción conjunta de las cooperativas mediante la colaboración y la asociación entre ellas. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Formas de integración
+
+Puede ser:
+
+- **Horizontal**: entre cooperativas de una misma actividad o especialidad.
+- **Vertical**: mediante cooperativas de grado superior que agrupan cooperativas de distintas actividades o de una determinada región. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Modalidades previstas por la Ley 20.337
+
+Las cooperativas pueden:
+
+- fusionarse;
+- incorporarse a otra cooperativa;
+- realizar operaciones en común;
+- integrar cooperativas de grado superior. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Cooperativas de grado superior
+
+Deben reunir:
+
+- un mínimo de **7 cooperativas asociadas**.
+
+El estatuto debe regular:
+
+- representación;
+- régimen de voto.
+
+El voto puede ser proporcional:
+
+- al número de asociados;
+- al volumen de operaciones;
+- o a ambos, respetando mínimos y máximos que eviten posiciones dominantes. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Disolución
+
+La cooperativa se disuelve por:
+
+- decisión de la Asamblea;
+- reducción del número mínimo de asociados durante más de **6 meses**;
+- quiebra (salvo avenimiento o conversión en concurso preventivo);
+- fusión o incorporación;
+- retiro de la autorización para funcionar;
+- otras causales legales. :contentReference[oaicite:4]{index=4}
+
+---
+
+# Efectos de la disolución
+
+La cooperativa:
+
+- entra inmediatamente en liquidación;
+- conserva su personalidad jurídica exclusivamente para ese fin.
+
+La liquidación está a cargo, en principio, del Consejo de Administración, salvo disposición estatutaria o designación de liquidadores por la Asamblea. :contentReference[oaicite:5]{index=5}
+
+::: {.callout-note appearance="simple"}
+
+La disolución no extingue inmediatamente la persona jurídica.
+
+La cooperativa continúa existiendo durante la etapa de liquidación.
+
+:::
+
+---
+
+# Liquidación
+
+Los liquidadores deben:
+
+- confeccionar inventario y balance inicial;
+- realizar el activo;
+- cancelar el pasivo;
+- informar periódicamente al síndico;
+- representar a la cooperativa durante la liquidación;
+- elaborar el balance final. :contentReference[oaicite:6]{index=6}
+
+---
+
+# Balance final
+
+Una vez aprobado:
+
+- se reembolsa el valor nominal de las cuotas sociales;
+- descontando la parte proporcional de los quebrantos, si existieran.
+
+Los asociados ausentes o disidentes pueden impugnar judicialmente el balance dentro de **60 días**. :contentReference[oaicite:7]{index=7}
+
+---
+
+# Sobrante patrimonial
+
+A diferencia de las sociedades de la LGS,
+
+el remanente **no se distribuye entre los asociados**.
+
+Una vez reintegrado el valor nominal de las cuotas sociales,
+
+el sobrante patrimonial se destina al:
+
+- **INAES**, o
+- Fisco Provincial,
+
+para la promoción del cooperativismo. :contentReference[oaicite:8]{index=8}
+
+::: {.callout-important appearance="simple"}
+
+La irrepartibilidad del sobrante patrimonial constituye uno de los rasgos distintivos del régimen cooperativo.
+
+:::
+
+---
+
+# Fiscalización estatal
+
+Las cooperativas están sujetas a fiscalización pública.
+
+Actualmente la autoridad de aplicación es el:
+
+**Instituto Nacional de Asociativismo y Economía Social (INAES)**. :contentReference[oaicite:9]{index=9}
+
+---
+
+# Funciones del INAES
+
+Entre sus principales funciones se encuentran:
+
+- autorizar el funcionamiento de cooperativas;
+- ejercer su control y superintendencia;
+- fiscalizar organización y funcionamiento;
+- controlar la disolución y liquidación;
+- promover el desarrollo del cooperativismo. :contentReference[oaicite:10]{index=10}
+
+---
+
+# Facultades de fiscalización
+
+El INAES puede:
+
+- requerir documentación;
+- inspeccionar libros;
+- asistir a asambleas;
+- convocar asambleas;
+- impedir el uso indebido de la denominación "cooperativa";
+- formular denuncias;
+- solicitar intervención judicial;
+- solicitar la suspensión de resoluciones sociales;
+- controlar la liquidación;
+- requerir el auxilio de la fuerza pública cuando corresponda. :contentReference[oaicite:11]{index=11}
+
+---
+
+# Ideas principales
+
+✓ La integración cooperativa es un principio esencial del sistema.
+
+✓ Las cooperativas pueden fusionarse, incorporarse y constituir cooperativas de grado superior.
+
+✓ La disolución abre el estado de liquidación, conservándose la personalidad jurídica.
+
+✓ El sobrante patrimonial no se reparte entre los asociados.
+
+✓ El INAES ejerce la fiscalización estatal de las cooperativas y cuenta con amplias facultades de control.
+
+---
+
+# Sanciones
+
+Ante infracciones a la Ley 20.337, su reglamentación o las normas dictadas en consecuencia, las cooperativas pueden ser sancionadas con:
+
+- apercibimiento;
+- multa;
+- retiro de la autorización para funcionar.
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
+# Multas
+
+Las multas pueden oscilar entre:
+
+- **$ 4.000.000 y $ 400.000.000**.
+
+En caso de reincidencia:
+
+- pueden elevarse hasta el triple del máximo.
+
+Existe reincidencia cuando hubo otra sanción dentro de los **cinco años** anteriores.
+
+Los montos son actualizados periódicamente por la autoridad de aplicación.
+
+---
+
+# Garantías del procedimiento
+
+No pueden imponerse sanciones sin:
+
+- instrucción de sumario;
+- derecho de defensa;
+- posibilidad de ofrecer prueba;
+- posibilidad de efectuar descargos.
+
+Las sanciones se gradúan considerando:
+
+- gravedad de la infracción;
+- antecedentes;
+- importancia económica y social de la cooperativa;
+- perjuicios ocasionados.
+
+---
+
+# Recursos
+
+Todas las sanciones admiten:
+
+- recurso administrativo.
+
+Además:
+
+- las multas;
+- el retiro de la autorización para funcionar;
+
+pueden impugnarse judicialmente.
+
+El recurso judicial posee **efecto suspensivo**.
+
+---
+
+# Intervención judicial
+
+Cuando se dispone el retiro de la autorización para funcionar,
+
+la autoridad de aplicación puede solicitar judicialmente:
+
+- la intervención de la cooperativa;
+- la sustitución de los órganos de administración,
+
+hasta que exista sentencia firme.
+
+---
+
+# Fiscalización especial de servicios públicos
+
+Las cooperativas concesionarias de servicios públicos pueden ser fiscalizadas además por la autoridad competente.
+
+Esa fiscalización comprende únicamente:
+
+- el cumplimiento de la concesión;
+- las obligaciones frente a los usuarios.
+
+Los fiscalizadores pueden:
+
+- asistir a reuniones del Consejo de Administración;
+- asistir a las Asambleas;
+- dejar constancia de sus observaciones en actas.
+
+---
+
+# Funciones del INAES
+
+El Instituto Nacional de Asociativismo y Economía Social (INAES):
+
+- autoriza el funcionamiento de cooperativas;
+- lleva el registro correspondiente;
+- ejerce la fiscalización pública;
+- brinda asistencia técnica;
+- otorga apoyo económico y financiero;
+- promueve reformas legislativas;
+- realiza investigaciones y capacitación;
+- dicta reglamentaciones;
+- desarrolla estadísticas;
+- fomenta el desarrollo del cooperativismo.
+
+---
+
+# Cooperativas escolares
+
+Las cooperativas escolares:
+
+- están integradas por menores de 18 años;
+- se rigen por las normas que dicte la autoridad educativa competente;
+- deben respetar los principios de la Ley 20.337.
+
+---
+
+# Manejos financieros
+
+Las cooperativas de crédito:
+
+- no pueden reducir el monto efectivamente entregado mediante primas o cargos encubiertos;
+- sólo pueden descontar intereses y costos administrativos autorizados;
+- el interés no puede exceder en más de **un punto** la tasa bancaria equivalente;
+- el costo administrativo no puede superar **un quinto** de la tasa de interés;
+- los préstamos pueden cancelarse anticipadamente sin recargos.
+
+Estas restricciones **no** se aplican a los bancos cooperativos ni a las cajas de crédito comprendidas en la Ley de Entidades Financieras.
+
+---
+
+# Ideas principales
+
+✓ Las sanciones son: apercibimiento, multa y retiro de autorización.
+
+✓ Toda sanción exige sumario previo y derecho de defensa.
+
+✓ El recurso judicial procede contra multas y retiro de autorización.
+
+✓ El INAES es la autoridad nacional de aplicación y fiscalización.
+
+✓ Las cooperativas escolares poseen un régimen especial.
+
+✓ La ley limita expresamente los intereses y cargos en préstamos cooperativos.
